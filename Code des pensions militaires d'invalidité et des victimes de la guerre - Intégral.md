@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1969-03-09
+Version Consolidée au 1969-03-15
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -27673,6 +27673,31 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A190-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R402
+
+Les dossiers des militaires et marins en activité, y compris ceux des candidats bénéficiaires de l'article L. 393, sont
+transmis par le chef de corps ou de service au directeur interdépartemental des anciens combattants et victimes de guerre
+dans les dix-huit mois [*délai*]  qui précèdent la date de la cessation du service des intéressés.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L393 (V)
 
 **Liens**:
 
