@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1982-08-18
+Version Consolidée au 1982-10-05
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -9756,6 +9756,54 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L253 bis
+
+Ont vocation à la qualité de combattant [*définition*] et à l'attribution de la carte du combattant, selon les principes
+retenus pour l'application du présent titre et des textes réglementaires qui le complètent, sous la seule réserve des
+adaptations qui pourraient être rendues nécessaires par le caractère spécifique des opérations effectuées en Afrique du Nord
+entre le 1er janvier 1952 et le 2 juillet 1962 :
+
+Les militaires des armées françaises,
+
+Les membres des forces supplétives françaises possédant la nationalité française à la date de la présentation de leur demande
+ou domiciliés en France à la même date,
+
+qui ont pris part à des actions de feu ou de combat au cours de ces opérations.
+
+Une commission d'experts, comportant notamment des représentants des intéressés, est chargée de déterminer les modalités
+selon lesquelles la qualité de combattant peut, en outre, être reconnue, par dérogation aux principes visés à l'alinéa
+précédent, aux personnes ayant participé à six actions de combat au moins ou dont l'unité aura connu, pendant leur temps de
+présence, neuf actions de feu ou de combat.
+
+Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'application du présent article, et notamment les
+périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ;
+un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°74-1044 1974-12-09 art. 2 JORF 10 décembre 1974
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (M)
+  - Arrêté du 14 mai 1997 - art. 1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L253 ter (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R224 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R227 quater (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R227 ter (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 7 novembre 1996
+  - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L253 ter
