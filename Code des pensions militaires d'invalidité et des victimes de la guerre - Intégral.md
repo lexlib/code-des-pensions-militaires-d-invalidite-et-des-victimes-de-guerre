@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1955-05-22 00:00:01 +0100
+Version Consolidée au 1955-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -510,7 +510,7 @@ Version Consolidée au 1955-05-22 00:00:01 +0100
             - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#507)
             - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A122)](#508)
             - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-4 à A123-5)](#509)
-            - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A125 à A127)](#510)
+            - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A127)](#510)
             - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#511)
           - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#512)
             - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A136)](#513)
@@ -40426,6 +40426,46 @@ _Cité par_:
 
 
 ##### Paragraphe 4 : Cas d'exclusion ou d'opposition.<a id=510></a>
+
+###### Article A124
+
+Ne peuvent prétendre à la carte du combattant, sauf recours à la procédure prévue à l'article R. 227, les militaires et les
+marins du commerce qui, faits prisonniers de guerre, entrent dans les cas suivants :
+
+A) (Abrogé) ;
+
+B) En situation irrégulière provenant de l'initiative non contrainte de l'intéressé, à savoir :
+
+1° Officiers, prisonniers de guerre, volontaires pour le travail au service de l'économie ennemie ;
+
+2° Prisonniers de guerre transformés en travailleurs civils avant le 8 novembre 1942 ;
+
+3° prisonniers de guerre de tous grades ayant travaillé sous contrat individuel les liant à la puissance détentrice et, par
+extension, les prisonniers de guerre ayant accepté de travailler au service de la WOL ou organismes similaires ;
+
+4° prisonniers de guerre ayant appartenu à l'administration dite "Service diplomatique des prisonniers de guerre" ou à des
+organismes similaires ;
+
+C) Ayant mis leur activité au service de l'ennemi en tant que :
+
+1° Rédacteurs des quotidiens ou périodiques préconisant la collaboration politique ou militaire avec l'ennemi ;
+
+2° Militants de groupes ou cercles ayant personnellement préconisé la collaboration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+
 
 ###### Article A125
 
