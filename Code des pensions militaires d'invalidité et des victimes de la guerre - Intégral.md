@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1960-12-06
+Version Consolidée au 1960-12-24
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -21,7 +21,7 @@ Version Consolidée au 1960-12-06
         - [Chapitre III : Déchéance spéciale du droit à pension. (art. L58 à L62)](#18)
         - [Chapitre IV : Des enfants naturels reconnus. (art. L63 à L65)](#19)
         - [Chapitre V : Droits des ayants cause des personnes disparues. (art. L66 à L66 bis)](#20)
-      - [Titre IV : Droits à pension des ascendants. (art. L68 à L77)](#21)
+      - [Titre IV : Droits à pension des ascendants. (art. L67 à L77)](#21)
       - [Titre V : Révision et voies de recours. (art. L78 à L104)](#22)
         - [Chapitre Ier : Révision. (art. L78)](#23)
         - [Chapitre II : Voies de recours. (art. L79 à L104)](#24)
@@ -2509,6 +2509,25 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L52-1
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°60-1384 1960-12-23 art. 61 JORF 24 décembre 1960
+
+_Abrogé par_:
+
+  - Loi n°63-156 1963-02-23 art. 31 II JORF 24 février 1963
+
+
 ###### Article L53
 
 Les pensions allouées aux veuves remariées antérieurement à la date d'entrée en vigueur de la loi du 9 septembre 1941 sont
@@ -3076,6 +3095,59 @@ _Codifié par_:
 
 
 ### Titre IV : Droits à pension des ascendants.<a id=21></a>
+
+###### Article L67
+
+Si le décès ou la disparition du militaire ou marin est survenue dans des conditions de nature à ouvrir le droit à pension de
+veuve, ses ascendants ont droit à une pension s'ils justifient :
+
+1° Qu'ils sont de nationalité française ;
+
+2° Qu'ils sont âgés de plus de soixante ans, s'il s'agit d'ascendants du sexe masculin et de plus de cinquante-cinq ans, s'il
+s'agit d'ascendants du sexe féminin, qu'ils sont infirmes ou atteints d'une maladie incurable ou entraînant une incapacité
+permanente de travail ou que leur conjoint est lui-même infirme ou atteint d'une maladie incurable ou entraînant une
+incapacité permanente de travail ;
+
+3° Que leurs revenus imposables à l'impôt unique sur le revenu des personnes physiques n'excèdent pas une somme égale, par
+part de revenu au sens des articles 194 et 195 du Code général des impôts, à celle en deçà de laquelle aucune cotisation
+n'est perçue en ce qui concerne les bénéficiaires des revenus du travail salarié.
+
+Si les revenus imposables à l'impôt unique sur le revenu des personnes physiques sont supérieurs à la somme ci-dessus
+définie, la pension est réduite à concurrence de la portion du revenu dépassant ladite somme ;
+
+4° Qu'il n'y a pas, à l'époque de la demande, d'ascendants d'un degré plus rapproché du défunt.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 194, 195
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 26 JORF 5 janvier 1954
+  - Loi n°60-1384 1960-12-23 art. 63 III JORF 24 décembre 1960
+  - Loi n°70-1199 1970-12-21 art. 83-1 JORF 22 décembre 1970
+
+_Cité par_:
+
+  - Décret n°92-105 du 30 janvier 1992 - art. 3 (Ab)
+  - Décret n°2008-280 du 21 mars 2008 - art. 1 (V)
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 7 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A101 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L148 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L68 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L71 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L74 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R116 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R40 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R42 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L337 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L68
 
