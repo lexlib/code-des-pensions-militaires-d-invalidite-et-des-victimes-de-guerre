@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1996-07-01
+Version Consolidée au 1996-11-07
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -248,7 +248,7 @@ Version Consolidée au 1996-07-01
           - [Section 2 : Dispositions spéciales concernant les ayants cause. (art. R114 à R117)](#245)
           - [Section 3 : Dispositions spéciales concernant les voies de recours. (art. R118 à R145)](#246)
             - [Paragraphe 1 : Juridiction de première instance. (art. R118 à R124)](#247)
-            - [Paragraphe 2 : Juridiction d'appel. (art. R125 à R129)](#248)
+            - [Paragraphe 2 : Juridiction d'appel. (art. R124-1 à R129)](#248)
             - [Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc. (art. R130 à R133)](#249)
             - [Paragraphe 4 : Attributions. (art. R137 à R140)](#250)
             - [Paragraphe 5 : Allocations diverses et frais. (art. R141 à R145)](#251)
@@ -20875,13 +20875,13 @@ _Codifié par_:
 
 ###### Article R44
 
-Chaque année, dans la seconde quinzaine de novembre et chaque fois qu'il est nécessaire, le président du tribunal de grande
-instance fait parvenir au premier président de la cour d'appel en vue de la désignation d'un médecin, membre titulaire, et
-d'un ou deux médecins, membres suppléants la liste départementale des médecins experts près les tribunaux du département et
-la liste des dix membres présentés par les syndicats ou associations de médecins du département. Cette liste doit contenir
-autant de noms complémentaires que le tribunal des pensions comporte de sections en sus de la première et est établie, s'il y
-a plusieurs syndicats ou associations, dans les formes prévues à l'article R. 49 pour la désignation des délégués des
-pensionnés.
+Tous les trois ans, dans la seconde quinzaine de novembre et chaque fois qu'il est nécessaire, le président du tribunal de
+grande instance fait parvenir au premier président de la cour d'appel, en vue de la désignation d'un médecin, membre
+titulaire, et d'un ou deux médecins, membres suppléants, la liste départementale des médecins experts près les tribunaux du
+département et la liste des dix membres présentés par les syndicats ou associations de médecins du département. Cette liste
+doit contenir autant de noms complémentaires que le tribunal des pensions comporte de sections en sus de la première et est
+établie, s'il y a plusieurs syndicats ou associations, dans les formes prévues à l'article R. 49 pour la désignation des
+délégués des pensionnés.
 
 **Liens relatifs à cet article**
 
@@ -20891,7 +20891,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°63-1064 1963-10-21 art. 6 JORF 26 octobre 1963
+  - Décret n°96-967 du 30 octobre 1996 - art. 1 () JORF 7 novembre 1996
 
 _Cite_:
 
@@ -20900,18 +20900,22 @@ _Cite_:
 
 ###### Article R45
 
-Chaque année, dans la première quinzaine de décembre et chaque fois qu'il est nécessaire, le préfet fait parvenir au tribunal
-des pensions les listes présentées par les associations de mutilés ou de réformés. A l'effet de pouvoir procéder au tirage au
-sort sur une liste de vingt membres, notamment lorsqu'il y a plusieurs sections dans le département ou qu'un membre délégué
-n'a pas été agréé par le tribunal, les associations désignent un nombre supplémentaire de pensionnés égal au double de celui
-des sections augmenté de six unités. Un tirage au sort spécial détermine l'ordre dans lequel les jurés supplémentaires sont
-appelés à figurer sur la liste définitive.
+Tous les trois ans, dans la première quinzaine de décembre et chaque fois qu'il est nécessaire, le préfet fait parvenir au
+président du tribunal des pensions les listes présentées par les associations de mutilés ou de réformés. A l'effet de pouvoir
+procéder au tirage au sort sur une liste de vingt membres, notamment lorsqu'il y a plusieurs sections dans le département ou
+qu'un membre délégué n'a pas été agréé par le tribunal, les associations désignent un nombre supplémentaire de pensionnés
+égal au double de celui des sections augmenté de six unités. Un tirage au sort spécial détermine l'ordre dans lequel les
+jurés supplémentaires sont appelés à figurer sur la liste définitive.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 1 () JORF 7 novembre 1996
 
 
 ##### Paragraphe 2 : Indemnités.<a id=222></a>
@@ -21062,18 +21066,30 @@ _Cité par_:
 
 ###### Article R50
 
-Si l'un des membres titulaires ou suppléants, autre que le juge, cesse ses fonctions au cours de son mandat, il est
-immédiatement remplacé par un suppléant qui, selon le cas, est nommé par le ministre de la justice ou au moyen d'un nouveau
-tirage au sort sur la liste des pensionnés.
+Si l'un des membres titulaires ou suppléants, autre que le juge, cesse ses fonctions en cours de mandat, il est immédiatement
+remplacé par un suppléant qui, selon le cas, est nommé par le ministre de la justice ou au moyen d'un nouveau tirage au sort
+sur la liste des pensionnés.
 
-Les pouvoirs des membres du tribunal des pensions ainsi nommés en cours d'année cessent à la même date que ceux des autres
+Les pouvoirs des membres du tribunal des pensions ainsi nommés en cours de mandat cessent à la même date que ceux des autres
 membres du tribunal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 2 () JORF 7 novembre 1996
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R721-7 (V)
 
 
 ##### Paragraphe 5 : Attributions du greffier du tribunal.<a id=225></a>
@@ -21117,10 +21133,10 @@ _Cité par_:
 
 ###### Article R52
 
-Chaque année [*périodicité*], dans la première quinzaine du mois de décembre et chaque fois qu'il est nécessaire, la
-commission départementale prévue à l'article L. 270 et l'office départemental des anciens combattants et victimes de guerre
-font respectivement parvenir au préfet les listes prévues aux sixième et huitième alinéas de l'article L. 81 ; le préfet les
-transmet aussit<cb>t au président du tribunal des pensions.
+Tous les trois ans, dans la première quinzaine du mois de décembre et chaque fois qu'il est nécessaire, la commission
+départementale prévue à l'article L. 270 (1) et l'office départemental des anciens combattants et victimes de guerre font
+respectivement parvenir au préfet les listes prévues aux sixième et huitième alinéas de l'article L. 81 (2); le préfet les
+transmet aussitôt au président du tribunal des pensions.
 
 A l'effet de pouvoir procéder au tirage au sort sur des listes de vingt membres, notamment lorsqu'il y a plusieurs sections
 dans le département ou qu'un membre délégué n'a pas été agréé par le tribunal, la commission départementale susvisée et
@@ -21133,13 +21149,21 @@ définitives.
 Si les listes de vingt noms ne peuvent être fournies, les deux combattants volontaires de la Résistance et les deux membres
 de la Résistance susceptibles de siéger au tribunal des pensions sont désignés par ce dernier.
 
-</cb>
+**Nota:**
+
+NOTA (1) : article abrogé par le décret n° 59-366 du 28 février 1959.
+
+NOTA (2) : article abrogé par décret 59-327 1959-02-20 art. 21.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 1 () JORF 7 novembre 1996
 
 _Cité par_:
 
@@ -21155,9 +21179,9 @@ _Cite_:
 ###### Article R53
 
 Si l'un des membres de la Résistance ou l'un des combattants volontaires de la Résistance, titulaire ou suppléant, cesse ses
-fonctions au cours de son mandat, il est immédiatement remplacé par un suppléant qui, selon le cas, est tiré au sort sur
-l'une des listes prévues à l'article R. 52 ou désigné par le tribunal. Les pouvoirs des membres du tribunal des pensions
-ainsi nommés en cours d'année cessent à la même date que ceux des autres membres du tribunal.
+fonctions en cours de mandat, il est immédiatement remplacé par un suppléant qui, selon le cas, est tiré au sort sur l'une
+des listes prévues à l'article R. 52 ou désigné par le tribunal. Les pouvoirs des membres du tribunal des pensions ainsi
+nommés en cours de mandat cessent à la même date que ceux des autres membres du tribunal.
 
 **Liens relatifs à cet article**
 
@@ -21165,13 +21189,21 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 2 () JORF 7 novembre 1996
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R258 (Ab)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R52 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R52 (Ab)
 
 
 ###### Article R54
@@ -23375,22 +23407,34 @@ _Cite_:
 ###### Article R122
 
 La liste des pensionnés présentée par l'association de mutilés et réformés du pays d'outre-mer, ou, s'il y a plusieurs
-associations, après entente entre elles, est transmise chaque année dans la première quinzaine de décembre par l'autorité
-française définie à l'article R. 104.
+associations, après entente entre elles, est transmise tous les trois ans dans la première quinzaine de décembre par
+l'autorité française définie à l'article R. 104.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 4 () JORF 7 novembre 1996
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R104 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R104 (Ab)
 
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R123 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R123 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R741-2 (V)
 
 **Liens**:
 
@@ -23401,11 +23445,7 @@ _Cité par_:
 
 En cas de départ, d'indisponibilité ou de décès de l'un des membres désignés aux articles R. 119 à R. 122, il est procédé
 immédiatement, à la demande du président du tribunal des pensions, dans la forme indiquée aux articles précités, à la
-désignation de son remplaçant dont le mandat est valable pour la période restant à courir jusqu'à la fin de l'année.
-
-**Nota:**
-
-
+désignation de son remplaçant dont le mandat est valable pour la période restant à courir jusqu'à la fin du mandat.
 
 **Liens relatifs à cet article**
 
@@ -23413,12 +23453,20 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 5 () JORF 7 novembre 1996
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R119 (V)
-  - Code des pensions militaires d'invalidité et des v - art. R120 (V)
-  - Code des pensions militaires d'invalidité et des v - art. R121 (V)
-  - Code des pensions militaires d'invalidité et des v - art. R122 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R119 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R120 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R121 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R122 (Ab)
 
 **Liens**:
 
@@ -23454,6 +23502,53 @@ _Nouveaux textes_:
 
 
 ##### Paragraphe 2 : Juridiction d'appel.<a id=248></a>
+
+###### Article R124-1
+
+Les décisions du tribunal des pensions sont susceptibles d'appel soit par l'intéressé, soit par l'Etat.
+
+L'appel présenté au nom de l'Etat est formé par le représentant de l'Etat dans le territoire où siège la juridiction d'appel
+compétente ; toutefois, l'appel est formé par le ministre intéressé lorsque le litige soulève une question relative à l'état
+des personnes, à la nationalité ou à l'application des articles L. 78 ou L. 107 du présent code, ou lorsque la décision
+litigieuse a été prise par le ministre de la défense.
+
+**Nota:**
+
+Décret n° 2009-1755 du 30 décembre 2009, art 20 : I. ― Les demandes en cours de traitement par les services supprimés sont
+transférées en l'état aux services et organismes repreneurs sans qu'il y ait lieu de renouveler les actes et les formalités
+régulièrement intervenus antérieurement à la date de cessation d'activité de ces services.
+
+II. - Jusqu'aux dates des arrêtés relatifs au transfert de leurs compétences aux services du ministre chargé des anciens
+combattants et victimes de guerre ou aux organismes désignés, les directions interdépartementales des anciens combattants et
+le service des ressortissants résidant à l'étranger situé à Château-Chinon font application des dispositions du présent code
+dans sa version antérieure au présent décret, sauf en ce qui concerne le 1° de l'article 2, le 1° de l'article 4, les 1°, 2°
+et 3° de l'article 6, les 6° et 7° de l'article 8, les 1° et 3° de l'article 9 et les articles 10 à 15 du présent décret qui
+entrent immédiatement en vigueur.
+
+Jusqu'aux dates de transfert de leurs compétences en matière de soins médicaux gratuits au service du ministre chargé des
+anciens combattants et victimes de guerre qui aura été désigné, les directions interdépartementales des anciens combattants
+et le service des ressortissants résidant à l'étranger situé à Château-Chinon font application du décret susvisé du 20
+février 1959 dans sa version antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°96-967 du 30 octobre 1996 - art. 6 () JORF 7 novembre 1996
+
+_Abrogé par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 18
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L107
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L78
+
 
 ###### Article R125
 
