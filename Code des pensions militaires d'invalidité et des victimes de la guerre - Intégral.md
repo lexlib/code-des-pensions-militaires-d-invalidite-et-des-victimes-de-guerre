@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1974-12-27
+Version Consolidée au 1975-02-13
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -264,7 +264,7 @@ Version Consolidée au 1974-12-27
       - [Titre préliminaire : Commission départementale des anciens combattants et victimes de guerre. (art. R222-1 à R222-3)](#261)
       - [Titre Ier : Carte et retraite du combattant. (art. R223 à R253)](#262)
         - [Chapitre Ier : Carte du combattant. (art. R223 à R235)](#263)
-          - [Section 1 : De la qualité de combattant. (art. R225 à R228)](#264)
+          - [Section 1 : De la qualité de combattant. (art. R224 à R228)](#264)
           - [Section 2 : Procédure d'attribution et de retrait de la carte. (art. R229 à R235)](#265)
         - [Chapitre II : Retraite du combattant. (art. R236 à R251)](#266)
           - [Section 1 : Procédure d'attribution. (art. R236 à R240)](#267)
@@ -22195,6 +22195,260 @@ _Cite_:
 
 ##### Section 1 : De la qualité de combattant.<a id=264></a>
 
+###### Article R224
+
+Sont considérés comme combattants :
+
+A - Pour les opérations effectuées entre le 2 août 1914 et le 11 novembre 1918 :
+
+1° Les militaires des armées de terre et de mer qui ont appartenu, pendant trois mois consécutifs ou non, aux unités
+énumérées aux tableaux annexés au présent chapitre ;
+
+2° Sous réserve d'avoir appartenu aux unités énumérées auxdits tableaux mais sans condition de séjour dans ces unités, les
+militaires des armées de terre et de mer ayant été évacués pour blessure reçue ou maladie contractée en service alors qu'ils
+appartenaient à ces unités, et ceux qui ont été faits prisonniers ;
+
+3° Quelle que soit l'unité à laquelle ils ont appartenu, sans condition de séjour dans cette unité :
+
+Les militaires des armées de terre et de mer qui ont reçu une blessure de guerre ;
+
+Les Alsaciens et les Lorrains, devenus Français en exécution du traité de Versailles qui, mobilisés au cours de la guerre
+1914-1918, sont affiliés à un groupe régional d'anciens combattants de la guerre 1914-1918, rattaché à un groupement national
+de combattants ou de mutilés, à l'exception, toutefois, des anciens officiers de carrière ;
+
+Les Alsaciens et les Lorrains qui se sont engagés pendant la période des hostilités dans les rangs de l'armée française.
+
+B - Pour les opérations effectuées après le 11 novembre 1918 :
+
+Les militaires des armées de terre et de mer faisant ou ayant fait partie des troupes et missions militaires en territoires
+étrangers ou ayant acquis des droits à une médaille commémorative de campagne de guerre ou à la médaille coloniale au titre
+du département de la guerre ou de la marine, sous réserve de remplir, en outre, l'une des conditions suivantes :
+
+a) Avoir, pendant trois mois consécutifs ou non, pris une part effective à des opérations de guerre ;
+
+b) Avoir été, sans condition de délai de séjour, mais en prenant part effectivement à des opérations de guerre, évacué pour
+blessure reçue ou maladie contractée au service ou fait prisonnier ;
+
+c) Avoir reçu une blessure de guerre.
+
+C - Pour les opérations effectuées après le 2 septembre 1939 :
+
+I. - Militaires
+
+Les militaires des armées de terre, de mer et de l'air :
+
+1° Qui ont appartenu pendant trois mois, consécutifs ou non, aux unités énumérées aux listes établies par le ministre de la
+défense nationale et, s'il y a lieu, par le ministre chargé de la France d'outre-mer ;
+
+Pour le calcul de la durée d'appartenance, les services accomplis au titre des opérations comprises entre le 2 août 1914 et
+le 2 septembre 1939 se cumulent entre eux et avec ceux effectués au titre des opérations postérieures au 2 septembre 1939.
+
+D'autre part, sont accordées des bonifications afférentes soit à des opérations de combat limitativement désignées ou
+effectuées dans des conditions exceptionnellement dangereuses, soit à des situations personnelles, résultant du contrat
+d'engagement ou d'une action d'éclat homologuée par citation individuelle ou par citation collective au titre d'une unité ou
+d'une fraction d'unité constituée. Ces bonifications ne devront pas excéder le coefficient six pour celles afférentes aux
+combats, ou la durée de dix jours pour celles afférentes aux situations personnelles. Leurs modalités d'application sont
+fixées par arrêtés des ministres intéressés ;
+
+2° Qui ont été évacués pour blessure reçue ou maladie contractée en service, alors qu'ils appartenaient aux unités énumérées
+aux listes susvisées, mais sans condition de durée de séjour dans ces unités ;
+
+3° Qui ont reçu une blessure de guerre, quelle que soit l'unité à laquelle ils ont appartenu, sans condition de durée de
+séjour dans cette unité ;
+
+4° Qui ont été, soit détenus comme prisonniers de guerre pendant six mois en territoire occupé par l'ennemi, soit
+immatriculés dans un camp en territoire ennemi, sous réserve d'avoir appartenu, au moment de leur capture, sans condition de
+durée de séjour, à une unité combattante pendant la période où celle-ci avait cette qualité ;
+
+5° Qui ont été, soit détenus comme prisonniers de guerre pendant six mois en territoire occupé par l'ennemi, soit
+immatriculés dans un camp en territoire ennemi où ils ont été détenus pendant quatre-vingt-dix jours au moins, sous réserve
+d'avoir appartenu antérieurement à leur capture, ou postérieurement à leur détention, sans condition de durée de séjour, à
+une unité combattante, pendant la période où celle-ci avait cette qualité.
+
+Les durées de détention prévues aux alinéas 4° et 5° sont réduites, en ce qui concerne les combattants d'Indochine, par un
+arrêté conjoint du ministre des anciens combattants et victimes de guerre, du ministre d'Etat chargé de la défense nationale
+et du ministre chargé de la France d'outre-mer, dont les dispositions font l'objet de l'article A. 121 bis ;
+
+6° Qui, faits prisonniers, ont obtenu la médaille des évadés, conformément aux dispositions de l'article 3 de la loi du 30
+octobre 1946 ;
+
+7° Qui, faits prisonniers, peuvent se prévaloir des dispositions du chapitre Ier du titre II relatives aux membres de la
+Résistance ayant servi dans les pays d'outre-mer ou ayant résisté dans les camps de prisonniers ou en territoires étrangers
+occupés par l'ennemi, ou ont fait l'objet de la part de l'ennemi, pour actes qualifiés de résistance, de mesures de
+représailles et notamment de conditions exceptionnelles de détention ;
+
+8° Qui, Alsaciens et Mosellans, sans avoir servi dans l'armée française, satisfont aux conditions qui sont déterminées par
+arrêté interministériel dont les dispositions font l'objet des articles A. 123-2 à A. 123-5.
+
+II. - Résistance 
+
+1° Les titulaires de la carte de déporté ou d'interné résistant délivrée en application des dispositions des articles L. 272
+à L. 277 ;
+
+2° Les titulaires de la carte du combattant volontaire de la résistance délivrée conformément aux dispositions des articles
+L. 262 à L. 271 ;
+
+3° Les agents et les personnes qui, bien que ne remplissant pas les conditions susvisées, ont néanmoins effectivement pris
+part à la Résistance dans les conditions déterminées à l'article A. 123 ;
+
+4° Les personnes qui, sans remplir les conditions exigées pour les trois catégories précédentes, peuvent se prévaloir dans la
+Résistance, des circonstances particulières admises pour les militaires.
+
+III. - Marins du commerce 
+
+1° Les membres de la marine marchande de la France combattante, visés par le décret du comité français de la libération
+nationale en date du 1er avril 1943 ;
+
+2° Les marins du commerce et de la pêche qui :
+
+a) Ont navigué pendant trois mois, consécutifs ou non, soit au commerce, soit à la pêche, en deuxième et troisième zones dans
+les régions et à des époques où la navigation donne droit à la qualité de combattant au personnel de la marine militaire ;
+
+b) Ont appartenu à une station de pilotage ou ont été inscrits au r<CB>le de remorqueur ou de bâtiment de servitude et ont
+accompli trois mois de service entre les dates et dans les conditions fixées pour chaque station et chaque port suivant la
+procédure déterminée à l'article R. 227 ;
+
+c) Ont appartenu aux équipages des navires visés aux alinéas a et b sous les conditions particulières prévues pour les
+militaires ;
+
+3° Le personnel des catégories visées aux 1° et 2° du présent III bénéficie des bonifications attribuées aux militaires ; il
+peut également bénéficier de bonifications qui lui sont propres lorsqu'il justifie d'une présence à bord d'un navire ayant
+participé soit à des opérations d'évacuation de Dunkerque, soit à des opérations destinées à venir en aide à la Résistance.
+Ces bonifications ne devront pas dépasser la durée de vingt-cinq jours. Leurs modalités d'application sont déterminées par
+arrêtés des ministres intéressés.
+
+Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 inclus :
+
+a) En Tunisie, à compter du 1er janvier 1952 ;
+
+b) Au Maroc, à compter du 1er juin 1953 ;
+
+c) En Algérie, à compter du 31 octobre 1954.
+
+D - Pour les opérations indiquées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 inclus :
+
+a) en Tunisie, à compter du 1er janvier 1952 ;
+
+b) au Maroc, à compter de la fin de 1953 ;
+
+c) en Algérie, à compter du 31 octobre 1954.
+
+I. - Sont considérés comme des combattants les militaires des armées françaises et les membres des forces supplétives
+françaises :
+
+1° Qui ont appartenu pendant trois mois, consécutifs ou non, à une unité combattante ou à une formation entrant dans l'une
+des catégories énumérées par l'arrêté interministériel prévu au troisième alinéa de l'article L. 253 bis et assimilée à une
+unité combattante ;
+
+Pour le calcul de la durée d'appartenance, les services accomplis au titre d'opérations antérieures se cumulent entre eux et
+avec ceux des opérations d'Afrique du Nord ;
+
+Des bonifications afférentes à des situations personnelles résultant du contrat d'engagement ou d'une action d'éclat
+homologuée par citation individuelle sont accordées pour une durée ne pouvant excéder dix jours, suivant les modalités
+d'application fixées par arrêtés des ministres intéressés ;
+
+2° Qui ont été évacués pour blessure reçue ou maladie contractée en service, alors qu'ils appartenaient à une unité
+combattante ou à une formation assimilée sans condition de durée de séjour dans cette unité ou formation ;
+
+3° Qui ont reçu une blessure assimilée à une blessure de guerre quelle que soit l'unité ou la formation à laquelle ils ont
+appartenu, sans condition de durée de séjour dans cette unité ou formation ;
+
+4° Qui ont été détenus par l'adversaire et privés de la protection des conventions de Genève.
+
+II. - Les listes des unités combattantes des armées de terre, de mer et de l'air, de la gendarmerie et des services communs
+et des formations des forces supplétives françaises assimilées sont établies par le ministre de la défense sur les bases
+suivantes :
+
+Sont classées, pour une durée d'un mois, comme unités combattantes ou formations assimilées, les unités et formations
+impliquées dans au moins trois actions de feu ou de combat distinctes au cours d'une période de trente jours consécutifs.
+
+Les éléments détachés auprès d'une unité reconnue comme combattante suivent le sort de cette unité.
+
+Des bonifications afférentes à des opérations de combat limitativement désignées peuvent être accordées. La liste de ces
+opérations et bonifications est fixée par un arrêté conjoint du ministre de la défense et du secrétaire d'Etat aux anciens
+combattants, après avis d'une commission créée à cet effet.
+
+**Nota:**
+
+.
+
+.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-2423 1946-10-30 art. 3
+  - Code des pensions militaires d'invalidité et des v - art. A123-2 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A123-4 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A123-5 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L253 bis (M)
+  - Code des pensions militaires d'invalidité et des v - art. L272 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L273 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L274 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L275 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L276 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L277 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre A121 bis, A123-2, A123-3, A123-4, A123-5, L272, L273, L274, L275, L276, L277, L262 à L271, A123, R227, L253 bis
+  - Décret n°1943-04-01
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Cité par_:
+
+  - Décret n°73-937 du 2 octobre 1973 - art. 3 (V)
+  - Arrêté du 29 janvier 1990 - art. 2 (V)
+  - Décret n°2002-511 du 12 avril 2002 - art. 3 (Ab)
+  - Décret n°2009-630 du 6 juin 2009 - art. (VD)
+  - Décret n°2015-946 du 31 juillet 2015 - art. 2 (V)
+  - Décret n°2015-947 du 31 juillet 2015 - art. 2 (V)
+  - Code de la sécurité sociale. - art. D357-11-1 (Ab)
+  - Code de la sécurité sociale. - art. R351-45 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. A130 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A134-6 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A137 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D266-1 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L256 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L354 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L412 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R223 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R224 bis (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R271 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R388-6 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A116 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A121 bis (V)
+  - Code des pensions militaires d'invalidité et des v - art. A123-1 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R400 (V)
+
+_Modifié par_:
+
+  - Décret n°75-87 1975-02-11 art. 1 JORF 13 février 1975
+  - Décret n°54-545 1954-05-24 art. 1 et art. 2 JORF 27 mai 1954
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R311-1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-10 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-11 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-14 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-15 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-16 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-2 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-3 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-6 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-7 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-8 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-9 (V)
+
+
 ###### Article R225
 
 Le détail des formalités des armées de la guerre 1914-1918 visées au tableau ci-annexé est donné par les tableaux annexés à
@@ -22257,6 +22511,70 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A137 (M)
   - Code des pensions militaires d'invalidité et des victimes de la guerre A115 à A135, A137, R224 C
+
+
+###### Article R227 bis
+
+Les demandes individuelles de carte du combattant entrant dans le champ d'application de l'article R. 227 sont adressées à
+l'office national des anciens combattants et victimes de guerre et y sont examinées par une commission comprenant :
+
+1° Vingt et un représentants des anciens combattants titulaires de la carte ;
+
+2° Six représentants du ministre de la défense (terre, marine, air).
+
+La commission élit dans son sein un président et deux [*nombre*] vice-présidents choisis parmi les représentants des anciens
+combattants et se divise en deux sections comprenant chacune respectivement dix représentants des anciens combattants et
+trois représentants du ministre de la défense (terre, marine, air). Les deux vice-présidents assument la présidence des
+sections.
+
+Le président de la commission répartit les dossiers entre les deux sections, qui émettent leur avis au nom de la commission.
+
+La commission se réunit en séance plénière (les deux sections réunies) sous la présidence de son président, sur la demande
+soit du ministre des anciens combattants et victimes de guerre, soit du directeur de l'office national, soit du président ou
+d'un président de section.
+
+En cas de partage des voix, soit en commission, soit en section, la voix du président est prépondérante.
+
+Le secrétaire de la commission, les secrétaires des sections et les rapporteurs sont désignés par le directeur de l'office
+national des anciens combattants et victimes de guerre parmi les fonctionnaires dudit office.
+
+Les membres de la commission nationale de la carte du combattant sont désignés par un arrêté du ministre des anciens
+combattants et victimes de guerre.
+
+**Nota:**
+
+[*Nota : Décret n° 65-1048 du 2 décembre 1965, art. 9 : La "commission départementale de la carte du combattant" prévue par
+circulaire du 29 décembre 1949 est supprimée et ses attributions transférées à la "commission départementale des anciens
+combattants et victimes de guerre" qui lui est substituée.*]    [*Nota - Code des pensions militaires d'invalidité et des
+victimes de la guerre D258 : le présent article est applicable à l'Algérie*].
+
+[*Nota - Code des pensions militaires d'invalidité et des victimes de la guerre D259 : le présent article est applicable aux
+anciens combattants originaires des pays d'outre-mer*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°60-749 1960-07-25 art. 1 JORF 29 juillet 1960
+  - Décret n°75-88 1975-02-11 art. 1 JORF 13 février 1975
+
+_Cité par_:
+
+  - Décret n°60-749  du 25 juillet 1960  - art. 1 (V)
+  - Arrêté du 11 mars 1996 - art. Annexe (M)
+  - Code des pensions militaires d'invalidité et de... - art. R227 quater (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
 
 
 ###### Article R228
@@ -22353,6 +22671,38 @@ _Cite_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. R227 quater (M)
+
+
+###### Article R230-1
+
+Lorsqu'elle est appelée à se prononcer sur l'attribution de la carte du combattant, la commission départementale comprend
+outre les membres prévus à l'article R. 222-1 :
+
+Le délégué militaire départemental ou son représentant, sept représentants des associations ou des sections départementales
+d'anciens combattants désignés par le secrétaire d'Etat aux anciens combattants, sur proposition des groupements nationaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Modifié par_:
+
+  - Décret n°66-851 1966-11-14 art. 3 JORF 19 novembre 1966
+  - Décret n°75-88 1975-02-11 art. 2 JORF 13 février 1975
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
 
 
 ###### Article R231
