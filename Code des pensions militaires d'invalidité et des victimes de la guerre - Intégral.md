@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1979-05-30
+Version Consolidée au 1979-07-26
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -527,7 +527,7 @@ Version Consolidée au 1979-05-30
         - [Chapitre Ier : Carte du combattant. (art. A115 à A142)](#524)
           - [Section 1 : De la qualité de combattant (art. A116 à A128)](#525)
             - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#526)
-            - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A122)](#527)
+            - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A123-1)](#527)
             - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-2 et A123-3 à A123-5)](#528)
             - [Paragraphe 3 bis : Marins du commerce. (art. A123-6 à A123-9)](#529)
             - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A127)](#530)
@@ -47177,6 +47177,75 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+
+###### Article A123-1
+
+Ont droit à la qualité de combattant les personnes qui, sans répondre aux dispositions des articles A. 119 et R. 224 C (II,
+1° et 2°) justifient :
+
+a) Soit par le rapport motivé émanant du liquidateur responsable de l'organisme au compte duquel elles ont opéré ;
+
+b) Soit par deux témoignages circonstanciés établis par des personnalités notoirement connues pour leur action dans la
+résistance, avoir accompli pendant trois mois, consécutifs ou non, l'un ou plusieurs des actes individuels de résistance
+énumérés limitativement ci-dessous :
+
+Création et direction aux échelons nationaux, régionaux et départementaux, d'organisations de résistance reconnues ;
+
+Détention volontaire de matériel clandestin d'impression ;
+
+Rédaction, impression, transport ou distribution habituels de tracts ou journaux clandestins, établis par une organisation
+reconnue ;
+
+Fabrication habituelle et non rétribuée de pièces d'identité pour des membres de la résistance ;
+
+Transport ou détention volontaire d'armes ou d'explosifs dans un but de résistance ;
+
+Fabrication de matériel radio destiné aux émissions et réception de postes clandestins utilisés pour la résistance ;
+
+Fourniture volontaire gratuite et habituelle de locaux aux réunions de groupes clandestins ;
+
+Hébergement gratuit et habituel de résistants traqués ou blessés au cours d'une action militaire, de militaires français ou
+alliés évadés ou de parachutistes des armées alliées ;
+
+Passage habituel, à titre gratuit, de résistants ou de militaires évadés hors du territoire ennemi ou occupé vers la France
+occupée, la France libre ou les pays alliés ;
+
+Destruction habituelle de voies de communication ou d'installation ferroviaire, portuaire ou fluviale.
+
+Ces témoignages sont certifiés sur l'honneur et ils engagent la responsabilité de leur signataire, dans les conditions
+prévues par l'article 161 du Code pénal (1).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1979-07-02 art. 3 JONC 26 juillet 1979
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 29 janvier 1990
+  - TXT_SOURCE: Arrêté du 29 janvier 1990 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 29 janvier 1990 - art. 2 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+_Cité par_:
+
+  - Arrêté du 29 janvier 1990 - art. 1 (V)
+  - Arrêté du 29 janvier 1990 - art. 2 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A134-5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A137 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A134-7 (V)
+
+_Cite_:
+
+  - Code pénal 161
+  - Code des pensions militaires d'invalidité et des v - art. A119 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
 
 
 ##### Paragraphe 3 : Alsaciens et Mosellans.<a id=528></a>
