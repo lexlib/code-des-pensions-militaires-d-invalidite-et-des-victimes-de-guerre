@@ -22,8 +22,8 @@ Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'
 périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ;
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
-Une durée des services en Algérie d'au moins douze mois est reconnue équivalente à la participation aux actions de feu et de
-combat exigée au deuxième alinéa ci-dessus.  Pour les militaires rappelés en Algérie, cette durée est fixée à quatre mois.
+Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa
+est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -42,10 +42,6 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 7 novembre 1996
   - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
 
-_Modifié par_:
-
-  - Loi - art. 105 () JORF 31 décembre 2000
-
 _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R311-12 (V)
@@ -54,3 +50,7 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi - art. 123 (V) JORF 31 décembre 2003 en vigueur le 1er juillet 2004
