@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1990-11-13
+Version Consolidée au 1990-11-13 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -15348,16 +15348,25 @@ _Codifié par_:
 ###### Article L408
 
 Les candidats visés aux articles L. 397 à L. 400 doivent obtenir un certificat d'aptitude professionnelle correspondant à
-l'emploi sollicité.
+l'emploi sollicité. 
 
 Nul ne peut obtenir ce certificat si le premier jour du mois dans lequel l'autorité militaire est appelée à le délivrer il a
 atteint l'âge [*limite*] de quarante ans.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°90-1007 du 8 novembre 1990 - art. 4 () JORF 13 novembre 1990
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L397 (VT)
 
 **Liens**:
 
@@ -15370,10 +15379,6 @@ _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. L401 bis (M)
   - Code des pensions militaires d'invalidité et des v - art. R473 (Ab)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L409
