@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1959-03-28
+Version Consolidée au 1959-03-29
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -229,7 +229,7 @@ Version Consolidée au 1959-03-28
           - [Section 3 : Dispositions spéciales concernant les voies de recours. (art. R121 à R145)](#226)
             - [Paragraphe 1 : Juridiction de première instance. (art. R121 à R124)](#227)
             - [Paragraphe 2 : Juridiction d'appel. (art. R125 à R129)](#228)
-            - [Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc. (art. R130 à R136)](#229)
+            - [Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc. (art. R130 à R133)](#229)
             - [Paragraphe 4 : Attributions. (art. R137 à R140)](#230)
             - [Paragraphe 5 : Allocations diverses et frais. (art. R141 à R145)](#231)
     - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. R146 à R222)](#232)
@@ -18056,15 +18056,6 @@ _Modifié par_:
   - Décret n°59-478 1959-03-21 art. 1 JORF 28 mars 1959 rectificatif JORF 7 avril 1959
 
 
-###### Article R132
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-
 ###### Article R133
 
 Le tribunal départemental des pensions de Bordeaux et la Cour d'appel de Bordeaux sont chargés de statuer sur toutes les
@@ -18084,33 +18075,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°59-478 1959-03-21 art. 2 JORF 28 mars 1959 rectificatif JORF 7 avril 1959
-
-
-###### Article R134
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-
-###### Article R135
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-
-###### Article R136
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ##### Paragraphe 4 : Attributions.<a id=230></a>
