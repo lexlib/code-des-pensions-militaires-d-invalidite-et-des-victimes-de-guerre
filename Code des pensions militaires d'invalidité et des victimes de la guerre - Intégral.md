@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-09-27
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -48932,6 +48932,10 @@ combattants et victimes de guerre, dans les conditions prévues à l'article A. 
 pensions militaires d'invalidité et des demandes de pensions de victimes civiles de guerre présentées par les postulants qui,
 en raison de leur résidence, relèvent de la compétence territoriale de ces hauts fonctionnaires.
 
+La même délégation est donnée au préfet de la région Basse-Normandie, préfet du département du Calvados, en ce qui concerne
+les postulants résidant dans un département d'outre-mer, un territoire d'outre-mer ou dans les collectivités territoriales de
+Mayotte et de Saint-Pierre-et-Miquelon.
+
 La même délégation est donnée au responsable du service des ressortissants du département ministériel chargé des anciens
 combattants et victimes de guerre, qui résident à l'étranger, en ce qui concerne les postulants résidant en Algérie, en
 Tunisie ou au Maroc et, à compter du 1er janvier 1986, en ce qui concerne les postulants résidant dans les autres Etats
@@ -48945,8 +48949,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1972-07-31 art. 1 JORF 8 août 1972
-  - Arrêté 1982-07-29 art. 1 JONC 18 août 1982
+  - Arrêté 1992-09-10 art. 1 JORF 27 septembre 1992
 
 **Liens**:
 
@@ -48993,6 +48996,10 @@ victimes civiles de guerre qui, en raison de leur résidence, relèvent de la co
 fonctionnaires, à l'exclusion des demandes pour lesquelles les propositions favorables émises au terme de leur instruction ne
 sont pas entérinées à l'échelon ministériel.
 
+La même délégation est donnée au préfet de la région Basse-Normandie, préfet du département du Calvados, en ce qui concerne
+les postulants résidant dans un département d'outre-mer, un territoire d'outre-mer ou dans les collectivités territoriales de
+Mayotte et de Saint-Pierre-et-Miquelon.
+
 La même délégation est donnée au responsable du service des ressortissants du département ministériel chargé des anciens
 combattants et victimes de guerre, qui résident à l'étranger, en ce qui concerne les postulants résidant en Algérie, en
 Tunisie ou au Maroc et à compter du 1er janvier 1986, en ce qui concerne les postulants résidant dans les autres Etats
@@ -49006,7 +49013,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1982-07-29 art. 1 JONC 18 août 1982
+  - Arrêté 1992-09-10 art. 1 JORF 27 septembre 1992
 
 **Liens**:
 
