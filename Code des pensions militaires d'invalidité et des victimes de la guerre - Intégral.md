@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1974-12-15
+Version Consolidée au 1974-12-27
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -6306,6 +6306,70 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L178
+
+Les déportés et internés résistants définis au chapitre II du titre II du livre III et leurs ayants cause bénéficient de
+pensions d'invalidité ou de décès dans les conditions prévues pour les membres des Forces françaises de l'intérieur.
+
+Les déportés et internés titulaires de la carte du combattant bénéficient du statut des grands mutilés prévu par les articles
+L. 36 à L. 40.
+
+Sont assimilées aux blessures, pour l'application desdits articles, les maladies contractées ou présumées telles par les
+déportés résistants au cours de leur déportation.
+
+En cas d'infirmités multiples résultant, soit de blessures, soit de maladies, soit de blessures associées à des maladies
+contractées ou aggravées en déportation, l'ensemble des infirmités est considéré comme une seule blessure au regard des
+articles L. 8 et L. 36 à L. 40 et donne droit au bénéfice des articles L. 344 à L. 348 inclus du présent code.
+
+Les dispositions de l'alinéa 2 de l'article L. 8 sont étendues aux internés résistants dont les infirmités résultent de
+maladies.
+
+Lorsque celles-ci ont été contractées par les internés résistants au cours de leur internement, ou sont présumées telles,
+elles ouvrent droit au bénéfice des dispositions des articles L. 17, L. 37 à L. 40.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 33 JORF 5 janvier 1954
+  - Loi n°55-356 1955-04-03 art. 17 JORF 4 avril 1956
+  - Loi n°74-1105 du 26 décembre 1974 - art. 1 () JORF 27 décembre 1974
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L123-13 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L132-4 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L132-5 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R351-7 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L17
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L344
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L345
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L346
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L347
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L348
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L39
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L40
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L8
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
 ###### Article L179
 
 Est présumée, sauf preuve contraire, imputable par origine directe ou par aggravations, aux fatigues, dangers ou accidents
@@ -7060,6 +7124,99 @@ _Codifié par_:
 _Cite_:
 
   - Ordonnance 1943-07-06
+
+
+###### Article L203
+
+Les Français et ressortissants français, ayant la qualité de déporté ou d'interné politique, et leurs ayants cause
+bénéficient des dispositions du présent chapitre, dans les conditions prévues au présent paragraphe et à la section 2.
+
+Toutefois, à compter du 1er janvier 1974, les pensions de déportés politiques seront calculées et liquidées dans les mêmes
+conditions et selon les mêmes règles que celles des déportés résistants. Ces pensions sont liquidées sur le taux prévu par le
+premier alinéa de l'article L. 214.
+
+Les dispositions de l'alinéa précédent seront appliquées, par étapes, à compter du 1er janvier 1971. Les pensions des
+déportés politiques seront majorées, chaque année, les 1er janvier 1971, 1er janvier 1972, 1er janvier 1973 et 1er janvier
+1974, du quart de la différence entre la pension calculée et liquidée dans les conditions définies à l'alinéa 2 ci-dessus et
+la pension calculée et liquidée suivant les règles applicables avant la promulgation de la loi n° 70-594 du 9 juillet 1970 y
+compris éventuellement les majorations prévues aux articles 78 de la loi n° 67-1114 du 21 décembre 1967 et 69 de la loi n°
+68-1172 du 27 décembre 1968. Ces derniers articles seront abrogés à compter du 1er janvier 1974.
+
+Une majoration spéciale est instituée en faveur des déportés politiques ne bénéficiant pas des allocations aux grands mutilés
+et pensionnés au titre :
+
+Soit d'une infirmité entraînant à elle seule un degré d'invalidité d'au moins 85 % ;
+
+Soit d'infirmités multiples dont les deux premières entraînent globalement un degré d'invalidité d'au moins 85 %, mais dont
+l'une détermine à elle seule un degré d'invalidité d'au moins 60 % ;
+
+Soit d'infirmités multiples dont les trois premières entraînent globalement un degré d'invalidité d'au moins 90 %, mais dont
+l'une détermine à elle seule un degré d'invalidité d'au moins 60 % ;
+
+Soit d'infirmités multiples dont les quatre premières entraînent globalement un degré d'invalidité d'au moins 95 %, mais dont
+l'une détermine à elle seule un degré d'invalidité d'au moins 60 % ;
+
+Soit d'infirmités multiples dont les cinq premières entraînent globalement un degré d'invalidité de 100 %, mais dont l'une
+détermine à elle seule un degré d'invalidité d'au moins 60 %.
+
+Le montant de cette majoration spéciale est fixé à 35 % de la pension, allocations aux grands invalides comprises (1).
+
+Les dispositions de l'alinéa 2 de l'article L. 8 sont étendues aux déportés politiques ainsi qu'aux internés politiques dont
+les infirmités résultent de maladies.
+
+Les internés politiques bénéficient pour les infirmités résultant des maladies contractées au cours de leur internement des
+dispositions des articles L. 17, L. 37 à L. 40, dans les mêmes conditions que s'il s'agissait de blessures.
+
+(1) Taux relevé de 20 à 35 % sans que la somme de la pension et de la majoration puisse être supérieure au montant des
+arrérages versés, dans les mêmes conditions d'invalidité, aux déportés de la Résistance, L. fin. n° 68-1172, 27 décembre
+1968, art. 69.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°67-1114 1967-12-21 art. 78 I JORF 22 décembre 1967
+  - Loi n°69-1161 1969-12-24 art. 1 JORF 27 décembre 1969
+  - Loi n°70-594 du 9 juillet 1970 - art. 1 () JORF 10 juillet 1970
+  - Loi n°74-1105 du 26 décembre 1974 - art. 2 () JORF 27 décembre 1974
+
+_Cite_:
+
+  - Loi n°67-1114 du 21 décembre 1967 - art. 78
+  - Loi n°68-1172 du 27 décembre 1968
+  - Loi n°70-594 du 9 juillet 1970
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L17
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L214
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L39
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L40
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L8
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L113-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L124-21 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L132-9 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L295-1 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R172 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R335 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L205 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L206 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L203 bis
