@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1956-08-26
+Version Consolidée au 1956-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -97,7 +97,7 @@ Version Consolidée au 1956-08-26
       - [Titre Ier : Carte et retraite du combattant (art. L253 à L261)](#94)
         - [Chapitre Ier : Carte du combattant. (art. L253 à L254)](#95)
         - [Chapitre II : Retraite du combattant. (art. L257 à L261)](#96)
-      - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L262 à L319)](#97)
+      - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L262 à L319 bis)](#97)
         - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L262 à L271)](#98)
           - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L262 à L265)](#99)
           - [Section 2 : Droits des combattants volontaires de la Résistance. (art. L267 à L268)](#100)
@@ -116,7 +116,7 @@ Version Consolidée au 1956-08-26
         - [Chapitre V : Statut des personnes contraintes au travail (art. L308 à L318)](#113)
           - [Section 1 : Définition des bénéficiaires. (art. L308 à L312)](#114)
           - [Section 2 : Droit des personnes contraintes au travail. (art. L313 à L318)](#115)
-        - [Chapitre VI : Mesures d'exécution. (art. L319)](#116)
+        - [Chapitre VI : Mesures d'exécution. (art. L319 à L319 bis)](#116)
       - [Titre III : Droits et avantages accessoires (art. L320 à L450)](#117)
         - [Chapitre Ier : Cartes d'invalidité et avantages y afférents (art. L320 à L324 bis)](#118)
           - [Section 1 : Réduction sur les chemins de fer. (art. L320 à L321)](#119)
@@ -9112,6 +9112,35 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L319 bis
+
+Toute décision prise par le ministre des anciens combattants et victimes de guerre pour l'attribution des titres visés aux
+articles L. 269, L. 272, L. 273, L. 286, L. 288, L 305 et L. 317 et reconnue ultérieurement mal fondée peut être rapportée
+par le ministre, à quelque date que ce soit, après avis de la commission nationale intéressée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D271-9 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R368 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R391-7 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L269 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L272 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L273 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L286 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L288 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L305 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L317 (M)
 
 _Codifié par_:
 
