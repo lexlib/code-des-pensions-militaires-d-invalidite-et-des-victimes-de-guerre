@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-03-28
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -22930,9 +22930,11 @@ _Nouveaux textes_:
 
 ###### Article R102-1
 
-Les fournitures et appareils et notamment les appareils de prothèse et d'orthèse figurant sur la liste mentionnée à l'article
-1er du décret n° 81-460 du 8 mai 1981 sont fournis aux bénéficiaires des articles L. 115, L. 124 et L. 128 et pris en charge
-par l'Etat dans les conditions fixées par ce même décret.
+Les produits et prestations mentionnés à l'article L. 165-1 du code de la sécurité sociale sont fournis aux bénéficiaires des
+articles L. 115, L. 124 et L. 128 et pris en charge par l'Etat dans les conditions fixées aux articles R. 165-1 à R. 165-30
+du code de la sécurité sociale. Pour l'application des articles précités, les services du ministre chargé des anciens
+combattants assurent la prise en charge et, par médecin-conseil, il faut entendre médecin-chef ou médecin spécialiste de
+centre d'appareillage.
 
 **Liens relatifs à cet article**
 
@@ -22940,16 +22942,9 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-460 1981-05-08 art. 34 II JORF 10 mai 1981
-
-_Cite_:
-
-  - Décret n°81-460 du 8 mai 1981 - art. 1 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L124 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L128 (V)
+  - Décret n°2001-256 du 26 mars 2001 - art. 2 () JORF 28 mars 2001
 
 _Cité par_:
 
