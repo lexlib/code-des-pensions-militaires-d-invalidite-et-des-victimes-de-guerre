@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1967-10-20
+Version Consolidée au 1967-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -8356,6 +8356,33 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L258
+
+Lorsque, par suite du fait personnel de l'ancien combattant, la demande de retraite du combattant est déposée postérieurement
+à l'expiration de la troisième année qui suit celle où il remplit toutes les conditions pour l'obtenir, le titulaire ne peut
+prétendre qu'aux arrérages de la retraite du combattant afférents à l'année au cours de laquelle la demande a été déposée et
+aux trois années antérieures.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Décret n°57-1406 1957-12-31 art. 1 JORF 1er janvier 1958
+  - Loi n°67-1114 1967-12-21 art. 74 I JORF 22 décembre 1967
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L321-4 (VD)
 
 
 ###### Article L259
