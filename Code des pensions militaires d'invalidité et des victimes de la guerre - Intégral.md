@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1957-01-24
+Version Consolidée au 1957-02-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -109,10 +109,10 @@ Version Consolidée au 1957-01-24
         - [Chapitre III : Statut des déportés et internés politiques (art. L287 à L295-2)](#106)
           - [Section 1 : De la qualité de déporté et interné politique. (art. L287 à L294)](#107)
           - [Section 2 : Droits des déportés et internés politiques. (art. L295-1 à L295-2)](#108)
-        - [Chapitre IV : Statut des réfractaires. (art. L297 à L306)](#109)
-          - [Section 1 : De la qualité de réfractaire. (art. L300)](#110)
+        - [Chapitre IV : Statut des réfractaires. (art. L296 à L307)](#109)
+          - [Section 1 : De la qualité de réfractaire. (art. L298 à L300)](#110)
           - [Section 2 : Droits des réfractaires. (art. L301 à L304)](#111)
-          - [Section 3 : Dispositions diverses. (art. L305 à L306)](#112)
+          - [Section 3 : Dispositions diverses. (art. L305 à L307)](#112)
         - [Chapitre V : Statut des personnes contraintes au travail (art. L308 à L318)](#113)
           - [Section 1 : Définition des bénéficiaires. (art. L308 à L312)](#114)
           - [Section 2 : Droit des personnes contraintes au travail. (art. L313 à L318)](#115)
@@ -8635,6 +8635,72 @@ _Codifié par_:
 
 #### Chapitre IV : Statut des réfractaires.<a id=109></a>
 
+###### Article L296
+
+Sont considérées comme réfractaires les personnes qui :
+
+1° Ayant fait l'objet d'un ordre de réquisition résultant des actes dont la nullité a été expressément constatée dits "loi du
+4 septembre 1942", "décret du 19 septembre 1942", "loi du 16 février 1943", "loi du 1er février 1944", ont volontairement
+abandonné leur entreprise ou le siège de leur activité, ou, à défaut d'être employées dans une entreprise ou d'exercer une
+activité, leur résidence habituelle, pour ne pas répondre à cet ordre ;
+
+2° Ayant été dirigées sur un lieu de travail à la suite d'un ordre de réquisition ou comme victimes de rafles, se sont
+soustraites par évasion à leur affectation ;
+
+3° Sous l'emprise de ces contraintes ou victimes de rafles, ont été envoyées en Allemagne, mais volontairement n'y sont pas
+retournées à l'issue de leur première permission en France ;
+
+4° Sans avoir reçu l'ordre de réquisition ou de mutation, mais inscrites sur les listes de main-d'oeuvre ou appartenant à des
+classes de mobilisation susceptibles d'être requises, se sont dérobées préventivement en abandonnant leur entreprise ou le
+siège de leur activité, ou, à défaut d'être employées dans une entreprise ou d'exercer une activité, leur résidence
+habituelle, pour ne pas répondre à cet ordre ;
+
+5° Domiciliées dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, annexés de fait, ont :
+
+a) Soit abandonné leur foyer pour ne pas répondre à un ordre de mobilisation dans les formations militaires ou paramilitaires
+allemandes ;
+
+b) Soit abandonné leur foyer, alors que, faisant partie des classes mobilisables par les autorités allemandes, elles
+couraient le risque d'être incorporées dans les formations militaires ou paramilitaires allemandes ;
+
+c) Soit quitté volontairement les formations militaires ou paramilitaires allemandes dans lesquelles elles avaient été
+incorporées de force.
+
+Il est exigé, en outre, que les personnes visées ci-dessus aient, depuis leur refus de se soumettre ou leur soustraction
+préventive, vécu en marge des lois et des règlements français ou allemands en vigueur à l'époque et que les personnes visées
+au 4° apportent, par ailleurs, la preuve qu'elles ont fait l'objet de recherches ou de poursuites de la part de
+l'administration française ou allemande.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2014-1284 du 23 octobre 2014 - art. (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L297 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L298 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L299 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R388-7 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R574 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R578 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L344-1 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L344-2 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°57-134 1957-02-08 art. 1 JORF 9 février 1957
+
+
 ###### Article L297
 
 L'opposition aux lois et décrets de Vichy stipulés à l'article L. 296 est considérée comme un acte de résistance lorsqu'elle
@@ -8661,6 +8727,130 @@ _Codifié par_:
 
 
 ##### Section 1 : De la qualité de réfractaire.<a id=110></a>
+
+###### Article L298
+
+Le bénéfice du présent statut est subordonné :
+
+1° A une durée de réfractariat de trois mois avant le 6 juin 1944, pour les personnes visées aux 1°, 2°, 3°, 4° de l'article
+L. 296 ci-dessus ;
+
+2° A une durée de réfractariat de trois mois avant la libération ou la conquête de leur commune de refuge, pour les personnes
+visées aux a et b du 5° de l'article L. 296 ci-dessus.
+
+Cette durée minimum de réfractariat n'est pas exigée des personnes qui, réfractaires selon le cas avant le 6 mars 1944 ou au
+moins trois mois avant la libération de leur commune de refuge, se sont engagées dans les forces militaires françaises ou
+alliées ou ont été arrêtées par le gouvernement de Vichy ou les autorités allemandes.
+
+Les périodes pendant lesquelles les personnes définies à l'article L. 296 ont pu trouver une protection de fait, soit en
+s'engageant dans certains secteurs d'activité professionnelle, soit par suite d'accident ou de maladie survenus au cours de
+leur réfractariat, ne sont pas prises en compte. Cette disposition ne s'applique pas aux Alsaciens et aux Mosellans, visés au
+5° dudit article, qui se sont réfugiés hors des départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+En ce qui concerne les personnes victimes d'accident ou atteintes de maladies au cours de leur réfractariat et par dérogation
+aux dispositions des 1° et 2° du premier alinéa ci-dessus, la période à prendre en considération peut être inférieure à trois
+mois, à condition toutefois que les intéressés se soient trouvés dans la position de réfractaire, selon le cas, avant le 6
+mars 1944 ou au moins trois mois avant la libération de leur commune de refuge et que la durée totale des périodes de
+réfractariat et d'indisponibilité pour raison de santé soit d'au moins trois mois.
+
+En outre, les personnes visées au 1er du premier alinéa ci-dessus, requises postérieurement au 5 mars 1944 et trois mois au
+moins avant la libération de leur commune de refuge, pourront bénéficier des dispositions du statut, à la condition qu'elles
+fournissent la preuve qu'elles ont fait l'objet de recherches ou de poursuites de la part de l'administration française ou
+allemande.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L299 (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-1 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L296
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°57-134 1957-02-08 art. 1 JORF 9 février 1957
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L299
+
+Parmi les personnes visées aux 1°, 2°, 3° et 4° de l'article L. 296 ci-dessus qui ont régularisé leur situation à l'égard de
+la législation de l'époque par une affectation dans une entreprise ou un secteur désigné à cet effet par le gouvernement de
+Vichy, seules peuvent se voir reconnaître la qualité de réfractaire celles qui ont répondu pendant six mois au moins avant le
+6 juin 1944 aux conditions fixées par ledit article L. 296. Les dispositions des alinéas 2, 3 et 4 de l'article L. 298 ci-
+dessus leur sont applicables, la date du 6 décembre 1943 étant, en outre, substituée à celle du 6 mars 1944.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L296 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L298 (VT)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L342 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R355 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R361 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-2 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. R355 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°57-134 1957-02-08 art. 1 JORF 9 février 1957
+
+
+###### Article L299 bis
+
+Ne peuvent prétendre à la qualité de réfractaire les personnes qui auraient travaillé volontairement dans l'organisation Todt
+ou dans tout autre organisme créé pendant l'occupation, dans l'intention d'aider exclusivement à l'effort de guerre de
+l'ennemi, ou seraient volontairement parties pour l'Allemagne, ou auraient volontairement accepté de rejoindre ce pays.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L344-3 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°57-134 1957-02-08 art. 2 JORF 9 février 1957
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
 
 ###### Article L300
 
@@ -8817,6 +9007,41 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance 2004-637 2004-07-01 art. 13 5° JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+
+###### Article L307
+
+Les commissions départementales sont instituées auprès des offices départementaux des anciens combattants et victimes de
+guerre et la commission nationale auprès de l'office national des anciens combattants et victimes de guerre.
+
+Ces commissions comprennent [*composition*] :
+
+a) Les représentants du ministère des anciens combattants et victimes de guerre ;
+
+Des représentants du ministre de la sécurité sociale ;
+
+Des représentants de la Résistance intérieure française, désignés par les ministres intéressés ;
+
+b) A concurrence de la moitié des membres composant chaque commission de représentants de la catégorie visée au présent
+chapitre, désignés par le ministre des anciens combattants et victimes de guerre. Cette désignation a lieu, en ce qui
+concerne la commission nationale, sur présentation des organisations nationales les plus représentatives de réfractaires ; en
+ce qui concerne les commissions départementales, sur présentation des organisations nationales qualifiées sur le plan
+départemental ou, à défaut, sur présentation des organisations locales de réfractaires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et des v - art. R357 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°57-134 1957-02-08 art. 3 JORF 9 février 1957
 
 
 #### Chapitre V : Statut des personnes contraintes au travail<a id=113></a>
