@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1959-12-06
+Version Consolidée au 1960-03-03
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -207,7 +207,7 @@ Version Consolidée au 1959-12-06
         - [Chapitre II : Voies de recours. (art. R43 à R90)](#204)
           - [Section 1 : Tribunal départemental des pensions. (art. R43 à R62)](#205)
             - [Paragraphe 1 : Désignation des membres du tribunal. (art. R43 à R45)](#206)
-            - [Paragraphe 2 : Indemnités. (art. R46)](#207)
+            - [Paragraphe 2 : Indemnités. (art. R46 à R47)](#207)
             - [Paragraphe 3 : Rôle des associations dans le choix des délégués des pensionnés. (art. R48 à R49)](#208)
             - [Paragraphe 4 : Remplacement des membres du tribunal cessant leurs fonctions en cours de mandat. (art. R50)](#209)
             - [Paragraphe 5 : Attributions du greffier du tribunal. (art. R51)](#210)
@@ -16539,6 +16539,55 @@ _Nouveaux textes_:
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R54 (V)
+
+
+###### Article R47
+
+Dans le cas de mise en observation dans les conditions de l'article L. 87 (1), il est alloué à l'intéressé, en plus du
+paiement des frais d'hospitalisation, une indemnité journalière égale à la moitié de l'indemnité de comparution fixée à
+l'article R. 61 ; la même somme est, en outre, s'il y a lieu, payée à sa femme, avec une majoration de moitié, si l'intéressé
+a des enfants à charge au sens de la loi du 22 août 1946 fixant le régime des prestations familiales.
+
+Toutefois, ces allocations ne sont pas payées aux agents des collectivités publiques qui continuent à recevoir l'intégralité
+de leur traitement ou salaire et indemnité pendant la durée de leur hospitalisation.
+
+Il est alloué aux médecins, experts, pour l'ensemble des actes, convocations, examens, rapports et dépôts de rapport devant
+la cour régionale ou le tribunal des pensions, par pensionné examiné, une somme égale à l'honoraire prévu, pour visite
+judiciaire et dépôt d'un rapport, au tarif des frais de justice en matière criminelle ; si l'expertise a présenté des
+difficultés particulières qui ont nécessité le dépôt d'un rapport détaillé, cet honoraire peut être doublé par le président
+de la cour ou du tribunal.
+
+Les frais de transport des médecins experts leur sont éventuellement remboursés dans les conditions prévues au tarif des
+frais de justice en matière criminelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°60-198 1960-02-27 art. 1 JORF 3 mars 1960
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A107 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R12 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D711-6 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R61
+  - Loi n°1946-08-22
 
 
 ##### Paragraphe 3 : Rôle des associations dans le choix des délégués des pensionnés.<a id=208></a>
