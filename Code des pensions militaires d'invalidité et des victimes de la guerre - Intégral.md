@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1979-07-26
+Version Consolidée au 1979-11-20
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -35002,6 +35002,41 @@ carnet de soins les motifs qui ont empêché l'intéressé de se rendre en consu
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D60 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+
+
+###### Article D60
+
+Préalablement à l'exécution de certains actes ou traitements, le médecin traitant doit demander leur prise en charge sous pli
+confidentiel adressé au médecin contrôleur des soins gratuits.
+
+Ces actes ou traitements sont ceux figurant à la Nomenclature générale des actes professionnels des médecins, chirurgiens-
+dentistes, sages-femmes et auxiliaires médicaux ou à la nomenclature des actes de biologie médicale et qui sont soumis en
+matière de sécurité sociale à la formalité de l'entente préalable.
+
+En cas d'urgence, cette demande de prise en charge doit être adressée le plus tôt possible et au plus tard dans les quarante-
+huit heures, qui suivent le jour où l'acte a été effectué ou, pour les actes de série, le jour de la première séance.
+
+Les demandes de prise en charge concernant les actes ou traitements susmentionnés doivent être accompagnées d'un bulletin
+extrait du carnet de soins, mentionnant la nature exacte de l'affection nécessitant les soins. Ce bulletin doit être rempli
+par le médecin traitant ou, à défaut, par le praticien qui doit dispenser l'acte ou effectuer le traitement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A13 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. A32 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D104 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D61 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D62 (V)
 
 _Codifié par_:
 
