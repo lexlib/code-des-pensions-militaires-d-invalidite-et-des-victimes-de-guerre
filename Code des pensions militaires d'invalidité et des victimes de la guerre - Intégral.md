@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1993-03-20
+Version Consolidée au 1993-07-20
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -16963,15 +16963,27 @@ _Codifié par_:
 
 Après avoir entendu le ministère public, et sans aucune forme de procédure, le tribunal ou la cour prononce en ces termes :
 
-"La nation adopte (ou n'a pas adopté) le mineur X...".
+"La nation adopte (ou n'a pas adopté) l'enfant X ...".
 
 Le recours en cassation est ouvert contre toute décision d'admission ou de rejet.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°93-915 du 19 juillet 1993 - art. 2 () JORF 20 juillet 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L467 (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R412-7 (V)
 
 _Codifié par_:
 
@@ -17003,8 +17015,8 @@ _Abrogé par_:
 
 ###### Article L470
 
-Les enfants adoptés par la nation ont droit, jusqu'à l'accomplissement de leur majorité, à la protection, au soutien matériel
-et moral de l'Etat pour leur éducation, dans les conditions et limites prévues par le présent titre.
+Les enfants adoptés par la nation ont droit, jusqu'à l'âge de vingt et un ans, à la protection, au soutien matériel et moral
+de l'Etat pour leur éducation, dans les conditions et limites prévues par le présent titre.
 
 Dans le cas d'insuffisance des ressources de la famille, la nation assure la charge, partielle ou totale, de leur entretien
 et de leur éducation.
@@ -17014,6 +17026,18 @@ prorogé jusqu'à l'expiration du service militaire actif légal. Un délai de s
 leur libération pour faire valoir ce droit.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°93-915 du 19 juillet 1993 - art. 2 () JORF 20 juillet 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L421-1 (VD)
 
 _Codifié par_:
 
