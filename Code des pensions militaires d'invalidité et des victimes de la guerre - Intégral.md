@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -56417,24 +56417,20 @@ _Cité par_:
 
 ###### Article A187
 
-Pour l'application de l'article L. 414, les militaires de carrière sont classés en tenant compte :
+Pour l'application de l'article L. 414, les militaires sont classés en tenant compte :
 
-De la durée de leurs services effectifs, sans toutefois que ceux-ci puissent être comptés pour plus de quinze ans ;
+- des notes obtenues à l'examen ;
 
-Des services qu'ils ont effectués soit comme caporal, brigadier, caporal chef, brigadier chef ou quartier-maître, soit comme
-sous-officier ou officier marinier engagé ou rengagé, soit comme sous-officier de carrière ou officier marinier ou cadre de
-maistrance ;
+- de la durée de leurs services effectifs, sans que ceux-ci puissent être comptés pour plus de quinze ans ;
 
-Des enfants à leur charge ouvrant droit aux allocations familiales ou à l'allocation de salaire unique ;
+- des services qu'ils ont effectués soit comme caporal, brigadier, caporal-chef, brigadier-chef, quartier-maître sous
+contrat, soit comme sous-officier, officier marinier et officier sous contrat, soit comme officier marinier du cadre de
+maistrance et sous-officier de carrière ;
 
-Des notes obtenues aux examens ;
+- des campagnes, des décorations, des citations quelle que soit l'époque à laquelle elles ont été effectuées, méritées ou
+accordées ;
 
-Des campagnes, des décorations, des citations, quelle que soit l'époque à laquelle elles ont été effectuées, méritées ou
-accordées.
-
-**Nota:**
-
-
+- des enfants à charge au sens du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -56442,14 +56438,14 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Arrêté 2002-01-21 art. 1 JORF 1er février 2002
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. A189 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. A188 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A189 (M)
 
 _Cite_:
 
@@ -56458,122 +56454,102 @@ _Cite_:
 
 ###### Article A188
 
-Pour l'application des dispositions de l'article A. 187, le décompte des points à attribuer à chaque candidat est fixé comme
-suit :
+Pour l'application des dispositions de l'article A. 187, le barème est fixé comme suit :
 
-I. - ANCIENNETE DE SERVICE
+I. - Aptitude professionnelle
 
-Pour l'ancienneté de service (tout mois commencé est compté comme fait) : 1 point par mois jusqu'à quinze ans (maximum : 180
-points).
+La totalité des points obtenus par le candidat aux épreuves de l'examen.
 
-Les services des militaires en activité qui sont arrêtés au dernier jour du trimestre au cours duquel la demande a été
-déposée.
+II. - Ancienneté de service
 
-II. - MAJORATIONS MILITAIRES
+0,1 point par mois jusqu'à quinze ans ; maximum : 18 points (tout mois commencé est compté comme fait).
 
-A. - Suivant la catégorie à laquelle appartient l'intéressé au moment où ses services sont arrêtés.
+La durée des services est arrêtée au dernier jour du trimestre au cours duquel la demande a été déposée.
 
-CATEGORIE : Caporaux, brigadiers, caporaux-chefs, brigadiers-chefs
+III. - Majorations militaires
 
-DUREE DES SERVICES : De 0 à 5 ans
+A. - Suivant la catégorie à laquelle l'intéressé appartient au moment où ses services sont arrêtés.
 
-MAJORATION : 10 points
+CATEGORIES :
 
-DUREE DES SERVICES : De 5 à 10 ans
+Caporal, brigadier, caporal-chef, brigadier-chef, quartier-maître sous contrat.
 
-MAJORATION : 20 points
+DUREE des services : de 0 à 4 ans
 
-DUREE DES SERVICES : De 10 à 15 ans
+MAJORATIONS : 1 point
 
-DUREE DES SERVICES : 30 points
+DUREE des services : de 4 à 8 ans
 
-CATEGORIE : Quartiers-maîtres, sous-officiers engagés ou rengagés
+MAJORATIONS : 2 points
 
-DUREE DES SERVICES : De 0 à 5 ans
+DUREE des services : de 8 à 15 ans
 
-MAJORATION : 30 points
+MAJORATIONS : 3 points
 
-DUREE DES SERVICES : De 5 à 10 ans
+CATEGORIES :
 
-MAJORATION : 40 points
+Sous-officier, officier marinier et officier sous contrat.
 
-DUREE DES SERVICES : de 10 à 15 ans
+DUREE des services : de 0 à 4 ans
 
-MAJORATION : 50 points
+MAJORATIONS : 3 points
 
-CATEGORIE : Officiers mariniers engagés, rengagés ou du cadre de maistrance et sous-officiers de carrière
+DUREE des services : de 4 à 8 ans
 
-DUREE DES SERVICES : De 0 à 10 ans
+MAJORATIONS : 4 points
 
-MAJORATION : 50 points
+DUREE des services : de 8 à 15 ans
 
-DUREE DES SERVICES : De 10 à 15 ans
+MAJORATIONS : 5 points
 
-MAJORATION : 80 points
+CATEGORIES :
+
+Officier marinier du cadre de maistrance et sous-officier de carrière.
+
+DUREE des services : de 0 à 10 ans
+
+MAJORATIONS : 5 points
+
+DUREE des services : de 10 à 15 ans
+
+MAJORATIONS : 8 points
 
 B. - Campagnes
 
-Un point par année de campagne ou de bonification pour services aériens.
+0,3 point par année de campagne, de service aérien, de service sous-marin et subaquatique, 0,2 point pour six mois et 0,1
+point pour trois mois.
 
-Un demi-point pour six mois de campagne ou de bonification pour services aériens.
-
-Un quart de point pour trois mois de campagne ou de bonification pour services aériens.
-
-Les fractions inférieures à un quart de point sont négligées.
-
-Le calcul des bonifications acquises au titre des campagnes et des services aériens servant de base aux majorations de
-points, est effectué conformément aux articles R. 14 à R. 25 du Code des pensions civiles et militaires de retraite et aux
-textes d'application desdits articles.
+Le calcul des bonifications acquises au titre des campagnes, des services aériens, des services sous-marins ou subaquatiques,
+servant de base aux majorations de points, est effectué conformément aux articles R. 14 à R. 25 du code des pensions civiles
+et militaires de retraite.
 
 C. - Décorations et citations
 
-Légion d'honneur : dix points.
+Les majorations s'appliquent aux décorations suivantes :
 
-Médaille militaire : cinq points.
+Légion d'honneur : 3 points ;
 
-Croix de la Libération : dix points.
+Médaille militaire : 2 points ;
 
-Médaille de la résistance avec rosette : trois points.
+Ordre national du Mérite : 2 points ;
 
-Médaille de la résistance : deux points.
+Croix de guerre des théâtres des opérations extérieures : 1 point ;
 
-D. - Croix de guerre et citations 1914-1918, guerre 1939-1945 et T.O.E.
+Croix de la valeur militaire : 1 point.
 
-Croix de guerre avec palme (citation à l'ordre de l'armée) : cinq points.
+IV. - Majorations pour enfants
 
-Croix de guerre avec étoile de vermeil (citation à l'ordre du corps d'armée) : quatre points.
-
-Croix de guerre avec étoile d'argent (citation à l'ordre de la division) : trois points.
-
-Croix de guerre avec étoile de bronze (citation à l'ordre de la brigade) : deux points.
-
-Croix de guerre avec étoile de bronze (citation à l'ordre du régiment ou du bataillon) : un point.
-
-Les décorations et citations obtenues après quinze ans doivent être comptées.
-
-E. - Brevets
-
-Cinq points par brevet ouvrant droit à l'échelle de solde n° 3.
-
-Dix points par brevet ou titre ouvrant droit à l'échelle n° 4.
-
-III. - MAJORATIONS POUR ENFANTS
-
-Cinq points par enfant ouvrant droit aux allocations familiales ou à l'allocation de salaire unique.
-
-IV. - APTITUDE PROFESSIONNELLE
-
-Total des points obtenus par le candidat aux épreuves de l'examen.
-
-**Nota:**
-
-
+0,1 point par enfant à charge.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 2002-01-21 art. 2 JORF 1er février 2002
 
 _Cite_:
 
@@ -56584,21 +56560,24 @@ _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. A189 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A189 (M)
-
 
 ###### Article A189
 
-Les dispositions des articles A. 187 et A. 188 sont applicables aux candidatures déposées postérieurement au 15 novembre
-1949.
+Les dispositions des articles A. 187 et A. 188 sont applicables aux sessions d'examens postérieures au 1er janvier 2002.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 2002-01-21 art. 3 JORF 1er février 2002
+
+_Abrogé par_:
+
+  - Arrêté du 11 juin 2009 - art. 1
 
 **Liens**:
 
@@ -56607,8 +56586,8 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. A187 (M)
-  - Code des pensions militaires d'invalidité et des v - art. A188 (M)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A187
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A188
 
 
 ###### Article A190-1
@@ -56616,14 +56595,10 @@ _Cite_:
 Les dossiers des militaires en activité de service qui sollicitent le bénéfice de la législation sur les emplois réservés
 doivent comprendre les pièces énumérées ci-après :
 
-1° Demande d'emplois indiquant le ou les départements, dans la limite de deux par emploi, où le candidat désire être nommé.
-Cette demande sera revêtue de l'avis du chef de corps et de son appréciation portant sur la manière de servir du candidat et
-sur son aptitude à occuper l'emploi ou les emplois réservés qu'il sollicite ; elle devra mentionner en outre le consentement
-du conseil de régiment pour les militaires de l'armée de terre, du conseil de base pour les militaires de l'armée de l'air,
-du conseil d'administration pour les marins ;
+1° Mémoire de proposition établi par l'autorité militaire et certifié par le candidat ;
 
-2° Mémoire de proposition modèle 5 établi par l'autorité militaire portant mention, le cas échéant, des brevets dont le
-candidat serait titulaire ;
+2° Photocopie du livret de famille régulièrement tenu à jour, complétée éventuellement par une déclaration sur l'honneur
+précisant l'identité et l'âge des enfants reconnus à charge au sens du code de la sécurité sociale ;
 
 3° Fiche d'état civil indiquant la situation de famille, notamment l'âge des enfants, complétée par une déclaration sur
 l'honneur précisant si ces derniers sont ou non à la charge du candidat au sens du Code de la famille ;
@@ -56646,22 +56621,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1998-10-30 art. 1 JORF 17 novembre 1998
+  - Arrêté 2002-01-21 art. 4 JORF 1er février 2002
 
 **Liens**:
 
-  - SPEC_APPLI: Arrêté 1998-10-30 art. 2 : les présentes dispositions seront applicables aux inscriptions aux examens des emplois réservés à compter de la session de 1999
   - TXT_SOURCE: Arrêté du 30 octobre 1998
   - TXT_SOURCE: Arrêté du 30 octobre 1998 - art. 2 (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L398 (V)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre R401 à R428, L398
+  - Arrêté du 11 juin 2009 - art. 1
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. R401 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L398
 
 
 ##### Section 2 : Indemnités allouées aux membres des commissions médicales et des commissions de classement.<a id=577></a>
