@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1953-09-29
+Version Consolidée au 1953-10-24
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -28205,6 +28205,65 @@ _Cité par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
 
 
+###### Article D11
+
+Lorsqu'un pensionné à 100 % pour tuberculose demande à bénéficier de l'indemnité prévue à l'article L. 41, il appartient au
+service interdépartemental ou départemental du ministère des anciens combattants et victimes de la guerre habilité à recevoir
+la demande de constituer le dossier et de le transmettre à l'organisme antituberculeux ou au médecin chargé de la
+surveillance, aux fins d'instruction de la requête du point de vue médical.
+
+L'organisme antituberculeux transmet le dossier auquel il annexe ses observations et conclusions, au médecin phtisiologue
+départemental qui émet son avis sur les droits à indemnité après avoir s'il le juge utile prescrit la mise en observation du
+pensionné dans un service hospitalier qualifié au titre de l'article L. 117.
+
+Lorsque l'instruction médicale est achevée, le dossier est adressé au directeur interdépartemental ou départemental des
+anciens combattants et victimes de la guerre qui, en vertu de la délégation qu'il a reçue du ministre des anciens combattants
+et victimes de guerre, prend une décision accordant ou refusant l'attribution de l'indemnité suivant l'avis du médecin
+phtisiologue départemental.
+
+Les décisions visées ci-dessus sont susceptibles des voies de recours prévues par l'article L. 79.
+
+En ce cas, les tribunaux sont tenus de choisir les experts sur la liste qui est dressée à cet effet par le ministère de la
+santé publique et de la population.
+
+Si les conclusions de l'expertise sont contestées par le requérant et si le tribunal se trouve insuffisamment éclairé, le
+président du tribunal pourra soit demander un rapport complémentaire, soit solliciter l'avis du médecin consultant régional
+de phtisiologie, soit transmettre le dossier à une commission spéciale composée de médecins phtisiologues désignés par le
+ministère de la santé publique parmi les membres de la commission de la tuberculose du conseil supérieur d'hygiène sociale de
+France. Dans chacune des trois éventualités susvisées, l'avis pourra être donné :
+
+Soit sur examen du dossier ;
+
+Soit après examen médical de l'intéressé. Lorsque cet examen médical est prescrit par la commission spéciale ci-dessus visée,
+il est pratiqué par un médecin expert désigné par cet organisme.
+
+Dans ces trois éventualités, la mise en observation de l'intéressé pourra être prescrite par le médecin expert.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L117 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L41 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L79 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L41, annexe, L117, L79
+
+_Modifié par_:
+
+  - Décret n°53-1038 1953-10-23 art. 1 JORF 24 octobre 1953
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D15 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D18 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R34-3 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
 ###### Article D12
 
 Rapporté par décret n° 53-772 du 13 août 1953.
@@ -28218,6 +28277,58 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D13
+
+Lorsque la tuberculose dont le malade est atteint n'est pas pulmonaire, le médecin phtisiologue départemental demande l'avis
+d'un médecin spécialiste qualifié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°53-1038 1953-10-23 art. 2 JORF 24 octobre 1953
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D15
+
+L'indemnité est payable mensuellement et à terme échu.
+
+En cas de suppression de l'indemnité, l'intéressé a droit pendant un an, à compter de la décision de la suppression, à la
+moitié de l'indemnité supprimée.
+
+Lorsque les motifs qui ont provoqué la suppression de l'indemnité ont cessé d'exister, le pensionné peut en obtenir le
+rétablissement dans la forme prescrite pour la première demande par l'article D. 11 sans préjudice des cas où la constatation
+que les conditions posées à l'article D. 9 sont à nouveau remplies relève directement du directeur interdépartemental ou
+départemental et ne nécessite pas d'examen médical nouveau.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°53-1038 1953-10-23 art. 4 JORF 24 octobre 1953
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D11 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
 
 
 ###### Article D16
