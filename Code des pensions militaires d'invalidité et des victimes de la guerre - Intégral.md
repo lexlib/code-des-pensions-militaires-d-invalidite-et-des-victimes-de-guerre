@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1955-09-03
+Version Consolidée au 1955-10-05
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -223,10 +223,10 @@ Version Consolidée au 1955-09-03
       - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. R91 à R102)](#220)
         - [Chapitre III : Prescription des arrérages. (art. R91 à R101)](#221)
         - [Chapitre V : Règles générales de cumul. (art. R102)](#222)
-      - [Titre VIII : Application dans les pays d'outre-mer de certaines dispositions du livre 1 de la première partie du code (instruction des demandes et voies de recours). (art. R122 à R145)](#223)
-        - [Chapitre II : Dispositions spéciales aux pays d'outre-mer. (art. R122 à R145)](#224)
-          - [Section 3 : Dispositions spéciales concernant les voies de recours. (art. R122 à R145)](#225)
-            - [Paragraphe 1 : Juridiction de première instance. (art. R122 à R123)](#226)
+      - [Titre VIII : Application dans les pays d'outre-mer de certaines dispositions du livre 1 de la première partie du code (instruction des demandes et voies de recours). (art. R121 à R145)](#223)
+        - [Chapitre II : Dispositions spéciales aux pays d'outre-mer. (art. R121 à R145)](#224)
+          - [Section 3 : Dispositions spéciales concernant les voies de recours. (art. R121 à R145)](#225)
+            - [Paragraphe 1 : Juridiction de première instance. (art. R121 à R124)](#226)
             - [Paragraphe 2 : Juridiction d'appel. (art. R125 à R129)](#227)
             - [Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc. (art. R131 à R136)](#228)
             - [Paragraphe 4 : Attributions. (art. R137 à R140)](#229)
@@ -16982,6 +16982,45 @@ _Nouveaux textes_:
 
 ##### Paragraphe 1 : Juridiction de première instance.<a id=226></a>
 
+###### Article R121
+
+Dans les territoires d'outre-mer où il n'existe pas d'associations de mutilés et réformés, le tribunal des pensions se
+compose :
+
+1° D'un président ;
+
+2° D'un médecin, désigné dans les conditions indiquées à l'article R. 119 ;
+
+3° D'un délégué du haut commissaire ou du chef du territoire choisi, de préférence, parmi les administrateurs de la France
+d'outre-mer, licenciés en droit et titulaires de la carte du combattant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-1308 1955-09-29 art. 1 JORF 5 octobre 1955
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R123 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R119
+
+
 ###### Article R122
 
 La liste des pensionnés présentée par l'association de mutilés et réformés du pays d'outre-mer, ou, s'il y a plusieurs
@@ -17029,6 +17068,34 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R120 (V)
   - Code des pensions militaires d'invalidité et des v - art. R121 (V)
   - Code des pensions militaires d'invalidité et des v - art. R122 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
+
+
+###### Article R124
+
+La compétence du tribunal des pensions s'étend sur l'ensemble du territoire d'outre-mer ou du territoire sous tutelle sur
+lequel il est institué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-1308 1955-09-29 art. 2 JORF 5 octobre 1955
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D741-3 (V)
 
 **Liens**:
 
@@ -17098,6 +17165,22 @@ _Abrogé par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et de... - art. R125 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
+
+
+###### Article R127 bis
+
+Le tribunal départemental des pensions de Paris et la cour régionale des pensions de Paris sont chargés de statuer sur toutes
+les questions auxquelles donne lieu l'application du présent code dans les anciens Etats associés d'Indochine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 **Liens**:
 
