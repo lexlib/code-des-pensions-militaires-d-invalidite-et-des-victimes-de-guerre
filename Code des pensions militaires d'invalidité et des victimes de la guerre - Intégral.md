@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1983-06-09
+Version Consolidée au 1983-06-09 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -14898,16 +14898,16 @@ Dans chaque catégorie, les candidats sont classés par emploi et par départeme
 Lorsqu'il y a lieu d'établir une nouvelle liste de classement, le reliquat de la liste précédente est reporté, en respectant
 l'ordre de classement, en tête de la nouvelle liste.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Décret n°55-690 1955-05-20 art. 2 JORF 22 mai 1955
-  - Loi n°83-452 1983-06-07 art. 1 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
 
 _Cité par_:
 
@@ -14937,26 +14937,21 @@ notification de leur désignation à l'administration intéressée.
 Pour les vacances revenant exclusivement aux candidats bénéficiaires du paragraphe 2 de la première section, il est fait
 appel aux seuls candidats de cette catégorie.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°83-452 1983-06-07 art. 2 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R432 (Ab)
   - Code du travail - art. R323-106 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L402 (V)
-  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L405 (V)
-  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L406 (V)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L419
