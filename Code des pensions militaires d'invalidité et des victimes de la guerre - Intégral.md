@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1960-12-24
+Version Consolidée au 1961-03-29
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -265,7 +265,7 @@ Version Consolidée au 1960-12-24
           - [Section 2 : Procédure d'attribution et de retrait de la carte. (art. R229 à R235)](#262)
         - [Chapitre II : Retraite du combattant. (art. R236 à R251)](#263)
           - [Section 1 : Procédure d'attribution. (art. R236 à R240)](#264)
-          - [Section 2 : Payement de la retraite. (art. R243 à R244)](#265)
+          - [Section 2 : Payement de la retraite. (art. R243 à R245)](#265)
           - [Section 3 : Citoyens français n'ayant pas servi dans l'armée française. (art. R246 à R251)](#266)
         - [Chapitre III : Mesures d'exécution. (art. R252 à R253)](#267)
       - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R254 à R387 bis)](#268)
@@ -21248,6 +21248,51 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. R235 (M)
+
+
+###### Article R245
+
+La jouissance des arrérages de la retraite du combattant cesse à la fin du mois au cours duquel survient la suspension ou
+l'expiration du droit.
+
+En ce qui concerne les anciens combattants visés à l'article L. 256, troisième alinéa, du présent code :
+
+Lorsque la suspension ou l'expiration du droit intervient au cours de la période de six mois se terminant à la fin du mois
+civil de l'échéance, les arrérages sont dus jusqu'au dernier jour de ladite période ;
+
+Lorsque la suspension ou l'expiration du droit intervient au cours de la période de six mois qui suit le mois de l'échéance,
+les arrérages perçus sont acquis au titulaire ou à ses ayants droit.
+
+Lorsqu'un bénéficiaire de la retraite du combattant vient à décéder avant d'avoir obtenu le payement de ladite retraite qu'il
+avait sollicité, les sommes dues à son décès sont versées à ses héritiers, sur justification de leur qualité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°57-1407 1957-12-31 art. 2 JORF 1er janvier 1958
+  - Décret n°61-269 1961-03-28 art. 2 JORF 29 mars 1961
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D321-7 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R251 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R253 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L256
 
 
 ##### Section 3 : Citoyens français n'ayant pas servi dans l'armée française.<a id=266></a>
