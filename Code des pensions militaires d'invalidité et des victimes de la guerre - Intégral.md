@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1956-06-08
+Version Consolidée au 1956-07-31
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -482,8 +482,8 @@ Version Consolidée au 1956-06-08
         - [Chapitre III : Organisation administrative. (art. D569)](#479)
   - [Partie réglementaire - Arrêtés (art. A3-1 à A329)](#480)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A3-1 à A84)](#481)
-      - [Titre Ier : Droits à pension des invalides. (art. A3-1 à A3-3)](#482)
-        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1 à A3-3)](#483)
+      - [Titre Ier : Droits à pension des invalides. (art. A3-1)](#482)
+        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1)](#483)
       - [Titre V : Révision et voies de recours. (art. A4 à A11)](#484)
         - [Chapitre II : Voies de recours. (art. A4 à A11)](#485)
       - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A14 à A84)](#486)
@@ -38675,36 +38675,6 @@ _Abrogé par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et de... - art. A1 (Ab)
-
-
-###### Article A3-2
-
-Abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1951-04-24 JORF 29 avril 1951
-
-_Abrogé par_:
-
-  - Arrêté du 19 juillet 1956, v. init.
-
-
-###### Article A3-3
-
-Abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1951-04-24 JORF 29 avril 1951
-
-_Abrogé par_:
-
-  - Arrêté du 19 juillet 1956, v. init.
 
 
 ### Titre V : Révision et voies de recours.<a id=484></a>
