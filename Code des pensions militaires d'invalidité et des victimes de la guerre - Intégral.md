@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-07-04
+Version Consolidée au 1954-08-11
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -37091,6 +37091,21 @@ _Abrogé par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et de... - art. A1 (Ab)
+
+
+###### Article A3-2
+
+Abrogé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Abrogé par_:
+
+  - Arrêté du 19 juillet 1956, v. init.
 
 
 ###### Article A3-3
