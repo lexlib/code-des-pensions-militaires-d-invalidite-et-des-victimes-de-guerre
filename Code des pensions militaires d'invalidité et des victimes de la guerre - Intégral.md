@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1983-06-09
+Version Consolidée au 1983-07-10
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -24745,6 +24745,69 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre A115 à A135, A137, R224 C
 
 
+###### Article R227
+
+Les personnes ayant pris part à des opérations de guerre ne remplissant pas les conditions visées ci-dessus, notamment les
+militaires ayant pris part aux opérations effectuées avant le 2 août 1914, peuvent individuellement demander à bénéficier de
+la qualité de combattant. La décision sur chacun de ces ces est prise par le ministre des anciens combattants et victimes de
+guerre, après instruction et avis des offices départementaux et de l'office national des anciens combattants et victimes de
+guerre.
+
+Les prisonniers de guerre qui ne peuvent se prévaloir des dispositions de l'article R. 224 C, bien qu'ayant opposé une
+attitude de refus aux pressions des organismes servant l'ennemi bénéficient, pour l'attribution de la carte du combattant, de
+la procédure du présent article.
+
+Est examiné dans le cadre des dispositions du présent article, le cas des prisonniers de guerre qui, réunissant ou non les
+conditions fixées à l'article R. 224 C, relèvent de certaines catégories définies par arrêté du ministre des anciens
+combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Modifié par_:
+
+  - Décret n°75-87 1975-02-11 art. 2 JORF 13 février 1975
+  - Décret n°83-622 1983-07-08 art. 1 JORF 10 juillet 1983
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A134-5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A137 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A139 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L253 sexies (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L254 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L354 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R223 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R224 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R227 quater (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R246 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R248 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R271 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R388-6 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A123-5 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A124 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A125 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R227 bis (V)
+  - Code des pensions militaires d'invalidité et des v - art. R230 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R400 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R311-18 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R311-5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R224 C
+
+
 ###### Article R227 bis
 
 Les demandes individuelles de carte du combattant entrant dans le champ d'application de l'article R. 227 sont adressées à
@@ -24807,6 +24870,78 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+
+
+###### Article R227 quater
+
+La décision sur la demande d'attribution de la carte du combattant est prise par le commissaire de la République après avis
+de la commission départementale prévue à l'article R. 230, dans les cas où le nombre d'actions de feu ou de combat détermine
+la décision, conformément aux directives définies par la commission d'experts instituée par l'article L. 253 bis.
+
+Les personnes ayant pris part aux opérations ou aux actions définies à l'article L. 253 bis et qui ne remplissent pas les
+conditions mentionnées à l'alinéa précédent peuvent individuellement demander à bénéficier de la qualité de combattant
+suivant la procédure fixée par les articles R. 227 et R. 227 bis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Créé par_:
+
+  - Décret n°83-622 1983-07-08 art. 2 JORF 10 juillet 1983
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L253 bis (M)
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R227 bis (M)
+  - Code des pensions militaires d'invalidité et des v - art. R230 (M)
+
+
+###### Article R227 ter
+
+La commission d'experts instituée par l'article L. 253 bis comprend :
+
+1° Huit représentants des anciens combattants d'Afrique du Nord et six représentants des anciens combattants des autres
+conflits, désignés par arrêté du secrétaire d'Etat auprès du ministre de la défense, chargé des anciens combattants, sur
+proposition des associations concernées ;
+
+2° Trois représentants du ministre de la défense, trois représentants du secrétaire d'Etat auprès du ministre de la défense,
+chargé des anciens combattants, et un représentant du ministre de l'intérieur et de la décentralisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°83-622 1983-07-08 art. 2 JORF 10 juillet 1983
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (M)
+  - Arrêté du 14 mai 1997 - art. ANNEXE (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 7 novembre 1996
+  - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-525 du 28 avril 2016 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L253 bis
 
 
 ###### Article R228
