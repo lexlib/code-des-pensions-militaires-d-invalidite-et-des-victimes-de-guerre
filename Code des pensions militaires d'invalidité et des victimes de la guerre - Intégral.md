@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1975-06-13
+Version Consolidée au 1975-09-15
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -501,7 +501,7 @@ Version Consolidée au 1975-06-13
           - [Section 3 : Déplacements des pensionnés à l'occasion des soins. (art. A16 à A20)](#498)
           - [Section 4 : Transfert des corps des pensionnés décédés dans un établissement hospitalier. (art. A21 à A27)](#499)
           - [Section 5 : Enquêtes et contrôles. (art. A28 à A30)](#500)
-          - [Section 6 : Prestations sanitaires, médicaments, eaux minérales. (art. A32 à A35)](#501)
+          - [Section 6 : Prestations sanitaires, médicaments, eaux minérales. (art. A31 à A35)](#501)
           - [Section 7 : Examens radiologiques. (art. A36)](#502)
           - [Section 8 : Tarifs des honoraires médicaux et frais accessoires. (art. A37)](#503)
         - [Chapitre IV : Appareillage. (art. A48 à A55)](#504)
@@ -44316,6 +44316,38 @@ _Cite_:
 
 
 ##### Section 6 : Prestations sanitaires, médicaments, eaux minérales.<a id=501></a>
+
+###### Article A31
+
+Les médicaments pouvant être prescrits, délivrés et réglés au titre de l'article L. 155 sont les médicaments remboursables
+aux assurés sociaux du régime général de sécurité sociale en vertu des dispositions du Code de la santé publique et de ses
+textes d'application.
+
+En ce qui concerne la durée des traitements, les médecins sont également tenus de se conformer aux dispositions en vigueur en
+matière de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1975-09-15 art. 1 JORF 15 septembre 1975
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D212-7 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A108 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L155 (V)
+
 
 ###### Article A32
 
