@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1970-12-22
+Version Consolidée au 1971-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -4281,14 +4281,18 @@ _Codifié par_:
 
 ###### Article L110
 
-Quand le titulaire d'une pension définitive ou temporaire est déchu de la puissance paternelle, les majorations d'enfants
-sont inscrites au nom du tuteur et payées au tuteur.
+Quand le titulaire d'une pension définitive ou temporaire est déchu de l'autorité parentale, les majorations d'enfants sont
+inscrites au nom du tuteur et payées au tuteur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L161-2 (VD)
 
 
 ###### Article L111
