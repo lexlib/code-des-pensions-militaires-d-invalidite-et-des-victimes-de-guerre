@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1957-02-20
+Version Consolidée au 1957-03-16
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -462,7 +462,7 @@ Version Consolidée au 1957-02-20
           - [Section 4 : Organisation et administration. (art. D485 à D494)](#459)
             - [Paragraphe 1 : Conseil d'administration. (art. D485 à D488)](#460)
             - [Paragraphe 2 : Commission permanente et sous-commissions. (art. D489 à D492)](#461)
-            - [Paragraphe 3 : Questions diverses. (art. D494)](#462)
+            - [Paragraphe 3 : Questions diverses. (art. D493 à D494)](#462)
           - [Section 5 : Fonctionnement. (art. D495 à D501)](#463)
           - [Section 6 : Régime financier. (art. D502 à D525)](#464)
             - [Paragraphe 1 : Dispositions générales. (art. D502 à D511 bis)](#465)
@@ -37022,6 +37022,35 @@ _Abrogé par_:
 
 
 ##### Paragraphe 3 : Questions diverses.<a id=462></a>
+
+###### Article D493
+
+Dans les trente jours de leur notification, des recours peuvent être formés par tout intéressé :
+
+1° Contre les décisions des sous-commissions, devant la commission permanente qui en est saisie dès sa première réunion ;
+
+2° Contre les décisions de la commission permanente, devant l'office national qui en donne connaissance au préfet, au
+gouverneur général ou au chef du territoire. Dans le délai maximum d'un mois à dater de cette communication, le préfet, le
+gouverneur général ou le chef du territoire transmet le dossier du recours, avec son rapport à l'office national.
+
+Ce délai est porté à trois mois pour les offices d'outre-mer.
+
+Au reçu de cet envoi, l'office national statue sur mémoire par des décisions qui doivent être motivées et qui ne peuvent être
+attaquées devant le Conseil d'Etat que pour excès de pouvoir ou violation de la loi.
+
+Pour le surplus, ils doivent être déposés par les intéressés et examinés par l'office national dans les délais et formes
+prévus ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 
 ###### Article D494
 
