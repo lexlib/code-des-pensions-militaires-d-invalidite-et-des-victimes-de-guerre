@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-07-27
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -39991,13 +39991,10 @@ _Modifié par_:
 
 ###### Article D62
 
-Les hôpitaux et établissements de soins publics ou reconnus d'utilité publique sont habilités à délivrer des consultations et
-des soins à titre externe aux bénéficiaires du présent chapitre. Les tarifs applicables sont ceux prévus à l'article 48 du
-décret n° 891 du 17 avril 1943.
-
-Les établissements privés agréés dans les conditions fixées à l'article D. 67 sont également habilités à délivrer des
-consultations et des soins à titre externe, les tarifs applicables étant, dans ce cas, ceux en vigueur en matière de sécurité
-sociale.
+Les hôpitaux et établissements de soins publics ou reconnus d'utilité publique et les établissements privés agréés sont
+habilités à donner des consultations et à dispenser des soins externes aux bénéficiaires du présent chapitre. Les tarifs
+applicables sont ceux fixés par l'agence régionale de l'hospitalisation dont relève l'hôpital ou l'établissement auprès
+duquel le pensionné a consulté ou reçu des soins.
 
 Les établissements publics et privés ne peuvent, en matière de consultations et soins externes, prétendre au règlement par le
 directeur interdépartemental des anciens combattants et victimes de guerre des soins délivrés aux bénéficiaires des soins
@@ -40005,41 +40002,30 @@ gratuits que si les prescriptions des articles D. 60 et D. 61 ont été observé
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°43-891 1943-04-17 art. 48
-  - Code des pensions militaires d'invalidité et des v - art. D60 (V)
-  - Code des pensions militaires d'invalidité et des v - art. D61 (V)
-  - Code des pensions militaires d'invalidité et des v - art. D67 (Ab)
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D104 (Ab)
 
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D60 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D61 (V)
+
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
 
 ###### Article D62 bis
 
-Les pensionnés ayant la qualité de militaire ou d'ancien militaire désirant effectuer une cure thermale au titre de l'article
-L. 115 peuvent, s'ils le désirent, être admis à effectuer cette cure dans les conditions prévues par la loi du 12 juillet
-1873 relative à l'envoi et au traitement aux frais de l'Etat, dans les établissements d'eaux minérales, des anciens
-militaires et marins blessés ou infirmes. Ils sont dans ce cas assujettis aux dispositions de cette loi et aux dispositions
-réglementaires prises pour son application.
-
-Les pensionnés n'ayant pas la qualité de militaire ou d'ancien militaire ou ceux qui ayant cette qualité ne désirent pas
-faire appel aux dispositions de la loi du 12 juillet 1873 peuvent être admis à suivre une cure dans les établissements
-thermaux agréés au titre du régime général de sécurité sociale.
-
-Dans ce cas ils ont droit, s'ils ne sont pas domiciliés dans la station thermale, au remboursement des frais de voyage et au
-versement d'une indemnité forfaitaire de subsistance. Cette indemnité est égale à la participation des caisses de sécurité
-sociale aux frais d'hébergement de leurs ressortissants à l'occasion des traitements thermaux.
+Les pensionnés effectuant une cure thermale au titre de l'article L. 115 ont droit au versement d'une indemnité forfaitaire
+d'hébergement et au remboursement des frais de voyage, sauf s'ils sont domiciliés dans la station thermale. Le montant de
+l'indemnité d'hébergement est fixé par arrêté conjoint du ministre chargé du budget et du ministre chargé des anciens
+combattants et victimes de guerre.
 
 Les frais de voyage sont pris en charge, quel que soit le mode de transport utilisé, sur la base du prix de voyage en
 deuxième classe par voie ferrée ou en voiture publique, compte tenu des réductions dont les intéressés peuvent bénéficier à
@@ -40050,6 +40036,14 @@ avait été choisi.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. A18 (V)
@@ -40057,18 +40051,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-  - Loi n°1873-07-12
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-  - Décret n°69-218 1969-03-03 art. 1 JORF 9 mars 1969 rectificatif JORF 22 mars 1969
-  - Décret n°73-776 1973-07-31 art. 1 JORF 4 août 1973
 
 
 ###### Article D63
@@ -40125,17 +40112,15 @@ _Modifié par_:
 
 ###### Article D65
 
-En cas d'accident ou complications de l'infirmité pensionnée nécessitant des soins hospitaliers, les bénéficiaires du présent
-chapitre peuvent être admis dans les établissements visés à l'article 2 du décret n° 59-328 du 20 février 1959, en se
-conformant aux dispositions de l'article 5 du décret n° 58-1202 du 11 décembre 1958 relatif aux hôpitaux et hospices publics
-et, éventuellement, aux conditions particulières fixées par les règlements des services de santé des armées.
+Les pensionnés peuvent, en cas de nécessité, d'accident ou complications de l'infirmité pensionnée exigeant des soins
+hospitaliers, être admis dans tous les établissements publics hospitaliers ou les établissements privés hospitaliers assurant
+ou non l'exécution du service public hospitalier tels qu'ils ont été définis au livre VII du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°58-1202 du 11 décembre 1958 - art. 5 (Ab)
-  - Décret n°59-328 1959-02-20 art. 2
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
 
 _Cité par_:
 
@@ -40146,88 +40131,24 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
 
 ###### Article D66
 
-Les dispositions de l'article précédent ne concernent pas les pensionnés relevant de l'article L. 124 du présent code, ni les
-pensionnés militaires et anciens militaires mentionnés au premier alinéa de l'article D. 62 bis.
+Les dispositions de l'article précédent ne concernent pas les pensionnés relevant de l'article L. 124 du présent code.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D62 bis (M)
-  - Code des pensions militaires d'invalidité et des v - art. D65 (M)
   - Code des pensions militaires d'invalidité et des v - art. L124 (M)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-  - Décret n°73-776 1973-07-31 art. 2 JORF 4 août 1973
-
-
-###### Article D67
-
-Le ministre des anciens combattants et victimes de guerre, après accord du ministre chargé de la santé publique, établit
-annuellement [*périodicité*] la liste des établissements privés agréés et prononce, s'il y a lieu, les radiations. Il peut
-déléguer ses pouvoirs aux directeurs interdépartementaux dont la décision n'intervient alors qu'après accord de l'inspecteur
-divisionnaire de la santé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
-_Abrogé par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V) JORF 27 juillet 2001
-
-_Cité par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V)
-  - Code des pensions militaires d'invalidité et des v - art. D62 (M)
-  - Code des pensions militaires d'invalidité et des v - art. D68 (Ab)
-
-
-###### Article D68
-
-Les pensionnés peuvent, en cas de nécessité, être admis dans tous les établissements publics visés au livre III du Code de la
-santé publique et dans les établissements similaires privés agréés conformément à l'article D. 67.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. D67 (Ab)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
-_Abrogé par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V) JORF 27 juillet 2001
-
-_Cité par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V)
 
 
 ###### Article D69
@@ -40238,14 +40159,16 @@ pli confidentiel, par lui-même ou par le pensionné, six jours à l'avance au m
 direction interdépartementale dont relève l'établissement hospitalier, sauf le cas d'urgence prévu à l'article D. 71.
 
 Le bulletin doit spécifier la nature exacte de l'affection ou complication justifiant l'hospitalisation. Il doit également
-indiquer l'établissement public ou privé choisi par le pensionné, sous réserve des dispositions de l'article 237 du Code de
-la santé publique s'il s'agit d'un établissement de lutte contre la tuberculose.
+indiquer l'établissement public ou privé choisi par le pensionné.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
+
 _Cite_:
 
-  - Code de la santé publique - art. L237 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. D71 (V)
   - Code des pensions militaires d'invalidité et des v - art. L115 (V)
 
@@ -40256,10 +40179,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
 
 
 ###### Article D70
@@ -40385,36 +40304,6 @@ _Modifié par_:
   - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
 
 
-###### Article D74
-
-Dans les cas où le directeur interdépartemental estime que les dispositions de l'article 2 du décret n° 59-328 du 20 février
-1959 ne sont pas applicables, il en informe le maire de la commune où est domicilié le pensionné, en l'invitant à rechercher
-si celui-ci est en situation de bénéficier des autres lois sociales ou si les frais de l'hospitalisation doivent rester à sa
-charge.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
-_Cite_:
-
-  - Décret n°59-328 1959-02-20 art. 2
-
-_Abrogé par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V) JORF 27 juillet 2001
-
-_Cité par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V)
-
-
 ###### Article D75
 
 Tout pensionné admis dans un établissement public ou privé, à quelque titre que ce soit, cesse d'avoir droit, pendant la
@@ -40439,82 +40328,43 @@ _Modifié par_:
 ###### Article D76
 
 Le prix de la journée applicable aux bénéficiaires des soins gratuits est, pour chacune des catégories d'établissements
-considérés, celui déterminé dans les conditions prévues par le code de la santé publique et ses textes d'application.
-
-Dans les hôpitaux militaires et maritimes, et dans les salles militaires des hôpitaux mixtes ou conventionnés, le tarif
-applicable est le tarif spécial aux militaires de même grade traités au compte du ministère d'Etat chargé de la défense
-nationale.
+considérés, celui déterminé dans les conditions prévues par le code de la sécurité sociale et ses textes d'application.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. D77 (Ab)
 
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
-
-###### Article D77
-
-Dans les établissements privés agréés, et à l'exception de ceux visés éventuellement par les dispositions de l'article D. 76
-(1er alinéa), les frais dus par l'Etat comprennent exclusivement :
-
-1° Le prix de journée des salles civiles de l'hôpital public (ou de l'établissement public) approprié, le plus voisin de
-l'établissement où le malade est traité ;
-
-2° Les frais des interventions à tarif spécial figurant à la nomenclature générale des actes professionnels en vigueur en
-matière de sécurité sociale.
-
-Toutefois, si l'établissement privé a une convention avec le département, la commune ou avec un organisme de la sécurité
-sociale, le prix de journée déterminé par cette convention est seul applicable. En cas de pluralité de conventions, celle
-passée avec le département sert seule de référence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-
-_Abrogé par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V) JORF 27 juillet 2001
-
-_Cité par_:
-
-  - Décret n°2001-668 du 25 juillet 2001 - art. 2 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. D76 (M)
-
 
 ###### Article D78
 
-Les frais de voyage nécessités par l'hospitalisation dans un établissement public ou privé sont à la charge de l'Etat, sous
-réserve que les prescriptions de l'article D. 65 aient été respectées ou que l'établissement approprié choisi, qu'il soit
-public ou privé, soit le plus voisin du lieu du domicile ou de la résidence provisoire. Dans le cas contraire, ces frais ne
-peuvent être mis à la charge de l'Etat que par décision du directeur interdépartemental des anciens combattants et victimes
-de guerre prise sur avis motivé du médecin contrôleur des soins gratuits.
+Les frais de voyage nécessités par l'hospitalisation dans un établissement public ou privé sont à la charge de l'Etat ; cette
+prise en charge est effective au vu de l'adéquation de l'état pathologique du pensionné avec le moyen de transport demandé,
+et à condition que l'établissement approprié choisi, qu'il soit public ou privé, soit le plus voisin du lieu de domicile ou
+de la résidence provisoire. Dans le cas contraire, ces frais ne peuvent être mis à la charge de l'Etat que par décision du
+directeur interdépartemental des anciens combattants et victimes de guerre, pris sur avis motivé du médecin contrôleur des
+soins gratuits ; alors le remboursement des frais de voyage s'effectue, quel que soit le mode de transport utilisé, sur la
+base du prix du voyage en deuxième classe, par voie ferrée ou en voiture publique, compte tenu des réductions dont les
+intéressés peuvent bénéficier à titre personnel.
 
-La prise en charge éventuelle des frais de voyage pour soins externes ne peut intervenir qu'après accord préalable du
-directeur interdépartemental des anciens combattants et victimes de guerre pris sur avis motivé du médecin contrôleur des
-soins gratuits.
-
-Dans les cas visés aux deux alinéas précédents, les frais de voyage sont pris en charge, quel que soit le mode de transport
-utilisé, sur la base du prix du voyage en deuxième classe, par voie ferrée ou en voiture publique, compte tenu des réductions
-dont les intéressés peuvent bénéficier à titre personnel.
+La prise en charge des frais de voyage pour soins externes ne peut intervenir qu'après accord préalable du directeur
+interdépartemental des anciens combattants et victimes de guerre pris sur avis motivé du médecin contrôleur des soins
+gratuits.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2001-668 du 25 juillet 2001 - art. 1 () JORF 27 juillet 2001
 
 _Cité par_:
 
@@ -40522,18 +40372,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. A18 (V)
   - Code des pensions militaires d'invalidité et des v - art. A19 (V)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. D65 (M)
-
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
-  - Décret n°69-218 1969-03-03 art. 2 JORF 9 mars 1969 rectificatif JORF 22 mars 1969
 
 
 ###### Article D79
