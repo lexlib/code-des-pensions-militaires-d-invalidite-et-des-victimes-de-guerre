@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1964-06-21
+Version Consolidée au 1964-10-26
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -216,7 +216,7 @@ Version Consolidée au 1964-06-21
             - [Paragraphe 7 : Sections des tribunaux de pensions. (art. R56)](#213)
             - [Paragraphe 8 : Procédure normale. (art. R57 à R61)](#214)
             - [Paragraphe 9 : Procédure sommaire. (art. R62)](#215)
-          - [Section 2 : Cour régionale des pensions. (art. R63 à R68)](#216)
+          - [Section 2 : Cour régionale des pensions. (art. R64 à R68)](#216)
           - [Section 3 : Conseil d'Etat. (art. R69 à R90)](#217)
             - [Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation. (art. R71 à R80)](#218)
               - [A - Organisation. (art. R71 à R76)](#219)
@@ -17327,21 +17327,6 @@ _Cité par_:
 
 
 ##### Section 2 : Cour régionale des pensions.<a id=216></a>
-
-###### Article R63
-
-Abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Abrogé par_:
-
-  - Décret n°63-1064 1963-10-21 art. 7 JORF 26 octobre 1964
-
 
 ###### Article R64
 
