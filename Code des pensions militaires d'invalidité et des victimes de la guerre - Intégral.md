@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1975-02-13
+Version Consolidée au 1975-06-13
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -268,7 +268,7 @@ Version Consolidée au 1975-02-13
           - [Section 2 : Procédure d'attribution et de retrait de la carte. (art. R229 à R235)](#265)
         - [Chapitre II : Retraite du combattant. (art. R236 à R251)](#266)
           - [Section 1 : Procédure d'attribution. (art. R236 à R240)](#267)
-          - [Section 2 : Payement de la retraite. (art. R243 à R245)](#268)
+          - [Section 2 : Payement de la retraite. (art. R241 à R245)](#268)
           - [Section 3 : Citoyens français n'ayant pas servi dans l'armée française. (art. R246 à R251)](#269)
         - [Chapitre III : Mesures d'exécution. (art. R252 à R253)](#270)
       - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R254 à R387 bis)](#271)
@@ -22854,6 +22854,46 @@ _Cité par_:
 
 
 ##### Section 2 : Payement de la retraite.<a id=268></a>
+
+###### Article R241
+
+Les arrérages de la retraite du combattant sont payables semestriellement à terme échu, à des dates fixées par référence à la
+date anniversaire de naissance du titulaire.
+
+La jouissance des arrérages prend effet du premier jour du mois civil suivant la date d'ouverture du droit.
+
+Toutefois, l'échéance de la retraite dont bénéficient les anciens combattants visés à l'article L. 256, troisième alinéa, du
+présent code, est fixée à la date anniversaire de leur naissance ; les arrérages en sont payés annuellement. Ces arrérages
+correspondent à la totalité des droits des intéressés pour la période courant du premier jour des six mois se terminant à la
+fin du mois civil de l'anniversaire au dernier jour du sixième mois civil qui le suit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°57-1407 1957-12-31 art. 1 JORF 1er janvier 1958
+  - Décret n°61-269 1961-03-28 art. 1 JORF 29 mars 1961
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D321-4 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R251 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L256
+
 
 ###### Article R243
 
