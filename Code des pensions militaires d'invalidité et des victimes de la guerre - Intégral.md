@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1993-09-23
+Version Consolidée au 1993-10-06
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -53638,6 +53638,27 @@ _Codifié par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+
+
+###### Article A134-7
+
+Les membres de la Résistance qui ne peuvent totaliser le temps de présence effectif exigé aux articles A. 119 ou A. 123-1
+sont admis à bénéficier d'une bonification de dix jours pour engagement volontaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Créé par_:
+
+  - Arrêté 1993-09-22 art. 1 JORF 6 octobre 1993
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A119 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A123-1 (V)
 
 
 ###### Article A135
