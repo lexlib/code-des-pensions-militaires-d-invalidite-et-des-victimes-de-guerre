@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1983-07-10
+Version Consolidée au 1983-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -50483,6 +50483,28 @@ _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. A165-1 (V)
   - Code des pensions militaires d'invalidité et des v - art. R305 (M)
+
+
+###### Article A163
+
+La validité de la carte de déporté résistant et interné résistant est fixée à cinq ans, à compter du jour de la délivrance.
+
+Toutefois, les cartes arrivant à expiration avant le 1er janvier 1989 resteront valables jusqu'à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1960-05-20 art. 1 JORF 22 mai 1960
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R305 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A165-1 (V)
 
 
 ###### Article A164
