@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1986-02-01
+Version Consolidée au 1986-12-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -336,7 +336,7 @@ Version Consolidée au 1986-02-01
             - [Paragraphe 2 : Instruction des demandes - Aptitudes exigées. (art. R401 à R426)](#333)
               - [A -Instruction des demandes. (art. R401 à R404)](#334)
               - [B - Aptitude physique. (art. R405 à R407)](#335)
-              - [C - Aptitude professionnelle. (art. R408 à R421)](#336)
+              - [C - Aptitude professionnelle. (art. R408 à R422)](#336)
               - [D - Aptitude physique spéciale et aptitude technique spéciale. (art. R423 à R426)](#337)
             - [Paragraphe 3 : Constitution et transmission des dossiers. (art. R427 à R428)](#338)
             - [Paragraphe 4 : Classement des candidats. (art. R429 à R439)](#339)
@@ -31437,6 +31437,60 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
 
 
+###### Article R410
+
+L'examen commun de deuxième catégorie comprend les épreuves suivantes :
+
+Epreuve n° 1
+
+Au choix des candidats :
+
+Soit a) A partir d'un texte remis aux candidats :
+
+Questions sur la compréhension du texte ; explication d'une ou de plusieurs expressions du texte ;
+
+Soit b) Rédaction d'une lettre administrative courante (des renseignements succincts peuvent être fournis aux candidats). La
+durée de cette épreuve est d'une heure trente.
+
+Epreuve n° 2
+
+Résolution d'un cas pratique portant sur un problème d'organisation des tâches ou de présentation de données à caractère
+administratif. La durée de cette épreuve est d'une heure trente.
+
+Epreuve n° 3
+
+Au choix des candidats :
+
+- soit dictée d'un texte d'environ vingt-cinq lignes dactylographiées évoquant une situation ou un problème d'actualité ;
+
+- soit rétablissement du libellé correct d'un texte comportant des omissions et des impropriétés de terme et d'orthographe.
+La durée de cette épreuve est de quarante minutes.
+
+Epreuve n° 4
+
+Exercice de mathématiques appliquées. - Réalisation, au choix des candidats, d'un tableau ou d'un graphique à partir de
+données fournies et (ou) des résultats de calculs arithmétiques simples. La durée de cette épreuve est d'une heure trente.
+Chacune de ces épreuves est affectée du coefficient 3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 1 JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R464 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
 ###### Article R411
 
 L'examen commun de troisième catégorie comporte les épreuves suivantes :
@@ -31531,6 +31585,59 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
 
 
+###### Article R414
+
+Les épreuves écrites en vue de l'obtention du certificat d'aptitude professionnelle aux emplois de la 1re catégorie ont lieu
+au chef-lieu du département siège de la délégation interdépartementale des anciens combattants et victimes de guerre. Les
+convocations sont adressées aux candidats au moins quinze jours avant l'examen.
+
+A l'issue de chaque épreuve, les compositions sont mises sous pli scellé et adressées au ministère des anciens combattants et
+victimes de guerre aux fins de correction par une commission centrale composée comme suit :
+
+1. Un inspecteur général de l'instruction publique, président ;
+
+2. Des membres de l'enseignement supérieur ou secondaire public ;
+
+3. Des fonctionnaires de catégorie A des administrations centrales ;
+
+4. Des officiers ou fonctionnaires de catégorie A relevant du ministère chargé de la défense ;
+
+5. Un invalide de guerre.
+
+La commission comprend un nombre égal de membres appartenant aux catégories 2, 3 et 4 ci-dessus.
+
+Les membres de la commission centrale sont désignés par arrêtés conjoints du ministre chargé de la fonction publique et du
+ministre des anciens combattants et victimes de guerre, sur proposition des ministres intéressés ou, en ce qui concerne
+l'invalide de guerre, sur proposition de l'office départemental des anciens combattants et victimes de guerre. Deux membres
+doivent avoir participé en qualité d'examinateur à des concours de même niveau ouvert aux candidats non bénéficiaires de la
+législation sur les emplois réservés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 2 JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. R415 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R448 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
 ###### Article R415
 
 Les candidats qui ont obtenu au moins la moitié du maximum des points prévu pour l'ensemble des épreuves écrites de l'examen
@@ -31565,6 +31672,230 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R419
 
 
+###### Article R416
+
+Les épreuves écrites et orales en vue de l'obtention des certificats d'aptitude professionnelle sont subies, sur convocation
+adressée au moins quinze jours à l'avance, au chef-lieu du département siège de la direction interdépartementale du ministère
+des anciens combattants, pour la deuxième catégorie, et au chef-lieu de chaque département, pour les troisième, quatrième et
+cinquième catégories.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 4 JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L407 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R448 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R417
+
+Les épreuves écrites et orales sont subies devant des commissions composées comme suit :
+
+a) En ce qui concerne la deuxième catégorie :
+
+1. Un inspecteur d'académie ou un membre de l'enseignement secondaire public, président ;
+
+2. Des membres de l'enseignement secondaire public ;
+
+3. Des fonctionnaires des administrations publiques ;
+
+4. Des officiers ;
+
+5. Un invalide de guerre.
+
+Les commissions doivent comprendre un nombre égal de membres appartenant aux catégories 2, 3 et 4 ci-dessus.
+
+b) En ce qui concerne les troisième, quatrième et cinquième catégories :
+
+1. Un directeur d'école publique, président ;
+
+2. Des fonctionnaires des administrations publiques ;
+
+3. Des officiers ;
+
+4. Un invalide de guerre.
+
+Les commissions doivent comprendre un nombre égal de membres appartenant aux catégories 2 et 3 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 4 JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. R418 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R419 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R422 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R448 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R418
+
+Les présidents et les membres des commissions prévues à l'article R. 417 du Code des pensions militaires d'invalidité et des
+victimes de guerre sont nommés par arrêté du préfet, commissaire de la République, sur proposition des administrations
+intéressées. Les invalides de guerre sont nommés sur proposition de l'office national des anciens combattants et victimes de
+guerre. Les officiers sont nommés sur désignation du ministre de la défense ou de l'autorité militaire ayant reçu délégation
+à cet effet.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 5 JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R417 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R419
+
+Les décisions des commissions susvisées ne sont valables que si les deux tiers au moins de leurs membres sont présents.
+
+En cas de partage, la voix du président est prépondérante.
+
+Le secrétariat de la commission centrale est assuré par un fonctionnaire du ministre des anciens combattants et victimes de
+guerre ; le secrétaire des commissions visées à l'article R. 417 est désigné par le délégué interdépartemental du ministère
+des anciens combattants et victimes de guerre.
+
+Les candidats qui ont obtenu au moins 50 % du maximum des points prévu pour l'ensemble des épreuves écrites et orales, sans
+avoir encouru une note éliminatoire, reçoivent un certificat d'aptitude professionnelle d'un modèle établi par le ministre
+des anciens combattants et victimes de guerre et signé par le président et le secrétaire de la commission. Un deuxième
+exemplaire est joint au dossier du postulant.
+
+Le procès-verbal des opérations qui mentionne le détail des notes obtenues par chaque candidat, est signé par le président et
+les membres de la commission et adressé au ministre des anciens combattants et victimes de guerre. La transmission des
+procès-verbaux dressés par les commissions prévues à l'article R. 417 est faite par l'intermédiaire du délégué
+interdépartemental du ministère des anciens combattants et victimes de guerre, siégeant à Paris.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 6 et art. 7 JORF 9 décembre 1986
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R415 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R448 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R417
+
+
+###### Article R420
+
+En ce qui concerne les invalides et veuves de guerre, les militaires des armées de terre, de mer et de l'air résidant en
+Corse ou dans les départements et pays d'outre-mer, l'examen oral exigé pour les emplois de la première catégorie est subi
+devant la commission compétente pour les autres épreuves d'aptitude professionnelle imposées pour ces emplois. Les
+compositions écrites et le résultat des épreuves orales des candidats aux emplois de ladite catégorie sont transmis, sans
+délai, en vue de la délivrance éventuelle du certificat d'aptitude professionnelle, à la commission centrale. En Corse, les
+délégués départementaux des anciens combattants et victimes de guerre exercent les attributions qui sont dévolues en France
+continentale aux délégués interdépartementaux.
+
+Dans les départements et pays d'outre-mer, les attributions dévolues aux délégués interdépartementaux dans la métropole sont
+exercées sous l'autorité soit du préfet, soit du gouvernement général, soit du gouverneur dans les territoires non groupés,
+soit du résident général, par des fonctionnaires désignés par leurs soins.
+
+Dans les territoires visés à l'alinéa qui précède, les examens communs et les épreuves d'aptitude technique pour les emplois
+de première et deuxième catégories, sont subis dans la localité où siège le gouverneur général, le président général ou le
+préfet.
+
+Les examens communs et les épreuves d'aptitude technique imposés pour les emplois de troisième, quatrième et cinquième
+catégories sont subis dans les centres désignés par les hauts fonctionnaires précités.
+
+Quant aux visites médicales que doivent subir les candidats aux emplois des cinq catégories, elles sont subies devant les
+commissions organisées dans les conditions fixées à l'article R. 460.
+
+Les commissions chargées de faire subir, dans les départements et pays d'outre-mer, les épreuves exigées en vue de
+l'obtention du certificat d'aptitude professionnelle, sont constituées, sauf dans le cas d'impossibilité absolue, dans les
+mêmes conditions qu'en France, à la diligence du haut fonctionnaire ci-dessus visé ou du fonctionnaire par lui désigné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 8 JORF 9 décembre 1986
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R460
+
+
 ###### Article R421
 
 Les sujets des épreuves écrites des examens communs sont choisis par le ministre des anciens combattants et victimes de
@@ -31588,6 +31919,45 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R422
+
+Les épreuves d'aptitude technique sont subies devant les commissions instituées à l'article R. 417.
+
+Les sujets des épreuves d'aptitude technique sont choisis par les administrations dont relèvent les emplois en ce qui
+concerne les première et deuxième catégories et par les commissions susvisées pour les troisième, quatrième et cinquième
+catégories.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°86-1251 1986-12-04 art. 9 JORF 9 décembre 1986
+
+_Cité par_:
+
+  - Arrêté du 18 février 2005 - art. 1 (V)
+  - Arrêté du 20 juin 2008 - art. 1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R433 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R461 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R465 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R417
 
 
 ##### D - Aptitude physique spéciale et aptitude technique spéciale.<a id=337></a>
