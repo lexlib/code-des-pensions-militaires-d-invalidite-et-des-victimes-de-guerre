@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1994-10-20
+Version Consolidée au 1994-12-13
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -508,10 +508,10 @@ Version Consolidée au 1994-10-20
         - [Chapitre III : Organisation administrative. (art. D569)](#505)
   - [Partie réglementaire - Arrêtés (art. A1 à A329)](#506)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A1 à A84)](#507)
-      - [Titre Ier : Droits à pension des invalides. (art. A1 à A3-1)](#508)
-        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A1 à A3-1)](#509)
-      - [Titre V : Révision et voies de recours. (art. A4 à A11)](#510)
-        - [Chapitre II : Voies de recours. (art. A4 à A11)](#511)
+      - [Titre Ier : Droits à pension des invalides. (art. A1 à A4)](#508)
+        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A1 à A4)](#509)
+      - [Titre V : Révision et voies de recours. (art. A5 à A11)](#510)
+        - [Chapitre II : Voies de recours. (art. A5 à A11)](#511)
       - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A12 à A84)](#512)
         - [Chapitre Ier : Soins gratuits. (art. A12 à A41)](#513)
           - [Section 1 : Carnets de soins gratuits. (art. A12)](#514)
@@ -49822,15 +49822,15 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. A1 (Ab)
 
 
-### Titre V : Révision et voies de recours.<a id=510></a>
-
-#### Chapitre II : Voies de recours.<a id=511></a>
-
 ###### Article A4
 
-En exécution de l'article D. 22, le directeur central de l'intendance au ministère de la défense nationale à la délégation
-permanente pour désigner les fonctionnaires de l'intendance comme commissaires du Gouvernement près les juridictions des
-pensions et signer les lettres de services destinées à ces fonctionnaires.
+Délégation est donnée aux préfets de région, dans la limite de leur compétence territoriale, à l'effet de contresigner, au
+nom du ministre des anciens combattants et victimes de guerre, les arrêtés interministériels portant annulation des pensions
+concédées par arrêté interministériel dans les conditions prévues à l'article L. 24.
+
+La même délégation est donnée au responsable du service des ressortissants du département ministériel chargé des anciens
+combattants et victimes de guerre qui résident à l'étranger, en ce qui concerne les arrêtés interministériels portant
+annulation des pensions concédées par arrêté interministériel à des personnes résidant à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -49838,10 +49838,18 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Créé par_:
+
+  - Arrêté 1994-11-30 art. 1 JORF 13 décembre 1994
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des victimes de la guerre D22
+  - Code des pensions militaires d'invalidité et des v - art. L24 (M)
 
+
+### Titre V : Révision et voies de recours.<a id=510></a>
+
+#### Chapitre II : Voies de recours.<a id=511></a>
 
 ###### Article A5
 
