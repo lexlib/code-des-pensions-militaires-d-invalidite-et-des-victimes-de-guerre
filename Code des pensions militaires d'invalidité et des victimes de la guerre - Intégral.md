@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1997-12-27
+Version Consolidée au 1997-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -47,7 +47,7 @@ Version Consolidée au 1997-12-27
         - [Chapitre V : Rééducation professionnelle. (art. L132 à L136)](#44)
         - [Chapitre VI : Sécurité sociale. (art. L136 bis)](#45)
       - [Titre VIII : Définition, mesures d'exécution. (art. L137 à L137 bis)](#46)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux (art. L138 à L252-4)](#47)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux (art. L138 à L252-5)](#47)
       - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés (art. L138 à L170)](#48)
         - [Chapitre Ier : Militaires de carrière. (art. L138)](#49)
         - [Chapitre II : Autres personnels militaires. (art. L139 à L149)](#50)
@@ -100,7 +100,7 @@ Version Consolidée au 1997-12-27
         - [Chapitre II : Droit à pension des travailleurs indochinois. (art. L248 à L250)](#97)
       - [Titre VI : Etrangers. (art. L251 à L252-1)](#98)
         - [Chapitre unique : Etrangers ayant servi dans les formations françaises. (art. L251 à L252-1)](#99)
-      - [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code. (art. L252-2 à L252-4)](#100)
+      - [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code. (art. L252-2 à L252-5)](#100)
     - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre (art. L253 à L487)](#101)
       - [Titre Ier : Carte et retraite du combattant (art. L253 à L261)](#102)
         - [Chapitre Ier : Carte du combattant. (art. L253 à L254)](#103)
@@ -10397,6 +10397,32 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
+###### Article L252-5
+
+Bénéficient des dispositions du chapitre Ier du titre III du présent livre, dans les conditions prévues au paragraphe 2 de la
+section 1 et à la section 2 dudit chapitre, les étrangers arrêtés en France et déportés, s'ils ont acquis la nationalité
+française depuis lors et obtenu le titre de déporté politique ; il en est de même de leurs ayants cause de nationalité
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi - art. 106 () JORF 31 décembre 1997
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L124-10 (VD)
+
+
 ## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre<a id=101></a>
 
 ### Titre Ier : Carte et retraite du combattant<a id=102></a>
@@ -10459,11 +10485,10 @@ Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'
 périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ;
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
+Une durée des services en Algérie d'au moins dix-huit mois est reconnue équivalente à la participation aux actions de feu et
+de combat exigée au deuxième alinéa ci-dessus.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°93-7 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -10479,6 +10504,10 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 7 novembre 1996
   - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
+
+_Modifié par_:
+
+  - Loi - art. 108 () JORF 31 décembre 1997
 
 _Nouveaux textes_:
 
