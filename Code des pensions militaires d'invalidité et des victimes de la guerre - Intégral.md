@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-05-08
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -45815,13 +45815,9 @@ _Codifié par_:
 L'Office national des anciens combattants et victimes de guerre constitue un établissement public d'Etat doté de la
 personnalité civile et de l'autonomie financière.
 
-L'office national dispose de la faculté de transiger en matière de marchés.
+L'office national dispose de la faculté de transiger.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2000-919 du 21 septembre 2000 - art. 1 () JORF 22 septembre 2000
 
 _Cité par_:
 
@@ -45830,6 +45826,18 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2003-414 du 30 avril 2003 - art. 1 () JORF 8 mai 2003
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R611-1 (V)
 
 
 ##### Section 2 : Attributions.<a id=473></a>
@@ -46436,8 +46444,8 @@ Il a sous ses ordres le personnel de l'office national et des services extérieu
 Le directeur général peut donner délégation à des fonctionnaires de catégorie A placés sous son autorité pour signer, en son
 nom, les actes, conventions et marchés pour les affaires relevant de leurs attributions.
 
-Le directeur général prépare les projets de transaction en matière de marchés et signe pour le compte de l'office national
-les transactions après approbation expresse des autorités de tutelle.
+Le directeur général prépare les projets de transaction et signe pour le compte de l'office national les transactions après
+approbation expresse des autorités de tutelle.
 
 En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions prévues par le décret n° 53-1227 du 10 décembre
 1953, relatif à la réglementation comptable des établissements publics nationaux à caractère administratif.
@@ -46454,7 +46462,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2000-919 du 21 septembre 2000 - art. 2 () JORF 22 septembre 2000
+  - Décret n°2003-414 du 30 avril 2003 - art. 1 () JORF 8 mai 2003
 
 
 ###### Article D444
