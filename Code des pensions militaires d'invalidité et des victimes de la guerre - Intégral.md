@@ -1,7 +1,7 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1991-01-10
+Version Consolidée au 1991-07-05
 ## Contenu: 
-  - [Partie législative (art. L1 à L528)](#1)
+  - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#3)
       - [Titre Ier : Droit à pension des invalides. (art. L2 à L30)](#4)
@@ -184,14 +184,14 @@ Version Consolidée au 1991-01-10
         - [Section 3 : Cimetières communaux. (art. L505 à L509)](#181)
         - [Section 4 : Dispositions particulières. (art. L510 à L514)](#182)
       - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. L515 à L516)](#183)
-    - [Livre V : Institutions (art. L517 à L528)](#184)
+    - [Livre V : Institutions (art. L517 à L537)](#184)
       - [Titre Ier : Office des anciens combattants et victimes de guerre (art. L517 à L527)](#185)
         - [Chapitre Ier : Office national et offices départementaux. (art. L517 à L519)](#186)
         - [Chapitre II : Du bénéfice des institutions des offices (art. L520 à L524)](#187)
           - [Section 1 : Cas général. (art. L520)](#188)
           - [Section 2 : Cas particuliers. (art. L521 à L524)](#189)
         - [Chapitre III : Dispositions financières. (art. L525 à L527)](#190)
-      - [Titre II : Institution nationale des invalides. (art. L528)](#191)
+      - [Titre II : Institution nationale des invalides. (art. L528 à L537)](#191)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R571)](#192)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R1 à R145)](#193)
       - [Titre Ier : Droits à pension des invalides. (art. R1 à R28)](#194)
@@ -18367,10 +18367,14 @@ _Codifié par_:
 
 ###### Article L528
 
-Il est fondé un établissement national portant le nom d'"Institution nationale des invalides", destiné à recevoir les
-bénéficiaires définis à l'article D. 555.
+L'Institution nationale des invalides est un établissement public d'Etat à caractère administratif. Elle est placée sous la
+tutelle du ministre chargé des anciens combattants.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
 
 _Cité par_:
 
@@ -18378,9 +18382,301 @@ _Cité par_:
   - Code de la défense. - art. L3413-2 (Ab)
   - Code de la défense. - art. L3418-2 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L621-1 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L529
+
+L'Institution nationale des invalides est la maison des combattants âgés, malades ou blessés au service de la patrie.
+
+Elle a pour mission :
+
+1° D'accueillir dans un centre de pensionnaires, à titre permanent ou temporaire, les invalides bénéficiaires du code des
+pensions militaires d'invalidité et des victimes de la guerre satisfaisant aux conditions fixées par le décret visé à
+l'article L. 537 ;
+
+2° De dispenser dans un centre médico-chirurgical des soins en hospitalisation ou en consultation aux malades et blessés en
+vue de leur réadaptation fonctionnelle, professionnelle et sociale ; les personnes accueillies sont par priorité les
+pensionnaires de l'établissement ainsi que les autres bénéficiaires du présent code ; en outre, dans la limite des places
+disponibles, le ministre de tutelle peut faire admettre d'autres catégories de personnes sous réserve de garantir leur prise
+en charge ; ces catégories et les motifs d'admission sont prévus par le décret visé à l'article L. 537 après délibération du
+conseil d'administration ;
+
+3° De participer aux études et à la recherche sur l'appareillage des handicapés conduites par le ministre chargé des anciens
+combattants. Ces participations font l'objet d'une convention préalable entre l'Etat et l'établissement lorsqu'elles
+impliquent un engagement financier spécifique de la part de ce dernier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Cité par_:
+
+  - Décret n°92-105 du 30 janvier 1992 - art. 12 (Ab)
+  - Code de la santé publique - art. L6112-2 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L533 (M)
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D555 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L537 (V)
+
+
+###### Article L530
+
+Le conseil d'administration de l'Institution nationale des invalides est présidé par une personnalité nommée par le Président
+de la République.
+
+Il comprend en outre [*composition*] :
+
+1° Quatre membres de droit ou leurs représentants : le gouverneur des Invalides, le directeur du budget au ministère de
+l'économie, des finances et du budget, le directeur central du service de santé des armées et le directeur de
+l'administration générale du ministère chargé des anciens combattants ;
+
+2° Quatre personnalités nommées pour trois ans par décret en conseil des ministres dont trois représentant le monde
+combattant, parmi lesquelles deux sont proposées par des associations représentatives de grands invalides pensionnés au titre
+du code des pensions militaires d'invalidité et des victimes de la guerre ;
+
+3° Deux représentants des personnels élus pour trois ans, un par les personnels médicaux et paramédicaux et un par les autres
+personnels.
+
+Le directeur de l'établissement, l'agent comptable, le contrôleur financier ou en cas d'empêchement leurs représentants, deux
+représentants élus des pensionnaires et toute personne dont la présence est requise dans les débats assistent avec voix
+consultative aux séances du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Cité par_:
+
+  - Décret n°2004-564 du 17 juin 2004 - art. 1 (Ab)
+
+
+###### Article L531
+
+Le conseil d'administration [*définition*] définit l'organisation et la politique générales de l'établissement, notamment ses
+programmes d'investissement. Il fixe le règlement intérieur et détermine la répartition des lits entre le centre médico-
+chirurgical et le centre de pensionnaires. Il donne son avis sur la nomination des chefs de service.
+
+Il vote le budget et approuve les comptes ; il autorise les acquisitions, les aliénations et les emprunts, ainsi que
+l'exercice des actions en justice, et fixe les conditions dans lesquelles sont passées les conventions.
+
+Il fixe les tarifs d'hospitalisation, de consultations et de soins, ainsi que le montant de la participation due par les
+pensionnaires, laquelle est plafonnée à un pourcentage de leurs revenus, pensions d'invalidité et allocations complémentaires
+comprises, déterminé par le décret visé à l'article L. 537. Ce décret précise les conditions dans lesquelles les revenus
+peuvent faire l'objet d'abattements, en raison de la situation des intéressés.
+
+Il a seul qualité pour accepter les libéralités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L535 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L537 (V)
+
+
+###### Article L532
+
+Le directeur de l'établissement est un officier général du service de santé des armées nommé par décret en conseil des
+ministres, sur proposition conjointe du ministre de tutelle et du ministre de la défense. Il lui est adjoint un officier du
+corps technique et administratif du service de santé des armées nommé par le ministre de tutelle, sur proposition du ministre
+de la défense.
+
+Le directeur prépare et exécute les délibérations du conseil d'administration. Il représente l'établissement en justice et
+dans tous les actes de la vie civile ; il est l'ordonnateur des recettes et des dépenses ; il a autorité sur tous les
+personnels de l'établissement et, d'une manière générale, il exerce les compétences qui ne sont pas attribuées au conseil
+d'administration par l'article L. 531.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L531 (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-3 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L533
+
+Les ressources de l'établissement comprennent notamment :
+
+1° Les subventions, avances, fonds de concours ou contributions qui lui sont attribués par l'Etat et, le cas échéant,
+d'autres collectivités ou personnes publiques ou privées ;
+
+2° Les sommes versées au titre des frais d'hospitalisation, de consultations et de soins, la participation des personnes
+admises en qualité de pensionnaires et le produit du remboursement des frais occasionnés par les personnes admises dans les
+conditions prévues au dernier membre de phrase du 2° de l'article L. 529 ;
+
+3° Les dons et legs ;
+
+4° Le produit des emprunts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L529 (M)
+
+
+###### Article L534
+
+Les dépenses de l'établissement comprennent les frais de personnel, les charges d'équipement et de fonctionnement, les frais
+d'études et de recherches, ainsi que, de manière générale, toutes les dépenses nécessaires à l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-5 (VD)
+
+
+###### Article L535
+
+Les délibérations relatives à la répartition des lits entre le centre des pensionnaires et le centre médico-chirurgical,
+ainsi que celles mentionnées aux deuxième et troisième alinéas de l'article L. 531, sont approuvées par arrêté conjoint du
+ministre chargé du budget et du ministre chargé des anciens combattants.
+
+Les autres délibérations sont exécutoires à l'expiration d'un délai de trente jours suivant leur transmission au ministre
+chargé des anciens combattants qui peut, dans ce délai, demander une nouvelle délibération au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Cité par_:
+
+  - Décret n°92-106 du 30 janvier 1992 - art. 5 (M)
+  - Décret n°92-106 du 30 janvier 1992 - art. 7 (M)
+
+_Abrogé par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L531 (M)
+
+
+###### Article L536
+
+L'Institution nationale des invalides est soumise au contrôle administratif et financier de l'Etat. Son activité est
+contrôlée par l'inspection générale des finances et par l'inspection générale des anciens combattants. Ses comptes sont
+soumis pour contrôle à la Cour des comptes.
+
+Sur demande du ministre de tutelle ou du conseil d'administration, l'établissement est également soumis au contrôle des
+inspections du service de santé des armées pour toutes les questions relevant de la compétence de ces inspections.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+
+###### Article L537
+
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 528 à L. 536.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L531 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. L529 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-8 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 _Codifié par_:
 
