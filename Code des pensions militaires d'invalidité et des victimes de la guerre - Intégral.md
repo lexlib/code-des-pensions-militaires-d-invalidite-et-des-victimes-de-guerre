@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1979-11-24
+Version Consolidée au 1980-01-19
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -3101,6 +3101,59 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L52-2
+
+Une majoration spéciale est attribuée, pour les soins donnés par elles à leur mari, aux veuves des grands invalides relevant
+de l'article L. 18 du code et bénéficiaires de l'allocation spéciale n° 5 bis/b lorsqu'elles sont titulaires d'une pension si
+elles sont âgées de plus de soixante ans et si elles justifient d'une durée de mariage et de soins donnés d'une manière
+constante pendant au moins quinze années.
+
+Le taux de cette majoration est fixé à l'indice de pension 230.
+
+Une majoration spéciale est attribuée, pour les soins donnés par elles à leur mari, aux veuves des grands invalides relevant
+de l'article L. 18 et bénéficiaires de l'allocation spéciale n° 5 bis, a, lorsqu'elles sont titulaires d'une pension, si
+elles sont âgées de plus de soixante ans et si elles justifient d'une durée de mariage et de soins donnés d'une manière
+constante pendant au moins quinze années.
+
+Le taux de cette majoration est fixé à l'indice de pension 140.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°63-1241 1963-12-19 art. 53-I JORF 25 décembre 1963
+
+_Cité par_:
+
+  - Décret n°64-300 du 1 avril 1964 - art. 3 (Ab)
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+  - Code de la sécurité sociale. - art. R815-22 (VD)
+  - Code de la sécurité sociale. - art. R815-25 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L141-20 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L189-1 (VT)
+
+_Modifié par_:
+
+  - Loi n°65-997 1965-11-29 art. 62 JORF 30 novembre 1965
+  - Loi n°70-1199 1970-12-21 art. 86 JORF 22 décembre 1970
+  - Loi n°72-1121 1972-12-20 art. 68, 69 JORF 21 décembre 1972
+  - Loi n°78-1239 du 29 décembre 1978 - art. 94 () JORF 30 décembre 1978
+  - Loi n°80-30 1980-01-18 art. 92 1° JORF 19 janvier 1980
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D141-7 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
 
 
 ###### Article L53
