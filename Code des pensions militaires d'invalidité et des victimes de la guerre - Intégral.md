@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1958-03-08
+Version Consolidée au 1958-11-06
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -22931,6 +22931,25 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°51-910 1951-07-09 art. 1 JORF 14 juillet 1951
+
+_Abrogé par_:
+
+  - Décret n°63-522 1963-05-27 art. 2 JORF 30 mai 1963
+
+
+###### Article R313
+
+Abrogé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°58-1052 1958-10-30 art. 1 JORF 6 novembre 1958
 
 _Abrogé par_:
 
