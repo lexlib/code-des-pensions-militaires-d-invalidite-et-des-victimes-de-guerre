@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1963-02-24
+Version Consolidée au 1963-05-30
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -286,9 +286,9 @@ Version Consolidée au 1963-02-24
             - [Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant. (art. R289 à R296)](#283)
             - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#284)
           - [Section 2 : Droits des déportés et internés résistants. (art. R298 à R304)](#285)
-          - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R306 à R326)](#286)
+          - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R305 à R326)](#286)
             - [Paragraphe 1 : Commissions. (art. R306 à R315)](#287)
-            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R317 à R323)](#288)
+            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R316 à R325)](#288)
             - [Paragraphe 3 : Justification du titre de déporté et interné de la Résistance. (art. R326)](#289)
         - [Chapitre III : Statut des déportés et internés politiques. (art. R328 à R351)](#290)
           - [Section 1 : De la qualité de déporté et interné politique. (art. R328 à R334)](#291)
@@ -296,9 +296,9 @@ Version Consolidée au 1963-02-24
             - [Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques. (art. R330 à R333)](#293)
             - [Paragraphe 3 : Cas d'exclusion. (art. R334)](#294)
           - [Section 2 : Des droits des déportés et internés politiques. (art. R335)](#295)
-          - [Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre. (art. R337 à R351)](#296)
+          - [Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre. (art. R336 à R351)](#296)
             - [Paragraphe 1 : Commissions. (art. R337 à R345)](#297)
-            - [Paragraphe 2 : Demande de titre de déporté et interné politique. (art. R347 à R350)](#298)
+            - [Paragraphe 2 : Demande de titre de déporté et interné politique. (art. R346 à R350)](#298)
             - [Paragraphe 3 : Justification du titre de déporté et interné politique. (art. R351)](#299)
         - [Chapitre IV : Statut des réfractaires. (art. R352 à R369)](#300)
           - [Section 1 : Bénéficiaires. (art. R352 à R355)](#301)
@@ -23352,6 +23352,36 @@ _Cite_:
 
 ##### Section 3 : Procédure d'attribution du titre de déporté et interné résistant.<a id=286></a>
 
+###### Article R305
+
+Le titre de déporté résistant ou le titre d'interné résistant est attribué, par décision du ministre des anciens combattants
+et victimes de guerre, aux personnes qui remplissent les conditions fixées au présent chapitre (première et deuxième
+parties).
+
+Le ministre est assisté à cet effet d'une commission nationale et de commissions départementales dont la composition est
+fixée ci-après. Toutefois, en ce qui concerne les personnes arrêtées et internées ou déportées pour faits de résistance
+accomplis hors du territoire de la France métropolitaine, la commission nationale est seule consultée.
+
+Le ministre délivre aux bénéficiaires ou, à défaut, à leurs ayants cause une carte spéciale dont les caractéristiques sont
+fixées aux articles A. 161 à A. 163.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A161 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A162 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A163 (V)
+
+_Modifié par_:
+
+  - Décret n°63-522 1963-05-27 art. 1 JORF 30 mai 1963
+
+
 ##### Paragraphe 1 : Commissions.<a id=287></a>
 
 ###### Article R306
@@ -23500,44 +23530,6 @@ _Abrogé par_:
   - Décret n°66-851 du 14 novembre 1966, art. 14 v. init.
 
 
-###### Article R312 bis
-
-Abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Créé par_:
-
-  - Décret n°51-910 1951-07-09 art. 1 JORF 14 juillet 1951
-
-_Abrogé par_:
-
-  - Décret n°63-522 1963-05-27 art. 2 JORF 30 mai 1963
-
-
-###### Article R313
-
-Abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Modifié par_:
-
-  - Décret n°58-1052 1958-10-30 art. 1 JORF 6 novembre 1958
-
-_Abrogé par_:
-
-  - Décret n°63-522 1963-05-27 art. 2 JORF 30 mai 1963
-
-
 ###### Article R315
 
 Les membres non fonctionnaires des commissions instituées par les articles R. 305 à R. 312 sont indemnisés de leurs frais de
@@ -23560,6 +23552,48 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Demande du titre de déporté et interné résistant.<a id=288></a>
+
+###### Article R316
+
+Toute personne qui veut faire valoir ses droits au titre de déporté ou d'interné résistant doit adresser sa demande avant le
+1er janvier 1954 :
+
+1° Si elle réside en France, au délégué interdépartemental du ministre des anciens combattants et victimes de guerre dans la
+circonscription duquel se trouve cette résidence ;
+
+2° Si elle réside dans les pays d'outre-mer, au délégué interdépartemental du ministre des anciens combattants et victimes de
+guerre du département de la Seine ;
+
+3° Si elle réside à l'étranger, au ministre des anciens combattants et victimes de guerre par l'intermédiaire du consulat
+dont elle relève.
+
+Toutefois, par dérogation à ce qui précède, les demandes concernant les personnes arrêtées et internées ou déportées pour
+faits de résistance accomplis hors du territoire de la France métropolitaine doivent être adressées au ministère des anciens
+combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°51-910 1951-07-09 art. 3 JORF 14 juillet 1951
+  - Décret n°53-804 1953-09-04 art. 1 JORF 5 septembre 1953
+  - Décret n°55-529 1955-05-10 art. 4 JORF 13 mai 1955
+  - Décret n°58-1052 1958-10-30 art. 2 JORF 6 novembre 1958
+  - Décret n°63-522 1963-05-27 art. 4 JORF 30 mai 1963
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R318 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R325 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. R55 (V)
+
 
 ###### Article R317
 
@@ -23811,6 +23845,71 @@ _Codifié par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. R325 (V)
+
+
+###### Article R324
+
+Les demandes concernant les personnes arrêtées et internées ou déportées pour faits de résistance accomplis hors du
+territoire de la France métropolitaine sont instruites par le service du ministère des anciens combattants et victimes de
+guerre, qui recueille l'avis de la commission nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°51-910 1951-07-09 art. 4 JORF 14 juillet 1951
+  - Décret n°58-1052 1958-10-30 art. 3 JORF 6 novembre 1958
+  - Décret n°63-522 1963-05-27 art. 5 JORF 30 mai 1963
+
+
+###### Article R325
+
+Le ministre des anciens combattants et victimes de guerre, saisi dans les conditions prévues aux articles R. 316 à R. 318 et
+R. 323 d'une proposition d'attribution ou de refus du titre de déporté ou d'interné résistant, peut, avant décision,
+soumettre la demande à l'avis de la commission nationale des déportés et internés résistants. Outre les cas prévus aux
+articles R. 288 à R. 297 inclus, cet avis est obligatoire dans les cas visés au 5° de l'article R. 287. Il est également
+obligatoire en cas de rejet de la demande ou de décision non conforme à l'avis de la commission départementale.
+
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Commission nationale des déportés et internés résistants).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R287 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R288 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R289 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R290 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R291 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R292 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R293 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R294 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R295 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R296 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R297 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R316 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R317 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R318 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R323 (M)
+
+_Modifié par_:
+
+  - Décret n°63-522 1963-05-27 art. 6 JORF 30 mai 1963
 
 
 ##### Paragraphe 3 : Justification du titre de déporté et interné de la Résistance.<a id=289></a>
@@ -24171,6 +24270,40 @@ _Cite_:
 
 ##### Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre.<a id=296></a>
 
+###### Article R336
+
+Le titre de déporté politique est attribué, par décision du ministre des anciens combattants et victimes de guerre, aux
+personnes qui remplissent les conditions fixées par le présent chapitre.
+
+Le ministre est assisté à cet effet d'une commission nationale et de commissions départementales dont la composition est
+fixée ci-après. Toutefois, en ce qui concerne les personnes internées dans les territoires situés hors de la France
+métropolitaine, ou déportées hors de ces territoires, la commission nationale est seule consultée.
+
+Le ministre délivre aux bénéficiaires ou, à défaut, à leurs ayants cause, une carte spéciale dont les caractéristiques sont
+fixées à l'article A. 165-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. D271-4 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L336 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R337 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A165-1 (V)
+
+_Modifié par_:
+
+  - Décret n°63-522 1963-05-27 art. 7 JORF 30 mai 1963
+
+
 ##### Paragraphe 1 : Commissions.<a id=297></a>
 
 ###### Article R337
@@ -24394,59 +24527,6 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R343-2 (Ab)
 
 
-###### Article R343-5
-
-Abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Créé par_:
-
-  - Décret n°52-1057 1952-09-12 art. 1 JORF 14 septembre 1952
-
-_Abrogé par_:
-
-  - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
-
-
-###### Article R344
-
-Abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Abrogé par_:
-
-  - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
-
-
-###### Article R344 bis
-
-Abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Créé par_:
-
-  - Décret n°53-269 1953-03-27 art. 1 JORF 2 avril 1953
-
-_Abrogé par_:
-
-  - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
-
-
 ###### Article R345
 
 Les membres non fonctionnaires des commissions instituées par les articles R. 336 à R. 344 bis sont indemnisés de leurs frais
@@ -24488,6 +24568,42 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Demande de titre de déporté et interné politique.<a id=298></a>
+
+###### Article R346
+
+Les demandes d'attribution du titre de déporté ou d'interné politique doivent être présentées avant le 1er janvier 1954 et
+sont instruites conformément aux dispositions des articles R. 314, R. 316 à R. 318 et R. 323 à R. 325.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D343-8 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R314
+
+_Modifié par_:
+
+  - Décret n°52-1057 1952-09-12 art. 2 JORF 14 septembre 1952
+  - Décret n°53-269 1953-03-27 art. 2 JORF 2 avril 1953
+  - Décret n°53-804 1953-09-04 art. 3 JORF 5 septembre 1953
+  - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°54-403 1954-04-15
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 
 ###### Article R347
 
