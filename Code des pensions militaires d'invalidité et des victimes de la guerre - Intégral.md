@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1980-03-28
+Version Consolidée au 1980-07-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -2230,21 +2230,26 @@ professionnelle, éventuellement précédée de sa réadaptation fonctionnelle.
 Cette allocation a pour effet de porter le montant global des ressources de ces pensionnés à des taux dont le plus élevé ne
 pourra excéder celui de la pension à l'indice 1500.
 
-Un décret, pris dans la forme du règlement d'administration publique, fixera les conditions d'application du présent article.
+Un décret, pris dans la forme du décret en Conseil d'Etat, fixera les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L131-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R131-9 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L35 ter (VT)
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°53-1340 1953-12-31 art. 13 JORF 5 janvier 1954
-
-_Modifié par_:
-
-  - Décret n°57-1405 1957-12-31 art. 1 JORF 1er janvier 1958
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L35 ter
@@ -9622,9 +9627,8 @@ titulaires de la carte du combattant bénéficiant d'une pension d'invalidité d
 d'incapacité d'au moins 50 %, ainsi qu'en faveur des anciens combattants domiciliés en Algérie, dans les départements
 d'outre-mer et dans les pays d'outre-mer au sens du présent code.
 
-Un règlement d'administration publique prévoira les modalités d'attribution de la retraite du combattant aux titulaires
-étrangers de la carte du combattant résidant en France, ainsi qu'aux titulaires de la carte du combattant résidant à
-l'étranger.
+Un décret en Conseil d'Etat prévoira les modalités d'attribution de la retraite du combattant aux titulaires étrangers de la
+carte du combattant résidant en France, ainsi qu'aux titulaires de la carte du combattant résidant à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -9632,13 +9636,17 @@ _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L255 (VT)
 
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L321-2 (VD)
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance 58-1374 1958-12-30 art. 21 JORF 31 décembre 1958
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L257
