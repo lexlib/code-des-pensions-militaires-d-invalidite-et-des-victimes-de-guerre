@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1958-01-01
+Version Consolidée au 1958-03-08
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -513,7 +513,7 @@ Version Consolidée au 1958-01-01
           - [Section 1 : De la qualité de combattant (art. A116 à A128)](#510)
             - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#511)
             - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A122)](#512)
-            - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-4 à A123-5)](#513)
+            - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-2 et A123-3 à A123-5)](#513)
             - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A127)](#514)
             - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#515)
           - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#516)
@@ -41977,6 +41977,43 @@ _Cite_:
 
 
 ##### Paragraphe 3 : Alsaciens et Mosellans.<a id=513></a>
+
+###### Article A123-2 et A123-3
+
+Peuvent prétendre de droit à la carte du combattant les Alsaciens et Mosellans incorporés de force au cours des hostilités, à
+partir du 25 août 1942, dans l'armée allemande, qui remplissent l'une des conditions suivantes :
+
+1° Avoir appartenu pendant au moins quatre-vingt-dix jours à ladite armée ;
+
+2° Avoir été évacués du front par blessure reçue ou maladie contractée en service, sans condition de durée de séjour ;
+
+3° Avoir reçu une blessure de guerre ;
+
+4° Avoir été faits prisonniers alors qu'ils appartenaient à ladite armée, sans condition de durée de séjour ;
+
+5° S'être évadés d'une formation de l'armée allemande.
+
+Sont exclus du bénéfice des dispositions qui précèdent les sous-officiers promus officiers et les officiers ayant obtenu un
+avancement de grade dans l'armée allemande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1958-03-04 art. 1 JORF 8 mars 1958 rectificatif JORF 19 mars 1958
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+
 
 ###### Article A123-4
 
