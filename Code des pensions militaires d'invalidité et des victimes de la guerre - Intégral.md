@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1955-04-04
+Version Consolidée au 1955-05-13
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -281,7 +281,7 @@ Version Consolidée au 1955-04-04
             - [Paragraphe 4 : Dispositions diverses. (art. R280 à R281)](#278)
         - [Chapitre II : Statut des déportés et internés résistants. (art. R286 à R326)](#279)
           - [Section 1 : De la qualité de déporté et interné résistant. (art. R286 à R297)](#280)
-            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R286 à R287 bis)](#281)
+            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R286 à R287 ter)](#281)
             - [Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant. (art. R289 à R296)](#282)
             - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#283)
           - [Section 2 : Droits des déportés et internés résistants. (art. R298 à R304)](#284)
@@ -21627,6 +21627,60 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L276
 
 
+###### Article R287 ter
+
+Pour l'application des articles 1er et 2 de la loi du 19 juillet 1954, sont considérés comme actes qualifiés de résistance à
+l'ennemi :
+
+a) L'insoumission à un ordre d'appel collectif ou individuel dans les formations militaires allemandes ou dans les formations
+paramilitaires dont la liste figure à l'article A. 166, que l'intéressé n'ait pas répondu à cet appel ou qu'il se soit dérobé
+préventivement ;
+
+b) La désertion desdites formations de personnes qui y avaient été incorporées de force, à condition que la désertion soit
+intervenue avant le 6 juin 1944 lorsque ces formations étaient à cette date cantonnées ou engagées en France y compris les
+départements annexés de fait, et que la personne en cause s'y trouvait déjà incorporée ;
+
+c) L'aide volontaire apportée par les membres de la famille des personnes visées en a et b ci-dessus pour leur permettre de
+se soustraire aux obligations militaires qui leur étaient imposées.
+
+Pour l'application de l'alinéa qui précède, l'expression "membre de la famille" s'entend : des ascendants et des descendants
+directs et par alliance, des parents et enfants adoptifs, des parents nourriciers et des enfants qui leur sont confiés, des
+conjoints, des frères et soeurs et de leurs conjoints, des fiancés et fiancées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Cite_:
+
+  - Loi n°54-751 du 19 juillet 1954 - art. 1
+  - Loi n°54-751 du 19 juillet 1954 - art. 2
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A166
+
+_Modifié par_:
+
+  - Décret n°55-529 1955-05-10 art. 1 JORF 13 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R318 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R321 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R342-5 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. R318 (Ab)
+
+
 ##### Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant.<a id=282></a>
 
 ###### Article R289
@@ -22295,6 +22349,50 @@ _Modifié par_:
   - Décret n°53-804 1953-09-04 art. 1 JORF 5 septembre 1953
 
 
+###### Article R318
+
+Lorsque le déporté ou l'interné est décédé ou disparu, la demande peut être présentée conformément aux dispositions des
+articles R. 316 et R. 317, par le conjoint survivant. A défaut du conjoint survivant ou en cas d'abstention de sa part
+pendant une période d'un an à compter de la publication du décret du 25 mars 1949, la demande peut être présentée par un
+descendant suivant l'ordre successoral.
+
+Le délai visé à l'alinéa qui précède expirera le 31 décembre 1955 en ce qui concerne les demandes présentées au titre de
+l'article R. 287 ter.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°49-427 du 25 mars 1949
+  - Code des pensions militaires d'invalidité et de... - art. R287 ter (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R317 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R316
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-529 1955-05-10 art. 4 JORF 13 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D342-15 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R325 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. R287 ter (V)
+
+
 ###### Article R319
 
 Les demandes d'attribution du titre de déporté ou d'interné résistant doivent être accompagnées de pièces établissant :
@@ -22345,6 +22443,121 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+
+###### Article R321
+
+Les actes qualifiés de résistance définis à l'article R. 287 ayant été la cause de la déportation ou de l'internement peuvent
+être prouvés :
+
+a) Dans les cas visés au 1° de l'article R. 287, par l'attestation d'appartenance délivrée par l'autorité militaire
+compétente ;
+
+b) Dans les cas visés au 2° de l'article R. 287, par une attestation circonstanciée émanant du liquidateur responsable du
+réseau, de la formation ou du mouvement reconnu au titre des FFC, des FFI ou de la RIF ;
+
+c) Dans les autres cas visés à l'article R. 287 :
+
+Soit par au moins deux témoignages circonstanciés établis par des personnes notoirement connues pour leur activité dans la
+résistance contre l'ennemi, et appartenant aux FFC, FFI ou à la RIF ;
+
+Soit par des témoignages circonstanciés établis par les personnes ayant assisté à l'acte de résistance accompli isolément ou
+ayant participé à l'acte de résistance qui a motivé l'arrestation. L'honorabilité de ces personnes doit être certifiée :
+
+Dans les territoires d'outre-mer, par le commissaire de police, ou le maire, ou le représentant local de l'autorité
+française ;
+
+A l'étranger, par l'autorité consulaire française la plus proche.
+
+Ces attestations et témoignages doivent être certifiés sur l'honneur. Le ministre des anciens combattants et victimes de
+guerre peut, en outre, faire procéder à des enquêtes par les commissaires de police ou, à défaut, par la gendarmerie et, à
+l'étranger, par les autorités consulaires françaises ;
+
+d) Dans tous les cas visés à l'article R. 287, par la concession d'une pension dans les conditions fixées au titre II, livre
+II (première et deuxième parties) ;
+
+e) Dans les cas visés en a et b de l'article R. 287 ter :
+
+Pour les insoumis à l'incorporation dans une formation militaire ou paramilitaire allemande :
+
+Soit par une attestation de l'autorité administrative de la commune d'appel établissant que l'intéressé appartenait à une
+classe mobilisable dans le département, qu'il a fait l'objet d'un ordre d'appel collectif ou individuel dans une des
+formations susdites et qu'il n'a pas répondu à cet appel ou s'est dérobé préventivement ;
+
+Soit par la production de toute pièce probante établissant les mêmes faits.
+
+Pour les déserteurs des mêmes formations :
+
+Soit par des copies certifiées conformes du livret militaire allemand ou de l'état signalétique et des services ou de la
+fiche de démobilisation établie par l'autorité militaire française lorsque ces documents mentionnent l'acte de désertion ;
+
+Soit par au moins deux témoignages sur l'honneur de personnes ayant appartenu à la même unité au moment de la désertion
+indiquant les circonstances, le lieu et la date de celle-ci ;
+
+Soit par la production de toute pièce probante ;
+
+f) Dans les cas visés à l'article R. 287 ter, c :
+
+Par les pièces ci-dessus exigées pour établir la qualité d'insoumis ou de déserteur et, en outre, par au moins deux
+témoignages circonstanciés établis sur l'honneur par des personnes ayant été par leur situation ou leurs fonctions à même de
+connaître l'aide volontaire apportée audit insoumis ou déserteur par des membres de sa famille pour lui permettre de se
+soustraire aux obligations militaires qui lui étaient imposées.
+
+Dans le cas où il ne serait pas possible de fournir les pièces ou témoignages visés en e et f ci-dessus, la preuve pourra
+être faite par tout moyen offrant des garanties au moins égales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-529 1955-05-10 art. 2 JORF 13 mai 1955
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R322 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R287 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R287 ter (V)
+
+
+###### Article R322
+
+L'existence du lien de cause à effet entre l'acte qualifié de résistance visé à l'article R. 321 et la déportation ou
+l'internement peut être prouvée comme il est dit en b, c, e et j dudit article.
+
+L'existence du lien de cause à effet entre l'acte qualifié de résistance et la déportation ou l'internement est présumée
+établie pour les actes définis aux articles R. 287, 2° à 5°, inclus, et R. 287 ter, si l'arrestation, immédiatement suivie
+d'internement ou de déportation, a eu lieu lors de l'accomplissement de l'un des actes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-529 1955-05-10 art. 3 JORF 13 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D342-18 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R287
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R321
 
 
 ###### Article R323
