@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1981-05-10
+Version Consolidée au 1981-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -4336,6 +4336,56 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L67
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L72
+
+I. La pension est déterminée pour le père ou la mère veufs, divorcés, séparés de corps ou non mariés, de même que pour le
+père et la mère conjointement, par application de l'indice de pension 213, tel qu'il est défini à l'article L. 8 bis du
+présent code ; pour le père ou la mère veufs remariés ou qui ont contracté mariage depuis le décès du militaire ou marin, par
+application de l'indice de pension 106,5 ; en cas de dissolution de ce dernier mariage par veuvage, divorce ou en cas de
+séparation de corps, la pension est à nouveau déterminée par application de l'indice 213.
+
+II. Les indices de pension 213 et 106,5 visés au paragraphe I sont respectivement majorés de 30 et 15 points en faveur des
+ascendants âgés :
+
+Soit de soixante-cinq ans ;
+
+Soit de soixante ans s'ils sont infirmes ou atteints d'une maladie incurable ou entraînant une incapacité permanente de
+travail.
+
+Les veuves bénéficiaires de la pension au taux exceptionnel prévu à l'article L. 51, 1er alinéa, perçoivent, lorsqu'elles
+sont admises au bénéfice d'une pension d'ascendant majorée dans les conditions prévues par le présent paragraphe, une
+allocation complémentaire dont le taux est fixé à 170 points. Cette allocation est soumise aux mêmes conditions de ressources
+que la pension d'ascendant.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 27 JORF 5 janvier 1954
+  - Loi n°55-356 1955-04-03 art. 18 JORF 4 avril 1955
+  - Loi n°63-156 1963-02-23 art. 32 JORF 24 février 1963
+  - Loi n°70-1199 1970-12-21 art. 83 II JORF 22 décembre 1970
+  - Loi n°71-1061 1971-12-29 art. 5 I JORF 30 décembre 1971
+  - Loi n°76-1232 1976-12-29 art. 93 JORF 30 décembre 1976
+  - Loi n°80-1094 1980-12-30 art. 66 JORF 31 décembre 1980 en vigueur le 30 décembre 1981
+
+_Cité par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 99 (P)
+  - Code des pensions militaires d'invalidité et de... - art. D21 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L148 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. L124 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L51 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
 _Codifié par_:
 
