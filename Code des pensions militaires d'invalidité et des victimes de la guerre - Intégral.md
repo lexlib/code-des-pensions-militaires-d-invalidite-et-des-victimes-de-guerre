@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2001-04-27
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -33322,8 +33322,8 @@ du demandeur ou son représentant.
 
 Dans le département de Paris, le comité départemental est présidé par le receveur central des finances de Paris ou son
 représentant. Les représentants de la Banque de France et l'administration des contributions directes et du crédit populaire
-sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des impôts et la chambre
-syndicale des banques populaires.
+sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des impôts et la Banque fédérale
+des banques populaires.
 
 **Liens relatifs à cet article**
 
@@ -33339,9 +33339,9 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
 
 _Anciens textes_:
 
