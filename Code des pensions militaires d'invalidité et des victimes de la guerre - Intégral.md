@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1990-12-30
+Version Consolidée au 1991-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -49709,63 +49709,8 @@ _Modifié par_:
 
 ###### Article A39
 
-Il est alloué aux membres non fonctionnaires de la commission supérieure des soins gratuits une indemnité de 22 F par heure
-de présence effective aux séances de la commission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1951-04-24 JORF 29 avril 1951
-
-_Modifié par_:
-
-  - Arrêté 1974-05-14 art. 1 JORF 1er juin 1974
-  - Arrêté 1975-04-05 art. 1 JORF 22 avril 1975
-  - Arrêté 1977-04-21 art. 1 JORF 26 avril 1977
-  - Arrêté 1979-12-05 art. 1 JORF 16 décembre 1979
-  - Arrêté 1981-12-31 art. 1 JORF 12 janvier 1982
-  - Arrêté 1983-01-12 art. 1 JONC 27 janvier 1983
-  - Arrêté 1983-12-26 art. 1 JONC 15 janvier 1984
-  - Arrêté 1986-01-06 art. 1 JORF 22 janvier 1986
-  - Arrêté 1986-12-31 art. 1 et 4 JORF 23 janvier 1987 en vigueur le 1er janvier 1987
-  - Arrêté 1988-02-04 art. 1 JORF 12 février 1988 en vigueur le 1er janvier 1988
-  - Arrêté 1989-01-25 art. 1 JORF 7 février 1989 en vigueur le 1er janvier 1989
-  - Arrêté 1990-01-15 art. 1 JORF 24 janvier 1990 en vigueur le 1er janvier 1990
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A108 (V)
-
-
-###### Article A40
-
-L'indemnité mensuelle allouée aux médecins rapporteurs des commissions départementales des soins gratuits est fixée aux
-sommes indiquées ci-dessous :
-
-Indemnité de 89,60 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire de Belfort, Arriège, Lot, Creuse, Cantal,
-Haute-Corse, Corse-du-Sud, Gers, Tarn-et-Garonne, Haute-Sa<cb>ne, Haute-Loire, Haute-Marne, Meuse, Hautes-Pyrénées, Jura,
-Corrèze, Mayenne et Nièvre.
-
-Indemnité de 101,30 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes Yonne, Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-
-Garonne, Eure-et-Loir, Aveyron, Cher, Ardennes, Deux-Sèvres, Dr<cb>me, Vienne, Tarn, Vaucluse, Charente, Haute-Vienne, Ain,
-Haute-Savoie, Eure, Dordogne, Vosges, Allier, C<cb>te-d'Or, Loiret, Vendée, Indre-et-Loire, Doubs et Manche.
-
-Indemnité de 121,50 F : Sarthe, Marne, Gard, Charente-Maritime, Pyrénées-Atlantiques, Calvados, Somme, C<cb>tes-du-Nord,
-Oise, Var, Aisne, Puy-de-D<cb>me, Morbihan, Sa<cb>ne-et-Loire, Val-d'Oise, Seine-et-Marne, Hérault, Haut-Rhin, Maine-et-
-Loire, Essonne, Ille-et-Vilaine, Haute-Garonne et Alpes-Maritimes.
-
-Indemnité de 146,70 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère, Bas-Rhin, Loire-Atlantique, Gironde et
-Moselle.
-
-Indemnité de 172,80 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rh<cb>ne, Pas-de-Calais, Bouches-du-Rh<cb>ne et
-Hauts-de-Seine.
-
-Indemnité de 186,50 F : Nord.
-
-Indemnité de 209,50 F : Paris.
-
-</cb></cb></cb></cb></cb></cb></cb></cb>
+Il est alloué aux membres non fonctionnaires de la Commission supérieure des soins gratuits une indemnité de 22,60 F par
+heure de présence effective aux séances de la commission.
 
 **Nota:**
 
@@ -49779,24 +49724,43 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1981-12-31 art. 1 JORF 12 janvier 1982
-  - Arrêté 1983-01-13 art. 1 JORF 28 janvier 1983
-  - Arrêté 1983-12-26 art. 1 JONC 15 janvier 1984
-  - Arrêté 1986-01-06 art. 1 JORF 22 janvier 1986
-  - Arrêté 1986-12-31 art. 1 et 3 JORF 23 janvier 1987 en vigueur le 1er janvier 1987
-  - Arrêté 1988-02-04 art. 1 JORF 12 février 1988 en vigueur le 1er janvier 1988
-  - Arrêté 1989-01-25 art. 1 JORF 7 février 1989 en vigueur le 1er janvier 1989
-  - Arrêté 1990-01-15 art. 1 JORF 24 janvier 1990 en vigueur le 1er janvier 1990
+  - Arrêté 1990-12-24 art. 1 JORF 1er janvier 1991 en vigueur le 1er janvier 1991
 
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A108 (V)
 
 
-###### Article A41
+###### Article A40
 
-Il est alloué aux membres non fonctionnaires des commissions départementales des soins gratuits une indemnité de 22 F par
-heure de présence effective aux séances des commissions.
+L'indemnité mensuelle allouée aux médecins rapporteurs des commissions départementales des soins gratuits est fixée aux
+sommes indiquées ci-dessous :
+
+Indemnité de 91,80 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire de Belfort, Ariège, Lot, Creuse, Cantal,
+Haute-Corse, Corse-du-Sud, Gers, Tarn-et-Garonne, Haute-Saône, Haute-Loire, Haute-Marne, Meuse, Hautes-Pyrénées, Jura,
+Corrèze, Mayenne et Nièvre.
+
+Indemnité de 103,80 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes, Yonne, Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-
+Garonne, Eure-et-Loir, Aveyron, Cher, Ardennes, Deux-Sèvres, Drôme, Vienne, Tarn, Vaucluse, Charente, Haute-Vienne, Ain,
+Haute-Savoie, Eure, Dordogne, Vosges, Allier, Côte-d'Or, Loiret, Vendée, Indre-et-Loire, Doubs et Manche.
+
+Indemnité de 124,50 F : Sarthe, Marne, Gard, Charente-Maritime, Pyrénées-Atlantiques, Calvados, Somme, Côtes-d'Armor, Oise,
+Var, Aisne, Puy-de-Dôme, Morbihan, Saône-et-Loire, Val-d'Oise, Seine-et-Marne, Hérault, Haut-Rhin, Maine-et-Loire, Essonne,
+Ille-et-Vilaine, Haute-Garonne et Alpes-Maritimes.
+
+Indemnité de 150,40 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère, Bas-Rhin, Loire-Atlantique, Gironde et
+Moselle.
+
+Indemnité de 177,10 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rhône, Pas-de-Calais, Bouches-du-Rhône et Hauts-de-
+Seine.
+
+Indemnité de 191,20 F : Nord.
+
+Indemnité de 214,70 F : Paris.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -49806,18 +49770,31 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1974-05-14 art. 2 JORF 1er juin 1974
-  - Arrêté 1975-04-05 art. 2 JORF 22 avril 1975
-  - Arrêté 1977-04-21 art. 2 JORF 26 avril 1977
-  - Arrêté 1979-12-05 art. 2 JORF 16 décembre 1979
-  - Arrêté 1981-12-31 art. 2 JORF 12 janvier 1982
-  - Arrêté 1983-01-12 art. 2 JONC 27 janvier 1983
-  - Arrêté 1983-12-26 art. 2 JONC 15 janvier 1984
-  - Arrêté 1986-01-06 art. 2 JORF 22 janvier 1986
-  - Arrêté 1986-12-31 art. 2 et 4 JORF 23 janvier 1987 en vigueur le 1er janvier 1987
-  - Arrêté 1988-01-04 art. 2 JORF 12 février 1988 en vigueur le 1er janvier 1988
-  - Arrêté 1989-01-25 art. 2 JORF 7 février 1989 en vigueur le 1er janvier 1989
-  - Arrêté 1990-01-15 art. 2 JORF 24 janvier 1990 en vigueur le 1er janvier 1990
+  - Arrêté 1990-12-24 art. 1 JORF 1er janvier 1991 en vigueur le 1er janvier 1991
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A108 (V)
+
+
+###### Article A41
+
+Il est alloué aux membres non fonctionnaires des commissions départementales des soins gratuits une indemnité de 22,60 F par
+heure de présence effective aux séances des commissions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1990-12-24 art. 2 JORF 1er janvier 1991 en vigueur le 1er janvier 1991
 
 **Liens**:
 
