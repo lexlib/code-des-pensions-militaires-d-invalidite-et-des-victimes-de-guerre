@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1972-12-21
+Version Consolidée au 1973-01-20
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -359,7 +359,7 @@ Version Consolidée au 1972-12-21
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. D1 à D230)](#356)
       - [Titre Ier : Droit à pension des invalides. (art. D1 à D4 bis)](#357)
         - [Chapitre Ier : Conditions du droit à pension. (art. D1)](#358)
-        - [Chapitre III : Taux des pensions. (art. D3)](#359)
+        - [Chapitre III : Taux des pensions. (art. D2 à D3)](#359)
         - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. D4 à D4 bis)](#360)
       - [Titre II : Emoluments complémentaires. (art. D8 à D19)](#361)
         - [Chapitre III : Indemnités de soins aux tuberculeux. (art. D8 à D19)](#362)
@@ -32176,6 +32176,68 @@ _Codifié par_:
 
 
 #### Chapitre III : Taux des pensions.<a id=359></a>
+
+###### Article D2
+
+Les règles et barèmes pour la classification des infirmités d'après leur gravité, prévus par l'article L. 9, sont déterminés
+au guide-barème annexé au décret du 29 mai 1919 et modifié par les textes suivants :
+
+Décret du 17 octobre 1919, articles 1er et 2 ;
+
+Décret du 8 août 1924, article 1er ;
+
+Décret du 16 juin 1925, article 1er ;
+
+Décret du 18 mars 1926, article 1er ;
+
+Décret du 7 septembre 1928, article 1er ;
+
+Décret du 22 février 1929, article 1er ;
+
+Décret du 27 juin 1930, article 1er ;
+
+Décret du 5 juillet 1930, article 1er ;
+
+Décret du 23 avril 1931, article 1er ;
+
+Décret du 17 juillet 1931, article 1er ;
+
+Décret du 28 juin 1949, article 1er.
+
+L'évaluation de l'invalidité résultant d'infirmités ou de maladies contractées pendant l'internement ou la déportation,
+pratiquée en vue de l'attribution des pensions visées au présent code est faite en fonction des indications du "guide-barème
+pour l'évaluation de l'invalidité chez les anciens internés et déportés" annexé au présent chapitre.
+
+L'évaluation de l'invalidité résultant d'infirmités ou de maladies contractées par des militaires ou assimilés au cours de la
+captivité subie dans certains camps ou lieux de détention, pratiquée en vue de l'attribution des pensions visées au Code des
+pensions militaires d'invalidité et des victimes de la guerre, est faite en fonction des indications du document ci-joint qui
+prend le nom de Guide-barème pour l'évaluation des invalidités contractées par des militaires ou assimilés au cours de la
+captivité subie dans certains camps ou lieux de détention.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D125-4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L9
+  - Décret n°1931-07-17 art. 1
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°73-74 du 18 janvier 1973 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 
 ###### Article D3
 
