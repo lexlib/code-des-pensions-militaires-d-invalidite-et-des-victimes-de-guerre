@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1987-09-02
+Version Consolidée au 1987-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -7,7 +7,7 @@ Version Consolidée au 1987-09-02
       - [Titre Ier : Droit à pension des invalides. (art. L2 à L30)](#4)
         - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L6)](#5)
         - [Chapitre II : Pensions définitives et pensions temporaires. (art. L7 à L8)](#6)
-        - [Chapitre III : Taux des pensions. (art. L10 à L18)](#7)
+        - [Chapitre III : Taux des pensions. (art. L9 à L18)](#7)
         - [Chapitre IV : Majorations pour enfants. (art. L19 à L20)](#8)
         - [Chapitre V : Demandes de pension - Liquidation et concession. (art. L21 à L27)](#9)
         - [Chapitre VI : Révision pour aggravation. (art. L28 à L30)](#10)
@@ -972,6 +972,119 @@ _Codifié par_:
 
 
 #### Chapitre III : Taux des pensions.<a id=7></a>
+
+###### Article L9
+
+Le taux des émoluments globaux correspondant au tarif afférent au soldat, et servis en application du présent code, est réglé
+suivant le tableau ci-dessous :
+
+Degré     : indice de pension
+
+d'invalidité :     défini
+
+:   à l'article
+
+: L.8 bis du code
+
+: des pensions
+
+: militaires
+
+: d'invalidité
+
+: et des victimes
+
+: de la guerre
+
+:
+
+10 %     :     48
+
+15 %     :     72
+
+20 %     :     96
+
+25 %     :    120
+
+30 %     :    144
+
+35 %     :    168
+
+40 %     :    192
+
+45 %     :    216
+
+50 %     :    240
+
+55 %     :    264
+
+60 %     :    288
+
+65 %     :    312
+
+70 %     :    336
+
+75 %     :    360
+
+80 %     :    384
+
+85 %     :    625
+
+90 %     :    745
+
+95 %     :    872
+
+100 %     :   1000
+
+Les émoluments globaux correspondant aux indices fixés au tableau ci-dessus comprennent [*composition*] la pension
+principale, et pour les invalides titulaires d'une pension d'invalidité égale à 85 %, 90 % et 100 %, les allocations
+spéciales aux grands invalides n° 1, n° 2, n° 3 et n° 4, accordées aux invalides bénéficiaires d'allocations aux grands
+mutilés et les allocations prévues à l'article L. 38 du code par référence au degré d'invalidité.
+
+Des décrets contresignés par le ministre des anciens combattants et victimes de la guerre et le ministre de l'économie et des
+finances [*autorités compétentes*] fixeront, en tant que de besoin, les modalités d'application du présent article et
+détermineront notamment les indices des allocations et accessoires de pensions prévus par le présent code.
+
+Le taux de la pension définitive ou temporaire est fixé, dans chaque grade, par référence au degré d'invalidité apprécié de 5
+en 5 jusqu'à 100 %.
+
+Quand l'invalidité est intermédiaire entre deux échelons, l'intéressé bénéficie du taux afférent à l'échelon supérieur.
+
+Pour l'application du présent article, un décret contresigné par les ministres des anciens combattants et victimes de guerre,
+chargé de la défense nationale ou de la France d'outre-mer, détermine les règles et barèmes pour la classification des
+infirmités d'après leur gravité.
+
+En outre, un décret spécial contresigné par le ministre des anciens combattants et victimes de guerre, le ministre de la
+défense nationale et le ministre chargé de la France d'outre-mer, dont les dispositions font l'objet de l'article D. 2,
+dernier alinéa, détermine les règles et les barèmes pour la classification des infirmités et maladies contractées pendant
+l'internement ou la déportation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 3-1 JORF 5 janvier 1954
+  - Loi n°87-1060 du 30 décembre 1987 - art. 101 () JORF 31 décembre 1987
+
+_Cité par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. D2 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L10 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L12 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L15 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. L19 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L38 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre D-2, L8 bis, L38
+
 
 ###### Article L10
 
