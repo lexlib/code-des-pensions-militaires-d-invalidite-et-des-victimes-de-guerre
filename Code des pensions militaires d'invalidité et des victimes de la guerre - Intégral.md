@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-09-22
+Version Consolidée au 1954-10-23
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -17022,6 +17022,32 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. L24 (M)
+
+
+###### Article R149
+
+Les taux de pensions applicables aux bénéficiaires de l'article R. 147 sont fixés, compte tenu du tableau d'assimilation
+annexé au présent chapitre.
+
+Pour les mineurs de dix-huit ans, les pensions définitives ou temporaires d'invalidité sont fixées à la moitié du taux prévu
+pour le soldat. Dès que le mineur a atteint sa dix-huitième année, il est soumis à une visite médicale dont les constatations
+servent de base, s'il y a lieu, à une nouvelle liquidation de pension d'après les taux indiqués au début du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L151 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L153 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R147 (V)
 
 
 ###### Article R150
