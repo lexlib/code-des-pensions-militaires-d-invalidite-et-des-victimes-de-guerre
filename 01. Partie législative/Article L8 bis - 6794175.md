@@ -4,45 +4,16 @@ A. - A chaque pension, ainsi qu'aux majorations et allocations, correspond un in
 
 Le montant annuel de la pension est égal au produit de l'indice par la valeur du point de pension.
 
-B. - A compter du 1er janvier 1990, un rapport constant est établi entre les pensions et les traitements bruts de la fonction
-publique de l'Etat, dans les conditions suivantes :
-
-1° En cas de variation de la valeur du traitement brut des fonctionnaires de l'Etat afférent à l'indice 100 majoré, la valeur
-du point de pension évolue de la même manière ;
-
-2° En cas de variation uniforme des indices de traitement des fonctionnaires de l'Etat, la valeur du point de pension varie
-en proportion de la variation moyenne des traitements bruts des fonctionnaires de l'Etat qui en résulte, telle qu'elle est
-fixée par décret ;
-
-3° Au 1er janvier de chaque année, pour tenir compte des variations de traitement dont ont bénéficié certaines catégories de
-fonctionnaires de l'Etat au cours de l'année précédente, la valeur du point de pension est modifiée en proportion de l'écart
-entre les évolutions respectives en moyenne de la valeur de ce point et de celle de l'indice d'ensemble des traitements de la
-fonction publique (brut) tel qu'il est défini par l'Institut national de la statistique et des études économiques. Les deux
-périodes retenues pour apprécier ces évolutions sont, d'une part, l'année écoulée, d'autre part, la pénultième année. Cette
-modification de la valeur du point de pension est soumise à l'avis d'une commission comprenant des représentants du
-Parlement, de l'administration et des associations d'anciens combattants et victimes de guerre les plus représentatives ;
-
-4° Les bénéficiaires de pensions en paiement au 31 décembre de l'année écoulée ont droit à un supplément de pension égal au
-produit de l'indice de pension détenu à cette date par l'écart défini au 3° précédent et par la valeur moyenne du point de
-pension au cours de cette année, cette valeur étant, le cas échéant, calculée et proratisée en fonction de la période de
-perception de la pension.
+B. - A compter du 1er janvier 2005, un rapport constant est établi entre les pensions et les traitements bruts de la fonction
+publique de l'Etat. En cas d'évolution de l'indice d'ensemble des traitements bruts de la fonction publique de l'Etat, tel
+qu'il est défini par l'Institut national de la statistique et des études économiques, la valeur du point de pension est
+modifiée proportionnellement à l'évolution de cet indice, à la date de cette évolution.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°53-1340 1953-12-31 art. 2 JORF 5 janvier 1954
-
-_Modifié par_:
-
-  - Loi n°55-356 1955-04-03 art. 6 I JORF 4 avril 1955
-  - Décret n°79-24 1979-01-09 art. 1 JORF 11 janvier 1979
-  - Loi n°83-1179 du 29 décembre 1983 - art. 134 () JORF 30 DECEMBRE 1983
-  - Loi n°89-936 du 29 décembre 1989 - art. 123 (V) JORF 30 décembre 1989
 
 **Liens**:
 
@@ -150,6 +121,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L50 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L72 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L73 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L74 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L9 (VT)
   - Code des pensions militaires d'invalidité et des v - art. L114 bis (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R2 (Ab)
@@ -157,3 +129,16 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R4 (M)
   - Code des pensions militaires d'invalidité et des v - art. R5-1 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R6 (T)
+
+_Modifié par_:
+
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 117 (V) JORF 31 décembre 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L125-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R125-1 (V)
