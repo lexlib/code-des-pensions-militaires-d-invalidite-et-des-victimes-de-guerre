@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1991-07-05
+Version Consolidée au 1991-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -19319,11 +19319,9 @@ l'article L. 6 du présent code, dont la composition est fixée comme suit :
 
 4° Un médecin des armées, en service dans une unité.
 
-Les membres autres que le président sont désignés par le commandant de la région militaire, maritime ou aérienne sur le
-territoire de laquelle est implanté le centre de réforme, dans des conditions fixées par instruction ministérielle.
-
-Les membres de la commission, y compris le président, sont choisis parmi les officiers de carrière en position d'activité. En
-cas d'absence ou d'empêchement, ils peuvent être remplacés par un suppléant désigné suivant les mêmes règles.
+Les membres autres que le président sont désignés par le commandant de circonscription militaire de défense, le commandant
+d'arrondissement maritime ou le commandant de région aérienne sur le territoire desquels est situé le centre de réforme, dans
+les conditions fixées par instruction ministérielle.
 
 **Liens relatifs à cet article**
 
@@ -19333,7 +19331,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-485 1989-07-07 art. 2, art. 3 I JORF 13 juillet 1989
+  - Décret n°91-684 du 14 juillet 1991 - art. 2 () JORF 19 juillet 1991 en vigueur le 1er septembre 1991
 
 _Cité par_:
 
