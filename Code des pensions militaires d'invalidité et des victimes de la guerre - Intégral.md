@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-02-05
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -19835,8 +19835,8 @@ _Nouveaux textes_:
 ###### Article R22
 
 L'instruction des demandes présentées par les militaires et marins résidant à l'étranger est assurée par un ou plusieurs
-centres de réforme désignés à cet effet par un arrêté du ministre chargé des armées et du ministre chargé des anciens
-combattants et victimes de guerre qui fixe, le cas échéant, la compétence respective des centres ainsi désignés.
+centres de réforme désignés à cet effet par un arrêté du ministre de la défense et du ministre chargé des anciens combattants
+et victimes de guerre qui fixe, le cas échéant, la compétence respective des centres ainsi désignés.
 
 Les commissions de réforme appelées à connaître desdites demandes sont celles qui fonctionnent auprès du centre de réforme
 chargé de leur instruction.
@@ -19850,6 +19850,10 @@ contre-visite est faite dans les mêmes formes que la première visite.
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ##### Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24.<a id=204></a>
