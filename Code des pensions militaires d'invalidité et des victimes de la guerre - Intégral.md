@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1968-01-27
+Version Consolidée au 1969-03-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -33544,6 +33544,44 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. D76 (M)
 
 
+###### Article D78
+
+Les frais de voyage nécessités par l'hospitalisation dans un établissement public ou privé sont à la charge de l'Etat, sous
+réserve que les prescriptions de l'article D. 65 aient été respectées ou que l'établissement approprié choisi, qu'il soit
+public ou privé, soit le plus voisin du lieu du domicile ou de la résidence provisoire. Dans le cas contraire, ces frais ne
+peuvent être mis à la charge de l'Etat que par décision du directeur interdépartemental des anciens combattants et victimes
+de guerre prise sur avis motivé du médecin contrôleur des soins gratuits.
+
+La prise en charge éventuelle des frais de voyage pour soins externes ne peut intervenir qu'après accord préalable du
+directeur interdépartemental des anciens combattants et victimes de guerre pris sur avis motivé du médecin contrôleur des
+soins gratuits.
+
+Dans les cas visés aux deux alinéas précédents, les frais de voyage sont pris en charge, quel que soit le mode de transport
+utilisé, sur la base du prix du voyage en deuxième classe, par voie ferrée ou en voiture publique, compte tenu des réductions
+dont les intéressés peuvent bénéficier à titre personnel.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A17 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A18 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A19 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D65 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Décret n°69-218 1969-03-03 art. 2 JORF 9 mars 1969 rectificatif JORF 22 mars 1969
+
+
 ###### Article D79
 
 En cas de décès au cours d'une hospitalisation au titre de l'article L. 115 et suivants, les frais de transfert du corps, de
@@ -33638,6 +33676,31 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
+
+
+###### Article D93
+
+Il est alloué aux membres de la commission supérieure, à l'exclusion des membres fonctionnaires, une indemnité par heure de
+présence effective aux séances de la commission.
+
+Les membres de la commission ne résidant pas à Paris ont droit au remboursement de leurs frais de déplacement, quel que soit
+le mode de transport utilisé, sur la base du prix du voyage en deuxième classe, par voie ferrée ou en voiture publique,
+compte tenu des réductions dont les intéressés peuvent bénéficier à titre personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Décret n°69-218 1969-03-03 art. 2 JORF 9 mars 1969 rectificatif JORF 22 mars 1969
 
 _Abrogé par_:
 
@@ -33911,6 +33974,27 @@ _Modifié par_:
 
   - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
   - Décret n°64-429 1964-05-14 art. 1 JORF 20 mai 1964
+
+
+###### Article D86
+
+Il est alloué aux membres des commissions, à l'exclusion des membres fonctionnaires, une indemnité par heure de présence
+effective aux séances de la commission.
+
+Les membres de la commission qui résident hors du chef-lieu du département ont droit au remboursement de leurs frais de
+déplacement, quel que soit le mode de transport utilisé, sur la base du prix du voyage en deuxième classe, par voie ferrée ou
+en voiture publique, compte tenu des réductions dont les intéressés peuvent bénéficier à titre personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Décret n°69-218 1969-03-03 art. 2 JORF 9 mars 1969 rectificatif JORF 22 mars 1969
 
 
 ###### Article D87
@@ -42772,6 +42856,71 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. D78 (M)
   - Code des pensions militaires d'invalidité et des v - art. L115 (V)
+
+
+###### Article A18
+
+Dans les cas prévus aux articles D. 62 bis et D. 78, le pensionné est remboursé de ses frais de voyage sur demande adressée
+au directeur interdépartemental des anciens combattants et victimes de guerre. Cette demande doit être accompagnée de l'une
+des pièces justificatives suivantes : un certificat du directeur de l'établissement hospitalier ou du spécialiste attestant
+que les soins ont bien été donnés, ou un certificat de fin de cure délivré par l'établissement thermal. Ce dernier document
+servira également de pièce justificative pour le versement de l'indemnité forfaitaire de subsistance prévue à l'article D. 62
+bis pour les pensionnés victimes civiles admis à suivre une cure dans une station thermale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A108 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D62 bis (M)
+  - Code des pensions militaires d'invalidité et des v - art. D78 (M)
+
+
+###### Article A19
+
+Dans les cas prévus à l'article D. 78 et si le pensionné n'est pas en mesure de faire l'avance des frais de voyage, il le
+signale au directeur interdépartemental des anciens combattants et victimes de guerre, qui lui adresse sans délai un mandat
+de paiement payable à vue représentant les frais de voyage pour l'aller en cas d'hospitalisation, et pour l'aller et retour
+lorsqu'il s'agit de soins à titre externe. Dans le cas où le voyage n'a pas lieu, les sommes avancées doivent être restituées
+par l'intéressé.
+
+En cas d'hospitalisation, les demandes d'avance des frais de voyage pour le retour doivent être visées par le gestionnaire ou
+le directeur de l'établissement.
+
+Pour obtenir l'avance de ses frais de déplacement, le pensionné doit produire les pièces justificatives suivantes :
+
+1° Une demande d'avance sur papier libre ou sur un imprimé mis à sa disposition à la direction interdépartementale des
+anciens combattants et victimes de guerre.
+
+Cette demande doit préciser le trajet, le mode de transport et son prix.
+
+2° A cette demande est annexé ultérieurement un certificat du directeur de l'établissement hospitalier ou du spécialiste
+attestant que les soins ont bien été donnés.
+
+Le cas échéant, les frais de déplacement peuvent également être réglés directement au transporteur sur présentation d'une
+facture et d'une attestation du pensionné aux termes de laquelle ce dernier reconnaît ne pas avoir avancé lesdits frais de
+déplacement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A108 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D78 (M)
 
 
 ###### Article A20
