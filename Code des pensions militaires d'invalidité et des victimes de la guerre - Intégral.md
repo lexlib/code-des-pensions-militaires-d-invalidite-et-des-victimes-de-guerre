@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -32,7 +32,7 @@ Version Consolidée au 2002-12-31
       - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L105 à L114)](#29)
         - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L105 à L106)](#30)
         - [Chapitre II : Suspension du droit à pension. (art. L107)](#31)
-        - [Chapitre III : Prescriptions des arrérages. (art. L108 à L109)](#32)
+        - [Chapitre III : Prescriptions des arrérages. (art. L108 à L109 bis)](#32)
         - [Chapitre IV : Payement des majorations pour enfants. (art. L110 à L111)](#33)
         - [Chapitre V : Règles générales de cumul. (art. L112 à L114)](#34)
       - [Titre VII : Soins, traitements, rééducation, sécurité sociale. (art. L115 à L136 bis)](#35)
@@ -4215,6 +4215,11 @@ _Codifié par_:
 
 Les demandes sont recevables sans limitation de délai.
 
+L'entrée en jouissance de la pension est fixée au premier jour du mois suivant le décès de l'ouvrant droit, sous réserve des
+dispositions de l'article L. 108. Toutefois, dans le cas particulier d'une pension temporaire, lorsque le décès survient le
+même mois que la date normale d'expiration de la pension, celle-ci est payée jusqu'à cette date et, si elle ouvre droit à
+pension de réversion, cette pension prend effet au lendemain de la même date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -4224,6 +4229,14 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 42 (Ab)
+
+_Modifié par_:
+
+  - Loi - art. 65 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L108 (V)
 
 
 ###### Article L45
@@ -5408,18 +5421,55 @@ _Codifié par_:
 
 ###### Article L109
 
-Les articles 144, alinéa 1er, 147, 149 à 157 et 162 à 165 du Code des pensions civiles et militaires de retraite (1) sont
-applicables aux pensions servies au titre du présent code.
+Les pensions sont payées mensuellement, à terme échu et jusqu'à la fin du mois au cours duquel le pensionné est décédé.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L161-1 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi - art. 65 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L109 bis
+
+Les articles L. 91 à L. 93 du code des pensions civiles et militaires de retraite sont applicables aux pensions servies au
+titre du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi - art. 65 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retraite 157
-  - Code des pensions militaires d'invalidité et des v - art. L94 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. L95 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. L96 (Ab)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre 144, 147, 149, 150, 151, 152, 153, 154, 155, 156, 157, 162, 163, 164, 165, L90, L91, L92, L94, L95, L96
+  - Code des pensions civiles et militaires de retraite
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L161-4 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R91 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R93 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R98 (Ab)
 
 _Codifié par_:
 
