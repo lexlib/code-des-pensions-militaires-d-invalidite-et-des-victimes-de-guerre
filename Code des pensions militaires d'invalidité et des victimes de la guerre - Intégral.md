@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1964-10-26
+Version Consolidée au 1965-09-29
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -16785,6 +16785,37 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L67
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R37
+
+
+###### Article R41
+
+Dans les hypothèses prévues par les articles L. 19, L. 47, L. 64 et L. 75, il est statué sur les demandes de pension
+seulement après que le tribunal de grande instance du domicile du requérant, saisi par une simple requête, s'est prononcé en
+chambre du conseil sur la question de savoir soit si le militaire défunt a été le soutien des enfants issus d'un précédent
+mariage de sa femme, soit si des circonstances de fait ont empêché un militaire de reconnaître un enfant naturel, soit enfin
+si une personne a, dans les conditions imparties par la loi, élevé et entretenu un enfant et remplacé ses parents ou l'un
+d'eux auprès de lui. Le tribunal compétent pour les personnes résidant à l'étranger est le tribunal de grande instance de
+leur dernier domicile ou de la dernière résidence en France. Pour celles qui n'ont jamais résidé en France, le tribunal
+compétent est le Tribunal de grande instance de Paris.
+
+La décision du tribunal de grande instance est rendue sans frais.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L19 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L47 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L64 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L75 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
 ###### Article R42
