@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1958-12-23
+Version Consolidée au 1958-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -96,7 +96,7 @@ Version Consolidée au 1958-12-23
     - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre (art. L253 à L487)](#93)
       - [Titre Ier : Carte et retraite du combattant (art. L253 à L261)](#94)
         - [Chapitre Ier : Carte du combattant. (art. L253 à L254)](#95)
-        - [Chapitre II : Retraite du combattant. (art. L257 à L261)](#96)
+        - [Chapitre II : Retraite du combattant. (art. L255 à L261)](#96)
       - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L262 à L319 bis)](#97)
         - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L262 à L271)](#98)
           - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L262 à L265)](#99)
@@ -7627,6 +7627,71 @@ _Codifié par_:
 
 
 #### Chapitre II : Retraite du combattant.<a id=96></a>
+
+###### Article L255
+
+Il est institué pour tout titulaire de la carte du combattant remplissant les conditions de l'article L. 256 ou de l'article
+L. 256 bis une retraite cumulable, sans aucune restriction, avec la retraite qu'il aura pu s'assurer par ses versements
+personnels, en application notamment de la loi du 4 août 1923 sur les mutuelles retraites et avec la ou les pensions qu'il
+pourrait toucher à un titre quelconque.
+
+Cette retraite annuelle, qui n'est pas réversible, est accordée en témoignage de la reconnaissance nationale.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L321-1 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R236 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L256 (M)
+  - Code général des impôts, CGI. - art. 81 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L256 bis
+  - Loi n°1923-08-04
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Ordonnance 58-1374 1958-12-30 art. 21 I JORF 31 décembre 1958
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L256 bis
+
+Le régime et les taux en vigueur à la date de la promulgation du présent texte sont intégralement maintenus en faveur des
+titulaires de la carte du combattant bénéficiant d'une pension d'invalidité du présent code correspondant à un taux
+d'incapacité d'au moins 50 %, ainsi qu'en faveur des anciens combattants domiciliés en Algérie, dans les départements
+d'outre-mer et dans les pays d'outre-mer au sens du présent code.
+
+Un règlement d'administration publique prévoira les modalités d'attribution de la retraite du combattant aux titulaires
+étrangers de la carte du combattant résidant en France, ainsi qu'aux titulaires de la carte du combattant résidant à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L255 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Ordonnance 58-1374 1958-12-30 art. 21 JORF 31 décembre 1958
+
 
 ###### Article L257
 
