@@ -1,487 +1,587 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1953-07-27
+Version Consolidée au 1953-08-27
 ## Contenu: 
-  - [Partie législative (art. L2 à L528)](#1)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#2)
-      - [Titre Ier : Droit à pension des invalides. (art. L2 à L28)](#3)
-        - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L5)](#4)
-        - [Chapitre II : Pensions définitives et pensions temporaires. (art. L7)](#5)
-        - [Chapitre III : Taux des pensions. (art. L10 à L18)](#6)
-        - [Chapitre V : Demandes de pension - Liquidation et concession. (art. L22 à L27)](#7)
-        - [Chapitre VI : Révision pour aggravation. (art. L28)](#8)
-      - [Titre II : Emoluments complémentaires. (art. L35 à L42-3)](#9)
-        - [Chapitre Ier : Allocations spéciales temporaires aux grands invalides. (art. L35)](#10)
-        - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. L39 à L40)](#11)
-        - [Chapitre III : Indemnité de soins aux tuberculeux. (art. L42-1 à L42-3)](#12)
-      - [Titre III : Droits à pension des conjoints survivants et des orphelins. (art. L52 à L53)](#13)
-        - [Chapitre II : Fixation de la pension. (art. L52 à L53)](#14)
-      - [Titre III : Droits à pension des veuves et des orphelins (art. L45 à L66 bis)](#15)
-        - [Chapitre Ier : Des droits à la pension. (art. L45 à L47)](#16)
-        - [Chapitre III : Déchéance spéciale du droit à pension. (art. L58 à L62)](#17)
-        - [Chapitre IV : Des enfants naturels reconnus. (art. L63 à L65)](#18)
-        - [Chapitre V : Droits des ayants cause des personnes disparues. (art. L66 à L66 bis)](#19)
-      - [Titre IV : Droits à pension des ascendants. (art. L68 à L77)](#20)
-      - [Titre V : Révision et voies de recours. (art. L81 à L104)](#21)
-        - [Chapitre II : Voies de recours. (art. L81 à L104)](#22)
-          - [Section 1 : Tribunal départemental des pensions. (art. L81 à L88)](#23)
-          - [Section 2 : Cour régionale des pensions. (art. L90 à L93)](#24)
-          - [Section 3 : Conseil d'Etat. (art. L94 à L103)](#25)
-          - [Section 4 : Dispositions générales. (art. L104)](#26)
-      - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L106 à L114)](#27)
-        - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L106)](#28)
-        - [Chapitre III : Prescriptions des arrérages. (art. L109 à L109 bis)](#29)
-        - [Chapitre IV : Payement des majorations pour enfants. (art. L110 à L111)](#30)
-        - [Chapitre V : Règles générales de cumul. (art. L112 à L114)](#31)
-      - [Titre VII : Soins, traitements, rééducation, sécurité sociale. (art. L116 à L117)](#32)
-        - [Chapitre Ier : Soins gratuits. (art. L116 à L117)](#33)
-          - [Section 1 : Admission aux soins gratuits. (art. L116 à L117)](#34)
-      - [Titre VIII : Définition, mesures d'exécution. (art. L137 à L137 bis)](#35)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux (art. L138 à L252-1)](#36)
-      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés (art. L138 à L170)](#37)
-        - [Chapitre Ier : Militaires de carrière. (art. L138)](#38)
-        - [Chapitre II : Autres personnels militaires. (art. L139 à L149)](#39)
-        - [Chapitre III : Affectés spéciaux, membres de la défense passive requis (art. L150 à L157)](#40)
-          - [Section 1 : Affectés spéciaux. (art. L150)](#41)
-          - [Section 2 : Défense passive. (art. L151 à L153)](#42)
-          - [Section 3 : Sapeurs-pompiers des places fortes requis et affectés spéciaux de la guerre 1914-1918. (art. L154 à L157)](#43)
-        - [Chapitre IV : Dispositions applicables à certains fonctionnaires. (art. L158)](#44)
-        - [Chapitre V : Marins du commerce (art. L159 à L165)](#45)
-          - [Section 1 : Dispositions générales. (art. L159 à L162)](#46)
-          - [Section 2 : Dispositions spéciales à la guerre 1939-1945. (art. L163 à L165)](#47)
-        - [Chapitre VII : Chantiers de jeunesse. (art. L167 à L170)](#48)
-      - [Titre II : Membres des organisations civiles et militaires de la Résistance (art. L171 à L192)](#49)
-        - [Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance (art. L171 à L176)](#50)
-          - [Section 1 : Membres des FFI et membres de la Résistance. (art. L171 à L175)](#51)
-          - [Section 2 : Aveugles de la Résistance. (art. L176)](#52)
-        - [Chapitre II : Du droit à pension (art. L177 à L187)](#53)
-          - [Section 1 : Conditions du droit à pension. (art. L177 à L182)](#54)
-          - [Section 3 : Majorations pour enfant. (art. L184)](#55)
-          - [Section 4 : Ayants cause. (art. L185)](#56)
-          - [Section 5 : Bénéficiaires spéciaux (art. L186 à L187)](#57)
-            - [Paragraphe 1 : FFI et membres de la Résistance. (art. L186 à L187)](#58)
-        - [Chapitre III : Dispositions diverses. (art. L190 à L192)](#59)
-      - [Titre III : Règles applicables aux victimes civiles (art. L193 à L223)](#60)
-        - [Chapitre Ier : Victimes civiles de la guerre (art. L193 à L223)](#61)
-          - [Section 1 : Détermination du droit à pension (art. L193 à L210)](#62)
-            - [Paragraphe 1 : Victimes de la guerre 1914-1918. (art. L193 à L196)](#63)
-            - [Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées. (art. L197 à L207)](#64)
-            - [Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale. (art. L208)](#65)
-            - [Paragraphe 4 : Ayants cause. (art. L210)](#66)
-          - [Section 2 : Procédure (art. L212 à L223)](#67)
-            - [Paragraphe 1 : Demande de pension et date d'entrée en jouissance. (art. L212)](#68)
-            - [Paragraphe 3 : Règles de liquidation. (art. L214 à L219)](#69)
-            - [Paragraphe 4 : Dispositions diverses. (art. L221 à L223)](#70)
-      - [Titre IV : Alsaciens et Lorrains (art. L225 à L239-1)](#71)
-        - [Chapitre Ier : Militaires ayant servi dans l'armée française au cours de la guerre 1870-1871. (art. L225 à L226)](#72)
-        - [Chapitre II : Militaires ayant servi dans l'armée allemande (art. L227 à L239-1)](#73)
-          - [Section 1 : De 1871 à 1914. (art. L227 à L229)](#74)
-          - [Section 3 : Au cours de la guerre 1939-1945. (art. L232 à L235)](#75)
-          - [Section 4 : Dispositions communes aux Alsaciens et Lorrains ayant servi dans l'armée allemande. (art. L236 à L239-1)](#76)
-      - [Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer (art. L240 à L250)](#77)
-        - [Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause. (art. L240 à L247)](#78)
-        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. L248 à L250)](#79)
-      - [Titre VI : Etrangers. (art. L251 à L252-1)](#80)
-        - [Chapitre unique : Etrangers ayant servi dans les formations françaises. (art. L251 à L252-1)](#81)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre (art. L253 à L487)](#82)
-      - [Titre Ier : Carte et retraite du combattant (art. L253 à L261)](#83)
-        - [Chapitre Ier : Carte du combattant. (art. L253 à L254)](#84)
-        - [Chapitre II : Retraite du combattant. (art. L257 à L261)](#85)
-      - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L262 à L306)](#86)
-        - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L262 à L271)](#87)
-          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L262 à L265)](#88)
-          - [Section 2 : Droits des combattants volontaires de la Résistance. (art. L267 à L268)](#89)
-          - [Section 3 : Dispositions diverses. (art. L269 à L271)](#90)
-        - [Chapitre II : Statut des déportés et internés de la Résistance (art. L273 à L284)](#91)
-          - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L273 à L277)](#92)
-          - [Section 2 : Droits des déportés et internés résistants. (art. L278 à L284)](#93)
-        - [Chapitre III : Statut des déportés et internés politiques (art. L287 à L295-1)](#94)
-          - [Section 1 : De la qualité de déporté et interné politique. (art. L287 à L294)](#95)
-          - [Section 2 : Droits des déportés et internés politiques. (art. L295-1)](#96)
-        - [Chapitre IV : Statut des réfractaires. (art. L297 à L306)](#97)
-          - [Section 1 : De la qualité de réfractaire. (art. L300)](#98)
-          - [Section 2 : Droits des réfractaires. (art. L301 à L304)](#99)
-          - [Section 3 : Dispositions diverses. (art. L305 à L306)](#100)
-      - [Titre III : Droits et avantages accessoires (art. L320 à L392)](#101)
-        - [Chapitre Ier : Cartes d'invalidité et avantages y afférents (art. L320 à L324 bis)](#102)
-          - [Section 1 : Réduction sur les chemins de fer. (art. L320 à L321)](#103)
-          - [Section 2 : Droit de priorité. (art. L322 à L324)](#104)
-          - [Section 3 : Réduction de tarif accordée à certaines veuves de guerre et aux orphelins de guerre. (art. L324 bis)](#105)
-        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires (art. L325 à L343)](#106)
-          - [Section 1 : Prêts. (art. L325 à L332)](#107)
-          - [Section 2 : Secours. (art. L334)](#108)
-          - [Section 3 : Pécule et indemnisations diverses. (art. L337 à L342)](#109)
-          - [Section 4 : Rentes mutualistes. (art. L343)](#110)
-        - [Chapitre III : Décorations et insignes (art. L344 à L392)](#111)
-          - [Section 1 : Légion d'honneur et médaille militaire (art. L344 à L350)](#112)
-            - [Paragraphe 1 : Légion d'honneur. (art. L344 à L347)](#113)
-            - [Paragraphe 2 : Médaille militaire. (art. L348)](#114)
-            - [Paragraphe 3 : Contingents réservés aux membres de la Résistance. (art. L349 à L350)](#115)
-          - [Section 3 : Croix du combattant. (art. L354 à L355)](#116)
-          - [Section 4 : Médaille de la victoire. (art. L356 à L370)](#117)
-          - [Section 5 : Médaille des prisonniers civils, déportés et otages de la grande guerre. (art. L371 à L377)](#118)
-          - [Section 6 : Médaille de la déportation et de l'internement pour faits de résistance. (art. L378)](#119)
-          - [Section 7 : Médaille commémorative de la grande guerre. (art. L379 à L382)](#120)
-          - [Section 8 : Médaille commémorative des combattants volontaires de la Résistance. (art. L383)](#121)
-          - [Section 9 : Médaille de la déportation et de l'internement. (art. L384 à L386)](#122)
-          - [Section 10 : Insigne des mères, veuves et veufs des "Morts pour la France". (art. L387 à L390)](#123)
-          - [Section 12 : Mesures d'exécution. (art. L392)](#124)
-      - [Titre IV : Pupilles de la nation (art. L461 à L487)](#125)
-        - [Chapitre Ier : De la qualité de pupille de la nation (art. L461 à L469)](#126)
-          - [Section 1 : Enfants ayant vocation à la qualité de pupille de la nation. (art. L461 à L464)](#127)
-          - [Section 2 : Conditions du droit. (art. L465 à L466)](#128)
-          - [Section 3 : Adoption par la nation. (art. L467 à L469)](#129)
-        - [Chapitre II : Protection et aide de l'Etat. (art. L470 à L485)](#130)
-          - [Section 1 : Organismes chargés d'assurer la protection et le soutien de l'Etat. (art. L471)](#131)
-          - [Section 2 : Tutelle des pupilles. (art. L472 à L479)](#132)
-          - [Section 3 : Placement des pupilles. (art. L480 à L481)](#133)
-          - [Section 4 : Avantages particuliers accordés aux pupilles de la nation. (art. L482 à L485)](#134)
-        - [Chapitre III : Mesures d'application. (art. L486 à L487)](#135)
-    - [Livre IV : Etat civil et sépultures (art. L489 à L515)](#136)
-      - [Chapitre Ier : Mention "Mort pour la France". (art. L489 à L492)](#137)
-      - [Chapitre II : Transfert et restitution des corps. (art. L493 à L497)](#138)
-      - [Chapitre III : Sépulture perpétuelle (art. L498 à L514)](#139)
-        - [Section 1 : Droit à la sépulture perpétuelle. (art. L498)](#140)
-        - [Section 2 : Cimetières nationaux. (art. L499 à L504)](#141)
-        - [Section 3 : Cimetières communaux. (art. L505 à L509)](#142)
-        - [Section 4 : Dispositions particulières. (art. L510 à L514)](#143)
-      - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. L515)](#144)
-    - [Livre V : Institutions (art. L517 à L528)](#145)
-      - [Titre Ier : Office des anciens combattants et victimes de guerre (art. L517 à L527)](#146)
-        - [Chapitre Ier : Office national et offices départementaux. (art. L517 à L519)](#147)
-        - [Chapitre II : Du bénéfice des institutions des offices (art. L520 à L524)](#148)
-          - [Section 1 : Cas général. (art. L520)](#149)
-          - [Section 2 : Cas particuliers. (art. L521 à L524)](#150)
-        - [Chapitre III : Dispositions financières. (art. L525 à L527)](#151)
-      - [Titre II : Institution nationale des invalides. (art. L528)](#152)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R571)](#153)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R1 à R145)](#154)
-      - [Titre Ier : Droits à pension des invalides. (art. R1 à R28)](#155)
-        - [Chapitre III : Taux des pensions. (art. R1 à R3)](#156)
-        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. R6 à R27)](#157)
-          - [Section 1 : Militaires présents sous les drapeaux. (art. R6)](#158)
-          - [Section 2 : Militaires renvoyés dans leurs foyers. (art. R8 à R9)](#159)
-          - [Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins. (art. R19)](#160)
-          - [Section 4 : Anciens militaires résidant à l'étranger. (art. R20 à R21)](#161)
-          - [Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24. (art. R23 à R27)](#162)
-        - [Chapitre VI : Révision pour aggravation. (art. R28)](#163)
-      - [Titre II : Emoluments complémentaires. (art. R31)](#164)
-        - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. R31)](#165)
-          - [Section 1 : Procédure d'attribution des allocations spéciales. (art. R31)](#166)
-      - [Titre IV : Droits à pension des ascendants. (art. R38 à R42)](#167)
-      - [Titre V : Révision et voies de recours. (art. R43 à R90)](#168)
-        - [Chapitre II : Voies de recours. (art. R43 à R90)](#169)
-          - [Section 1 : Tribunal départemental des pensions. (art. R43 à R62)](#170)
-            - [Paragraphe 1 : Désignation des membres du tribunal. (art. R43 à R45)](#171)
-            - [Paragraphe 2 : Indemnités. (art. R46)](#172)
-            - [Paragraphe 3 : Rôle des associations dans le choix des délégués des pensionnés. (art. R48 à R49)](#173)
-            - [Paragraphe 4 : Remplacement des membres du tribunal cessant leurs fonctions en cours de mandat. (art. R50)](#174)
-            - [Paragraphe 5 : Attributions du greffier du tribunal. (art. R51)](#175)
-            - [Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance. (art. R52 à R54)](#176)
-            - [Paragraphe 7 : Sections des tribunaux de pensions. (art. R56)](#177)
-            - [Paragraphe 8 : Procédure normale. (art. R57 à R59)](#178)
-            - [Paragraphe 9 : Procédure sommaire. (art. R62)](#179)
-          - [Section 2 : Cour régionale des pensions. (art. R63 à R68)](#180)
-          - [Section 3 : Conseil d'Etat. (art. R69 à R90)](#181)
-            - [Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation. (art. R71 à R80)](#182)
-              - [A - Organisation. (art. R71 à R76)](#183)
-              - [B - Fonctionnement. (art. R78 à R80)](#184)
-            - [Paragraphe 2 : Procédure, règles d'instruction. (art. R82 à R90)](#185)
-      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. R91 à R102)](#186)
-        - [Chapitre III : Prescription des arrérages. (art. R91 à R101)](#187)
-        - [Chapitre V : Règles générales de cumul. (art. R102)](#188)
-      - [Titre VIII : Application dans les pays d'outre-mer de certaines dispositions du livre 1 de la première partie du code (instruction des demandes et voies de recours). (art. R122 à R145)](#189)
-        - [Chapitre II : Dispositions spéciales aux pays d'outre-mer. (art. R122 à R145)](#190)
-          - [Section 3 : Dispositions spéciales concernant les voies de recours. (art. R122 à R145)](#191)
-            - [Paragraphe 1 : Juridiction de première instance. (art. R122 à R123)](#192)
-            - [Paragraphe 2 : Juridiction d'appel. (art. R125 à R129)](#193)
-            - [Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc. (art. R131 à R136)](#194)
-            - [Paragraphe 4 : Attributions. (art. R137 à R140)](#195)
-            - [Paragraphe 5 : Allocations diverses et frais. (art. R141 à R145)](#196)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. R146 à R222)](#197)
-      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. R146 à R155)](#198)
-        - [Chapitre II : Aumôniers militaires. (art. R146)](#199)
-        - [Chapitre III : Afféctés spéciaux et membres de la défense passive. (art. R147 à R155)](#200)
-          - [Section 1 : Défense passive. (art. R147 à R154)](#201)
-          - [Section 2 : Sapeurs-pompiers des places fortes. (art. R155)](#202)
-      - [Titre III : Règles applicables aux victimes civiles. (art. R169 à R201)](#203)
-        - [Chapitre Ier : Victimes civiles de la guerre. (art. R169 à R201)](#204)
-          - [Section 1 : Droit à pension. (art. R169 à R171)](#205)
-            - [Paragraphe 1 : Déportés et internés politiques. (art. R169)](#206)
-            - [Paragraphe 2 : Ayants cause. (art. R170 à R171)](#207)
-          - [Section 2 : Procédure. (art. R172 à R201)](#208)
-            - [Paragraphe 1 : Invalides. (art. R172 à R181)](#209)
-            - [Paragraphe 2 : Ayants cause. (art. R182 à R187)](#210)
-            - [Paragraphe 3 : Règles de liquidation. (art. R188 à R190)](#211)
-            - [Paragraphe 4 : Recours. (art. R191 à R192)](#212)
-            - [Paragraphe 5 : Procédure applicable hors de la métropole. (art. R194 à R196)](#213)
-            - [Paragraphe 6 : Allocations provisoires d'attente. (art. R197 à R201)](#214)
-      - [Titre IV : Alsaciens et Lorrains. (art. R202 à R222)](#215)
-        - [Chapitre II : Militaires ayant servi dans l'armée allemande. (art. R202 à R222)](#216)
-          - [Section 1 : Conditions du droit à pension des militaires ayant servi au cours des guerres 1914-1918 et 1939-1945. (art. R202 à R205)](#217)
-          - [Section 2 : Procédure de liquidation. (art. R206 à R220)](#218)
-          - [Section 3 : Dispositions diverses. (art. R221 à R222)](#219)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. R223 à R563)](#220)
-      - [Titre Ier : Carte et retraite du combattant. (art. R223 à R253)](#221)
-        - [Chapitre Ier : Carte du combattant. (art. R223 à R235)](#222)
-          - [Section 1 : De la qualité de combattant. (art. R225 à R228)](#223)
-          - [Section 2 : Procédure d'attribution et de retrait de la carte. (art. R229 à R235)](#224)
-        - [Chapitre II : Retraite du combattant. (art. R236 à R251)](#225)
-          - [Section 1 : Procédure d'attribution. (art. R236 à R240)](#226)
-          - [Section 2 : Payement de la retraite. (art. R243 à R244)](#227)
-          - [Section 3 : Citoyens français n'ayant pas servi dans l'armée française. (art. R246 à R251)](#228)
-        - [Chapitre III : Mesures d'exécution. (art. R252 à R253)](#229)
-      - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R254 à R351)](#230)
-        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. R254 à R261)](#231)
-          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. R254 à R257)](#232)
-          - [Section 2 : Droits des combattants volontaires de la Résistance. (art. R258 à R259)](#233)
-          - [Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance. (art. R261)](#234)
-            - [Paragraphe 1 : Commissions. (art. R261)](#235)
-        - [Chapitre II : Statut des déportés et internés résistants. (art. R286 à R326)](#236)
-          - [Section 1 : De la qualité de déporté et interné résistant. (art. R286 à R297)](#237)
-            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R286 à R287)](#238)
-            - [Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant. (art. R289 à R296)](#239)
-            - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#240)
-          - [Section 2 : Droits des déportés et internés résistants. (art. R298 à R304)](#241)
-          - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R306 à R326)](#242)
-            - [Paragraphe 1 : Commissions. (art. R306 à R315)](#243)
-            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R319 à R323)](#244)
-            - [Paragraphe 3 : Justification du titre de déporté et interné de la Résistance. (art. R326)](#245)
-        - [Chapitre III : Statut des déportés et internés politiques. (art. R328 à R351)](#246)
-          - [Section 1 : De la qualité de déporté et interné politique. (art. R328 à R334)](#247)
-            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R328)](#248)
-            - [Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques. (art. R330 à R333)](#249)
-            - [Paragraphe 3 : Cas d'exclusion. (art. R334)](#250)
-          - [Section 2 : Des droits des déportés et internés politiques. (art. R335)](#251)
-          - [Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre. (art. R337 à R351)](#252)
-            - [Paragraphe 1 : Commissions. (art. R337 à R344)](#253)
-            - [Paragraphe 2 : Demande de titre de déporté et interné politique. (art. R347 à R350)](#254)
-            - [Paragraphe 3 : Justification du titre de déporté et interné politique. (art. R351)](#255)
-      - [Titre III : Droits et avantages accessoires. (art. R392 à R395-1)](#256)
-        - [Chapitre III : Décorations et insignes. (art. R392 à R395-1)](#257)
-      - [Titre IV : Pupilles de la nation. (art. R496 à R563)](#258)
-        - [Chapitre Ier : Reconnaissance du droit au titre de pupille de la nation. (art. R496 à R504)](#259)
-        - [Chapitre II : Protection et aide de l'Etat. (art. R505 à R562)](#260)
-          - [Section 1 : Gestion des deniers pupillaires. (art. R505 à R513)](#261)
-          - [Section 2 : Placement des pupilles de la nation. (art. R514 à R532)](#262)
-            - [Paragraphe 1 : Placement dans les établissements. (art. R515 à R525)](#263)
-            - [Paragraphe 2 : Placement chez les particuliers. (art. R526 à R532)](#264)
-          - [Section 3 : Equivalence de bourses et exonérations. (art. R533)](#265)
-          - [Section 4 : Subventions. (art. R534 à R562)](#266)
-            - [Paragraphe 1 : Subventions d'entretien. (art. R535 à R540)](#267)
-            - [Paragraphe 2 : Subventions d'apprentissage. (art. R541 à R562)](#268)
-        - [Chapitre III : Dispositions diverses. (art. R563)](#269)
-    - [Livre IV : Etat civil et sépultures. (art. R565 à R571)](#270)
-      - [Chapitre III : Sépultures perpétuelles. (art. R565 à R569-1)](#271)
-        - [Section 1 : Dispositions communes aux victimes civiles et militaires. (art. R565 à R569-1)](#272)
-      - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. R570 à R571)](#273)
-  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#274)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. D1 à D230)](#275)
-      - [Titre Ier : Droit à pension des invalides. (art. D1 à D4)](#276)
-        - [Chapitre Ier : Conditions du droit à pension. (art. D1)](#277)
-        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. D4)](#278)
-      - [Titre II : Emoluments complémentaires. (art. D8 à D19)](#279)
-        - [Chapitre III : Indemnités de soins aux tuberculeux. (art. D8 à D19)](#280)
-      - [Titre V : Révision et voies de recours. (art. D22 à D31)](#281)
-        - [Chapitre II : Voies de recours. (art. D22 à D31)](#282)
-          - [Section 1 : Désignation des commissaires du Gouvernement. (art. D22 à D24)](#283)
-          - [Section 2 : Dispositions concernant les départements d'outre-mer. (art. D25 à D28)](#284)
-          - [Section 3 : Dispositions diverses. (art. D29 à D31)](#285)
-      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. D38 à D52)](#286)
-        - [Chapitre VI : Allocations provisoires d'attente. (art. D38 à D52)](#287)
-          - [Section 1 : Militaires et marins. (art. D38 à D44)](#288)
-            - [Paragraphe 1 : Règles générales. (art. D38 à D39)](#289)
-            - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D40 à D44)](#290)
-          - [Section 2 : Ayants cause des militaires ou marins. (art. D45 à D52)](#291)
-            - [Paragraphe 1 : Règles générales. (art. D45)](#292)
-            - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D48 à D52)](#293)
-      - [Titre VII : Soins, traitement et rééducation. (art. D111 à D120 à D230)](#294)
-        - [Chapitre Ier : Soins gratuits. (art. D111 à D120)](#295)
-          - [Section 5 : Dispositions générales. (art. D111 à D120)](#296)
-            - [Paragraphe 2 : Procédure et voies de recours. (art. D111 à D120)](#297)
-        - [Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française. (art. D121 à D224)](#298)
-        - [Chapitre V : Rééducation professionnelle. (art. D226 à D230)](#299)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. D232 à D257)](#300)
-      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. D232 à D240)](#301)
-        - [Chapitre VII : Chantiers de la jeunesse. (art. D232 à D240)](#302)
-      - [Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer. (art. D241 à D257)](#303)
-        - [Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause. (art. D241 à D242)](#304)
-        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. D243 à D251)](#305)
-        - [Chapitre III : Allocations provisoires d'attente. (art. D252 à D257)](#306)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. D258 à D401)](#307)
-      - [Titre Ier : Carte et retraite du combattant (art. D258 à D266)](#308)
-        - [Chapitre Ier : Carte du combattant (art. D258 à D263)](#309)
-          - [Section 1 : Algérie. (art. D258)](#310)
-          - [Section 2 : Pays d'outre-mer. (art. D259 à D263)](#311)
-        - [Chapitre II : Retraite du combattant (art. D264 à D266)](#312)
-          - [Section 1 : Attribution et paiement de la retraite. (art. D264 à D265)](#313)
-          - [Section 2 : Citoyens français n'ayant pas servi dans l'armée française. (art. D266)](#314)
-      - [Titre III : Droits et avantages accessoires. (art. D267 à D310)](#315)
-        - [Chapitre Ier : Carte d'invalidité et droits y afférents (art. D267 à D271)](#316)
-          - [Section 1 : Réduction sur les transports ferroviaires. (art. D267)](#317)
-          - [Section 2 : Réduction sur les transports routiers. (art. D268 à D270)](#318)
-          - [Section 3 : Droit de priorité. (art. D271)](#319)
-        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. D271-8 à D271-14)](#320)
-        - [Chapitre III : Décorations et insignes. (art. D272 à D310)](#321)
-          - [Section 1 : Légion d'honneur et médaille militaire. (art. D272 à D274)](#322)
-          - [Section 2 : Croix du combattant volontaire de la guerre 1914-1918. (art. D275 à D276)](#323)
-          - [Section 3 : Croix du combattant. (art. D277 à D280)](#324)
-          - [Section 4 : Médaille de prisonniers civils, déportés et otages de la grande guerre. (art. D281 à D284)](#325)
-          - [Section 5 : Médaille commémorative française de la guerre 1939-1945. (art. D285 à D294)](#326)
-          - [Section 6 : Médaille de la France libérée. (art. D295 à D299)](#327)
-          - [Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France". (art. D300 à D305)](#328)
-          - [Section 8 : Insigne des victimes civiles. (art. D306 à D310)](#329)
-      - [Titre IV : Pupilles de la Nation. (art. D361 à D401)](#330)
-        - [Chapitre II : Protection et aide de l'Etat. (art. D361 à D383)](#331)
-          - [Section 1 : Manutention des deniers pupillaires. (art. D361 à D381)](#332)
-          - [Section 2 : Bourses et subventions. (art. D382 à D383)](#333)
-        - [Chapitre III : Dispositions particulières. (art. D384 à D401)](#334)
-          - [Section 1 : Enfants de militaires ou d'attachés aux armées victimes d'un fait de guerre sur un théâtre d'opérations situé hors de France. (art. D384)](#335)
-          - [Section 2 : Algérie. (art. D385 à D386)](#336)
-          - [Section 3 : Territoires d'outre-mer. (art. D387 à D389)](#337)
-          - [Section 4 : Pupilles résidant à l'étranger. (art. D390 à D401)](#338)
-            - [Paragraphe 1 : Reconnaissance du droit au titre de pupille de la nation. (art. D390 à D395)](#339)
-            - [Paragraphe 2 : Protection et aide. (art. D396 à D401)](#340)
-    - [Livre IV : Etat civil et sépultures. (art. D402 à D430)](#341)
-      - [Chapitre II : Transferts et restitutions de corps. (art. D402 à D420)](#342)
-      - [Chapitre III : Sépultures perpétuelles. (art. D421 à D430)](#343)
-        - [Section 1 : Lieux de sépultures. (art. D421 à D422)](#344)
-        - [Section 2 : Entretien des cimetières. (art. D423 à D427)](#345)
-        - [Section 3 : Dispositions particulières. (art. D429 à D430)](#346)
-    - [Livre V : Institutions. (art. D431 à D569)](#347)
-      - [Titre Ier : Offices des anciens combattants et victimes de guerre. (art. D431 à D554)](#348)
-        - [Chapitre Ier : Office national. (art. D431 à D471)](#349)
-          - [Section 1 : Caractère juridique. (art. D431)](#350)
-          - [Section 3 : Composition. (art. D437 à D439)](#351)
-          - [Section 4 : Organisation. (art. D442)](#352)
-          - [Section 5 : Fonctionnement. (art. D444 à D446)](#353)
-          - [Section 6 : Régime financier. (art. D448 à D471)](#354)
-            - [Paragraphe 1 : Dispositions générales. (art. D448 à D457)](#355)
-            - [Paragraphe 2 : Des recettes et des dépenses. (art. D458 à D463)](#356)
-            - [Paragraphe 3 : Du budget et des crédits. (art. D464 à D467)](#357)
-            - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D468)](#358)
-            - [Paragraphe 5 : Contrôle financier. (art. D469 à D470)](#359)
-            - [Paragraphe 6 : Mesures d'application. (art. D471)](#360)
-        - [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux. (art. D472 à D525)](#361)
-          - [Section 1 : Caractère juridique. (art. D472 à D474)](#362)
-          - [Section 2 : Attributions. (art. D475)](#363)
-          - [Section 3 : Composition. (art. D480 à D484)](#364)
-          - [Section 4 : Organisation et administration. (art. D486 à D494)](#365)
-            - [Paragraphe 1 : Conseil d'administration. (art. D486 à D488)](#366)
-            - [Paragraphe 2 : Commission permanente et sous-commissions. (art. D492)](#367)
-            - [Paragraphe 3 : Questions diverses. (art. D494)](#368)
-          - [Section 5 : Fonctionnement. (art. D495 à D501)](#369)
-          - [Section 6 : Régime financier. (art. D502 à D525)](#370)
-            - [Paragraphe 1 : Dispositions générales. (art. D502 à D511)](#371)
-            - [Paragraphe 2 : Des recettes et des dépenses. (art. D512 à D517)](#372)
-            - [Paragraphe 3 : Du budget et des crédits. (art. D518 à D521)](#373)
-            - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D522 à D523)](#374)
-            - [Paragraphe 5 : Contrôle financier. (art. D524)](#375)
-            - [Paragraphe 6 : Mesures d'application. (art. D525)](#376)
-        - [Chapitre III : Ecoles de rééducation professionnelle (art. D526 à D554)](#377)
-          - [Section 1 : Attributions. (art. D526)](#378)
-          - [Section 2 : Organisation. (art. D527 à D533)](#379)
-          - [Section 3 : Fonctionnement. (art. D534 à D543)](#380)
-          - [Section 4 : Régime financier. (art. D544 à D554)](#381)
-      - [Titre II : Institution nationale des invalides. (art. D555 à D569)](#382)
-        - [Chapitre Ier : Régime des pensionnaires. (art. D555 à D566)](#383)
-        - [Chapitre II : Régime des hébergés. (art. D568)](#384)
-        - [Chapitre III : Organisation administrative. (art. D569)](#385)
-  - [Partie réglementaire - Arrêtés (art. A3-1 à A330 à A334)](#386)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A3-1 à A84)](#387)
-      - [Titre Ier : Droits à pension des invalides. (art. A3-1)](#388)
-        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1)](#389)
-      - [Titre V : Révision et voies de recours. (art. A4 à A10)](#390)
-        - [Chapitre II : Voies de recours. (art. A4 à A10)](#391)
-      - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A42 à A47 à A84)](#392)
-        - [Chapitre Ier : Soins gratuits. (art. A42 à A47)](#393)
-          - [Section 9 : Indemnités diverses. (art. A42 à A47)](#394)
-        - [Chapitre V : Rééducation professionnelle. (art. A56 à A84)](#395)
-          - [Section 1 : Placement chez l'employeur sans contrat d'apprentissage. (art. A58 à A73)](#396)
-          - [Section 2 : Placement chez l'employeur avec contrat d'apprentissage. (art. A74 à A84)](#397)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. A85 à A113)](#398)
-      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. A85 à A113)](#399)
-        - [Chapitre III : Affectés spéciaux de la défense passive. (art. A85 à A113)](#400)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. A115 à A205)](#401)
-      - [Titre Ier : Carte et retraite du combattant. (art. A115 à A157)](#402)
-        - [Chapitre Ier : Carte du combattant. (art. A115 à A142)](#403)
-          - [Section 1 : De la qualité de combattant (art. A116 à A128)](#404)
-            - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#405)
-            - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A122)](#406)
-            - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A125 à A127)](#407)
-            - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#408)
-          - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#409)
-            - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A136)](#410)
-            - [Paragraphe 2 : Demande et délivrance de la carte. (art. A138 à A141)](#411)
-            - [Paragraphe 3 : Demande et délivrance de la carte. (art. A140 à A142)](#412)
-        - [Chapitre II : Retraite du combattant. (art. A144 à A157)](#413)
-          - [Section 1 : Payement de la retraite du combattant. (art. A144 à A153)](#414)
-          - [Section 2 : Algérie et pays d'outre-mer. (art. A154)](#415)
-          - [Section 3 : Dispositions diverses. (art. A155 à A157)](#416)
-      - [Titre II : Statut des résistants, déportés, internés et réfractaires. (art. A158 à A165-1)](#417)
-        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. A158 à A159-1)](#418)
-        - [Chapitre II : Statut des déportés et internés de la Résistance. (art. A161 à A164)](#419)
-        - [Chapitre III : Statut des déportés et internés politiques. (art. A165-1)](#420)
-      - [Titre III : Droits et avantages accessoires. (art. A169 à A186-1)](#421)
-        - [Chapitre Ier : Droits attachés à la qualité de pensionné. (art. A169 à A172-1)](#422)
-          - [Section 1 : Réduction sur les chemins de fer. (art. A169)](#423)
-          - [Section 2 : Cartes de priorité. (art. A170 à A172-1)](#424)
-            - [Paragraphe 1 : Carte spéciale aux tierces personnes. (art. A170 à A171)](#425)
-            - [Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens). (art. A172-1)](#426)
-        - [Chapitre II : Dispositions pécuniaires. (art. A173 à A176)](#427)
-          - [Section 2 : Avantages fiscaux et autres. (art. A173 à A176)](#428)
-        - [Chapitre III : Décorations et insignes. (art. A177 à A186-1)](#429)
-          - [Section 1 : Légion d'honneur et médaille militaire. (art. A177 à A179)](#430)
-          - [Section 2 : Médaille des prisonniers civils, déportés et otages de la guerre 1914-1918. (art. A180 à A186-1)](#431)
-      - [Titre IV : Pupilles de la nation. (art. A191 à A205)](#432)
-        - [Chapitre II : Protection et aide de l'Etat. (art. A191 à A205)](#433)
-          - [Section 1 : Gestion des deniers pupillaires. (art. A191 à A201)](#434)
-          - [Section 2 : Avantages accordés aux pupilles de la nation. (art. A202 à A205)](#435)
-    - [Livre IV : Etat civil et sépultures. (art. A206 à A221)](#436)
-      - [Chapitre II : Transfert et restitution des corps. (art. A206 à A221)](#437)
-        - [Section 1 : Dispositions concernant les départements et territoires d'outre-mer. (art. A206 à A215)](#438)
-        - [Section 2 : Indemnités aux délégués représentant les familles aux exhumations. (art. A216 à A221)](#439)
-    - [Livre V : Institutions (art. A246 à A330 à A334)](#440)
-      - [Titre Ier : Offices des anciens combattants et victimes de la guerre (art. A246 à A293)](#441)
-        - [Chapitre Ier : Office national (art. A246 à A249)](#442)
-          - [Section 2 : Dispositions diverses. (art. A246 à A249)](#443)
-        - [Chapitre II : Offices départementaux (art. A250 à A264)](#444)
-          - [Section 1 : Régime financier (art. A250 à A263)](#445)
-            - [Paragraphe 1 : Dispositions générales. (art. A250 à A252)](#446)
-            - [Paragraphe 2 : Des recettes et des dépenses. (art. A253 à A255)](#447)
-            - [Paragraphe 3 : Ecritures et comptes de l'agent comptable. (art. A256 à A263)](#448)
-          - [Section 2 : Dispositions diverses. (art. A264)](#449)
-        - [Chapitre III : Etablissements attachés aux offices (art. A265 à A293)](#450)
-          - [Section 1 : Ecoles de rééducation professionnelle (art. A265 à A288)](#451)
-            - [Paragraphe 1 : Fonctionnement. (art. A265)](#452)
-            - [Paragraphe 2 : Régime financier. (art. A266 à A288)](#453)
-          - [Section 2 : Foyers d'anciens combattants et de victimes de la guerre. (art. A289 à A293)](#454)
-      - [Titre II : Institution nationale des invalides (art. A294 à A330 à A334)](#455)
-        - [Chapitre Ier : Régime des pensionnaires (art. A294 à A324)](#456)
-          - [Section 1 : Instruction de la demande et admission. (art. A294 à A299)](#457)
-          - [Section 2 : Réception - Admission définitive. (art. A300 à A301)](#458)
-          - [Section 3 : Régime pécuniaire, redevances, gratuité des soins. (art. A302 à A305)](#459)
-          - [Section 4 : Tenue et logement. (art. A306 à A308)](#460)
-          - [Section 5 : Discipline, permissions et congés (art. A309 à A323)](#461)
-            - [Paragraphe 1 : Discipline. (art. A309 à A310)](#462)
-            - [Paragraphe 2 : Permissions. (art. A311 à A312)](#463)
-            - [Paragraphe 3 : Congés. (art. A313 à A323)](#464)
-          - [Section 6 : Dispositions diverses. (art. A324)](#465)
-        - [Chapitre II : Régime des hébergés. (art. A325 à A329)](#466)
-        - [Chapitre III : Organisation administrative de l'institution nationale des invalides. (art. A330 à A334)](#467)
-  - [Annexes (art. Annexe 1, art. 1 à Annexe 4)](#468)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 4)](#469)
-      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 4)](#470)
-        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#471)
-        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#472)
-        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#473)
-        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#474)
+  - [Partie législative (art. L1 à L528)](#1)
+    - [Première partie (art. L1)](#2)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#3)
+      - [Titre Ier : Droit à pension des invalides. (art. L2 à L28)](#4)
+        - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L5)](#5)
+        - [Chapitre II : Pensions définitives et pensions temporaires. (art. L7)](#6)
+        - [Chapitre III : Taux des pensions. (art. L9-2 à L18)](#7)
+        - [Chapitre V : Demandes de pension - Liquidation et concession. (art. L21 à L27)](#8)
+        - [Chapitre VI : Révision pour aggravation. (art. L28)](#9)
+      - [Titre II : Emoluments complémentaires. (art. L33 à L42-3)](#10)
+        - [Chapitre Ier : Allocations spéciales temporaires aux grands invalides. (art. L33 à L35)](#11)
+        - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. L36 à L40)](#12)
+        - [Chapitre III : Indemnité de soins aux tuberculeux. (art. L42-1 à L42-3)](#13)
+      - [Titre III : Droits à pension des conjoints survivants et des orphelins. (art. L52 à L53)](#14)
+        - [Chapitre II : Fixation de la pension. (art. L52 à L53)](#15)
+      - [Titre III : Droits à pension des veuves et des orphelins (art. L44 à L66 bis)](#16)
+        - [Chapitre Ier : Des droits à la pension. (art. L44 à L47)](#17)
+        - [Chapitre III : Déchéance spéciale du droit à pension. (art. L58 à L62)](#18)
+        - [Chapitre IV : Des enfants naturels reconnus. (art. L63 à L65)](#19)
+        - [Chapitre V : Droits des ayants cause des personnes disparues. (art. L66 à L66 bis)](#20)
+      - [Titre IV : Droits à pension des ascendants. (art. L68 à L77)](#21)
+      - [Titre V : Révision et voies de recours. (art. L79 à L104)](#22)
+        - [Chapitre II : Voies de recours. (art. L79 à L104)](#23)
+          - [Section 1 : Tribunal départemental des pensions. (art. L81 à L88)](#24)
+          - [Section 2 : Cour régionale des pensions. (art. L90 à L93)](#25)
+          - [Section 3 : Conseil d'Etat. (art. L94 à L103)](#26)
+          - [Section 4 : Dispositions générales. (art. L104)](#27)
+      - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L106 à L114)](#28)
+        - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L106)](#29)
+        - [Chapitre III : Prescriptions des arrérages. (art. L109 à L109 bis)](#30)
+        - [Chapitre IV : Payement des majorations pour enfants. (art. L110 à L111)](#31)
+        - [Chapitre V : Règles générales de cumul. (art. L112 à L114)](#32)
+      - [Titre VII : Soins, traitements, rééducation, sécurité sociale. (art. L116 à L136)](#33)
+        - [Chapitre Ier : Soins gratuits. (art. L116 à L123)](#34)
+          - [Section 1 : Admission aux soins gratuits. (art. L116 à L117)](#35)
+          - [Section 3 : Dispositions générales. (art. L119 à L123)](#36)
+        - [Chapitre III : Aliénés. (art. L124 à L127)](#37)
+        - [Chapitre IV : Appareillage. (art. L128 à L131)](#38)
+        - [Chapitre V : Rééducation professionnelle. (art. L132 à L136)](#39)
+      - [Titre VIII : Définition, mesures d'exécution. (art. L137 à L137 bis)](#40)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux (art. L138 à L252-4)](#41)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés (art. L138 à L170)](#42)
+        - [Chapitre Ier : Militaires de carrière. (art. L138)](#43)
+        - [Chapitre II : Autres personnels militaires. (art. L139 à L149)](#44)
+        - [Chapitre III : Affectés spéciaux, membres de la défense passive requis (art. L150 à L157)](#45)
+          - [Section 1 : Affectés spéciaux. (art. L150)](#46)
+          - [Section 2 : Défense passive. (art. L151 à L153)](#47)
+          - [Section 3 : Sapeurs-pompiers des places fortes requis et affectés spéciaux de la guerre 1914-1918. (art. L154 à L157)](#48)
+        - [Chapitre IV : Dispositions applicables à certains fonctionnaires. (art. L158)](#49)
+        - [Chapitre V : Marins du commerce (art. L159 à L165)](#50)
+          - [Section 1 : Dispositions générales. (art. L159 à L162)](#51)
+          - [Section 2 : Dispositions spéciales à la guerre 1939-1945. (art. L163 à L165)](#52)
+        - [Chapitre VII : Chantiers de jeunesse. (art. L167 à L170)](#53)
+      - [Titre II : Membres des organisations civiles et militaires de la Résistance (art. L171 à L192)](#54)
+        - [Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance (art. L171 à L176)](#55)
+          - [Section 1 : Membres des FFI et membres de la Résistance. (art. L171 à L175)](#56)
+          - [Section 2 : Aveugles de la Résistance. (art. L176)](#57)
+        - [Chapitre II : Du droit à pension (art. L177 à L188)](#58)
+          - [Section 1 : Conditions du droit à pension. (art. L177 à L182)](#59)
+          - [Section 3 : Majorations pour enfant. (art. L184)](#60)
+          - [Section 4 : Ayants cause. (art. L185)](#61)
+          - [Section 5 : Bénéficiaires spéciaux (art. L186 à L188)](#62)
+            - [Paragraphe 1 : FFI et membres de la Résistance. (art. L186 à L188)](#63)
+        - [Chapitre III : Dispositions diverses. (art. L190 à L192)](#64)
+      - [Titre III : Règles applicables aux victimes civiles (art. L193 à L223)](#65)
+        - [Chapitre Ier : Victimes civiles de la guerre (art. L193 à L223)](#66)
+          - [Section 1 : Détermination du droit à pension (art. L193 à L210)](#67)
+            - [Paragraphe 1 : Victimes de la guerre 1914-1918. (art. L193 à L196)](#68)
+            - [Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées. (art. L197 à L207)](#69)
+            - [Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale. (art. L208)](#70)
+            - [Paragraphe 4 : Ayants cause. (art. L210)](#71)
+          - [Section 2 : Procédure (art. L211 à L223)](#72)
+            - [Paragraphe 1 : Demande de pension et date d'entrée en jouissance. (art. L211 à L212)](#73)
+            - [Paragraphe 3 : Règles de liquidation. (art. L214 à L219)](#74)
+            - [Paragraphe 4 : Dispositions diverses. (art. L220 à L223)](#75)
+      - [Titre IV : Alsaciens et Lorrains (art. L225 à L239-3)](#76)
+        - [Chapitre Ier : Militaires ayant servi dans l'armée française au cours de la guerre 1870-1871. (art. L225 à L226)](#77)
+        - [Chapitre II : Militaires ayant servi dans l'armée allemande (art. L227 à L239-1)](#78)
+          - [Section 1 : De 1871 à 1914. (art. L227 à L229)](#79)
+          - [Section 3 : Au cours de la guerre 1939-1945. (art. L232 à L235)](#80)
+          - [Section 4 : Dispositions communes aux Alsaciens et Lorrains ayant servi dans l'armée allemande. (art. L236 à L239-1)](#81)
+        - [Chapitre III : Alsaciens et Lorrains incorporés dans le service allemand du travail. (art. L239-3)](#82)
+      - [Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer (art. L240 à L250)](#83)
+        - [Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause. (art. L240 à L247)](#84)
+        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. L248 à L250)](#85)
+      - [Titre VI : Etrangers. (art. L251 à L252-1)](#86)
+        - [Chapitre unique : Etrangers ayant servi dans les formations françaises. (art. L251 à L252-1)](#87)
+      - [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code. (art. L252-2 à L252-4)](#88)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre (art. L253 à L487)](#89)
+      - [Titre Ier : Carte et retraite du combattant (art. L253 à L261)](#90)
+        - [Chapitre Ier : Carte du combattant. (art. L253 à L254)](#91)
+        - [Chapitre II : Retraite du combattant. (art. L257 à L261)](#92)
+      - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L262 à L319)](#93)
+        - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L262 à L271)](#94)
+          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L262 à L265)](#95)
+          - [Section 2 : Droits des combattants volontaires de la Résistance. (art. L267 à L268)](#96)
+          - [Section 3 : Dispositions diverses. (art. L269 à L271)](#97)
+        - [Chapitre II : Statut des déportés et internés de la Résistance (art. L273 à L285)](#98)
+          - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L273 à L277)](#99)
+          - [Section 2 : Droits des déportés et internés résistants. (art. L278 à L284)](#100)
+          - [Section 3 : Dispositions diverses. (art. L285)](#101)
+        - [Chapitre III : Statut des déportés et internés politiques (art. L287 à L295-1)](#102)
+          - [Section 1 : De la qualité de déporté et interné politique. (art. L287 à L294)](#103)
+          - [Section 2 : Droits des déportés et internés politiques. (art. L295-1)](#104)
+        - [Chapitre IV : Statut des réfractaires. (art. L297 à L306)](#105)
+          - [Section 1 : De la qualité de réfractaire. (art. L300)](#106)
+          - [Section 2 : Droits des réfractaires. (art. L301 à L304)](#107)
+          - [Section 3 : Dispositions diverses. (art. L305 à L306)](#108)
+        - [Chapitre V : Statut des personnes contraintes au travail (art. L308 à L318)](#109)
+          - [Section 1 : Définition des bénéficiaires. (art. L308 à L312)](#110)
+          - [Section 2 : Droit des personnes contraintes au travail. (art. L313 à L318)](#111)
+        - [Chapitre VI : Mesures d'exécution. (art. L319)](#112)
+      - [Titre III : Droits et avantages accessoires (art. L320 à L450)](#113)
+        - [Chapitre Ier : Cartes d'invalidité et avantages y afférents (art. L320 à L324 bis)](#114)
+          - [Section 1 : Réduction sur les chemins de fer. (art. L320 à L321)](#115)
+          - [Section 2 : Droit de priorité. (art. L322 à L324)](#116)
+          - [Section 3 : Réduction de tarif accordée à certaines veuves de guerre et aux orphelins de guerre. (art. L324 bis)](#117)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires (art. L325 à L343)](#118)
+          - [Section 1 : Prêts. (art. L325 à L332)](#119)
+          - [Section 2 : Secours. (art. L334)](#120)
+          - [Section 3 : Pécule et indemnisations diverses. (art. L334 bis à L342)](#121)
+          - [Section 4 : Rentes mutualistes. (art. L343)](#122)
+        - [Chapitre III : Décorations et insignes (art. L344 à L392)](#123)
+          - [Section 1 : Légion d'honneur et médaille militaire (art. L344 à L350)](#124)
+            - [Paragraphe 1 : Légion d'honneur. (art. L344 à L347)](#125)
+            - [Paragraphe 2 : Médaille militaire. (art. L348)](#126)
+            - [Paragraphe 3 : Contingents réservés aux membres de la Résistance. (art. L349 à L350)](#127)
+          - [Section 2 : Croix du combattant volontaire. (art. L351 à L353 bis)](#128)
+          - [Section 3 : Croix du combattant. (art. L354 à L355)](#129)
+          - [Section 4 : Médaille de la victoire. (art. L356 à L370)](#130)
+          - [Section 5 : Médaille des prisonniers civils, déportés et otages de la grande guerre. (art. L371 à L377)](#131)
+          - [Section 6 : Médaille de la déportation et de l'internement pour faits de résistance. (art. L378)](#132)
+          - [Section 7 : Médaille commémorative de la grande guerre. (art. L379 à L382)](#133)
+          - [Section 8 : Médaille commémorative des combattants volontaires de la Résistance. (art. L383)](#134)
+          - [Section 9 : Médaille de la déportation et de l'internement. (art. L384 à L386)](#135)
+          - [Section 10 : Insigne des mères, veuves et veufs des "Morts pour la France". (art. L387 à L390)](#136)
+          - [Section 11 : Insignes des réfractaires et des personnes contraintes au travail. (art. L391 à L391 bis)](#137)
+          - [Section 12 : Mesures d'exécution. (art. L392)](#138)
+        - [Chapitre IV : Emplois réservés (art. L395 à L450)](#139)
+          - [Section 1 : Bénéficiaires des emplois réservés (art. L395 à L400)](#140)
+            - [Paragraphe 1 : Invalides, veuves et orphelins de guerre. (art. L395 à L396)](#141)
+            - [Paragraphe 2 : Militaires. (art. L397 à L400)](#142)
+          - [Section 2 : Classement et nomination (art. L402 à L440)](#143)
+            - [Paragraphe 1 : Enumération des emplois réservés. (art. L402 à L406)](#144)
+            - [Paragraphe 2 : Classement des candidats. (art. L407 à L416)](#145)
+            - [Paragraphe 3 : Procédure de nomination aux emplois réservés énumérés aux articles L. 402, L. 405 et L. 406. (art. L419 à L421)](#146)
+            - [Paragraphe 4 : Procédure de nomination aux emplois réservés des communes. (art. L422 à L424)](#147)
+            - [Paragraphe 5 : Règles d'attribution des recettes buralistes de 2e classe. (art. L425 à L427)](#148)
+            - [Paragraphe 6 : Publication des nominations - Recours. (art. L428)](#149)
+            - [Paragraphe 7 : Dispositions concernant les candidats désignés ou les titulaires d'emplois réservés. (art. L429 à L435)](#150)
+            - [Paragraphe 8 : Dispositions diverses. (art. L436 à L440)](#151)
+          - [Section 3 : Dispositions particulières concernant les médecins, pharmaciens, chirurgiens-dentistes et vétérinaires, invalides de guerre. (art. L441 à L450)](#152)
+      - [Titre IV : Pupilles de la nation (art. L461 à L487)](#153)
+        - [Chapitre Ier : De la qualité de pupille de la nation (art. L461 à L469)](#154)
+          - [Section 1 : Enfants ayant vocation à la qualité de pupille de la nation. (art. L461 à L464)](#155)
+          - [Section 2 : Conditions du droit. (art. L465 à L466)](#156)
+          - [Section 3 : Adoption par la nation. (art. L467 à L469)](#157)
+        - [Chapitre II : Protection et aide de l'Etat. (art. L470 à L485)](#158)
+          - [Section 1 : Organismes chargés d'assurer la protection et le soutien de l'Etat. (art. L471)](#159)
+          - [Section 2 : Tutelle des pupilles. (art. L472 à L479)](#160)
+          - [Section 3 : Placement des pupilles. (art. L480 à L481)](#161)
+          - [Section 4 : Avantages particuliers accordés aux pupilles de la nation. (art. L482 à L485)](#162)
+        - [Chapitre III : Mesures d'application. (art. L486 à L487)](#163)
+    - [Livre IV : Etat civil et sépultures (art. L489 à L516)](#164)
+      - [Chapitre Ier : Mention "Mort pour la France". (art. L489 à L492 bis)](#165)
+      - [Chapitre II : Transfert et restitution des corps. (art. L493 à L497)](#166)
+      - [Chapitre III : Sépulture perpétuelle (art. L498 à L514)](#167)
+        - [Section 1 : Droit à la sépulture perpétuelle. (art. L498)](#168)
+        - [Section 2 : Cimetières nationaux. (art. L499 à L504)](#169)
+        - [Section 3 : Cimetières communaux. (art. L505 à L509)](#170)
+        - [Section 4 : Dispositions particulières. (art. L510 à L514)](#171)
+      - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. L515 à L516)](#172)
+    - [Livre V : Institutions (art. L517 à L528)](#173)
+      - [Titre Ier : Office des anciens combattants et victimes de guerre (art. L517 à L527)](#174)
+        - [Chapitre Ier : Office national et offices départementaux. (art. L517 à L519)](#175)
+        - [Chapitre II : Du bénéfice des institutions des offices (art. L520 à L524)](#176)
+          - [Section 1 : Cas général. (art. L520)](#177)
+          - [Section 2 : Cas particuliers. (art. L521 à L524)](#178)
+        - [Chapitre III : Dispositions financières. (art. L525 à L527)](#179)
+      - [Titre II : Institution nationale des invalides. (art. L528)](#180)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R571)](#181)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R1 à R145)](#182)
+      - [Titre Ier : Droits à pension des invalides. (art. R1 à R28)](#183)
+        - [Chapitre III : Taux des pensions. (art. R1 à R5)](#184)
+        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. R6 à R27)](#185)
+          - [Section 1 : Militaires présents sous les drapeaux. (art. R6)](#186)
+          - [Section 2 : Militaires renvoyés dans leurs foyers. (art. R8 à R9)](#187)
+          - [Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins. (art. R19)](#188)
+          - [Section 4 : Anciens militaires résidant à l'étranger. (art. R20 à R21)](#189)
+          - [Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24. (art. R23 à R27)](#190)
+        - [Chapitre VI : Révision pour aggravation. (art. R28)](#191)
+      - [Titre II : Emoluments complémentaires. (art. R30 à R35)](#192)
+        - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. R30 à R35)](#193)
+          - [Section 1 : Procédure d'attribution des allocations spéciales. (art. R30 à R32)](#194)
+          - [Section 2 : Infirmités ouvrant droit aux allocations. (art. R33 à R34-1)](#195)
+          - [Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose. (art. R34-2 à R34-5)](#196)
+          - [Section 4 : Taux des allocations, règles de cumul. (art. R35)](#197)
+      - [Titre IV : Droits à pension des ascendants. (art. R38 à R42)](#198)
+      - [Titre V : Révision et voies de recours. (art. R43 à R90)](#199)
+        - [Chapitre II : Voies de recours. (art. R43 à R90)](#200)
+          - [Section 1 : Tribunal départemental des pensions. (art. R43 à R62)](#201)
+            - [Paragraphe 1 : Désignation des membres du tribunal. (art. R43 à R45)](#202)
+            - [Paragraphe 2 : Indemnités. (art. R46)](#203)
+            - [Paragraphe 3 : Rôle des associations dans le choix des délégués des pensionnés. (art. R48 à R49)](#204)
+            - [Paragraphe 4 : Remplacement des membres du tribunal cessant leurs fonctions en cours de mandat. (art. R50)](#205)
+            - [Paragraphe 5 : Attributions du greffier du tribunal. (art. R51)](#206)
+            - [Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance. (art. R52 à R54)](#207)
+            - [Paragraphe 7 : Sections des tribunaux de pensions. (art. R56)](#208)
+            - [Paragraphe 8 : Procédure normale. (art. R57 à R59)](#209)
+            - [Paragraphe 9 : Procédure sommaire. (art. R62)](#210)
+          - [Section 2 : Cour régionale des pensions. (art. R63 à R68)](#211)
+          - [Section 3 : Conseil d'Etat. (art. R69 à R90)](#212)
+            - [Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation. (art. R71 à R80)](#213)
+              - [A - Organisation. (art. R71 à R76)](#214)
+              - [B - Fonctionnement. (art. R78 à R80)](#215)
+            - [Paragraphe 2 : Procédure, règles d'instruction. (art. R82 à R90)](#216)
+      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. R91 à R102)](#217)
+        - [Chapitre III : Prescription des arrérages. (art. R91 à R101)](#218)
+        - [Chapitre V : Règles générales de cumul. (art. R102)](#219)
+      - [Titre VIII : Application dans les pays d'outre-mer de certaines dispositions du livre 1 de la première partie du code (instruction des demandes et voies de recours). (art. R122 à R145)](#220)
+        - [Chapitre II : Dispositions spéciales aux pays d'outre-mer. (art. R122 à R145)](#221)
+          - [Section 3 : Dispositions spéciales concernant les voies de recours. (art. R122 à R145)](#222)
+            - [Paragraphe 1 : Juridiction de première instance. (art. R122 à R123)](#223)
+            - [Paragraphe 2 : Juridiction d'appel. (art. R125 à R129)](#224)
+            - [Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc. (art. R131 à R136)](#225)
+            - [Paragraphe 4 : Attributions. (art. R137 à R140)](#226)
+            - [Paragraphe 5 : Allocations diverses et frais. (art. R141 à R145)](#227)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. R146 à R222)](#228)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. R146 à R155)](#229)
+        - [Chapitre II : Aumôniers militaires. (art. R146)](#230)
+        - [Chapitre III : Afféctés spéciaux et membres de la défense passive. (art. R147 à R155)](#231)
+          - [Section 1 : Défense passive. (art. R147 à R154)](#232)
+          - [Section 2 : Sapeurs-pompiers des places fortes. (art. R155)](#233)
+      - [Titre II : Membres des organisations civiles et militaires de la Résistance. (art. R156 à R168)](#234)
+        - [Chapitre Ier : De la qualité de résistant. (art. R156 à R161)](#235)
+        - [Chapitre II : Du droit à pension des membres de la Résistance. (art. R162 à R168)](#236)
+      - [Titre III : Règles applicables aux victimes civiles. (art. R169 à R201)](#237)
+        - [Chapitre Ier : Victimes civiles de la guerre. (art. R169 à R201)](#238)
+          - [Section 1 : Droit à pension. (art. R169 à R171)](#239)
+            - [Paragraphe 1 : Déportés et internés politiques. (art. R169)](#240)
+            - [Paragraphe 2 : Ayants cause. (art. R170 à R171)](#241)
+          - [Section 2 : Procédure. (art. R172 à R201)](#242)
+            - [Paragraphe 1 : Invalides. (art. R172 à R181)](#243)
+            - [Paragraphe 2 : Ayants cause. (art. R182 à R187)](#244)
+            - [Paragraphe 3 : Règles de liquidation. (art. R188 à R190)](#245)
+            - [Paragraphe 4 : Recours. (art. R191 à R192)](#246)
+            - [Paragraphe 5 : Procédure applicable hors de la métropole. (art. R194 à R196)](#247)
+            - [Paragraphe 6 : Allocations provisoires d'attente. (art. R197 à R201)](#248)
+      - [Titre IV : Alsaciens et Lorrains. (art. R202 à R222)](#249)
+        - [Chapitre II : Militaires ayant servi dans l'armée allemande. (art. R202 à R222)](#250)
+          - [Section 1 : Conditions du droit à pension des militaires ayant servi au cours des guerres 1914-1918 et 1939-1945. (art. R202 à R205)](#251)
+          - [Section 2 : Procédure de liquidation. (art. R206 à R220)](#252)
+          - [Section 3 : Dispositions diverses. (art. R221 à R222)](#253)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. R223 à R563)](#254)
+      - [Titre Ier : Carte et retraite du combattant. (art. R223 à R253)](#255)
+        - [Chapitre Ier : Carte du combattant. (art. R223 à R235)](#256)
+          - [Section 1 : De la qualité de combattant. (art. R225 à R228)](#257)
+          - [Section 2 : Procédure d'attribution et de retrait de la carte. (art. R229 à R235)](#258)
+        - [Chapitre II : Retraite du combattant. (art. R236 à R251)](#259)
+          - [Section 1 : Procédure d'attribution. (art. R236 à R240)](#260)
+          - [Section 2 : Payement de la retraite. (art. R243 à R244)](#261)
+          - [Section 3 : Citoyens français n'ayant pas servi dans l'armée française. (art. R246 à R251)](#262)
+        - [Chapitre III : Mesures d'exécution. (art. R252 à R253)](#263)
+      - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R254 à R387 bis)](#264)
+        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. R254 à R281)](#265)
+          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. R254 à R257)](#266)
+          - [Section 2 : Droits des combattants volontaires de la Résistance. (art. R258 à R259)](#267)
+          - [Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance. (art. R260 à R268)](#268)
+            - [Paragraphe 1 : Commissions. (art. R261 à R264)](#269)
+            - [Paragraphe 2 : Demande du titre de combattant volontaire de la Résistance. (art. R265 à R268)](#270)
+          - [Section 4 : Conditions d'application aux membres des F.F.L. et aux membres de la Résistance ayant résisté dans les camps de prisonniers ou ayant servi dans les pays d'outre-mer ou en territoires étrangers occupés par l'ennemi. (art. R269 à R281)](#271)
+            - [Paragraphe 1er : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres des forces françaises libres. (art. R271 à R272)](#272)
+            - [Paragraphe 2 : De la Résistance dans les camps de prisonniers. (art. R273 à R275)](#273)
+            - [Paragraphe 3 : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres de la Résistance ayant servi dans les départements et pays d'outre-mer ou en territoires étrangers occupés par l'ennemi. (art. R276 à R279)](#274)
+            - [Paragraphe 4 : Dispositions diverses. (art. R280 à R281)](#275)
+        - [Chapitre II : Statut des déportés et internés résistants. (art. R286 à R326)](#276)
+          - [Section 1 : De la qualité de déporté et interné résistant. (art. R286 à R297)](#277)
+            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R286 à R287 bis)](#278)
+            - [Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant. (art. R289 à R296)](#279)
+            - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#280)
+          - [Section 2 : Droits des déportés et internés résistants. (art. R298 à R304)](#281)
+          - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R306 à R326)](#282)
+            - [Paragraphe 1 : Commissions. (art. R306 à R315)](#283)
+            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R319 à R323)](#284)
+            - [Paragraphe 3 : Justification du titre de déporté et interné de la Résistance. (art. R326)](#285)
+        - [Chapitre III : Statut des déportés et internés politiques. (art. R328 à R351)](#286)
+          - [Section 1 : De la qualité de déporté et interné politique. (art. R328 à R334)](#287)
+            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R328)](#288)
+            - [Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques. (art. R330 à R333)](#289)
+            - [Paragraphe 3 : Cas d'exclusion. (art. R334)](#290)
+          - [Section 2 : Des droits des déportés et internés politiques. (art. R335)](#291)
+          - [Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre. (art. R337 à R351)](#292)
+            - [Paragraphe 1 : Commissions. (art. R337 à R345)](#293)
+            - [Paragraphe 2 : Demande de titre de déporté et interné politique. (art. R347 à R350)](#294)
+            - [Paragraphe 3 : Justification du titre de déporté et interné politique. (art. R351)](#295)
+        - [Chapitre IV : Statut des réfractaires. (art. R352 à R369)](#296)
+          - [Section 1 : Bénéficiaires. (art. R352 à R355)](#297)
+          - [Section 2 : Procédure d'attribution du titre de réfractaire. (art. R356 à R363)](#298)
+          - [Section 3 : Droits des réfractaires. (art. R364 à R366)](#299)
+          - [Section 4 : Dispositions diverses. (art. R367 à R369)](#300)
+        - [Chapitre V : Statut des personnes contraintes au travail. (art. R370 à R387 bis)](#301)
+          - [Section 1 : Bénéficiaires. (art. R370 à R372)](#302)
+          - [Section 2 : Procédure de reconnaissance des droits. (art. R373 à R380)](#303)
+          - [Section 3 : Droits des bénéficiaires du présent chapitre. (art. R381 à R385)](#304)
+          - [Section 4 : Dispositions diverses. (art. R386 à R387 bis)](#305)
+      - [Titre III : Droits et avantages accessoires. (art. R388 à R473)](#306)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. R388 à R391-8)](#307)
+          - [Section 1 : Prêts. (art. R388 à R391-2)](#308)
+          - [Section 2 : Pécule et indemnisations diverses. (art. R391-4 à R391-8)](#309)
+        - [Chapitre III : Décorations et insignes. (art. R392 à R395-3)](#310)
+        - [Chapitre IV : Emplois réservés. (art. R396 à R473)](#311)
+          - [Section 1 : Attribution des emplois mentionnés aux tableaux annexés au présent chapitre (3e partie). (art. R396 à R439)](#312)
+            - [Paragraphe 1 : Enumération et conditions générales d'attribution des emplois réservés. (art. R396 à R400)](#313)
+            - [Paragraphe 2 : Instruction des demandes - Aptitudes exigées. (art. R401 à R426)](#314)
+              - [A -Instruction des demandes. (art. R401 à R404)](#315)
+              - [B - Aptitude physique. (art. R405 à R407)](#316)
+              - [C - Aptitude professionnelle. (art. R409 à R421)](#317)
+              - [D - Aptitude physique spéciale et aptitude technique spéciale. (art. R423 à R426)](#318)
+            - [Paragraphe 3 : Constitution et transmission des dossiers. (art. R427 à R428)](#319)
+            - [Paragraphe 4 : Classement des candidats. (art. R429 à R439)](#320)
+          - [Section 2 : Emplois réservés aux orphelins de guerre. (art. R440 à R444)](#321)
+          - [Section 3 : Application dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle des dispositions des sections I et II du chapitre IV du présent titre (1re partie). (art. R445 à R449)](#322)
+          - [Section 4 : Dispositions spéciales. (art. R450 à R452)](#323)
+          - [Section 6 : Application aux territoires d'outre-mer et aux territoires associés. (art. R454 à R470)](#324)
+            - [A - Enumération et conditions générales d'attribution des emplois réservés. (art. R454 à R455)](#325)
+            - [B - Dépôt des demandes. (art. R456 à R457)](#326)
+            - [C - Aptitude physique. (art. R458 à R462)](#327)
+            - [D - Aptitude professionnelle. (art. R463 à R468)](#328)
+            - [E - Fonctionnaires et agents devenus physiquement inaptes. (art. R469)](#329)
+            - [F- Dispositions transitoires. (art. R470)](#330)
+          - [Section 7 : Dispositions diverses et transitoires. (art. R471 à R473)](#331)
+      - [Titre IV : Pupilles de la nation. (art. R496 à R563)](#332)
+        - [Chapitre Ier : Reconnaissance du droit au titre de pupille de la nation. (art. R496 à R504)](#333)
+        - [Chapitre II : Protection et aide de l'Etat. (art. R505 à R562)](#334)
+          - [Section 1 : Gestion des deniers pupillaires. (art. R505 à R513)](#335)
+          - [Section 2 : Placement des pupilles de la nation. (art. R514 à R532)](#336)
+            - [Paragraphe 1 : Placement dans les établissements. (art. R515 à R525)](#337)
+            - [Paragraphe 2 : Placement chez les particuliers. (art. R526 à R532)](#338)
+          - [Section 3 : Equivalence de bourses et exonérations. (art. R533)](#339)
+          - [Section 4 : Subventions. (art. R534 à R562)](#340)
+            - [Paragraphe 1 : Subventions d'entretien. (art. R535 à R540)](#341)
+            - [Paragraphe 2 : Subventions d'apprentissage. (art. R541 à R562)](#342)
+        - [Chapitre III : Dispositions diverses. (art. R563)](#343)
+    - [Livre IV : Etat civil et sépultures. (art. R564 à R571)](#344)
+      - [Chapitre III : Sépultures perpétuelles. (art. R564 à R569-4)](#345)
+        - [Section 1 : Dispositions communes aux victimes civiles et militaires. (art. R564 à R569-1)](#346)
+        - [Section 2 : Dispositions concernant les personnes civiles. (art. R569-2 à R569-4)](#347)
+      - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. R570 à R571)](#348)
+  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#349)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. D1 à D230)](#350)
+      - [Titre Ier : Droit à pension des invalides. (art. D1 à D4)](#351)
+        - [Chapitre Ier : Conditions du droit à pension. (art. D1)](#352)
+        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. D4)](#353)
+      - [Titre II : Emoluments complémentaires. (art. D8 à D19)](#354)
+        - [Chapitre III : Indemnités de soins aux tuberculeux. (art. D8 à D19)](#355)
+      - [Titre V : Révision et voies de recours. (art. D22 à D31)](#356)
+        - [Chapitre II : Voies de recours. (art. D22 à D31)](#357)
+          - [Section 1 : Désignation des commissaires du Gouvernement. (art. D22 à D24)](#358)
+          - [Section 2 : Dispositions concernant les départements d'outre-mer. (art. D25 à D28)](#359)
+          - [Section 3 : Dispositions diverses. (art. D29 à D31)](#360)
+      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. D38 à D52)](#361)
+        - [Chapitre VI : Allocations provisoires d'attente. (art. D38 à D52)](#362)
+          - [Section 1 : Militaires et marins. (art. D38 à D44)](#363)
+            - [Paragraphe 1 : Règles générales. (art. D38 à D39)](#364)
+            - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D40 à D44)](#365)
+          - [Section 2 : Ayants cause des militaires ou marins. (art. D45 à D52)](#366)
+            - [Paragraphe 1 : Règles générales. (art. D45)](#367)
+            - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D48 à D52)](#368)
+      - [Titre VII : Soins, traitement et rééducation. (art. D111 à D120 à D230)](#369)
+        - [Chapitre Ier : Soins gratuits. (art. D111 à D120)](#370)
+          - [Section 5 : Dispositions générales. (art. D111 à D120)](#371)
+            - [Paragraphe 2 : Procédure et voies de recours. (art. D111 à D120)](#372)
+        - [Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française. (art. D121 à D224)](#373)
+        - [Chapitre V : Rééducation professionnelle. (art. D226 à D230)](#374)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. D232 à D257)](#375)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. D232 à D240)](#376)
+        - [Chapitre VII : Chantiers de la jeunesse. (art. D232 à D240)](#377)
+      - [Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer. (art. D241 à D257)](#378)
+        - [Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause. (art. D241 à D242)](#379)
+        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. D243 à D251)](#380)
+        - [Chapitre III : Allocations provisoires d'attente. (art. D252 à D257)](#381)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. D258 à D401)](#382)
+      - [Titre Ier : Carte et retraite du combattant (art. D258 à D266)](#383)
+        - [Chapitre Ier : Carte du combattant (art. D258 à D263)](#384)
+          - [Section 1 : Algérie. (art. D258)](#385)
+          - [Section 2 : Pays d'outre-mer. (art. D259 à D263)](#386)
+        - [Chapitre II : Retraite du combattant (art. D264 à D266)](#387)
+          - [Section 1 : Attribution et paiement de la retraite. (art. D264 à D265)](#388)
+          - [Section 2 : Citoyens français n'ayant pas servi dans l'armée française. (art. D266)](#389)
+      - [Titre III : Droits et avantages accessoires. (art. D267 à D310)](#390)
+        - [Chapitre Ier : Carte d'invalidité et droits y afférents (art. D267 à D271)](#391)
+          - [Section 1 : Réduction sur les transports ferroviaires. (art. D267)](#392)
+          - [Section 2 : Réduction sur les transports routiers. (art. D268 à D270)](#393)
+          - [Section 3 : Droit de priorité. (art. D271)](#394)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. D271-8 à D271-14)](#395)
+        - [Chapitre III : Décorations et insignes. (art. D272 à D310)](#396)
+          - [Section 1 : Légion d'honneur et médaille militaire. (art. D272 à D274)](#397)
+          - [Section 2 : Croix du combattant volontaire de la guerre 1914-1918. (art. D275 à D276)](#398)
+          - [Section 3 : Croix du combattant. (art. D277 à D280)](#399)
+          - [Section 4 : Médaille de prisonniers civils, déportés et otages de la grande guerre. (art. D281 à D284)](#400)
+          - [Section 5 : Médaille commémorative française de la guerre 1939-1945. (art. D285 à D294)](#401)
+          - [Section 6 : Médaille de la France libérée. (art. D295 à D299)](#402)
+          - [Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France". (art. D300 à D305)](#403)
+          - [Section 8 : Insigne des victimes civiles. (art. D306 à D310)](#404)
+      - [Titre IV : Pupilles de la Nation. (art. D361 à D401)](#405)
+        - [Chapitre II : Protection et aide de l'Etat. (art. D361 à D383)](#406)
+          - [Section 1 : Manutention des deniers pupillaires. (art. D361 à D381)](#407)
+          - [Section 2 : Bourses et subventions. (art. D382 à D383)](#408)
+        - [Chapitre III : Dispositions particulières. (art. D384 à D401)](#409)
+          - [Section 1 : Enfants de militaires ou d'attachés aux armées victimes d'un fait de guerre sur un théâtre d'opérations situé hors de France. (art. D384)](#410)
+          - [Section 2 : Algérie. (art. D385 à D386)](#411)
+          - [Section 3 : Territoires d'outre-mer. (art. D387 à D389)](#412)
+          - [Section 4 : Pupilles résidant à l'étranger. (art. D390 à D401)](#413)
+            - [Paragraphe 1 : Reconnaissance du droit au titre de pupille de la nation. (art. D390 à D395)](#414)
+            - [Paragraphe 2 : Protection et aide. (art. D396 à D401)](#415)
+    - [Livre IV : Etat civil et sépultures. (art. D402 à D430)](#416)
+      - [Chapitre II : Transferts et restitutions de corps. (art. D402 à D420)](#417)
+      - [Chapitre III : Sépultures perpétuelles. (art. D421 à D430)](#418)
+        - [Section 1 : Lieux de sépultures. (art. D421 à D422)](#419)
+        - [Section 2 : Entretien des cimetières. (art. D423 à D427)](#420)
+        - [Section 3 : Dispositions particulières. (art. D429 à D430)](#421)
+    - [Livre V : Institutions. (art. D431 à D569)](#422)
+      - [Titre Ier : Offices des anciens combattants et victimes de guerre. (art. D431 à D554)](#423)
+        - [Chapitre Ier : Office national. (art. D431 à D471)](#424)
+          - [Section 1 : Caractère juridique. (art. D431)](#425)
+          - [Section 3 : Composition. (art. D437 à D439)](#426)
+          - [Section 4 : Organisation. (art. D442)](#427)
+          - [Section 5 : Fonctionnement. (art. D444 à D446)](#428)
+          - [Section 6 : Régime financier. (art. D448 à D471)](#429)
+            - [Paragraphe 1 : Dispositions générales. (art. D448 à D457)](#430)
+            - [Paragraphe 2 : Des recettes et des dépenses. (art. D458 à D463)](#431)
+            - [Paragraphe 3 : Du budget et des crédits. (art. D464 à D467)](#432)
+            - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D468)](#433)
+            - [Paragraphe 5 : Contrôle financier. (art. D469 à D470)](#434)
+            - [Paragraphe 6 : Mesures d'application. (art. D471)](#435)
+        - [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux. (art. D472 à D525)](#436)
+          - [Section 1 : Caractère juridique. (art. D472 à D474)](#437)
+          - [Section 2 : Attributions. (art. D475)](#438)
+          - [Section 3 : Composition. (art. D480 à D484)](#439)
+          - [Section 4 : Organisation et administration. (art. D486 à D494)](#440)
+            - [Paragraphe 1 : Conseil d'administration. (art. D486 à D488)](#441)
+            - [Paragraphe 2 : Commission permanente et sous-commissions. (art. D492)](#442)
+            - [Paragraphe 3 : Questions diverses. (art. D494)](#443)
+          - [Section 5 : Fonctionnement. (art. D495 à D501)](#444)
+          - [Section 6 : Régime financier. (art. D502 à D525)](#445)
+            - [Paragraphe 1 : Dispositions générales. (art. D502 à D511)](#446)
+            - [Paragraphe 2 : Des recettes et des dépenses. (art. D512 à D517)](#447)
+            - [Paragraphe 3 : Du budget et des crédits. (art. D518 à D521)](#448)
+            - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D522 à D523)](#449)
+            - [Paragraphe 5 : Contrôle financier. (art. D524)](#450)
+            - [Paragraphe 6 : Mesures d'application. (art. D525)](#451)
+        - [Chapitre III : Ecoles de rééducation professionnelle (art. D526 à D554)](#452)
+          - [Section 1 : Attributions. (art. D526)](#453)
+          - [Section 2 : Organisation. (art. D527 à D533)](#454)
+          - [Section 3 : Fonctionnement. (art. D534 à D543)](#455)
+          - [Section 4 : Régime financier. (art. D544 à D554)](#456)
+      - [Titre II : Institution nationale des invalides. (art. D555 à D569)](#457)
+        - [Chapitre Ier : Régime des pensionnaires. (art. D555 à D566)](#458)
+        - [Chapitre II : Régime des hébergés. (art. D568)](#459)
+        - [Chapitre III : Organisation administrative. (art. D569)](#460)
+  - [Partie réglementaire - Arrêtés (art. A3-1 à A330 à A334)](#461)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A3-1 à A84)](#462)
+      - [Titre Ier : Droits à pension des invalides. (art. A3-1)](#463)
+        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1)](#464)
+      - [Titre V : Révision et voies de recours. (art. A4 à A10)](#465)
+        - [Chapitre II : Voies de recours. (art. A4 à A10)](#466)
+      - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A42 à A47 à A84)](#467)
+        - [Chapitre Ier : Soins gratuits. (art. A42 à A47)](#468)
+          - [Section 9 : Indemnités diverses. (art. A42 à A47)](#469)
+        - [Chapitre V : Rééducation professionnelle. (art. A56 à A84)](#470)
+          - [Section 1 : Placement chez l'employeur sans contrat d'apprentissage. (art. A58 à A73)](#471)
+          - [Section 2 : Placement chez l'employeur avec contrat d'apprentissage. (art. A74 à A84)](#472)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. A85 à A113)](#473)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. A85 à A113)](#474)
+        - [Chapitre III : Affectés spéciaux de la défense passive. (art. A85 à A113)](#475)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. A115 à A205)](#476)
+      - [Titre Ier : Carte et retraite du combattant. (art. A115 à A157)](#477)
+        - [Chapitre Ier : Carte du combattant. (art. A115 à A142)](#478)
+          - [Section 1 : De la qualité de combattant (art. A116 à A128)](#479)
+            - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#480)
+            - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A122)](#481)
+            - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A125 à A127)](#482)
+            - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#483)
+          - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#484)
+            - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A136)](#485)
+            - [Paragraphe 2 : Demande et délivrance de la carte. (art. A138 à A141)](#486)
+            - [Paragraphe 3 : Demande et délivrance de la carte. (art. A140 à A142)](#487)
+        - [Chapitre II : Retraite du combattant. (art. A144 à A157)](#488)
+          - [Section 1 : Payement de la retraite du combattant. (art. A144 à A153)](#489)
+          - [Section 2 : Algérie et pays d'outre-mer. (art. A154)](#490)
+          - [Section 3 : Dispositions diverses. (art. A155 à A157)](#491)
+      - [Titre II : Statut des résistants, déportés, internés et réfractaires. (art. A158 à A165-1)](#492)
+        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. A158 à A159-1)](#493)
+        - [Chapitre II : Statut des déportés et internés de la Résistance. (art. A161 à A164)](#494)
+        - [Chapitre III : Statut des déportés et internés politiques. (art. A165-1)](#495)
+      - [Titre III : Droits et avantages accessoires. (art. A169 à A186-1)](#496)
+        - [Chapitre Ier : Droits attachés à la qualité de pensionné. (art. A169 à A172-1)](#497)
+          - [Section 1 : Réduction sur les chemins de fer. (art. A169)](#498)
+          - [Section 2 : Cartes de priorité. (art. A170 à A172-1)](#499)
+            - [Paragraphe 1 : Carte spéciale aux tierces personnes. (art. A170 à A171)](#500)
+            - [Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens). (art. A172-1)](#501)
+        - [Chapitre II : Dispositions pécuniaires. (art. A173 à A176)](#502)
+          - [Section 2 : Avantages fiscaux et autres. (art. A173 à A176)](#503)
+        - [Chapitre III : Décorations et insignes. (art. A177 à A186-1)](#504)
+          - [Section 1 : Légion d'honneur et médaille militaire. (art. A177 à A179)](#505)
+          - [Section 2 : Médaille des prisonniers civils, déportés et otages de la guerre 1914-1918. (art. A180 à A186-1)](#506)
+      - [Titre IV : Pupilles de la nation. (art. A191 à A205)](#507)
+        - [Chapitre II : Protection et aide de l'Etat. (art. A191 à A205)](#508)
+          - [Section 1 : Gestion des deniers pupillaires. (art. A191 à A201)](#509)
+          - [Section 2 : Avantages accordés aux pupilles de la nation. (art. A202 à A205)](#510)
+    - [Livre IV : Etat civil et sépultures. (art. A206 à A221)](#511)
+      - [Chapitre II : Transfert et restitution des corps. (art. A206 à A221)](#512)
+        - [Section 1 : Dispositions concernant les départements et territoires d'outre-mer. (art. A206 à A215)](#513)
+        - [Section 2 : Indemnités aux délégués représentant les familles aux exhumations. (art. A216 à A221)](#514)
+    - [Livre V : Institutions (art. A246 à A330 à A334)](#515)
+      - [Titre Ier : Offices des anciens combattants et victimes de la guerre (art. A246 à A293)](#516)
+        - [Chapitre Ier : Office national (art. A246 à A249)](#517)
+          - [Section 2 : Dispositions diverses. (art. A246 à A249)](#518)
+        - [Chapitre II : Offices départementaux (art. A250 à A264)](#519)
+          - [Section 1 : Régime financier (art. A250 à A263)](#520)
+            - [Paragraphe 1 : Dispositions générales. (art. A250 à A252)](#521)
+            - [Paragraphe 2 : Des recettes et des dépenses. (art. A253 à A255)](#522)
+            - [Paragraphe 3 : Ecritures et comptes de l'agent comptable. (art. A256 à A263)](#523)
+          - [Section 2 : Dispositions diverses. (art. A264)](#524)
+        - [Chapitre III : Etablissements attachés aux offices (art. A265 à A293)](#525)
+          - [Section 1 : Ecoles de rééducation professionnelle (art. A265 à A288)](#526)
+            - [Paragraphe 1 : Fonctionnement. (art. A265)](#527)
+            - [Paragraphe 2 : Régime financier. (art. A266 à A288)](#528)
+          - [Section 2 : Foyers d'anciens combattants et de victimes de la guerre. (art. A289 à A293)](#529)
+      - [Titre II : Institution nationale des invalides (art. A294 à A330 à A334)](#530)
+        - [Chapitre Ier : Régime des pensionnaires (art. A294 à A324)](#531)
+          - [Section 1 : Instruction de la demande et admission. (art. A294 à A299)](#532)
+          - [Section 2 : Réception - Admission définitive. (art. A300 à A301)](#533)
+          - [Section 3 : Régime pécuniaire, redevances, gratuité des soins. (art. A302 à A305)](#534)
+          - [Section 4 : Tenue et logement. (art. A306 à A308)](#535)
+          - [Section 5 : Discipline, permissions et congés (art. A309 à A323)](#536)
+            - [Paragraphe 1 : Discipline. (art. A309 à A310)](#537)
+            - [Paragraphe 2 : Permissions. (art. A311 à A312)](#538)
+            - [Paragraphe 3 : Congés. (art. A313 à A323)](#539)
+          - [Section 6 : Dispositions diverses. (art. A324)](#540)
+        - [Chapitre II : Régime des hébergés. (art. A325 à A329)](#541)
+        - [Chapitre III : Organisation administrative de l'institution nationale des invalides. (art. A330 à A334)](#542)
+  - [Annexes (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#543)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#544)
+      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#545)
+        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#546)
+        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#547)
+        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#548)
+        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#549)
+        - [Convention franco-britannique du 23 janvier 1950 (art. Annexe 5, art. 1 à Annexe 5, art. 4)](#550)
 # Partie législative<a id=1></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=2></a>
+## Première partie<a id=2></a>
 
-### Titre Ier : Droit à pension des invalides.<a id=3></a>
+###### Article L1
 
-#### Chapitre Ier : Conditions du droit à pension.<a id=4></a>
+La République française, reconnaissante envers les anciens combattants et victimes de la guerre qui ont assuré le salut de la
+patrie, s'incline devant eux et devant leurs familles. Elle proclame et détermine, conformément aux dispositions du présent
+code, le droit à réparation due [*bénéficiaires*] :
+
+1° Aux militaires des armées de terre, de mer et de l'air, aux membres des forces françaises de l'intérieur, aux membres de
+la Résistance, aux déportés et internés politiques et aux réfractaires affectés d'infirmités résultant de la guerre ;
+
+2° Aux veuves, aux orphelins et aux ascendants de ceux qui sont morts pour la France.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L20 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=3></a>
+
+### Titre Ier : Droit à pension des invalides.<a id=4></a>
+
+#### Chapitre Ier : Conditions du droit à pension.<a id=5></a>
 
 ###### Article L2
 
@@ -602,7 +702,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L4 (VT)
 
 
-#### Chapitre II : Pensions définitives et pensions temporaires.<a id=5></a>
+#### Chapitre II : Pensions définitives et pensions temporaires.<a id=6></a>
 
 ###### Article L7
 
@@ -631,7 +731,45 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Taux des pensions.<a id=6></a>
+#### Chapitre III : Taux des pensions.<a id=7></a>
+
+###### Article L9-2
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°51-1486 1951-12-31 art. 3 JORF 1er janvier 1952
+
+_Abrogé par_:
+
+  - Loi n°53-1340 1953-12-31 art. 3 II JORF 5 janvier 1954
+
+
+###### Article L9-3
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°53-58 1953-02-03 art. 4-1 JORF 4 février 1953
+
+_Abrogé par_:
+
+  - Loi n°53-1340 1953-12-31 art. 3 II JORF 5 janvier 1954
+
 
 ###### Article L10
 
@@ -904,11 +1042,11 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre V : Demandes de pension - Liquidation et concession.<a id=7></a>
+#### Chapitre V : Demandes de pension - Liquidation et concession.<a id=8></a>
 
-###### Article L22
+###### Article L21
 
-Abrogé
+Les demandes de pensions sont recevables sans condition de délai.
 
 **Liens relatifs à cet article**
 
@@ -916,9 +1054,17 @@ _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
+_Cité par_:
+
+  - Décret n°59-327 du 20 février 1959 - art. 5 (V)
+
 _Abrogé par_:
 
-  - Décret n°53-770 du 13 août 1953 - art. 3, v. init.
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L151-1 (VD)
 
 
 ###### Article L23
@@ -1074,7 +1220,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L8 (VT)
 
 
-#### Chapitre VI : Révision pour aggravation.<a id=8></a>
+#### Chapitre VI : Révision pour aggravation.<a id=9></a>
 
 ###### Article L28
 
@@ -1098,9 +1244,143 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre II : Emoluments complémentaires.<a id=9></a>
+### Titre II : Emoluments complémentaires.<a id=10></a>
 
-#### Chapitre Ier : Allocations spéciales temporaires aux grands invalides.<a id=10></a>
+#### Chapitre Ier : Allocations spéciales temporaires aux grands invalides.<a id=11></a>
+
+###### Article L33
+
+Une allocation aux grands invalides, portant le n° 7, est attribuée aux amputés d'un membre ; les taux en sont fixés ainsi
+qu'il suit :
+
+Amputés du membre supérieur : Poignet
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 36,5
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 18,2
+
+Amputés du membre supérieur : Avant-bras
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 54,7
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 27,4
+
+Amputés du membre supérieur : Coude
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 72,9
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 36,5
+
+Amputés du membre supérieur : Bras
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 109,4
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 54,7
+
+Amputés du membre supérieur : Sous-tubérositaire
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 72,9
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 72,9
+
+Amputés du membre supérieur : Désarticulation de l'épaule
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 91,2
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 91,2
+
+Amputés du membre inférieur : Tibio-tarsienne
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 18,2
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 9,1
+
+Amputés du membre inférieur : Jambe
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 36,5
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 18,2
+
+Amputés du membre inférieur : Genou
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 72,9
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 36,5
+
+Amputés du membre inférieur : Cuisse
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 109,4
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 54,7
+
+Amputés du membre inférieur : Sous-trochantérienne
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 72,9
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 72,9
+
+Amputés du membre inférieur : Désarticulation de la hanche
+
+- ALLOCATION non cumulée avec une autre allocation aux grands invalides : Indice : 91,2
+
+- ALLOCATION cumulée avec une autre allocation aux grands invalides :
+
+Indice : 91,2
+
+L'allocation n° 7 est cumulable avec les autres allocations spéciales aux grands invalides instituées aux articles L. 31 et
+L. 32.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D242 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L217 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L35 quater (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L38 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R35 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A93 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L131-1 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R131-4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L31
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L32
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L35
 
@@ -1128,7 +1408,168 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=11></a>
+#### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=12></a>
+
+###### Article L36
+
+Sont, au regard des dispositions du présent chapitre, qualifiés grands mutilés de guerre, les pensionnés titulaires de la
+carte du combattant qui, par suite de blessures de guerre ou de blessures en service commandé, sont amputés, aveugles,
+paraplégiques, blessés crâniens avec épilepsie, équivalents épileptiques ou aliénation mentale ou qui, par blessures de
+guerre ou blessures en service commandé, sont atteints :
+
+Soit d'une infirmité entraînant à elle seule un degré d'invalidité d'au moins 85 % ;
+
+Soit d'infirmités multiples dont les deux premières entraînent globalement un degré d'invalidité d'au moins 85 %, mais dont
+l'une détermine à elle seule un degré d'invalidité d'au moins 60 % ;
+
+Soit d'infirmités multiples dont les trois premières entraînent globalement un degré d'invalidité d'au moins 90 %, mais dont
+l'une détermine à elle seule un degré d'invalidité d'au moins 60 % ;
+
+Soit d'infirmités multiples dont les quatre premières entraînent globalement un degré d'invalidité d'au moins 95 %, mais dont
+l'une détermine à elle seule un degré d'invalidité d'au moins 60 % ;
+
+Soit d'infirmités multiples dont les cinq premières entraînent globalement un degré d'invalidité de 100 %, mais dont l'une
+détermine à elle seule un degré d'invalidité d'au moins 60 %.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cité par_:
+
+  - Décret n°64-994 du 17 septembre 1964 - art. 19 (V)
+  - Décret n°66-247 du 31 mars 1966 - art. 2 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 14 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 21 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 22 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 24 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 7 (V)
+  - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
+  - Arrêté du 1 octobre 2007 - art. 20 (VT)
+  - Arrêté du 13 avril 2011 - art. (V)
+  - Arrêté du 23 juin 2011 - art. (V)
+  - Arrêté du 19 décembre 2011 - art. (V)
+  - Arrêté du 12 février 2016 - art. 11 (Ab)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1009 B (P)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1599 F (M)
+  - Code de la défense. - art. L4123-4 (M)
+  - Code de la sécurité sociale. - art. L643-2 (M)
+  - Code de la sécurité sociale. - art. L643-4 (V)
+  - Code de la sécurité sociale. - art. L723-10-2 (V)
+  - Code de la sécurité sociale. - art. R723-31 (M)
+  - Code des pensions militaires d'invalidité et de... - art. D242 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D4 bis (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L17 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L178 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L189 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L217 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L247 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L33 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L37 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L38 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R162 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R163 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R29 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R33 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R34-1 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R35 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A93 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R30 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R34-2 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L132-1 (VD)
+
+
+###### Article L37
+
+Sont admis au bénéfice des majorations de pensions et des allocations spéciales prévues par les articles L. 17 et L. 38, les
+grands invalides :
+
+a) Amputés, aveugles, paraplégiques, atteints de lésions crâniennes avec épilepsie, équivalents épileptiques ou aliénation
+mentale par suite d'une blessure ou d'une maladie contractée par le fait ou à l'occasion du service ;
+
+b) Titulaires de la carte du combattant, pensionnés pour une infirmité entraînant à elle seule un degré d'invalidité d'au
+moins 85 % ou pour infirmités multiples entraînant globalement un degré d'invalidité égal ou supérieur à 85 % calculé dans
+les conditions ci-dessus définies par l'article L. 36 et résultant ou bien de blessures reçues par le fait ou à l'occasion du
+service, ou bien de maladie contractée par le fait ou à l'occasion du service, à charge par les intéressés de rapporter la
+preuve que celle-ci a été contractée dans une unité combattante ;
+
+c) Victimes civiles de la guerre, amputés, aveugles, paraplégiques, atteints de lésions crâniennes avec épilepsie,
+équivalents épileptiques ou aliénation mentale, ou pensionnés par suite de blessures pour une infirmité entraînant à elle
+seule un degré d'invalidité d'au moins 85 % ou pour infirmités multiples entraînant globalement un degré d'invalidité égal ou
+supérieur à 85 %, calculé dans les conditions ci-dessus définies par l'article L. 36 ;
+
+d) Bénéficiaires de l'article L. 30.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°55-1074 du 6 août 1955 - art. 1 (Ab)
+  - Décret n°64-994 du 17 septembre 1964 - art. 19 (V)
+  - Décret n°66-247 du 31 mars 1966 - art. 2 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 14 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 21 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 22 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 24 (V)
+  - Décret n°66-248 du 31 mars 1966 - art. 7 (V)
+  - Décret n°92-105 du 30 janvier 1992 - art. 1 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
+  - Arrêté du 13 avril 2011 - art. (V)
+  - Arrêté du 23 juin 2011 - art. (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1009 B (P)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1599 F (M)
+  - Code de l'action sociale et des familles - art. L241-3-2 (M)
+  - Code de la défense. - art. L4123-4 (M)
+  - Code de la sécurité sociale. - art. L643-2 (M)
+  - Code de la sécurité sociale. - art. L643-4 (V)
+  - Code de la sécurité sociale. - art. L723-10-2 (V)
+  - Code de la sécurité sociale. - art. R723-31 (M)
+  - Code des pensions militaires d'invalidité et de... - art. D242 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D4 bis (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L178 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L189 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L203 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L217 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L247 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L33 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L38 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R162 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R163 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R164 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R29 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R33 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R34-1 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R35 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R30 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R34-2 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L132-2 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L17 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L30 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L36 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L39
 
@@ -1183,7 +1624,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Indemnité de soins aux tuberculeux.<a id=12></a>
+#### Chapitre III : Indemnité de soins aux tuberculeux.<a id=13></a>
 
 ###### Article L42-1
 
@@ -1212,9 +1653,9 @@ _Abrogé par_:
   - Décret n°59-329 du 20 février 1959 art. 10
 
 
-### Titre III : Droits à pension des conjoints survivants et des orphelins.<a id=13></a>
+### Titre III : Droits à pension des conjoints survivants et des orphelins.<a id=14></a>
 
-#### Chapitre II : Fixation de la pension.<a id=14></a>
+#### Chapitre II : Fixation de la pension.<a id=15></a>
 
 ###### Article L52
 
@@ -1270,9 +1711,24 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre III : Droits à pension des veuves et des orphelins<a id=15></a>
+### Titre III : Droits à pension des veuves et des orphelins<a id=16></a>
 
-#### Chapitre Ier : Des droits à la pension.<a id=16></a>
+#### Chapitre Ier : Des droits à la pension.<a id=17></a>
+
+###### Article L44
+
+Les demandes sont recevables sans limitation de délai.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cité par_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 42 (Ab)
+
 
 ###### Article L45
 
@@ -1355,7 +1811,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Déchéance spéciale du droit à pension.<a id=17></a>
+#### Chapitre III : Déchéance spéciale du droit à pension.<a id=18></a>
 
 ###### Article L58
 
@@ -1482,7 +1938,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre IV : Des enfants naturels reconnus.<a id=18></a>
+#### Chapitre IV : Des enfants naturels reconnus.<a id=19></a>
 
 ###### Article L63
 
@@ -1536,7 +1992,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre V : Droits des ayants cause des personnes disparues.<a id=19></a>
+#### Chapitre V : Droits des ayants cause des personnes disparues.<a id=20></a>
 
 ###### Article L66
 
@@ -1588,7 +2044,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre IV : Droits à pension des ascendants.<a id=20></a>
+### Titre IV : Droits à pension des ascendants.<a id=21></a>
 
 ###### Article L68
 
@@ -1835,11 +2291,53 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-### Titre V : Révision et voies de recours.<a id=21></a>
+### Titre V : Révision et voies de recours.<a id=22></a>
 
-#### Chapitre II : Voies de recours.<a id=22></a>
+#### Chapitre II : Voies de recours.<a id=23></a>
 
-##### Section 1 : Tribunal départemental des pensions.<a id=23></a>
+###### Article L79
+
+Toutes les contestations auxquelles donne lieu l'application du livre Ier (à l'exception des chapitres Ier et IV du titre
+VII) et du livre II du présent code sont jugées en premier ressort par le tribunal départemental des pensions du domicile de
+l'intéressé et en appel par la Cour régionale des pensions.
+
+Le Conseil d'Etat ne peut être saisi que des recours pour excès ou détournement de pouvoir, vice de forme ou violation de la
+loi.
+
+Toutefois, les contestations auxquelles donne lieu l'application de l'article L. 112 sont directement portées devant le
+Conseil d'Etat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2012-295 du 1er mars 2012 - art. (V)
+  - Décret n°2013-910 du 10 octobre 2013 - art. (V)
+  - Code de la sécurité sociale. - art. R371-7 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A105 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D11 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L118 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R137 (Ab)
+  - Code rural et de la pêche maritime - art. R732-14 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L112 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L118 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Section 1 : Tribunal départemental des pensions.<a id=24></a>
 
 ###### Article L81
 
@@ -1913,7 +2411,7 @@ _Abrogé par_:
   - Décret n°59-327 du 20 février 1959 art. 10
 
 
-##### Section 2 : Cour régionale des pensions.<a id=24></a>
+##### Section 2 : Cour régionale des pensions.<a id=25></a>
 
 ###### Article L90
 
@@ -1951,7 +2449,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 3 : Conseil d'Etat.<a id=25></a>
+##### Section 3 : Conseil d'Etat.<a id=26></a>
 
 ###### Article L94
 
@@ -2177,7 +2675,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 4 : Dispositions générales.<a id=26></a>
+##### Section 4 : Dispositions générales.<a id=27></a>
 
 ###### Article L104
 
@@ -2206,9 +2704,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre VI : Dispositions diverses relatives au payement des pensions.<a id=27></a>
+### Titre VI : Dispositions diverses relatives au payement des pensions.<a id=28></a>
 
-#### Chapitre Ier : Incessibilité - Insaisissabilité.<a id=28></a>
+#### Chapitre Ier : Incessibilité - Insaisissabilité.<a id=29></a>
 
 ###### Article L106
 
@@ -2240,7 +2738,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-#### Chapitre III : Prescriptions des arrérages.<a id=29></a>
+#### Chapitre III : Prescriptions des arrérages.<a id=30></a>
 
 ###### Article L109
 
@@ -2283,7 +2781,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre IV : Payement des majorations pour enfants.<a id=30></a>
+#### Chapitre IV : Payement des majorations pour enfants.<a id=31></a>
 
 ###### Article L110
 
@@ -2334,7 +2832,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre V : Règles générales de cumul.<a id=31></a>
+#### Chapitre V : Règles générales de cumul.<a id=32></a>
 
 ###### Article L112
 
@@ -2410,11 +2908,11 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-### Titre VII : Soins, traitements, rééducation, sécurité sociale.<a id=32></a>
+### Titre VII : Soins, traitements, rééducation, sécurité sociale.<a id=33></a>
 
-#### Chapitre Ier : Soins gratuits.<a id=33></a>
+#### Chapitre Ier : Soins gratuits.<a id=34></a>
 
-##### Section 1 : Admission aux soins gratuits.<a id=34></a>
+##### Section 1 : Admission aux soins gratuits.<a id=35></a>
 
 ###### Article L116
 
@@ -2443,7 +2941,409 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D14 (V)
 
 
-### Titre VIII : Définition, mesures d'exécution.<a id=35></a>
+##### Section 3 : Dispositions générales.<a id=36></a>
+
+###### Article L119
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°59-328 1959-02-20 art. 7 JORF 25 février 1959
+
+
+###### Article L121
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°59-328 1959-02-20 art. 7 JORF 25 février 1959
+
+
+###### Article L123
+
+Tout pharmacien qui, sauf cas de force majeure ou obligation particulière résultant des lois sur l'exercice de la pharmacie,
+n'a pas déféré à la réquisition, est passible d'une amende pouvant s'élever au double de la valeur de la prestation requise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+#### Chapitre III : Aliénés.<a id=37></a>
+
+###### Article L124
+
+La pension définitive ou temporaire, allouée pour cause d'aliénation mentale à un militaire ou marin interné dans un
+établissement public d'aliénés ou dans un établissement privé faisant fonction d'asile public, est employée, à due
+concurrence, à acquitter les frais d'hospitalisation.
+
+Toutefois, en cas d'existence de femme ou d'enfants et d'ascendants, l'administrateur des biens de l'aliéné ou son tuteur
+verse, dans les quinze premiers jours de chaque trimestre :
+
+a) A la femme ou au représentant légal des enfants, les majorations d'enfants et une somme égale à une pension de veuve du
+taux normal ;
+
+b) Aux ascendants des aliénés remplissant les conditions prévues au titre IV, une somme égale à la pension prévue à l'article
+L. 72.
+
+Lorsque les arrérages de la pension allouée à l'interné dont l'aliénation est la conséquence des troubles psychiques ayant
+ouvert droit à pension se trouvent insuffisants pour permettre à l'administrateur des biens de l'aliéné ou à son tuteur
+d'effectuer ledit versement, le complément est à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D225 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D66 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D79 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L394 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L396 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R102-1 (Ab)
+  - Code du travail - art. L323-3 (AbD)
+  - Code du travail - art. L5212-13 (VT)
+  - Code du travail applicable à Mayotte. - art. L328-18 (VT)
+  - Code du travail applicable à Mayotte. - art. L328-2 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L72 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L125
+
+Le versement fait à la femme et aux ascendants est, au point de vue de l'incessibilité et de l'insaisissabilité, assimilé à
+une pension.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L126
+
+En aucun cas, l'aliéné interné, marié ou père de famille, ou ayant des ascendants remplissant les conditions prévues au titre
+IV, ne peut se trouver, au point de vue des soins, dans une situation inférieure à celle d'un célibataire du même grade sur
+la pension duquel aucun prélèvement n'est opéré.
+
+Dans tous les cas, les aliénés internés doivent bénéficier d'un régime minimum spécial confortable et constant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L127
+
+L'Etat supporte seul la partie des frais [*charge financière*] d'hospitalisation qui n'auraient pu être acquittés par suite
+de la retenue exercée sur la pension.
+
+Si, après le paiement de la somme due à la femme, aux enfants de l'hospitalisé et aux ascendants et après celui des frais
+d'hospitalisation, il reste un excédent, le tuteur ou l'administrateur des biens de ce pensionné emploie ce reliquat à
+l'amélioration de son sort.
+
+En aucun cas, les départements et les communes ne sont appelés à contribuer à cette dépense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+#### Chapitre IV : Appareillage.<a id=38></a>
+
+###### Article L128
+
+Les invalides pensionnés au titre du présent code ont droit aux appareils nécessités par les infirmités qui ont motivé la
+pension. Les appareils et accessoires sont fournis, réparés et remplacés aux frais de l'Etat tant que l'infirmité en cause
+nécessite l'appareillage.
+
+L'appareillage est effectué sous le contrôle et par l'intermédiaire de l'Etat. Il est assuré par les centres d'appareillage
+du ministère des anciens combattants et victimes de guerre.
+
+Le mutilé est comptable de ses appareils qui restent propriété de l'Etat.
+
+Les modalités de l'appareillage sont fixées par instruction ministérielle.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°59-327 du 20 février 1959 - art. 5 (Ab)
+  - Décret n°2010-282 du 16 mars 2010 - art. 1 (V)
+  - Arrêté du 3 janvier 2011 - art. 2 (V)
+  - Décret n°2015-200 du 20 février 2015 (V)
+  - Arrêté du 16 avril 2015 - art. 3 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. D432 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D80 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R102-1 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R102-1-1 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L213-1 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R213-2 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L129
+
+Les appareils nécessaires aux mutilés sont fabriqués soit par les ateliers des centres d'appareillage, soit par l'industrie
+privée, conformément au cahier des charges.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L130
+
+La fourniture des appareils régulièrement commandés par les centres d'appareillage constitue une obligation à laquelle sont
+tenus tous les fabricants qui ont été agréés soit sur leur demande, soit d'office par décision ministérielle.
+
+En période de pénurie de matières premières, lorsque la distribution de celle-ci donne lieu à répartition par un office
+central ou par un organisme ayant les mêmes attributions, la fourniture obligatoire est limitée, pour chaque industriel, aux
+appareils pouvant être construits avec le contingent qui lui est alloué par décision concertée entre le ministre des anciens
+combattants et victimes de guerre et le ministre chargé de la production industrielle.
+
+Les prix des appareils sont fixés et modifiés, le cas échéant, d'après les dispositions prévues par l'ordonnance n° 45-1483
+du 30 juin 1945.
+
+**Nota:**
+
+Ordonnance n° 86-1243 du 1er décembre 1986, article 1 : 
+
+l'ordonnance n° 45-1483 du 30 juin 1945 est abrogée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Ordonnance 45-1483 1945-06-30
+
+
+###### Article L131
+
+Les fabricants titulaires de commandes qui refuseraient de livrer sont passibles des sanctions suivantes :
+
+1° L'interdiction temporaire ou définitive pour le chef d'entreprise ou pour un ou plusieurs des dirigeants de l'entreprise
+d'exercer des fonctions de direction dans aucune entreprise de la branche d'activité considérée ou dans aucune entreprise
+industrielle ou commerciale ;
+
+2° Une amende au profit du Trésor, à l'encontre d'une entreprise, pouvant aller jusqu'à 10 % du chiffre d'affaires.
+
+Ces sanctions sont prononcées par le ministre chargé de la production industrielle sur demande motivée du ministre des
+anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+#### Chapitre V : Rééducation professionnelle.<a id=39></a>
+
+###### Article L132
+
+Le militaire ou marin qui, par le fait des blessures ou des infirmités ayant ouvert droit à pension, ne peut plus exercer son
+métier habituel, a droit à l'aide de l'Etat, en vue de sa rééducation professionnelle.
+
+L'office national des anciens combattants et victimes de guerre détermine les conditions dans lesquelles les collectivités ou
+oeuvres agréées à cet effet peuvent organiser cette rééducation. Il fixe les conditions générales selon lesquelles sont
+passés, sous le contrôle de l'inspection du travail, les contrats d'apprentissage.
+
+Le militaire ou marin peut aussi, pour sa rééducation et dans les mêmes conditions, passer un contrat d'apprentissage avec un
+patron particulier.
+
+L'Etat verse au militaire ou marin, infirme ou invalide et qui fait l'apprentissage d'un nouveau métier conformément aux
+dispositions ci-dessus, une allocation dont le taux et les règles d'attribution sont fixés par arrêté du ministre de
+l'économie et des finances et du ministre des anciens combattants et victimes de guerre, après avis de l'office national des
+anciens combattants et victimes de guerre.
+
+Ces dispositions font l'objet des articles A. 62 à A. 64 et A. 78, A. 82, A. 84.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D228 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D230 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A109 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A74 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A78 (V)
+  - Code du travail - art. L323-18 (AbD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. A110 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. A111 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. A113 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D228 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A62 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A63 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A64 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A82 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A84 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L133
+
+Le bénéfice des dispositions du présent chapitre est étendu aux veuves pensionnées au titre du présent code, ainsi qu'aux
+ascendants des militaires morts pour la France. L'office national des anciens combattants et victimes de guerre est chargé de
+leur en assurer l'application dans les conditions qui sont fixées aux articles D. 226 à D. 229.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D228 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A109 (V)
+  - Code du travail - art. L323-18 (AbD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. A110 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. A111 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. A113 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D228 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D226 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D227 (M)
+  - Code des pensions militaires d'invalidité et des v - art. D229 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L134
+
+Pendant la période de rééducation professionnelle d'un militaire dont la pension n'est pas liquidée, sa famille continue à
+toucher l'allocation militaire. Si la pension est liquidée et que le douzième de celle-ci soit inférieur au montant mensuel
+de l'allocation allouée à la famille, la différence lui est versée jusqu'à la fin de la période de rééducation.
+
+L'office départemental fixe la durée de la période de rééducation professionnelle pendant laquelle la famille du militaire
+bénéficie des avantages prévus à l'alinéa précédent. Il peut être fait appel de cette décision dans le délai d'un mois de sa
+notification au militaire intéressé auprès de l'office national.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D228 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D230 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D228 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L135
+
+En aucun cas, le taux de la pension ne peut être réduit du fait de la rééducation professionnelle et de la réadaptation au
+travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D228 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D228 (V)
+
+
+###### Article L136
+
+Le ministre des anciens combattants et victimes de guerre adresse au Président de la République un rapport annuel sur les
+résultats de la rééducation professionnelle et du placement des militaires et la répartition des subventions de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D228 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D228 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+### Titre VIII : Définition, mesures d'exécution.<a id=40></a>
 
 ###### Article L137
 
@@ -2486,11 +3386,11 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux<a id=36></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux<a id=41></a>
 
-### Titre Ier : Régimes applicables à certains personnels militaires et assimilés<a id=37></a>
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés<a id=42></a>
 
-#### Chapitre Ier : Militaires de carrière.<a id=38></a>
+#### Chapitre Ier : Militaires de carrière.<a id=43></a>
 
 ###### Article L138
 
@@ -2516,7 +3416,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-#### Chapitre II : Autres personnels militaires.<a id=39></a>
+#### Chapitre II : Autres personnels militaires.<a id=44></a>
 
 ###### Article L139
 
@@ -2548,6 +3448,22 @@ de maladies endémiques ou épidémiques contagieuses contractées dans leur ser
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. L53 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L142
+
+Dans le cas de blessures reçues ou d'infirmités contractées pour cause imputable à leur service dans l'armée, les
+fonctionnaires du service de la trésorerie aux armées et les fonctionnaires du service de la poste aux armées ont droit à
+pension militaire dans les mêmes conditions que les militaires auxquels ils sont assimilés.
+
+Les ayants droit de ces fonctionnaires peuvent prétendre à pension militaire dans les mêmes conditions que les ayants droit
+des militaires de grade assimilé.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
@@ -2705,9 +3621,9 @@ _Cité par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
 
 
-#### Chapitre III : Affectés spéciaux, membres de la défense passive requis<a id=40></a>
+#### Chapitre III : Affectés spéciaux, membres de la défense passive requis<a id=45></a>
 
-##### Section 1 : Affectés spéciaux.<a id=41></a>
+##### Section 1 : Affectés spéciaux.<a id=46></a>
 
 ###### Article L150
 
@@ -2738,7 +3654,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Défense passive.<a id=42></a>
+##### Section 2 : Défense passive.<a id=47></a>
 
 ###### Article L151
 
@@ -2813,7 +3729,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 3 : Sapeurs-pompiers des places fortes requis et affectés spéciaux de la guerre 1914-1918.<a id=43></a>
+##### Section 3 : Sapeurs-pompiers des places fortes requis et affectés spéciaux de la guerre 1914-1918.<a id=48></a>
 
 ###### Article L154
 
@@ -2970,7 +3886,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-#### Chapitre IV : Dispositions applicables à certains fonctionnaires.<a id=44></a>
+#### Chapitre IV : Dispositions applicables à certains fonctionnaires.<a id=49></a>
 
 ###### Article L158
 
@@ -2994,9 +3910,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L34 à L37, R50 à R52, D19
 
 
-#### Chapitre V : Marins du commerce<a id=45></a>
+#### Chapitre V : Marins du commerce<a id=50></a>
 
-##### Section 1 : Dispositions générales.<a id=46></a>
+##### Section 1 : Dispositions générales.<a id=51></a>
 
 ###### Article L159
 
@@ -3111,7 +4027,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 2 : Dispositions spéciales à la guerre 1939-1945.<a id=47></a>
+##### Section 2 : Dispositions spéciales à la guerre 1939-1945.<a id=52></a>
 
 ###### Article L163
 
@@ -3204,7 +4120,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre VII : Chantiers de jeunesse.<a id=48></a>
+#### Chapitre VII : Chantiers de jeunesse.<a id=53></a>
 
 ###### Article L167
 
@@ -3231,6 +4147,31 @@ _Cite_:
 
   - Loi n°1940-07-31
   - Loi n°1941-01-18
+
+
+###### Article L168
+
+Les demandes de pension sont recevables sans condition de délai.
+
+Les pensions accordées en vertu du présent chapitre sont liquidées sur le taux du soldat.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L123-7 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L169 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L169
@@ -3273,11 +4214,11 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-### Titre II : Membres des organisations civiles et militaires de la Résistance<a id=49></a>
+### Titre II : Membres des organisations civiles et militaires de la Résistance<a id=54></a>
 
-#### Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance<a id=50></a>
+#### Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance<a id=55></a>
 
-##### Section 1 : Membres des FFI et membres de la Résistance.<a id=51></a>
+##### Section 1 : Membres des FFI et membres de la Résistance.<a id=56></a>
 
 ###### Article L171
 
@@ -3467,7 +4408,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Aveugles de la Résistance.<a id=52></a>
+##### Section 2 : Aveugles de la Résistance.<a id=57></a>
 
 ###### Article L176
 
@@ -3487,9 +4428,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre II : Du droit à pension<a id=53></a>
+#### Chapitre II : Du droit à pension<a id=58></a>
 
-##### Section 1 : Conditions du droit à pension.<a id=54></a>
+##### Section 1 : Conditions du droit à pension.<a id=59></a>
 
 ###### Article L177
 
@@ -3652,7 +4593,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 3 : Majorations pour enfant.<a id=55></a>
+##### Section 3 : Majorations pour enfant.<a id=60></a>
 
 ###### Article L184
 
@@ -3674,7 +4615,7 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et de... - art. L134-4 (VD)
 
 
-##### Section 4 : Ayants cause.<a id=56></a>
+##### Section 4 : Ayants cause.<a id=61></a>
 
 ###### Article L185
 
@@ -3702,9 +4643,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 5 : Bénéficiaires spéciaux<a id=57></a>
+##### Section 5 : Bénéficiaires spéciaux<a id=62></a>
 
-##### Paragraphe 1 : FFI et membres de la Résistance.<a id=58></a>
+##### Paragraphe 1 : FFI et membres de la Résistance.<a id=63></a>
 
 ###### Article L186
 
@@ -3762,7 +4703,27 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Dispositions diverses.<a id=59></a>
+###### Article L188
+
+Les personnes qui auraient déjà bénéficié du régime institué en faveur des victimes civiles prévu au chapitre Ier du titre
+III peuvent se réclamer de l'application du présent titre.
+
+Les décisions de rejet prononcées par application d'une autre législation ne font pas obstacle à l'attribution d'une pension
+fondée sur les dispositions du présent titre. Les dossiers sont réexaminés dès lors qu'une nouvelle demande a été adressée à
+cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+
+
+#### Chapitre III : Dispositions diverses.<a id=64></a>
 
 ###### Article L190
 
@@ -3843,13 +4804,13 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-### Titre III : Règles applicables aux victimes civiles<a id=60></a>
+### Titre III : Règles applicables aux victimes civiles<a id=65></a>
 
-#### Chapitre Ier : Victimes civiles de la guerre<a id=61></a>
+#### Chapitre Ier : Victimes civiles de la guerre<a id=66></a>
 
-##### Section 1 : Détermination du droit à pension<a id=62></a>
+##### Section 1 : Détermination du droit à pension<a id=67></a>
 
-##### Paragraphe 1 : Victimes de la guerre 1914-1918.<a id=63></a>
+##### Paragraphe 1 : Victimes de la guerre 1914-1918.<a id=68></a>
 
 ###### Article L193
 
@@ -3938,7 +4899,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L195 (VT)
 
 
-##### Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées.<a id=64></a>
+##### Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées.<a id=69></a>
 
 ###### Article L197
 
@@ -4213,6 +5174,43 @@ _Cite_:
   - Ordonnance 1943-07-06
 
 
+###### Article L203 bis
+
+Les personnes contraintes au travail en pays ennemi définies aux articles L. 308 et L. 309 et leurs ayants droit bénéficient
+des dispositions du présent paragraphe et de la section 2, les maladies contractées ou aggravées et les blessures de toutes
+sortes subies pendant la période de contrainte visée à l'article L. 310 étant réputées effets directs ou indirects de guerre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L113-3 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L124-25 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L313 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L205 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L206 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L308
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L309
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L310
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
 ###### Article L204
 
 En cas d'invalidité ou de décès provenant de blessure ou de maladie survenues par le fait ou l'occasion de sa participation
@@ -4342,7 +5340,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale.<a id=65></a>
+##### Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale.<a id=70></a>
 
 ###### Article L208
 
@@ -4368,7 +5366,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R381-80 (M)
 
 
-##### Paragraphe 4 : Ayants cause.<a id=66></a>
+##### Paragraphe 4 : Ayants cause.<a id=71></a>
 
 ###### Article L210
 
@@ -4395,9 +5393,28 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 2 : Procédure<a id=67></a>
+##### Section 2 : Procédure<a id=72></a>
 
-##### Paragraphe 1 : Demande de pension et date d'entrée en jouissance.<a id=68></a>
+##### Paragraphe 1 : Demande de pension et date d'entrée en jouissance.<a id=73></a>
+
+###### Article L211
+
+Les demandes de pension sont recevables sans condition de délai. Elles sont dispensées du timbre et enregistrées gratis.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L152-1 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
 
 ###### Article L212
 
@@ -4414,7 +5431,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Paragraphe 3 : Règles de liquidation.<a id=69></a>
+##### Paragraphe 3 : Règles de liquidation.<a id=74></a>
 
 ###### Article L214
 
@@ -4576,7 +5593,31 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Paragraphe 4 : Dispositions diverses.<a id=70></a>
+##### Paragraphe 4 : Dispositions diverses.<a id=75></a>
+
+###### Article L220
+
+Les décisions de rejet prononcées par application des lois des 26 juillet 1941 et 17 avril 1942 ne font pas obstacle à
+l'attribution d'une pension fondée sur les dispositions du paragraphe 2 de la section 1.
+
+Les dossiers sont réexaminés dès lors qu'une nouvelle demande a été adressée à cet effet par les intéressés.
+
+Le point de départ des pensions octroyées dans ce cas est fixé à la date de la première demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Loi n°1942-04-17
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
 
 ###### Article L221
 
@@ -4633,9 +5674,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre IV : Alsaciens et Lorrains<a id=71></a>
+### Titre IV : Alsaciens et Lorrains<a id=76></a>
 
-#### Chapitre Ier : Militaires ayant servi dans l'armée française au cours de la guerre 1870-1871.<a id=72></a>
+#### Chapitre Ier : Militaires ayant servi dans l'armée française au cours de la guerre 1870-1871.<a id=77></a>
 
 ###### Article L225
 
@@ -4681,9 +5722,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre II : Militaires ayant servi dans l'armée allemande<a id=73></a>
+#### Chapitre II : Militaires ayant servi dans l'armée allemande<a id=78></a>
 
-##### Section 1 : De 1871 à 1914.<a id=74></a>
+##### Section 1 : De 1871 à 1914.<a id=79></a>
 
 ###### Article L227
 
@@ -4756,7 +5797,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 3 : Au cours de la guerre 1939-1945.<a id=75></a>
+##### Section 3 : Au cours de la guerre 1939-1945.<a id=80></a>
 
 ###### Article L232
 
@@ -4867,7 +5908,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R445 (Ab)
 
 
-##### Section 4 : Dispositions communes aux Alsaciens et Lorrains ayant servi dans l'armée allemande.<a id=76></a>
+##### Section 4 : Dispositions communes aux Alsaciens et Lorrains ayant servi dans l'armée allemande.<a id=81></a>
 
 ###### Article L236
 
@@ -4961,9 +6002,30 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-### Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer<a id=77></a>
+#### Chapitre III : Alsaciens et Lorrains incorporés dans le service allemand du travail.<a id=82></a>
 
-#### Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause.<a id=78></a>
+###### Article L239-3
+
+Les Alsaciens et Lorrains qui ont contracté un engagement dans le service allemand du travail, ainsi que leurs ayants droit,
+ne peuvent se réclamer du bénéfice de l'article L. 239-2 qu'à la condition expresse de prouver que l'engagement prétendument
+volontaire a été imposé par la menace de représailles soit sur eux-mêmes, soit sur leur épouse, leurs enfants, leurs
+ascendants ou descendants ou leurs frères et soeurs ou qu'il est intervenu dans des circonstances exclusives de toute
+intention réelle de coopérer à l'effort de guerre de l'ennemi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L239-2 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+### Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer<a id=83></a>
+
+#### Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause.<a id=84></a>
 
 ###### Article L240
 
@@ -5071,7 +6133,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=79></a>
+#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=85></a>
 
 ###### Article L248
 
@@ -5141,9 +6203,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre VI : Etrangers.<a id=80></a>
+### Titre VI : Etrangers.<a id=86></a>
 
-#### Chapitre unique : Etrangers ayant servi dans les formations françaises.<a id=81></a>
+#### Chapitre unique : Etrangers ayant servi dans les formations françaises.<a id=87></a>
 
 ###### Article L251
 
@@ -5176,11 +6238,106 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre<a id=82></a>
+### Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code.<a id=88></a>
 
-### Titre Ier : Carte et retraite du combattant<a id=83></a>
+###### Article L252-2
 
-#### Chapitre Ier : Carte du combattant.<a id=84></a>
+Peuvent prétendre au bénéfice des dispositions du présent Code, les personnes de nationalité étrangère et ceux des apatrides
+qui ne sont pas admis de plein droit au bénéfice de ces dispositions, lorsque, ayant le fait dommageable invoqué comme
+origine du droit à pension, ils ont servi dans l'armée française, soit comme appelés, soit à titre d'engagés volontaires :
+
+1° S'ils ont été victimes de faits survenus dans les circonstances prévues au titre III du livre II de la première partie du
+code, soit en France, soit au cours de leur déportation hors de France ;
+
+2° S'ils sont atteints d'infirmités imputables à leur incorporation de force dans les armées de l'Axe.
+
+Leurs ayants cause français peuvent prétendre au même bénéfice.
+
+Ces personnes sont déchues de ce bénéfice si elles cessent de résider sur le territoire français ou dans les territoires
+d'outre-mer visés à l'article L. 137 du code ou si elles acquièrent sur leur demande une nationalité autre que leur
+nationalité d'origine ou la nationalité française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L124-8 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L252-4 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L137
+
+
+###### Article L252-3
+
+Les Français d'origine, non bénéficiaires des dispositions des articles L. 231 à L. 239-3, et leurs ayants cause, de même que
+les Français par naturalisation et leurs ayants cause français, bénéficient des dispositions du présent code s'ils ont été
+atteints d'infirmités imputables à leur incorporation de force, dans les armées de l'Axe, postérieurement à leur
+naturalisation, à condition d'avoir satisfait à leurs obligations militaires en France.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L231 à L239-3
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L252-4
+
+Les personnes qui, remplissant les conditions de résidence requises au dernier alinéa de l'article L. 252-2, ne peuvent
+bénéficier de la législation française applicable aux victimes de guerre parce qu'elles ont perdu leur nationalité d'origine
+pour des causes indépendantes de leur volonté et qui n'ont pas acquis volontairement une nationalité autre que la nationalité
+française, peuvent prétendre, ainsi que leurs ayants cause :
+
+Soit au rétablissement des pensions primitivement concédées et suspendues ;
+
+Soit à l'attribution des pensions dont elles auraient bénéficié si elles avaient conservé la nationalité qu'elles possédaient
+au moment du fait dommageable.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L124-9 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L252-2 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre<a id=89></a>
+
+### Titre Ier : Carte et retraite du combattant<a id=90></a>
+
+#### Chapitre Ier : Carte du combattant.<a id=91></a>
 
 ###### Article L253
 
@@ -5230,7 +6387,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre II : Retraite du combattant.<a id=85></a>
+#### Chapitre II : Retraite du combattant.<a id=92></a>
 
 ###### Article L257
 
@@ -5304,11 +6461,11 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre II : Statut des résistants, des déportés, internés et réfractaires<a id=86></a>
+### Titre II : Statut des résistants, des déportés, internés et réfractaires<a id=93></a>
 
-#### Chapitre Ier : Statut des combattants volontaires de la Résistance<a id=87></a>
+#### Chapitre Ier : Statut des combattants volontaires de la Résistance<a id=94></a>
 
-##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=88></a>
+##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=95></a>
 
 ###### Article L262
 
@@ -5412,7 +6569,7 @@ _Cite_:
   - Ordonnance 1944-12-26
 
 
-##### Section 2 : Droits des combattants volontaires de la Résistance.<a id=89></a>
+##### Section 2 : Droits des combattants volontaires de la Résistance.<a id=96></a>
 
 ###### Article L267
 
@@ -5464,7 +6621,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 3 : Dispositions diverses.<a id=90></a>
+##### Section 3 : Dispositions diverses.<a id=97></a>
 
 ###### Article L269
 
@@ -5524,9 +6681,9 @@ _Abrogé par_:
   - Décret n°59-366 du 28 février 1959 - art. 2, v. init.
 
 
-#### Chapitre II : Statut des déportés et internés de la Résistance<a id=91></a>
+#### Chapitre II : Statut des déportés et internés de la Résistance<a id=98></a>
 
-##### Section 1 : De la qualité de déporté et interné de la Résistance.<a id=92></a>
+##### Section 1 : De la qualité de déporté et interné de la Résistance.<a id=99></a>
 
 ###### Article L273
 
@@ -5710,7 +6867,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Droits des déportés et internés résistants.<a id=93></a>
+##### Section 2 : Droits des déportés et internés résistants.<a id=100></a>
 
 ###### Article L278
 
@@ -5940,9 +7097,46 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Statut des déportés et internés politiques<a id=94></a>
+##### Section 3 : Dispositions diverses.<a id=101></a>
 
-##### Section 1 : De la qualité de déporté et interné politique.<a id=95></a>
+###### Article L285
+
+Les commissions ou jurys appelés à statuer sur le cas des déportés ou internés résistants, dans le cadre des articles L. 272
+à L. 276, L. 279 et L. 280, doivent obligatoirement comprendre [*composition*] plus de la moitié de membres choisis parmi les
+déportés et internés résistants.
+
+**Nota:**
+
+Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
+art. 3.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance 2004-637 2004-07-01 art. 13 5° JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L275 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L272 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L273 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L274 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L276 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L279 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L280 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+#### Chapitre III : Statut des déportés et internés politiques<a id=102></a>
+
+##### Section 1 : De la qualité de déporté et interné politique.<a id=103></a>
 
 ###### Article L287
 
@@ -6215,7 +7409,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Droits des déportés et internés politiques.<a id=96></a>
+##### Section 2 : Droits des déportés et internés politiques.<a id=104></a>
 
 ###### Article L295-1
 
@@ -6246,7 +7440,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre IV : Statut des réfractaires.<a id=97></a>
+#### Chapitre IV : Statut des réfractaires.<a id=105></a>
 
 ###### Article L297
 
@@ -6273,7 +7467,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 1 : De la qualité de réfractaire.<a id=98></a>
+##### Section 1 : De la qualité de réfractaire.<a id=106></a>
 
 ###### Article L300
 
@@ -6301,7 +7495,7 @@ _Cite_:
   - Ordonnance 1944-06-26
 
 
-##### Section 2 : Droits des réfractaires.<a id=99></a>
+##### Section 2 : Droits des réfractaires.<a id=107></a>
 
 ###### Article L301
 
@@ -6385,7 +7579,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 3 : Dispositions diverses.<a id=100></a>
+##### Section 3 : Dispositions diverses.<a id=108></a>
 
 ###### Article L305
 
@@ -6432,11 +7626,334 @@ _Abrogé par_:
   - Ordonnance 2004-637 2004-07-01 art. 13 5° JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 
-### Titre III : Droits et avantages accessoires<a id=101></a>
+#### Chapitre V : Statut des personnes contraintes au travail<a id=109></a>
 
-#### Chapitre Ier : Cartes d'invalidité et avantages y afférents<a id=102></a>
+##### Section 1 : Définition des bénéficiaires.<a id=110></a>
 
-##### Section 1 : Réduction sur les chemins de fer.<a id=103></a>
+###### Article L308
+
+La République française, considérant les souffrances qu'ils ont subies, proclame et détermine, conformément aux dispositions
+du présent chapitre, le droit à réparation :
+
+a) Des Français ou ressortissants des territoires de l'Union française et des étrangers ou apatrides, dont les pays ont
+conclu un accord de réciprocité avec la France, qui ont été contraints de quitter le territoire national et astreints au
+travail dans les pays ennemis ou occupés par l'ennemi ;
+
+b) Des personnes transférées par contrainte dans une usine d'Alsace-Lorraine ou des territoires annexés par l'Allemagne au
+cours de la guerre.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2014-1284 du 23 octobre 2014 - art. (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L203 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L309 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L311 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R388-7 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R574 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R578 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L314 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L344-5 (VD)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L311 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L309
+
+L'expression "pays ennemi" employée dans le présent chapitre et aux articles L. 203 bis, L. 213, L. 516 englobe les pays et
+territoires énumérés aux alinéas a et b de l'article L. 308.
+
+Sont considérées comme ayant été "contraintes" les personnes ayant fait l'objet d'une rafle ou encore d'une réquisition
+opérée en vertu des actes dits "loi du 4 septembre 1942", "décret du 19 septembre 1942", "loi du 16 février 1943", "loi du
+1er février 1944" relatifs au service du travail obligatoire, actes dont la nullité a été expressément constatée.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L203 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L311 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R381 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L340 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L344-6 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L213
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L308
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L516
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L310
+
+Le bénéfice du présent chapitre est subordonné à une période de contrainte de trois mois au minimum en pays ennemi.
+
+Aucune condition de durée n'est exigée en cas d'évasion, de rapatriement sanitaire ou de décès.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L203 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L311 (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L344-7 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L311
+
+Les dispositions de l'article L. 308 sont applicables, sur leur demande, aux personnes remplissant, au titre de la guerre
+1914-1918, les conditions prévues aux articles L. 308 à L. 310 et L. 317.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L308 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L309 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L310 (VT)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L317
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L308 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L312
+
+Ne peuvent prétendre à l'application du présent chapitre les individus condamnés en vertu de l'ordonnance du 26 juin 1944 ou
+des textes subséquents relatifs à la répression des faits de collaboration, ainsi que ceux frappés d'indignité nationale ou
+dont le comportement, avant leur réquisition ou au cours de l'exil, a été contraire à l'esprit de la Résistance française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Ordonnance 1944-06-26
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R372 (Ab)
+
+
+##### Section 2 : Droit des personnes contraintes au travail.<a id=111></a>
+
+###### Article L313
+
+Les personnes contraintes au travail en pays ennemi bénéficient des pensions prévues pour les victimes civiles de la guerre
+1939-1945, dans les conditions fixées aux articles L. 203 bis et L. 213.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L203 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L213 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L314
+
+Le temps passé dans les conditions prévues aux articles L. 308 à L. 310 est pris en considération dans le calcul de
+l'ancienneté de service exigée pour l'avancement et pour la retraite au même titre que le service militaire en temps de paix.
+Cette disposition ne peut entraîner d'effet pécuniaire qu'à compter du 16 mai 1951.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R384 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L308 (V)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L308, L309 et L310
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L315
+
+Les bénéficiaires du présent chapitre ont droit à la rééducation professionnelle et à leur admission aux emplois réservés
+dans les conditions fixées aux articles L. 522 à L. 524 et L. 393 à L. 450.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L522
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L523
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L524
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L316
+
+Les bénéficiaires du présent statut ont droit, en qualité de victimes de la guerre, à tous les avantages d'ordre social mis à
+la disposition de ses ressortissants, combattants, prisonniers et déportés, par l'office national des anciens combattants et
+victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L317
+
+Il est créé une carte qui est attribuée par décision du ministre des anciens combattants et victimes de guerre aux
+bénéficiaires du présent chapitre.
+
+Les demandes formulées à cet effet sont soumises pour avis à des commissions départementales et, en cas de contestation, à
+une commission nationale.
+
+La commission nationale et les commissions départementales dont la composition sera fixée par règlement d'administration
+publique siègent auprès de l'office national et des offices départementaux des anciens combattants et victimes de guerre.
+
+Elles comprennent des représentants des administrations intéressées et, pour la moitié, des bénéficiaires du présent statut,
+sur présentation de leurs organisations nationales.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Arrêté du 16 octobre 2008 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L311 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L319 bis (VT)
+  - Code des pensions militaires d'invalidité et des v - art. R374 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. R374 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L318
+
+Les personnes remplissant les conditions exigées par les statuts de déportés ou internés de la Résistance, des déportés et
+internés politiques ou des réfractaires peuvent prétendre au bénéfice de l'un de ces statuts, sans perdre le bénéfice des
+dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L344-8 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+#### Chapitre VI : Mesures d'exécution.<a id=112></a>
+
+###### Article L319
+
+Les modalités d'application du présent titre sont déterminées aux articles R. 254 à R. 387 bis.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L305 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+### Titre III : Droits et avantages accessoires<a id=113></a>
+
+#### Chapitre Ier : Cartes d'invalidité et avantages y afférents<a id=114></a>
+
+##### Section 1 : Réduction sur les chemins de fer.<a id=115></a>
 
 ###### Article L320
 
@@ -6491,7 +8008,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 2 : Droit de priorité.<a id=104></a>
+##### Section 2 : Droit de priorité.<a id=116></a>
 
 ###### Article L322
 
@@ -6558,7 +8075,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 3 : Réduction de tarif accordée à certaines veuves de guerre et aux orphelins de guerre.<a id=105></a>
+##### Section 3 : Réduction de tarif accordée à certaines veuves de guerre et aux orphelins de guerre.<a id=117></a>
 
 ###### Article L324 bis
 
@@ -6577,9 +8094,9 @@ _Cite_:
   - Loi n°50-891 1950-08-01
 
 
-#### Chapitre II : Prêts, secours et autres dispositions pécuniaires<a id=106></a>
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires<a id=118></a>
 
-##### Section 1 : Prêts.<a id=107></a>
+##### Section 1 : Prêts.<a id=119></a>
 
 ###### Article L325
 
@@ -6717,6 +8234,78 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
+###### Article L330
+
+Le régime des prêts du crédit agricole mutuel institué par l'ordonnance n° 45-2468 du 20 octobre 1945 et le décret n° 47-1346
+du 28 juin 1947, est applicable :
+
+1° Aux anciens prisonniers de guerre et anciens déportés politiques ou du travail de nationalité française ;
+
+2° Aux membres des FFL ayant appartenu auxdites forces avant le 1er août 1943 et aux évadés de France engagés volontaires
+avant cette date dans les unités combattantes françaises ou alliées autres que celles des FFL ;
+
+3° Aux combattants volontaires de la Résistance ;
+
+4° Aux réfractaires.
+
+Pour l'application du présent article sont considérées :
+
+Comme déportés politiques : les personnes détenues ou maintenues en détention en France ou déportées à l'étranger, pour des
+motifs politiques ou militaires, sur l'ordre de l'ennemi ou de l'autorité de fait se disant gouvernement de l'Etat français ;
+
+Comme déportés du travail : les personnes ayant dû quitter leur emploi, soit pour travailler au profit de l'ennemi dans des
+conditions exclusives de toute intention réelle de coopérer à l'effort de guerre de celui-ci, soit pour se soustraire à un
+travail effectué pour le compte de l'ennemi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-2468 du 20 octobre 1945
+  - Décret n°47-1346 du 28 juin 1947
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L266 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L302 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L331 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L332 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L331
+
+Les demandes de prêts formulées par les combattants volontaires de la Résistance, en application des articles L. 327, L. 330
+et de l'ordonnance n° 45-2695 du 2 novembre 1945 doivent être déposées avant le 1er janvier 1954.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Ordonnance n°45-2695 du 2 novembre 1945
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L327
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L330
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L266 (VT)
+
+
 ###### Article L332
 
 Ne peuvent bénéficier des avantages prévus aux articles L. 327 (4°) et L. 330 (3°) les personnes visées à l'article L. 265.
@@ -6748,7 +8337,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Secours.<a id=108></a>
+##### Section 2 : Secours.<a id=120></a>
 
 ###### Article L334
 
@@ -6766,7 +8355,78 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 3 : Pécule et indemnisations diverses.<a id=109></a>
+##### Section 3 : Pécule et indemnisations diverses.<a id=121></a>
+
+###### Article L334 bis
+
+Il est alloué aux prisonniers de la guerre 1939-1945 ou à leurs ayants cause un pécule de 0,61 euros par mois de captivité,
+dont les conditions d'attribution sont fixées par arrêté du ministre des anciens combattants et victimes de la guerre, du
+ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L335
+
+Il est alloué aux ayants cause des prisonniers de guerre décédés en captivité un pécule dont le taux et les modalités
+d'attribution sont fixés par arrêté du ministre des anciens combattants et victimes de guerre, du ministre de l'économie et
+des finances, dont les dispositions font l'objet des articles A. 172-2 à A. 172-8.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre A172-2 à A172-8
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L336
+
+Il est alloué, aux déportés et internés politiques ou à leurs ayants cause, un pécule dont le taux est fixé :
+
+Pour les déportés politiques, à 1,83 euros par mois d'internement ou de déportation ;
+
+Pour les internés politiques, à 0,61 euros par mois d'internement.
+
+Le pécule est attribué aux déportés et internés politiques justifiant de leur titre par la production de la carte délivrée en
+application de l'article R. 336 et n'ayant perçu ni solde, ni traitement, ni salaire, au titre de la période de déportation
+ou d'internement.
+
+Les conditions d'application du présent article sont fixées par décret pris sur le rapport du ministre des anciens
+combattants et victimes de guerre et du ministre de l'économie et des finances, dont les dispositions font l'objet des
+articles D. 271-4 à D. 271-11.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L293 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L293 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L295-1 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L338 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L342 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L293 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R336 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R336, D271-4 à D271-11
+
 
 ###### Article L337
 
@@ -6826,6 +8486,90 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L339
+
+Une indemnité forfaitaire dont le montant sera fixé par une loi spéciale est attribuée à tous les réfractaires et aux
+personnes contraintes au travail répondant aux conditions définies par le titre II, chapitre IV ou V et, en cas de décès, à
+leurs ayants cause.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L302 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L342 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L340
+
+Les pertes de biens de toute nature résultant directement de l'arrestation, de la déportation, de la position de réfractaire,
+ou d'un fait survenu au cours de la période de contrainte définie à l'article L. 309, dont la preuve est dûment établie, sont
+intégralement indemnisées.
+
+Cette indemnisation ne peut se cumuler avec les sommes perçues ou à percevoir, pour le même objet, au titre de la législation
+sur les dommages de guerre.
+
+Les modalités en sont fixées au présent chapitre (deuxième partie).
+
+Toutefois, les internés et déportés de la Résistance, les internés et déportés politiques peuvent, sur leur demande, opter
+pour une indemnité forfaitaire, ce qui les dispense de toute justification.
+
+L'indemnité forfaitaire versée aux ayants cause, en application de l'alinéa précédent, est exempte de tout impôt, impôt de
+mutation compris.
+
+**Nota:**
+
+Loi 53-1340 du 31 décembre 1953 article 44 : l'article L340 est abrogé en tant qu'il concerne les réfractaires et les
+personnes contraintes au travail.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L284 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L295-1 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L302 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L341 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L342 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R391-4 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R391-3 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L309 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L340 bis
+
+Les anciens prisonniers de guerre, déportés politiques ou du S.T.O., qui ont déposé, lors de leur retour en France, soit dans
+les centres frontaliers, soit dans les caisses publiques, conformément aux instructions reçues, des marks en leur possession
+provenant de la rétribution de leur travail en Allemagne, pourront en obtenir le remboursement, sur leur demande, dans la
+limite d'un montant maximum de 450 marks et sous déduction de l'acompte reçu au moment du dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
 ###### Article L341
 
 Les commissions ou jurys appelés à statuer sur le cas des déportés ou internés résistants dans le cadre de l'article L. 340
@@ -6878,7 +8622,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 4 : Rentes mutualistes.<a id=110></a>
+##### Section 4 : Rentes mutualistes.<a id=122></a>
 
 ###### Article L343
 
@@ -6901,11 +8645,11 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-#### Chapitre III : Décorations et insignes<a id=111></a>
+#### Chapitre III : Décorations et insignes<a id=123></a>
 
-##### Section 1 : Légion d'honneur et médaille militaire<a id=112></a>
+##### Section 1 : Légion d'honneur et médaille militaire<a id=124></a>
 
-##### Paragraphe 1 : Légion d'honneur.<a id=113></a>
+##### Paragraphe 1 : Légion d'honneur.<a id=125></a>
 
 ###### Article L344
 
@@ -7051,7 +8795,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Paragraphe 2 : Médaille militaire.<a id=114></a>
+##### Paragraphe 2 : Médaille militaire.<a id=126></a>
 
 ###### Article L348
 
@@ -7088,7 +8832,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Paragraphe 3 : Contingents réservés aux membres de la Résistance.<a id=115></a>
+##### Paragraphe 3 : Contingents réservés aux membres de la Résistance.<a id=127></a>
 
 ###### Article L349
 
@@ -7152,7 +8896,72 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 3 : Croix du combattant.<a id=116></a>
+##### Section 2 : Croix du combattant volontaire.<a id=128></a>
+
+###### Article L351
+
+Il est créé une croix du combattant volontaire destinée à récompenser les combattants de la guerre 1914-1918 qui ont été
+volontaires pour servir au front dans une unité combattante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L352
+
+Cette croix peut être attribuée aux volontaires étrangers qui ont combattu dans l'armée française sur l'un des fronts
+d'opérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L353
+
+Il est délivré un certificat constatant le droit au port de cette décoration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L353 bis
+
+Il est créé une croix du combattant volontaire pour la guerre 1939-1945, dont les modalités d'attribution seront fixées
+ultérieurement par décret pris sur le rapport du ministre de la défense nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+##### Section 3 : Croix du combattant.<a id=129></a>
 
 ###### Article L354
 
@@ -7215,7 +9024,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 4 : Médaille de la victoire.<a id=117></a>
+##### Section 4 : Médaille de la victoire.<a id=130></a>
 
 ###### Article L356
 
@@ -7508,7 +9317,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 5 : Médaille des prisonniers civils, déportés et otages de la grande guerre.<a id=118></a>
+##### Section 5 : Médaille des prisonniers civils, déportés et otages de la grande guerre.<a id=131></a>
 
 ###### Article L371
 
@@ -7675,7 +9484,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 6 : Médaille de la déportation et de l'internement pour faits de résistance.<a id=119></a>
+##### Section 6 : Médaille de la déportation et de l'internement pour faits de résistance.<a id=132></a>
 
 ###### Article L378
 
@@ -7712,7 +9521,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 7 : Médaille commémorative de la grande guerre.<a id=120></a>
+##### Section 7 : Médaille commémorative de la grande guerre.<a id=133></a>
 
 ###### Article L379
 
@@ -7798,7 +9607,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 8 : Médaille commémorative des combattants volontaires de la Résistance.<a id=121></a>
+##### Section 8 : Médaille commémorative des combattants volontaires de la Résistance.<a id=134></a>
 
 ###### Article L383
 
@@ -7832,7 +9641,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 9 : Médaille de la déportation et de l'internement.<a id=122></a>
+##### Section 9 : Médaille de la déportation et de l'internement.<a id=135></a>
 
 ###### Article L384
 
@@ -7925,7 +9734,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 10 : Insigne des mères, veuves et veufs des "Morts pour la France".<a id=123></a>
+##### Section 10 : Insigne des mères, veuves et veufs des "Morts pour la France".<a id=136></a>
 
 ###### Article L387
 
@@ -7982,7 +9791,48 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 12 : Mesures d'exécution.<a id=124></a>
+##### Section 11 : Insignes des réfractaires et des personnes contraintes au travail.<a id=137></a>
+
+###### Article L391
+
+Il est créé un insigne qui est attribué à toute personne répondant aux conditions fixées par le chapitre IV du titre II.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L302 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L391 bis
+
+Il est créé un insigne qui est attribué aux bénéficiaires du chapitre V du titre II dans les conditions fixées aux trois
+derniers alinéas de l'article L. 317.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L317 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+##### Section 12 : Mesures d'exécution.<a id=138></a>
 
 ###### Article L392
 
@@ -8007,11 +9857,1578 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre IV : Pupilles de la nation<a id=125></a>
+#### Chapitre IV : Emplois réservés<a id=139></a>
 
-#### Chapitre Ier : De la qualité de pupille de la nation<a id=126></a>
+##### Section 1 : Bénéficiaires des emplois réservés<a id=140></a>
 
-##### Section 1 : Enfants ayant vocation à la qualité de pupille de la nation.<a id=127></a>
+##### Paragraphe 1 : Invalides, veuves et orphelins de guerre.<a id=141></a>
+
+###### Article L395
+
+Dans les administrations et établissements de l'Etat, des départements, des communes et des territoires d'outre-mer et dans
+les établissements privés visés aux articles L. 405 et L. 406 disposant d'emplois tenus par des mineurs, la priorité est
+réservée, pour le recrutement de ce personnel des deux sexes, aux orphelins de guerre qui réunissent les conditions
+d'aptitude physique exigées des autres candidats. 
+
+Toutefois, les orphelins de guerre candidats à des emplois de bureau, pourvus par voie de concours, sont astreints aux mêmes
+concours que les autres candidats, les notes qu'ils obtiennent à ce concours sont majorées dans la proportion d'un dixième du
+maximum des points. 
+
+Dans chaque département, l'office départemental des anciens combattants et victimes de guerre procède au classement
+périodique des demandes et veille à la nomination des orphelins de guerre aux emplois dont la priorité leur est réservée par
+le présent paragraphe. Les conditions d'application du présent article sont fixées aux articles R. 440 à R. 443.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A187 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D315 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D432 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R440 (Ab)
+  - Code du travail - art. L5212-13 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L405 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L406 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L395 bis
+
+L'emploi d'ouvrières des manufactures de l'Etat (services d'exploitation de l'industrie des tabacs et allumettes) est réservé
+dans la proportion fixée aux tableaux annexés au présent chapitre (3e partie) aux orphelines de guerre réunissant les
+conditions d'âge et d'aptitude imposées aux candidates provenant du recrutement civil normal, sans préjudice des dispositions
+transitoires prévues à l'article R. 473 (1).
+
+Les candidates indiquent dans leur demande le département comportant le siège d'une manufacture où elles désirent être
+nommées.
+
+Les candidates dont la demande ne mentionne aucune indication à cet égard sont inscrites sur la liste de classement, soit au
+titre du département de leur résidence, s'il est le siège d'une manufacture, soit, dans le cas contraire, au titre du
+département comportant une manufacture auquel est rattaché le département de résidence par un arrêté conjoint du ministre de
+l'économie et des finances et du ministre des anciens combattants et victimes de guerre.
+
+Les candidates peuvent soit modifier, soit indiquer, lorsque cette précision ne figure pas dans la demande initiale, le
+département où elles désirent être nommées.
+
+Si ces demandes parviennent après la publication de la liste générale ou provisoire complémentaire de classement, elles
+donnent lieu, seulement, à une inscription à la suite des candidates déjà classées pour le département sollicité.
+
+Elles ne peuvent être accueillies si elles parviennent au ministre des anciens combattants et victimes de guerre après la
+désignation des candidates.
+
+Les règles relatives à la constitution des dossiers, aux épreuves à subir, au classement, à la désignation et à la nomination
+des candidates orphelines de guerre à l'emploi d'ouvrières de manufactures de l'Etat sont fixées par décrets contresignés du
+ministre de l'économie et des finances et des anciens combattants qui font l'objet des articles D. 315 à D. 327.
+
+**Nota:**
+
+L'article R. 473 est abrogé par décret n° 90-1007 du 8 novembre 1990, article 3.
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D315 (Ab)
+
+
+###### Article L396
+
+Les dispositions du présent chapitre sont applicables : 
+
+1° Aux personnels du service de santé, bénéficiaires de l'article L. 140 ; 
+
+2° Aux personnels des cadres militaires féminins de l'armée de terre, de la marine et de l'air ; 
+
+3° Aux victimes civiles de la guerre. 
+
+Les bénéficiaires masculins du présent article sont considérés comme invalides de guerre pour l'application du présent
+chapitre. Les bénéficiaires féminins et les enfants sont assimilés respectivement aux bénéficiaires des articles L. 394, L.
+395 et L. 395 bis.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A187 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A190-4 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D432 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L427 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R403 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L140 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L394 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Paragraphe 2 : Militaires.<a id=142></a>
+
+###### Article L397
+
+Les emplois réservés par application des articles 85 de la loi du 31 mars 1928 et 17 de la loi du 13 décembre 1932 sur le
+recrutement de l'armée sont attribués aux militaires engagés, rengagés ou commissionnés de l'armée de terre, de mer ou de
+l'air ou appartenant au corps de maistrance, dans les conditions fixées aux articles R. 396 à R. 473. 
+
+Ces dispositions ne sont applicables qu'aux militaires et marins français ou naturalisés français dans les conditions prévues
+à l'article R. 400.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-1229 du 20 novembre 1985 - art. 3 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. A187 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L401 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L408 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R396 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R403 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R400 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L408 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L398
+
+Les militaires et marins autres que ceux visés à l'article L. 393, réformés ou retraités par suite des blessures ou
+d'infirmités contractées au service, concourent avec les engagés, rengagés et commissionnés pour l'obtention des emplois
+réservés, quel que soit le temps passé par eux au service, s'ils remplissent les conditions d'âge, de grade et d'aptitude
+fixés pour l'emploi qu'ils sollicitent.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A190-1 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L408 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R396 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L408 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L400
+
+Par dérogation à l'article 2 de la loi du 27 juillet 1963, relative à l'attribution du pécule et dans un délai de six mois à
+compter de la promulgation de la loi du 19 août 1950, les anciens militaires des armées de terre, de mer et de l'air, libérés
+entre le 1er septembre 1939 et le 29 octobre 1946, peuvent postuler dans les conditions réglementaires un emploi réservé. 
+
+Leur nomination à un emploi réservé entraîne pour eux l'obligation de réserver immédiatement le pécule qui leur a été
+attribué.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°50-1006 du 19 août 1950, v. init.
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R398 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L408 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R396 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L408 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Section 2 : Classement et nomination<a id=143></a>
+
+##### Paragraphe 1 : Enumération des emplois réservés.<a id=144></a>
+
+###### Article L402
+
+La nomenclature et la proportion des emplois réservés de l'Etat, des établissements publics, des départements, de la ville de
+Paris et des territoires d'outre-mer, sont fixées par les tableaux établis par décrets contresignés par le ministre des
+anciens combattants et victimes de guerre, le ministre de l'économie et des finances et le ministre chargé de la fonction
+publique.
+
+Ces tableaux figurent en annexe au présent chapitre (troisième partie).
+
+Au moment de la création de tout emploi de début, le ministre ou l'administration dont relève l'emploi doit chercher avec le
+ministre des anciens combattants et victimes de guerre la possibilité de la réserver en partie ou en totalité aux
+bénéficiaires de la présente section. Après accord, l'emploi est, le cas échéant, ajouté à ceux des tableaux susvisés.
+
+Avant la suppression ou la transformation de tout emploi figurant dans la nomenclature, le ministre ou l'administration dont
+relève l'emploi en avise le ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L406 (VT)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L418 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L419 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L420 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L421 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L403
+
+Des listes des emplois réservés donnant, à titre d'indication, pour chaque emploi, les invalidités compatibles, les
+traitements et avantage divers et la nature du service à fournir, sont distribuées dans les mairies, les brigades de
+gendarmerie et au siège des associations des anciens combattants, d'invalides, de veuves de guerre qui en feront la demande,
+à l'office national et aux offices départementaux des anciens combattants et victimes de guerre.
+
+L'office national des anciens combattants et victimes de guerre doit éditer chaque année un supplément à ces listes, relatant
+toutes les modifications apportées au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R404 (Ab)
+
+
+###### Article L404
+
+Pendant le délai indiqué à l'article L. 393, les invalides de guerre visés audit article bénéficient d'un droit de préférence
+pour l'obtention, dans les conditions indiquées aux articles L. 417 à L. 424, des emplois réservés des communes de plus de 5
+000 habitants, autres que la ville de Paris, en France et dans les territoires d'outre-mer. Ne sont pas compris dans la
+nomenclature des emplois de cette catégorie : l'emploi de secrétaire de mairie, les emplois de bureau relevant directement du
+secrétariat de la mairie, les emplois de police, les emplois de voirie municipale et vicinale. 
+
+Tous les emplois de début des communes, autres que ceux énumérés ci-dessus et généralement tous ceux qui sont accessibles aux
+candidats n'ayant pas à faire preuve de connaissances professionnelles spéciales obligatoirement acquises dans l'exercice
+d'un autre emploi communal, sont réservés dans la proportion de moitié aux invalides de guerre visés à l'article L. 393. 
+
+On postule ces emplois sans condition d'âge. 
+
+Les bénéficiaires de l'article L. 394 exercent seulement dans le département où elles sont domiciliées leur droit de
+préférence aux emplois féminins des communes. Leurs demandes sont reçues et instruites et le classement et les nominations
+effectués dans les conditions prescrites pour les invalides de guerre, sauf en ce qui concerne l'aptitude physique.L'ordre de
+priorité est déterminé selon les règles prévues à l'article L. 413.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L394 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L413 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L417 (VT)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R408 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L405
+
+Aucune entreprise industrielle ou commerciale ne peut obtenir une concession, un monopole ou une subvention  de l'Etat, du
+département, de la commune et des territoires d'outre-mer, qu'à la condition de réserver aux invalides de guerre et aux
+militaires engagés, rengagés, commissionnés, un certain nombre d'emplois à déterminer au cahier des charges dont la
+proportion par rapport à l'effectif total du personnel de l'entreprise ne doit pas être inférieure à la proportion fixée en
+vertu des dispositions de l'article 3 de la loi du 26 avril 1924 sur l'emploi obligatoire des mutilés de la guerre à l'égard
+des établissements industriels ou commerciaux.
+
+Les cahiers des charges énumèrent à titre d'indication les blessures ou les catégories de blessures ou d'infirmités
+compatibles avec les emplois, ainsi que les conditions d'aptitude physique et professionnelle à ces emplois.
+
+Aux entreprises déjà bénéficiaires d'une concession, d'un monopole ou d'une subvention, les dispositions qui précèdent sont
+appliquées à l'occasion des avenants qui interviennent à leurs cahiers des charges.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L406 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R440 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L418 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L419 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L420 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L421 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L406
+
+Les entreprises ou établissements nationalisés, qui ne sont pas assujettis aux dispositions de la loi du 26 avril 1924 sur
+l'emploi obligatoire des mutilés de guerre, sont tenus [*obligation*] de réserver aux bénéficiaires de la section I des
+emplois de début dans les proportions qui, en ce qui concerne les victimes de guerre, ne peuvent être inférieures à celles
+qui sont fixées à l'article L. 405. 
+
+La nomenclature, les proportions réservées et les conditions d'accès relatives aux différents emplois visés au précédent
+alinéa sont fixées par décret pris sur la proposition des ministres désignés à l'article L. 402 et du ministre du travail et
+de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R408 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R409 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R410 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R411 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R412 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L402 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L418 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L419 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L420 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L421 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Paragraphe 2 : Classement des candidats.<a id=145></a>
+
+###### Article L407
+
+Les conditions d'aptitude physique et professionnelle aux divers emplois réservés sont fixées aux articles R. 405 à R. 423 et
+aux tableaux annexés au présent chapitre (3° partie) qui groupent en catégories les emplois nécessitant des aptitudes
+analogues et énumèrent à titre d'indication les catégories de blessures ou d'infirmités compatibles avec les emplois. 
+
+La composition des commissions chargées d'examiner les épreuves physiques et professionnelles est fixée aux articles R. 405,
+R. 407, R. 416 à R. 420. Au sein de chaque commission siège un membre invalide de guerre désigné par l'office départemental
+des anciens combattants et victimes de guerre. 
+
+Les diplômes exigibles ainsi que ceux susceptibles de dispenser de tout ou partie des épreuves que les candidats doivent
+subir pour l'accession à certains emplois sont énumérés aux tableaux annexés à la troisième partie. 
+
+La dispense des titres ou diplômes exigés est admise chaque fois que le ministre intéressé, consulté, a conclu à
+l'équivalence avec ceux-ci d'autres titres ou diplômes présentés par les candidats. 
+
+En tout état de cause, les conditions d'aptitude physique et professionnelle, aussi bien que les conditions de diplômes
+exigées des candidats à un emploi réservé au titre de la section I ne peuvent être plus sévères que celles demandées, aux
+candidats postulant le même emploi par la voie normale.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. L401 bis (VT)
+  - Code des pensions militaires d'invalidité et des v - art. L415 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R405 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R407 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R416 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L408
+
+Les candidats visés aux articles L. 397 à L. 400 doivent obtenir un certificat d'aptitude professionnelle correspondant à
+l'emploi sollicité.
+
+Nul ne peut obtenir ce certificat si le premier jour du mois dans lequel l'autorité militaire est appelée à le délivrer il a
+atteint l'âge [*limite*] de quarante ans, sous réserve des dispositions transitoires prévues à l'article R. 473.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L397 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L398 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L399 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L400 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L397 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L398 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L399 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L400 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R473 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L401 bis (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L410
+
+Les dossiers des militaires et marins en activité de service sont transmis dans les conditions fixées à l'article R. 402.
+
+Est exigé [*documents obligatoires*] :
+
+- Pour l'armée de terre, le consentement du conseil de régiment du corps où sert le candidat.
+
+- Pour l'armée de l'air, le consentement du conseil de formation où sert le candidat.
+
+- Pour l'armée de mer, le consentement du conseil d'administration de l'unité de la marine dont relève le candidat ou du
+conseil d'avancement du service auquel il est affecté.
+
+Ce consentement doit être, le cas échéant, renouvelé en même temps que la demande. Toutefois, le droit de recours
+hiérarchique au ministre contre toute décision portant refus du consentement est ouvert à l'intéressé.
+
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 24 juin 1976 - art. 5 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L411
+
+Le classement des candidats aux emplois réservés est arrêté par le ministre des anciens combattants et victimes de guerre sur
+la proposition d'une commission nommée par décret sur le rapport du ministre des anciens combattants et victimes de guerre et
+composée :
+
+D'un conseiller d'Etat en service ordinaire président ;
+
+Du directeur chargé du service des emplois réservés au ministère des anciens combattants et victimes de guerre ;
+
+De trois représentants du ministère de la défense nationale (un de la guerre, un de la marine, un de l'air) ;
+
+D'un représentant de chacun des autres départements ministériels, chacun de ces représentants siégeant seulement pour les
+affaires concernant les emplois réservés de son département ;
+
+D'un représentant de l'office national ;
+
+D'un ancien sous-officier rengagé et d'un ancien officier marinier désigné respectivement par le secrétaire d'Etat aux forces
+armées (guerre) et par le secrétaire d'Etat aux forces armées (marine) ;
+
+De trois anciens militaires de l'armée de terre et d'un ancien militaire de l'armée de mer ou de l'air désignés par le
+ministre des anciens combattants et victimes de guerre, tous quatre invalides de guerre et déjà pourvus d'emplois réservés.
+
+D'auditeurs au Conseil d'Etat, rapporteurs et de fonctionnaires du ministère des anciens combattants et victimes de guerre
+remplissant les fonctions de secrétaires et de secrétaires adjoints.
+
+Le ministre des anciens combattants et victimes de guerre désigne un vice-président parmi les membres de la commission.
+
+Un commissaire du Gouvernement et un commissaire adjoint nommés par décret, sur le rapport du ministre des anciens
+combattants et victimes de guerre siègent à la commission pour y requérir l'application des dispositions du présent chapitre
+et donner des conclusions toutes les fois qu'ils le jugent utile.
+
+Toutefois, le représentant de l'office national des anciens combattants et les anciens militaires des armées de terre, de mer
+et de l'air invalides de guerre ne prennent point part au classement des candidats engagés, rengagés, commissionnés.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+_Cité par_:
+
+  - Arrêté du 18 juin 1992 - art. 3 (Ab)
+  - Décret n°92-543 du 18 juin 1992 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A190-2 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D316 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R436 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L415 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R429 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L412
+
+La priorité, en ce qui concerne le classement des candidats visés à l'article L. 393 pensionnés pour blessures ou maladies,
+est accordée :
+
+1° A la qualité d'ancien combattant telle qu'elle est définie aux articles R. 224 à R. 228 ;
+
+2° Au degré d'invalidité ; pour tenir compte des charges de famille le degré d'invalidité est, s'il y a lieu, augmenté de
+cinq points pour chaque enfant mineur ou infirme à charge ;
+
+3° A l'ancienneté de la demande.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L413
+
+Le droit de priorité entre les candidates est déterminé successivement par le nombre d'enfants mineurs ou infirmes à leur
+charge issus de leur mariage avec un militaire mort pour la France, par l'âge des postulantes, la plus âgée ayant la
+préférence, et par l'ancienneté de leur demande.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L404 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L414
+
+Les candidats appartenant aux catégories visées aux articles L. 397 à L. 400 sont classés en tenant compte de la durée de
+leurs services effectifs, sans toutefois que ceux-ci puissent être comptés pour plus de quinze ans de leur ancienneté de
+grade de sous-officier ou d'officier marinier, de caporal, de brigadier ou de quartier-maître, des enfants à leur charge, des
+notes obtenues aux examens, des campagnes, des décorations, des citations.
+
+Les mêmes règles sont applicables aux militaires et marins visés à l'article L. 398, sous réserve que leur ancienneté de
+services et leur ancienneté de grade n'interviennent dans leur classement que si elles sont égales ou supérieures à celles de
+leurs concurrents de l'alinéa précédent.
+
+Dans le cas contraire, ces anciennetés sont déterminées en prenant le nombre de points obtenus à l'examen par le candidat non
+réformé qui arrive en tête de liste, en rapprochant ce nombre de celui des points d'ancienneté de services et de grade auquel
+il a droit, et en attribuant au candidat réformé une ancienneté fictive de services et de grade proportionnelle au nombre de
+points qu'il a obtenus à l'examen.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A187 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L415
+
+La commission visée à l'article L. 411 ne peut pas écarter la demande d'un candidat pour le motif tiré d'insuffisance
+physique ou d'inaptitude professionnelle si ce candidat a préalablement, dans les conditions prévues par l'article L. 407,
+satisfait aux épreuves relatives à la constatation desdites aptitudes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L411 (Ab)
+
+
+###### Article L416
+
+Les propositions de la commission sont transmises au ministre des anciens combattants et victimes de guerre, avec, pour
+chacune d'elles, la mention de l'avis conforme du commissaire du Gouvernement, ou, s'il y a lieu, l'indication des motifs
+pour lesquels le commissaire du Gouvernement conclut autrement que la commission.
+
+Le ministre des anciens combattants et victimes de guerre peut toujours demander, à propos d'une affaire, une nouvelle
+délibération de la commission et ordonner une nouvelle instruction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+
+##### Paragraphe 3 : Procédure de nomination aux emplois réservés énumérés aux articles L. 402, L. 405 et L. 406.<a id=146></a>
+
+###### Article L419
+
+Le contrôle des déclarations de vacances des emplois réservés est opéré par le ministre des anciens combattants et victimes
+de guerre.
+
+La commission de contrôle des déclarations de vacances des emplois réservés, dont la composition est fixée à l'article R.
+450, peut demander tous renseignements utiles aux différentes administrations tenues à réserver des emplois.
+
+La réponse à ces demandes de renseignements doit parvenir au président de ladite commission dans le délai d'un mois.
+
+Les administrations doivent fournir tous les renseignements demandés et donner aux représentants du ministre des anciens
+combattants toutes facilités pour leur permettre d'accomplir leur mission sans difficulté.
+
+Ceux qui, dans l'exercice de leurs fonctions, ne se seront pas conformés aux prescriptions ci-dessus, sont signalés par le
+ministre des anciens combattants et victimes de guerre au ministre intéressé. Celui-ci doit, après enquête, les traduire
+devant le conseil de discipline prévu par les statuts applicables au cadre dont ils font partie ou devant les conseil ou
+comité en tenant lieu et aviser le ministre des anciens combattants des sanctions appliquées. Les peines encourues sont
+celles qui résultent de ces statuts et notamment, en cas de récidive grave, la révocation.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L402 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L405 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L406 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L420
+
+Les nominations aux emplois réservés ne peuvent avoir effet avant l'expiration du contrat qui lie le candidat au service.
+
+Le militaire commissionné est rayé des contrôles à dater du jour fixé par l'autorité militaire, d'accord avec
+l'administration compétente, pour son installation dans l'emploi.
+
+A l'exception des sous-officiers, tout militaire non commissionné régulièrement candidat ou classé pour un emploi réservé à
+l'expiration de ses quinze années de services, peut recevoir, par extension des dispositions du présent chapitre, une
+commission spéciale, non renouvelable, lui donnant droit de servir, en surnombre au titre du service général, pendant trois
+ans à dater de l'échéance de son contrat de rengagement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L402 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L405 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L406 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L421
+
+Au cas où aucun candidat ne serait classé pour l'emploi à pourvoir ou que les candidats classés auraient, conformément aux
+dispositions de l'article L. 409, marqué leur préférence pour un département ou un poste autre que celui où s'ouvre la
+vacance, le ministre des anciens combattants et victimes de guerre en donne avis, d'une part, à l'office national des anciens
+combattants et victimes de guerre, et d'autre part, au ministre ou à l'administration dont relève l'emploi qui peut, dès
+lors, pourvoir à la nomination, mais seulement à titre temporaire, pendant une période d'un an à partir de la réception de
+cet avis et à titre définitif à l'expiration de cette période.
+
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D326 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R433 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L402 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L405 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L406 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Paragraphe 4 : Procédure de nomination aux emplois réservés des communes.<a id=147></a>
+
+###### Article L422
+
+Lorsqu'une vacance est prévue parmi les emplois d'une commune, le maire en donne avis au préfet du département dans le délai
+de cinq jours.
+
+Le préfet informe aussi l'office départemental des anciens combattants et victimes de guerre, les associations de mutilés
+ayant leur siège dans le département et le maire de chaque commune du département ; ceux-ci font publier et afficher l'avis
+du préfet au jour qui leur est indiqué par le préfet. Cet avis fait connaître les traitements et avantages divers et la
+nature du service à fournir. Il fait également connaître que, dans le délai de trente jours à partir de cette publication et
+de cet affichage, les invalides de guerre domiciliés dans le département, classés ou non classés pour un emploi réservé
+peuvent déclarer leur candidature à l'emploi vacant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L423
+
+Les candidats adressent leur demande, avec les pièces justificatives au préfet du département.
+
+Le préfet désigne deux médecins civils qui examinent sous le rapport de l'aptitude physique à l'emploi qu'ils postulent, les
+candidats convoqués devant eux par les soins du préfet et à la date qu'il fixe ils délivrent, s'il y a lieu, le certificat
+d'aptitude physique.
+
+Le programme des examens d'aptitude professionnelle est fixé, pour chaque emploi réservé des communes, par arrêté
+préfectoral ; les candidats pourvus du certificat d'aptitude physique sont convoqués par le préfet devant une commission
+nommée par lui qui les examine, sous le rapport de l'aptitude professionnelle et leur délivre, s'il y a lieu, le certificat
+d'aptitude. Cette commission est composée d'un délégué du préfet, président, d'un fonctionnaire de la préfecture, d'un
+professeur de l'Université, d'un représentant de l'office départemental et du maire de la commune dans laquelle se trouve
+l'emploi à pourvoir, ou de son délégué.
+
+Les candidats déjà pourvus du certificat d'aptitude professionnelle pour un emploi réservé à l'Etat, des départements et des
+communes sont dispensés des examens d'aptitude physique et professionnelle prévus au présent article, quand l'emploi pour
+lequel ils ont obtenu le certificat d'aptitude professionnelle est de même nature que l'emploi communal réservé qu'ils
+postulent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 29 janvier 1969 - art. 3 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L424
+
+Le classement des candidats à un emploi réservé des communes est effectué par une commission nommée par le préfet, composée
+d'un délégué du préfet, président, d'un fonctionnaire de la préfecture, d'un professeur de l'université, d'un ingénieur des
+ponts et chaussées ou d'un ingénieur vicinal, d'un représentant de l'office départemental désigné par cet office et d'un
+ancien militaire invalide de guerre. La priorité, en ce qui concerne le classement, est établie comme il a été indiqué à
+l'article L. 412. A conditions égales, les invalides de guerre domiciliés dans la commune bénéficient d'un droit de
+préférence.
+
+La liste de classement est ensuite notifiée au maire de la commune où se trouve l'emploi vacant ; dans le délai de huit jours
+à partir de cette notification, il est procédé à la nomination dans les conditions prescrites par la loi du 5 avril 1884.
+
+Le préfet fixe la date des diverses formalités ci-dessus prescrites de manière que la nomination puisse avoir lieu dans le
+délai maximum de trois mois à partir de la notification de la vacance faite au préfet par le maire de la commune où a lieu la
+vacance.
+
+Dans le cas où dans le délai prescrit au présent article pour la déclaration des candidatures, aucun invalide de guerre
+domicilié dans le département n'a adressé au préfet sa demande, ainsi que dans le cas où aucun classement n'a pu être opéré,
+le préfet en donne avis au maire de la commune intéressée, et il peut être dès lors procédé à la nomination à l'emploi
+vacant, comme s'il n'était pas réservé.
+
+Les titulaires d'emplois réservés des communes dont l'emploi vient à être supprimé doivent être nommés à un autre emploi de
+la commune ; en cas d'impossibilité, ils conservent le droit de postuler d'autres emplois de l'Etat, des départements ou des
+communes.
+
+S'ils postulent un emploi communal de même genre et de même catégorie que l'emploi supprimé, ils sont nommés à cet emploi
+avant tous les autres candidats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+##### Paragraphe 5 : Règles d'attribution des recettes buralistes de 2e classe.<a id=148></a>
+
+###### Article L425
+
+L'attribution des recettes buralistes de 2e classe est soumise à des règles différentes, suivant que leur revenu est
+inférieur ou non à une somme fixée par décret pris sur le rapport du ministre des anciens combattants et des victimes de
+guerre, du ministre de l'économie et des finances et du ministre chargé de la réforme administrative.
+
+En cas de vacance d'une recette buraliste dont le revenu annuel n'excède pas la somme fixée à l'article D. 328, les invalides
+de guerre domiciliés dans la commune bénéficient d'un droit spécial de préférence pour la nomination à cette recette, qu'ils
+soient ou non inscrits sur une liste de classement pour les emplois réservés.
+
+Le ministre de l'économie et des finances fait connaître sans délai la vacance au préfet du département où est établie la
+recette buraliste vacante. Le préfet fait publier l'avis dans la commune par les soins du maire. Les invalides de guerre
+domiciliés dans la commune, qu'ils soient ou non classés pour un emploi réservé, peuvent, dans le délai de trente jours, à
+partir de cette publication, faire connaître à l'office départemental des anciens combattants et victimes de guerre, en
+justifiant de leur qualité, qu'ils sont candidats à l'emploi vacant ; ils concourent entre eux d'après l'ordre de priorité
+fixé à l'article L. 395. Dans le délai des trente jours suivants, l'office départemental statue, après enquête sur l'aptitude
+physique et professionnelle des candidats et arrête l'ordre de classement des candidats. Le préfet donne avis de la décision
+à chaque candidat individuellement et indique au ministre de l'économie et des finances le candidat qui figure en tête du
+classement. Il est procédé à sa nomination sans autre formalité. Si, dans les délais fixés ci-dessus, l'office départemental
+n'a pu classer aucun candidat à la recette buraliste vacante, le préfet en informe le ministre de l'économie et des finances
+qui peut procéder à une nomination à titre temporaire. Cette nomination ne devient définitive que si, dans le délai de six
+mois, à partir de sa publication, au Journal officiel, aucun candidat, invalide de guerre, réunissant les conditions prévues
+à l'article L. 393, n'a posé sa candidature à ce poste auprès de l'office départemental des anciens combattants et victimes
+de guerre. L'office départemental instruit les candidatures qui peuvent ainsi survenir, et la désignation d'un candidat à
+nommer est faite, le cas échéant, dans les conditions indiquées ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D328 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L426
+
+En ce qui concerne les autres emplois de receveurs buralistes de 2e classe, le classement des candidats est fait suivant les
+dispositions de la présente section mais avec la faculté pour les intéressés d'indiquer dans leur demande d'emploi la ou les
+recettes qu'ils désireraient obtenir de préférence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L427
+
+Lorsqu'une vacance vient à se produire, la recette est attribuée au candidat classé qui l'a spécialement postulée. Au cas où
+plusieurs candidats sont classés pour une même recette, celui qui est le mieux placé sur la liste est nommé. Ceux qui
+n'arrivent pas en rang utile peuvent à ce moment, porter leur choix sur d'autres recettes. Tout candidat qui n'accepte pas un
+poste qui lui revient est rayé de la liste de classement.
+
+Lorsque aucun candidat classé n'a postulé spécialement la recette qui devient vacante, cette dernière est attribuée au
+premier des candidats inscrits sur la liste qui ont exprimé le désir d'être nommés dans le département où elle est située ou,
+à défaut, à l'un des candidats qui n'ont pas manifesté de préférence. Tout candidat nommé dans ces conditions qui refuse le
+poste auquel il est appelé perd le bénéfice de son classement.
+
+Si la recette buraliste vacante ne peut être attribuée dans les conditions qui précèdent, le ministre de l'économie et des
+finances en informe sans délai le préfet. Ce dernier donne immédiatement avis de la vacance à l'office départemental des
+anciens combattants et victimes de guerre, aux associations de mutilés qui ont leur siège dans le département et aux maires
+des communes du département ; ceux-ci doivent publier et afficher l'avis du préfet au jour qui leur est indiqué par le
+préfet.
+
+Dans un délai d'un mois à partir de cette publication et de cet affichage, les invalides de guerre domiciliés dans le
+département, classés pour un emploi quelconque de 3e catégorie, peuvent poser leur candidature à la recette buraliste
+vacante. A cet effet, ils adressent leur demande avec les pièces justificatives à l'office départemental des anciens
+combattants et victimes de guerre qui, dans le délai de quinze jours au plus à partir de l'expiration du délai ci-dessus,
+procède au classement d'après l'ordre indiqué à l'article L. 396. Ce classement est aussitôt porté à la connaissance de
+chaque candidat par les soins du préfet. Le candidat classé avec le numéro 1 est immédiatement désigné par le préfet du
+département au ministre de l'économie et des finances et il est procédé, sans autre délai, à sa nomination.
+
+Si, dans les délais fixés au présent article, l'office départemental n'a eu à classer aucun candidat à la recette buraliste
+vacante, le préfet en informe le ministre de l'économie et des finances qui peut procéder à la nomination à titre temporaire.
+Cette nomination ne devient définitive que si, dans les six mois à partir de la date de sa publication au Journal officiel,
+aucun candidat n'est inscrit sur la liste de classement comme postulant spécialement la recette vacante ou si, dans le même
+délai, aucun candidat invalide de guerre classé pour un emploi de 3e catégorie et habitant le département n'a posé sa
+candidature à ce poste auprès de l'office départemental des anciens combattants et victimes de guerre. L'office départemental
+instruit les candidatures qui peuvent ainsi survenir et la désignation du candidat à nommer est faite, le cas échéant, dans
+les conditions ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Paragraphe 6 : Publication des nominations - Recours.<a id=149></a>
+
+###### Article L428
+
+Les nominations aux emplois réservés sont insérées au Journal officiel. Lorsqu'une nomination est faite à défaut de candidat
+militaire classé ou d'invalide classé, la mention "à défaut de candidat militaire classé" ou "à défaut d'invalide classé" est
+publiée à la suite de la nomination.
+
+Les candidats à un emploi réservé peuvent former devant le ministre des anciens combattants et victimes de guerre, dans le
+délai d'un mois à dater de la notification, leur recours contre la décision portant refus des certificats d'aptitude physique
+ou professionnelle. Il doit être statué sur ces recours dans un délai d'un mois.
+
+Les candidats à un emploi réservé peuvent également former un recours devant le Conseil d'Etat statuant au contentieux contre
+les décisions du ministre des anciens combattants et victimes de guerre relatives aux certificats d'aptitude physique ou
+professionnelle et contre les décisions des autorités compétentes concernant le classement ou la nomination. Ces recours
+doivent être formés dans le mois qui suit la notification de la décision ou, s'il s'agit d'une nomination irrégulière, dans
+le mois de la publication au Journal officiel de ladite nomination.
+
+Le ministre des anciens combattants et victimes de guerre peut, dans l'intérêt de la loi, se pourvoir devant le Conseil
+d'Etat, statuant au contentieux, pour obtenir l'annulation de toute nomination qui lui paraît porter atteinte aux droits des
+candidats classés et que l'autorité dont elle émane se serait refusée à rapporter.
+
+Les recours sont examinés au Conseil d'Etat suivant les formes adoptées pour les affaires contentieuses ; ils sont jugés sans
+frais, dispensés du timbre et du ministère des avocats au Conseil d'Etat. Ils sont jugés dans le délai de trois mois à partir
+de l'arrivée des pièces au secrétariat du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Paragraphe 7 : Dispositions concernant les candidats désignés ou les titulaires d'emplois réservés.<a id=150></a>
+
+###### Article L429
+
+Le premier payement pour les traitements afférents aux emplois prévus aux tableaux annexés au présent chapitre, quelle que
+soit l'origine des titulaires, ne peut avoir lieu sans que le mandat fasse mention du numéro du Journal officiel dans lequel
+la nomination a été publiée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L430
+
+Les candidats désignés pour un emploi réservé, dont la suppression a été opérée avant leur nomination, peuvent postuler
+d'autres emplois réservés. Ils sont dispensés de toutes les épreuves générales qu'ils ont dû subir pour être classés. Mais
+ils sont astreints aux épreuves d'aptitude physique, ainsi qu'à toutes les épreuves spéciales de technicité exigées des
+candidats au nouvel emploi qu'ils sollicitent.
+
+Les invalides qui se prévalent des dispositions de l'alinéa précédent sont classés pour le nouvel emploi postulé avant tous
+les autres candidats à cet emploi immédiatement après les bénéficiaires de l'article L. 428.
+
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L431
+
+Les titulaires d'un emploi réservé où un stage probatoire est imposé à tous les candidats par les règlements de
+l'Administration intéressée qui, à l'expiration de ce stage, ont été reconnus inaptes à cet emploi peuvent, en passant un
+nouvel examen professionnel, obtenir un autre emploi. En ce cas, ils doivent être maintenus dans leurs fonctions jusqu'à leur
+nomination au nouvel emploi.
+
+Toutefois, ils sont licenciés après expiration d'un délai de deux ans à compter de la constatation de l'inaptitude
+professionnelle [*point de départ*] s'ils n'ont pas obtenu un autre emploi. Le droit au reclassement de l'espèce ne peut
+s'exercer qu'une seule fois.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L432
+
+Tout invalide de guerre, titulaire d'un emploi réservé ou non réservé de l'Etat, des départements ou des communes qui, par
+suite d'aggravation de son état physique, devient inapte à l'emploi qu'il occupe, peut demander un emploi réservé compatible
+avec son invalidité. En ce cas, il est inscrit en tête des candidats à cet emploi. Il l'est immédiatement sans avoir à subir
+un examen si l'emploi qu'il postule est de même genre ou de même catégorie que celui qu'il occupe et s'il n'existe pas de
+différence essentielle dans les conditions d'aptitude professionnelle exigées pour ces emplois.
+
+Il n'est congédié qu'après la nomination à son nouvel emploi.
+
+Ce droit à reclassement prévu à l'alinéa précédent ne peut s'exercer que pendant deux années à compter de la reconnaissance
+officielle de l'aggravation [*durée*] et seulement pour deux nouveaux emplois. A titre provisoire, ce délai est prorogé
+jusqu'au 19 août 1952 [*date limite*].
+
+Si l'administration à laquelle appartient l'invalide dispose d'emplois réservés ou non réservés, compatibles avec son
+aptitude physique et son aptitude professionnelle, elle doit muter l'intéressé à l'un de ces emplois, immédiatement après la
+constatation, par le ministre des anciens combattants et victimes de guerre, de l'inaptitude à l'emploi occupé.
+
+Les invalides de guerre, qui, par application des dispositions des alinéas précédents, obtiennent un nouvel emploi, prennent
+rang dans la classe dont le traitement se rapproche le plus de celui auquel ils avaient droit dans leurs fonctions
+antérieures, sans que ce nouveau traitement puisse être inférieur à celui dont ils bénéficiaient précédemment.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R435 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R436 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R437 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L433
+
+Les bénéficiaires d'emplois réservés qui, avant leur mobilisation, occupaient un emploi public réservé ou non réservé, sont,
+si leur aptitude physique le permet, réintégrés dans leur emploi ou dans un emploi équivalent. Dans le cas contraire, ils
+sont pourvus d'un autre emploi réservé ou non réservé dans leur administration et, en cas d'impossibilité, dans une autre
+administration.
+
+Si l'emploi qui leur est attribué est d'une catégorie correspondante ou inférieure à celle de l'emploi qu'ils occupaient
+avant leur mobilisation, ils sont nommés titulaires dans la classe et l'échelon auxquels ils appartiendraient s'ils étaient
+réintégrés dans leur emploi.
+
+Si l'emploi qui leur est attribué est d'une catégorie supérieure à celle de l'emploi qu'ils occupaient avant leur
+mobilisation, ils sont nommés dans la classe et l'échelon auxquels leur donnerait droit une mutation identique au titre
+administratif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L434
+
+Les bénéficiaires d'emplois réservés, même s'ils ont renoncé à leur désignation ou refusé leur nomination, après avoir été
+classés ou s'ils se sont démis volontairement d'un emploi obtenu, peuvent solliciter de nouveaux emplois. Toutefois, le
+bénéfice de cette disposition est limité à un seul nouveau classement si l'emploi sollicité est de même catégorie ou d'une
+catégorie inférieure à celle de l'emploi en cause. Les bénéficiaires en fonctions sont, s'ils le demandent, maintenus dans
+cette fonction jusqu'au moment de leur nomination à l'emploi nouveau dans lequel ils ont été classés.
+
+Tout candidat désigné pour un emploi et désirant y renoncer pour concourir en vue d'obtenir un autre emploi, doit adresser au
+ministre des anciens combattants et victimes de guerre la renonciation à l'emploi pour lequel il a été classé dans le délai
+d'un mois de la réception de l'avis de désignation à cet emploi. Il peut postuler en vue de prendre part aux examens relatifs
+à un ou plusieurs emplois.
+
+En tout état de cause, le ministre des anciens combattants et victimes de guerre peut toujours autoriser le nouveau
+classement d'un candidat qui s'est démis d'un emploi réservé ou a renoncé à une précédente désignation, s'il fait la preuve
+que cette démission ou cette renonciation a été la conséquence d'un cas de force majeure.
+
+Les titulaires d'emplois réservés renonçant à leur emploi et les candidats renonçant à leur désignation sont dispensés des
+épreuves d'instruction générale exigées pour les nouveaux emplois qu'ils postulent si ces derniers sont des catégories
+correspondantes ou inférieures à celle de l'emploi occupé ou refusé. Ils doivent, néanmoins, satisfaire, le cas échéant, aux
+épreuves techniques et obtenir le certificat d'aptitude physique exigé pour cet emploi.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R438 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L435
+
+Le temps passé sous les drapeaux, après l'expiration légale du service actif auquel ils sont tenus, par les militaires des
+armées de terre, de mer et de l'air engagés, rengagés commissionnés ou appartenant au cadre de maistrance, nommés à un emploi
+civil réservé dans une administration de l'Etat, des départements, des communes ou concessionnaires d'un service public
+subventionné par l'Etat, les départements ou les communes, et dont les services militaires ne sont pas déjà rémunérés par une
+pension proportionnelle ou d'ancienneté, est compté pour un cinquième de sa durée dans le calcul de l'ancienneté des services
+civils donnant droit à un avancement ou augmentation de traitement à l'ancienneté, mais sans que la bonification en résultant
+puisse excéder un total égal à la durée du service actif obligatoire.
+
+Ce temps est compté, pour chaque avancement ou augmentation de traitement, par fraction de trois mois au maximum jusqu'à
+épuisement des droits acquis, l'excédent entrant en ligne de compte pour l'avancement suivant ; il est indépendant de toute
+bonification d'ancienneté à laquelle l'intéressé pourrait prétendre par application des statuts particuliers au service où il
+est employé.
+
+Le bénéfice de cette disposition se cumule, le cas échéant, avec celui concédé par l'article 7 de la loi du 31 mars 1928,
+lequel s'entend du temps passé obligatoirement sous les drapeaux par application, en particulier, des articles 2, 40, 49 et
+52 de ladite loi.
+
+Les conditions d'application du présent article sont fixées à l'article R. 452.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R452 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+##### Paragraphe 8 : Dispositions diverses.<a id=151></a>
+
+###### Article L436
+
+Les titulaires d'emplois réservés dont l'emploi a été supprimé depuis 1939, les candidats figurant sur les listes de
+classement de 1939 ou qui, au vu d'un dossier régulièrement constitué à l'époque, y auraient été compris au titre du
+troisième trimestre de 1939, sont inscrits en tête des nouvelles listes de classement. Pour bénéficier de cette priorité, ils
+doivent confirmer leur demande au ministre des anciens combattants et victimes de guerre dans un délai de trois mois à dater
+[*point de départ*] de la publication du règlement d'aministration publique pris pour l'application de ces dispositions.
+
+Ceux des candidats visés au présent article qui ont été affectés depuis 1939, à titre précaire et révocable, à un emploi
+réservé, peuvent être titularisés dans cet emploi sans nouveau classement, à la diligence de l'administration intéressée, si
+celle-ci estime qu'ils ont satisfait au stage probatoire.
+
+Les conditions d'application du présent article sont déterminées aux articles R. 471 à R. 473.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R429 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R471 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R472 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R473 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L437
+
+Les dispositions du présent chapitre ne peuvent déroger aux dispositions particulières de l'ordonnance n° 45-2283 du 9
+octobre 1945 relative à la formation, au recrutement et au statut de certaines catégories de fonctionnaires et des textes
+pris pour son application, qui doivent, toutefois, comporter des mesures spéciales en faveur des invalides, veuves et
+orphelins de guerre en ce qui touche, notamment, les bonifications de points et, s'il y a lieu, d'âge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L438
+
+Les conditions d'application des dispositions du présent chapitre, dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle, et notamment celles concernant l'obtention du certificat d'aptitude professionnelle, ainsi que les règles
+d'inscription sur les listes de reclassement, sont fixées aux articles R. 445 et R. 449.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L439
+
+Les conditions d'application du présent chapitre aux territoires d'outre-mer sont fixées aux articles R. 453 et R. 470 (1).
+
+**Nota:**
+
+(1) l'article R453 est caduque, et l'article R470 a été abrogé par l'art. 3 du décret 90-1007 du 8 novembre 1990.
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L440
+
+Les dispositions de la loi du 26 avril 1924 sur l'emploi obligatoire des mutilés seront insérées ultérieurement dans le Code
+du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+##### Section 3 : Dispositions particulières concernant les médecins, pharmaciens, chirurgiens-dentistes et vétérinaires, invalides de guerre.<a id=152></a>
+
+###### Article L441
+
+Les médecins, pharmaciens, chirurgiens-dentistes, vétérinaires, invalides de guerre, qui ont été mobilisés dans leur
+profession et sont en possession d'une pension définitive ou temporaire, par suite de blessures reçues ou de maladies
+contractées ou aggravées par le fait ou à l'occasion du service au cours de la guerre 1914-1918 et de la guerre 1939-1945, ou
+d'expéditions déclarées campagnes de guerre par l'autorité compétente, amoindrissant leur aptitude physique professionnelle,
+bénéficient, pendant les délais fixés aux alinéas 1er et 4 de l'article L. 393, d'un droit de préférence pour l'accession aux
+emplois de leur profession des administrations de l'Etat, des territoires d'outre-mer, ainsi que des entreprises privées qui
+jouissent d'un monopole.
+
+L'exercice du droit de préférence reconnu par le présent article est déterminé par les dispositions suivantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L442
+
+Les diverses collectivités visées à l'article L. 441 qui utilisent régulièrement les services de médecins, pharmaciens,
+chirurgiens-dentistes ou vétérinaires sont tenues [*obligations*] de mettre à la disposition des bénéficiaires du présent
+article, dans les conditions précisées ci-dessus, les postes vacants qui dépendent d'elle.
+
+Si aucun candidat bénéficiaire de la présente section ne réunit les conditions prévues ci-dessous, ou si la proportion du
+tiers de l'effectif est déjà atteinte par des invalides de guerre remplissant les conditions de la présente section, les
+susdites collectivités conservent la libre disposition de la vacance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L443
+
+Les bénéficiaires de la présente section doivent dans tous les cas remplir les conditions exigées pour le recrutement au
+poste vacant, tant au point de vue professionnel qu'au point de vue de l'aptitude physique, abstraction faite de la limite
+d'âge fixée pour l'admission à la retraite.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L444 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L444
+
+Les demandes de poste formulées au titre de la présente section, accompagnées de toutes pièces justificatives que le candidat
+croit devoir y joindre, sont adressées par lui à l'administration ou au service dont dépend le poste sollicité.
+
+L'administration ou service instruit la demande dans les trois mois de la réception, notamment en ce qui concerne la
+vérification des droits du candidat au bénéfice de la présente section, ainsi que des titres qu'il fait valoir et de la
+réalisation des conditions prévues à l'article L. 443.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L445
+
+Tous les ans, avant le 31 janvier, un état des postes vacants ou susceptibles de devenir vacants entre le 1er avril de
+l'année en cours et le 31 mars de l'année suivante, sous réserve de tous les emplois auxquels il est pourvu par voie de
+concours, est adressé par les collectivités assujetties aux obligations de la présente section au secrétariat de la
+commission spéciale de classement instituées par l'article L. 447.
+
+A la même époque, les mêmes collectivités adressent au secrétariat de la commission spéciale de classement les dossiers des
+candidatures qu'elles ont instruites dans le courant de l'année précédente, complétés par l'indication de leur avis favorable
+ou défavorable à la candidature. Si l'avis est défavorable, il doit être motivé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L446
+
+La commission spéciale de classement aux emplois réservés de médecins, pharmaciens, chirurgiens-dentistes ou vétérinaires est
+nommée par décret rendu sur le rapport du ministre des anciens combattants et victimes de guerre et composée de la façon
+suivante :
+
+Un député désigné par l'Assemblée Nationale ;
+
+Un sénateur désigné par le Sénat ;
+
+Un représentant du ministre des anciens combattants et victimes de guerre désigné par le ministre des anciens combattants et
+victimes de guerre ;
+
+Deux représentants des différentes administrations, tous deux désignés par le président du conseil des ministres ;
+
+Deux représentants de l'association nationale des médecins mutilés et pensionnés de guerre, désignés par le ministre des
+anciens combattants et victimes de guerre ;
+
+Deux professeurs titulaires ou agrégés de la faculté de médecine de Paris, désignés par le ministre de l'éducation
+nationale ;
+
+Un médecin détaché au ministère des anciens combattants et victimes de guerre désigné par le ministre des anciens combattants
+et victimes de guerre et chargé des fonctions de secrétaire de la commission des anciens combattants et victimes de guerre ;
+
+Le cas échéant, deux représentants des entreprises privées jouissant d'un monopole, désignés par ces entreprises ;
+
+Le ministre des anciens combattants et victimes de guerre, désigné, parmi les membres de la commission autres que le
+secrétaire, le président et le vice-président de ladite commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L447
+
+La commission spéciale de classement examine les dossiers des candidats, statue sur les avis défavorables formulés par les
+administrations ou services intéressés, et dresse annuellement une liste d'aptitude pour chaque poste à pourvoir, compte tenu
+des titres des candidats tant au point de vue des qualités professionnelles, morales et physiques indispensables pour assurer
+convenablement l'exercice de l'emploi que du pourcentage d'invalidité et, s'il y a lieu, de la qualité d'anciens
+combattants ; pour chaque poste, elle inscrit les candidats dans l'ordre de mérite.
+
+Cette inscription est valable jusqu'à la publication de la liste annuelle suivante.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L445 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L448
+
+Les listes d'aptitude sont publiées au Journal officiel de la République française avant le 31 mars de chaque année.
+
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L449
+
+Les collectivités intéressées procèdent, à concurrence du nombre de postes réservés à pourvoir et sauf application des
+dispositions du deuxième alinéa de l'article L. 442 aux nominations des candidats dans l'ordre de l'inscription de ces
+derniers sur la liste annuelle d'aptitude.
+
+Toutefois, lorsqu'il s'agit de postes dont l'importance et le revenu constituent un appoint dans l'activité et les ressources
+de celui à qui ils sont confiés, ils sont d'abord offerts aux candidats de la ville ou de la région. En ce cas, leur refus ne
+leur fait point perdre leur rang d'inscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L450
+
+En cas d'ouverture d'une vacance réservée imprévue ou non déclarée, l'administration ou le service intéressé a la faculté d'y
+pourvoir par une désignation temporaire, sous réserve de mettre le poste à la disposition des bénéficiaires de la présente
+section lors de la production du plus prochain état de vacances annuel visé à l'article L. 445.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+### Titre IV : Pupilles de la nation<a id=153></a>
+
+#### Chapitre Ier : De la qualité de pupille de la nation<a id=154></a>
+
+##### Section 1 : Enfants ayant vocation à la qualité de pupille de la nation.<a id=155></a>
 
 ###### Article L461
 
@@ -8123,7 +11540,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 2 : Conditions du droit.<a id=128></a>
+##### Section 2 : Conditions du droit.<a id=156></a>
 
 ###### Article L465
 
@@ -8178,7 +11595,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 3 : Adoption par la nation.<a id=129></a>
+##### Section 3 : Adoption par la nation.<a id=157></a>
 
 ###### Article L467
 
@@ -8264,7 +11681,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-#### Chapitre II : Protection et aide de l'Etat.<a id=130></a>
+#### Chapitre II : Protection et aide de l'Etat.<a id=158></a>
 
 ###### Article L470
 
@@ -8285,7 +11702,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 1 : Organismes chargés d'assurer la protection et le soutien de l'Etat.<a id=131></a>
+##### Section 1 : Organismes chargés d'assurer la protection et le soutien de l'Etat.<a id=159></a>
 
 ###### Article L471
 
@@ -8321,7 +11738,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Tutelle des pupilles.<a id=132></a>
+##### Section 2 : Tutelle des pupilles.<a id=160></a>
 
 ###### Article L472
 
@@ -8546,7 +11963,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 3 : Placement des pupilles.<a id=133></a>
+##### Section 3 : Placement des pupilles.<a id=161></a>
 
 ###### Article L480
 
@@ -8609,7 +12026,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-##### Section 4 : Avantages particuliers accordés aux pupilles de la nation.<a id=134></a>
+##### Section 4 : Avantages particuliers accordés aux pupilles de la nation.<a id=162></a>
 
 ###### Article L482
 
@@ -8694,7 +12111,7 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-#### Chapitre III : Mesures d'application.<a id=135></a>
+#### Chapitre III : Mesures d'application.<a id=163></a>
 
 ###### Article L486
 
@@ -8754,9 +12171,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre IV : Etat civil et sépultures<a id=136></a>
+## Livre IV : Etat civil et sépultures<a id=164></a>
 
-### Chapitre Ier : Mention "Mort pour la France".<a id=137></a>
+### Chapitre Ier : Mention "Mort pour la France".<a id=165></a>
 
 ###### Article L489
 
@@ -8842,7 +12259,33 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
-### Chapitre II : Transfert et restitution des corps.<a id=138></a>
+###### Article L492 bis
+
+Un diplôme d'honneur portant en titre "Aux morts de la grande guerre, la patrie reconnaissante" est décerné à tous les
+officiers, sous-officiers et soldats des armées de terre et de mer décédés pendant la guerre 1914-1918 pour le service et la
+défense du pays, et remis à leurs familles.
+
+Les présentes dispositions sont étendues au titre de la guerre 1939-1945 :
+
+Aux militaires des armées de terre, de mer et de l'air ;
+
+Aux FFL ou FFC ou FFI et aux membres de la Résistance, dont l'acte de décès porte la mention "Mort pour la France".
+
+Le ministre des anciens combattants et victimes de guerre est chargé de l'attribution de ce diplôme.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2014-1283 du 23 octobre 2014 - art. (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R572-2 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+### Chapitre II : Transfert et restitution des corps.<a id=166></a>
 
 ###### Article L493
 
@@ -8988,9 +12431,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Chapitre III : Sépulture perpétuelle<a id=139></a>
+### Chapitre III : Sépulture perpétuelle<a id=167></a>
 
-#### Section 1 : Droit à la sépulture perpétuelle.<a id=140></a>
+#### Section 1 : Droit à la sépulture perpétuelle.<a id=168></a>
 
 ###### Article L498
 
@@ -9018,7 +12461,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Section 2 : Cimetières nationaux.<a id=141></a>
+#### Section 2 : Cimetières nationaux.<a id=169></a>
 
 ###### Article L499
 
@@ -9173,7 +12616,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Section 3 : Cimetières communaux.<a id=142></a>
+#### Section 3 : Cimetières communaux.<a id=170></a>
 
 ###### Article L505
 
@@ -9317,7 +12760,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Section 4 : Dispositions particulières.<a id=143></a>
+#### Section 4 : Dispositions particulières.<a id=171></a>
 
 ###### Article L510
 
@@ -9465,7 +12908,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Chapitre IV : Voyages sur les tombes ou sur les lieux du crime.<a id=144></a>
+### Chapitre IV : Voyages sur les tombes ou sur les lieux du crime.<a id=172></a>
 
 ###### Article L515
 
@@ -9494,11 +12937,46 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre V : Institutions<a id=145></a>
+###### Article L516
 
-### Titre Ier : Office des anciens combattants et victimes de guerre<a id=146></a>
+Le conjoint survivant d'un déporté ou interné résistant, d'un déporté ou interné politique, d'une personne contrainte au
+travail en pays ennemi, ou, à défaut, un ascendant ou descendant du disparu peut aller se recueillir une fois, aux frais de
+l'Etat, sur le lieu présumé du crime ou du décès.
 
-#### Chapitre Ier : Office national et offices départementaux.<a id=147></a>
+Les modalités de remboursement de ces frais sont fixées à l'article R. 571.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L284 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L295-1 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L309 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R335 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R570 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L523-2 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R571
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+## Livre V : Institutions<a id=173></a>
+
+### Titre Ier : Office des anciens combattants et victimes de guerre<a id=174></a>
+
+#### Chapitre Ier : Office national et offices départementaux.<a id=175></a>
 
 ###### Article L517
 
@@ -9573,9 +13051,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre II : Du bénéfice des institutions des offices<a id=148></a>
+#### Chapitre II : Du bénéfice des institutions des offices<a id=176></a>
 
-##### Section 1 : Cas général.<a id=149></a>
+##### Section 1 : Cas général.<a id=177></a>
 
 ###### Article L520
 
@@ -9619,7 +13097,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L302 (VT)
 
 
-##### Section 2 : Cas particuliers.<a id=150></a>
+##### Section 2 : Cas particuliers.<a id=178></a>
 
 ###### Article L521
 
@@ -9705,7 +13183,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Dispositions financières.<a id=151></a>
+#### Chapitre III : Dispositions financières.<a id=179></a>
 
 ###### Article L525
 
@@ -9756,7 +13234,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre II : Institution nationale des invalides.<a id=152></a>
+### Titre II : Institution nationale des invalides.<a id=180></a>
 
 ###### Article L528
 
@@ -9780,13 +13258,13 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=153></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=181></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=154></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=182></a>
 
-### Titre Ier : Droits à pension des invalides.<a id=155></a>
+### Titre Ier : Droits à pension des invalides.<a id=183></a>
 
-#### Chapitre III : Taux des pensions.<a id=156></a>
+#### Chapitre III : Taux des pensions.<a id=184></a>
 
 ###### Article R1
 
@@ -9831,9 +13309,34 @@ _Cité par_:
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
 
 
-#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=157></a>
+###### Article R5
 
-##### Section 1 : Militaires présents sous les drapeaux.<a id=158></a>
+Les modalités d'application de l'article R. 4 sont fixées par décret, pris sur le rapport du ministre des anciens combattants
+et victimes de guerre et du ministre de l'économie et des finances dans le mois qui suivra la publication au Journal officiel
+des mesures concernant les traitements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+
+_Cité par_:
+
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R4 (M)
+
+
+#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=185></a>
+
+##### Section 1 : Militaires présents sous les drapeaux.<a id=186></a>
 
 ###### Article R6
 
@@ -9869,7 +13372,7 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et des v - art. R5-1 (Ab)
 
 
-##### Section 2 : Militaires renvoyés dans leurs foyers.<a id=159></a>
+##### Section 2 : Militaires renvoyés dans leurs foyers.<a id=187></a>
 
 ###### Article R8
 
@@ -9931,7 +13434,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-##### Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins.<a id=160></a>
+##### Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins.<a id=188></a>
 
 ###### Article R19
 
@@ -9954,7 +13457,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-##### Section 4 : Anciens militaires résidant à l'étranger.<a id=161></a>
+##### Section 4 : Anciens militaires résidant à l'étranger.<a id=189></a>
 
 ###### Article R20
 
@@ -10011,7 +13514,7 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et de... - art. R151-21 (V)
 
 
-##### Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24.<a id=162></a>
+##### Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24.<a id=190></a>
 
 ###### Article R23
 
@@ -10273,7 +13776,7 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-#### Chapitre VI : Révision pour aggravation.<a id=163></a>
+#### Chapitre VI : Révision pour aggravation.<a id=191></a>
 
 ###### Article R28
 
@@ -10307,15 +13810,81 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L29
 
 
-### Titre II : Emoluments complémentaires.<a id=164></a>
+### Titre II : Emoluments complémentaires.<a id=192></a>
 
-#### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=165></a>
+#### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=193></a>
 
-##### Section 1 : Procédure d'attribution des allocations spéciales.<a id=166></a>
+##### Section 1 : Procédure d'attribution des allocations spéciales.<a id=194></a>
 
-###### Article R31
+###### Article R30
 
-Abrogé
+Les pensionnés pour tuberculose bénéficiaires de l'indemnité de soins ont la faculté de demander l'allocation spéciale, en
+cas de retrait de l'indemnité de soins.
+
+Les pensionnés pour tuberculose, non bénéficiaires de l'indemnité de soins, dont la demande a été rejetée pour insuffisance
+du degré d'invalidité afférent aux infirmités ouvrant droit au bénéfice des articles L. 17, L. 36, L. 37, et L. 38, peuvent,
+si ces infirmités s'aggravent, demander la révision de leur situation dans les conditions prévues par l'article L. 29.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L17 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L29 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L36 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L37 (V)
+
+
+###### Article R32
+
+Les allocations spéciales instituées par l'article L. 38 sont soumises aux mêmes règles que les allocations spéciales aux
+grands invalides instituées par l'article L. 31, en ce qui concerne l'établissement du titre y afférent, leur payement, leur
+incessibilité et leur insaisissabilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R132-4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L31
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+
+
+##### Section 2 : Infirmités ouvrant droit aux allocations.<a id=195></a>
+
+###### Article R33
+
+La qualité de grand mutilé de guerre est reconnue aux pensionnés au titre du présent code, titulaires de la carte du
+combattant, quand ils sont pensionnés pour les infirmités qui remplissent les conditions d'origine et de gravité définies par
+l'article L. 36, c'est-à-dire lorsque lesdites infirmités, résultant de blessures de guerre ou de blessures en service
+commandé reçues au cours des guerres 1914-1918, 1939-1945, ou d'expéditions déclarées campagnes de guerre par l'autorité
+compétente, figurent parmi les infirmités nommément désignées audit article ou lorsque leur total atteint les degrés
+d'invalidité prévus par celui-ci.
+
+Les infirmités visées à l'alinéa b de l'article L. 37 ouvrent droit aux allocations spéciales lorsqu'elles ont été
+contractées au cours des périodes définies à l'alinéa 1er du présent article.
+
+Les pensionnés bénéficiaires de l'article L. 30 ont droit aux allocations spéciales lorsque l'infirmité initiale qui leur a
+ouvert droit à pension remplit les conditions d'origine définies à l'article L. 36 ou à l'article L. 37 (alinéa a, b, ou c).
 
 **Liens relatifs à cet article**
 
@@ -10325,14 +13894,231 @@ _Codifié par_:
 
 _Abrogé par_:
 
-  - Décret n°53-771 du 13 août 1953 - art. 7, v. init.
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R132-5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L30
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+
+
+###### Article R34-1
+
+Sont groupées en une seule infirmité au regard des articles L. 17, L. 36, L. 37 et L. 38 :
+
+1° Les infirmités siégeant sur un même membre, qu'elles résultent d'une ou de plusieurs blessures ;
+
+2° Les infirmités siégeant sur la tête, qu'elles résultent d'une ou plusieurs blessures ;
+
+3° Les infirmités qui sont médicalement la conséquence d'une même blessure.
+
+En ce qui concerne les infirmités visées aux alinéas 2° et 3° qui précèdent, ce groupement n'est opéré que dans la mesure
+nécessaire pour atteindre, dans les conditions prévues par l'article L. 14, les degrés d'invalidité minima envisagés pour
+l'application des articles L. 17, L. 36, L. 37 et L. 38.
+
+Les dispositions du présent article s'appliquent au cas où les infirmités résultent des blessures ou des maladies visées à
+l'article L. 37, alinéas b et c, en vue uniquement de l'attribution des allocations, mais non de la qualité de grand mutilé
+de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R132-6 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L14
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L17
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+
+
+##### Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose.<a id=196></a>
+
+###### Article R34-2
+
+Tout pensionné à 100 % pour tuberculose dont l'infirmité a été contractée dans les conditions prévues aux articles L. 36 et
+L. 37 (alinéas b et c) peut, à moins d'être considéré comme guéri au sens de l'article D. 9 relatif au contrôle de
+l'indemnité de soins aux tuberculeux, obtenir le bénéfice des allocations instituées par l'article L. 38.
+
+Le même bénéfice est accordé au pensionné visé à l'alinéa précédent considéré comme guéri au sens de l'article D. 9 si,
+compte tenu du pourcentage dûment constaté d'invalidité réelle correspondant aux séquelles de ses affections tuberculeuses,
+il remplit les conditions édictées par les articles L. 36 et L. 37.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et de... - art. R32-1 (Ab)
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R34-4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L36 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L37 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L38 (V)
 
 
-### Titre IV : Droits à pension des ascendants.<a id=167></a>
+###### Article R34-3
+
+Lorsqu'un pensionné à 100 % pour tuberculose demande à bénéficier de l'allocation prévue à l'article L. 38, la requête est
+instruite du point de vue médical par l'organisme antituberculeux ou, en ce qui concerne les pensionnés qui ne peuvent se
+présenter au dispensaire, par le médecin désigné par le préfet, après avis du conseil départemental d'hygiène, pour assurer
+leur surveillance.
+
+Le dossier ou son double est transmis au centre de réforme qui doit recueillir l'avis de trois médecins phtisiologues
+accrédités auprès de lui et désignés par le ministre de la santé publique et de la population sur la proposition du conseil
+supérieur d'hygiène sociale. Au cas où le nombre de ces médecins est inférieur à trois, l'avis est donné par le ou par les
+deux médecins accrédités.
+
+Lorsque les médecins phtisiologues accrédités le jugent utile, le centre de réforme convoque l'intéressé et peut prescrire sa
+mise en observation dans un hôpital. Lorsque l'instruction est terminée, le dossier est transmis au ministre des anciens
+combattants et victimes de guerre.
+
+Dans le cas où l'intéressé est considéré comme guéri au sens de l'article D. 9, les médecins phtisiologues déterminent le
+pourcentage correspondant à l'invalidité réelle due aux séquelles des infirmités de nature tuberculeuse ; la commission de
+réforme formule ses propositions et transmet le dossier au ministre des anciens combattants et victimes de guerre.
+
+En ce qui concerne la procédure contentieuse ou les surexpertises jugées indispensables, il est procédé dans les conditions
+prévues à l'article D. 11.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D11 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L38 (V)
+
+
+###### Article R34-4
+
+Les pensionnés à 100 % pour tuberculose bénéficiaires de l'allocation des grands mutilés, au titre du premier alinéa de
+l'article R. 34-2, sont tenus [*obligations*] de se soumettre périodiquement à l'examen des organismes antituberculeux ou des
+médecins désignés par le préfet.
+
+Une fois par an, l'organisme antituberculeux ou le médecin désigné par le préfet fait parvenir au centre de réforme le résumé
+de ses constatations, accompagné des renseignements et documents de toute nature, permettant la tenue à jour par le centre de
+réforme du double du dossier médical. Ce dossier est soumis obligatoirement aux médecins phtisiologues accrédités auprès du
+centre de réforme.
+
+Dans le cas où l'intéressé est considéré comme guéri au sens de l'article D. 9, les médecins phtisiologues déterminent le
+pourcentage correspondant à l'invalidité due aux séquelles des infirmités de nature tuberculeuse.
+
+La commission de réforme formule ses propositions et transmet le dossier au ministre des anciens combattants et victimes de
+guerre ou au fonctionnaire délégataire dans le cas visé au dernier alinéa de l'article R. 29.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R29 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R34-2 (V)
+
+
+###### Article R34-5
+
+Lorsque la tuberculose dont le malade est atteint n'est pas pulmonaire, les médecins phtisiologues accrédités peuvent être
+remplacés par des médecins spécialistes qualifiés désignés dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+##### Section 4 : Taux des allocations, règles de cumul.<a id=197></a>
+
+###### Article R35
+
+Le montant de l'allocation spéciale attribuée aux bénéficiaires des articles L. 17 et L. 36 à L. 38 est fixé conformément au
+tableau figurant à l'article L. 38.
+
+L'allocation spéciale prévue pour les blessés crâniens est attribuée dans les conditions prévues à ce tableau.
+
+L'allocation spéciale se cumule avec la pension et les majorations et allocations déjà attribuées en vertu des dispositions
+du titre Ier et chapitre Ier du titre II du livre Ier (première partie) et du titre III du livre II (première partie), à
+l'exclusion toutefois des allocations n° 4 bis et 7 prévues aux articles L. 33 et L. 34.
+
+Elle ne se cumule pas avec l'allocation complémentaire prévue à l'article L. 162.
+
+Les allocations spéciales ne se cumulent pas entre elles. Il est attribué, soit l'allocation correspondant à une infirmité
+nommément désignée, soit l'allocation correspondant au taux global d'invalidité, l'intéressé recevant d'office l'allocation
+la plus favorable.
+
+Lorsqu'un invalide est, au titre d'affections de nature tuberculeuse, pensionné à 100 % et bénéficiaire de l'indemnité de
+soins, il peut, s'il est en droit de prétendre à une allocation spéciale au titre d'autres indemnités, cumuler cette
+allocation avec l'indemnité de soins. Dans ce cas, l'allocation est calculée conformément à la règle prévue à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R132-3 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L162
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L17
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L33
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L34
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+
+
+### Titre IV : Droits à pension des ascendants.<a id=198></a>
 
 ###### Article R38
 
@@ -10468,13 +14254,13 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L67
 
 
-### Titre V : Révision et voies de recours.<a id=168></a>
+### Titre V : Révision et voies de recours.<a id=199></a>
 
-#### Chapitre II : Voies de recours.<a id=169></a>
+#### Chapitre II : Voies de recours.<a id=200></a>
 
-##### Section 1 : Tribunal départemental des pensions.<a id=170></a>
+##### Section 1 : Tribunal départemental des pensions.<a id=201></a>
 
-##### Paragraphe 1 : Désignation des membres du tribunal.<a id=171></a>
+##### Paragraphe 1 : Désignation des membres du tribunal.<a id=202></a>
 
 ###### Article R43
 
@@ -10511,7 +14297,7 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-##### Paragraphe 2 : Indemnités.<a id=172></a>
+##### Paragraphe 2 : Indemnités.<a id=203></a>
 
 ###### Article R46
 
@@ -10550,7 +14336,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R54 (V)
 
 
-##### Paragraphe 3 : Rôle des associations dans le choix des délégués des pensionnés.<a id=173></a>
+##### Paragraphe 3 : Rôle des associations dans le choix des délégués des pensionnés.<a id=204></a>
 
 ###### Article R48
 
@@ -10606,7 +14392,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R44 (V)
 
 
-##### Paragraphe 4 : Remplacement des membres du tribunal cessant leurs fonctions en cours de mandat.<a id=174></a>
+##### Paragraphe 4 : Remplacement des membres du tribunal cessant leurs fonctions en cours de mandat.<a id=205></a>
 
 ###### Article R50
 
@@ -10624,7 +14410,7 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-##### Paragraphe 5 : Attributions du greffier du tribunal.<a id=175></a>
+##### Paragraphe 5 : Attributions du greffier du tribunal.<a id=206></a>
 
 ###### Article R51
 
@@ -10661,7 +14447,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-##### Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance.<a id=176></a>
+##### Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance.<a id=207></a>
 
 ###### Article R52
 
@@ -10741,7 +14527,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R46 (V)
 
 
-##### Paragraphe 7 : Sections des tribunaux de pensions.<a id=177></a>
+##### Paragraphe 7 : Sections des tribunaux de pensions.<a id=208></a>
 
 ###### Article R56
 
@@ -10760,7 +14546,7 @@ _Abrogé par_:
   - Décret n°2011-600 du 27 mai 2011 - art. 2
 
 
-##### Paragraphe 8 : Procédure normale.<a id=178></a>
+##### Paragraphe 8 : Procédure normale.<a id=209></a>
 
 ###### Article R57
 
@@ -10827,7 +14613,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 
-##### Paragraphe 9 : Procédure sommaire.<a id=179></a>
+##### Paragraphe 9 : Procédure sommaire.<a id=210></a>
 
 ###### Article R62
 
@@ -10860,7 +14646,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-##### Section 2 : Cour régionale des pensions.<a id=180></a>
+##### Section 2 : Cour régionale des pensions.<a id=211></a>
 
 ###### Article R63
 
@@ -11012,7 +14798,7 @@ _Cite_:
   - Loi n°1901-07-10 art. 14
 
 
-##### Section 3 : Conseil d'Etat.<a id=181></a>
+##### Section 3 : Conseil d'Etat.<a id=212></a>
 
 ###### Article R69
 
@@ -11038,9 +14824,9 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-##### Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation.<a id=182></a>
+##### Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation.<a id=213></a>
 
-##### A - Organisation.<a id=183></a>
+##### A - Organisation.<a id=214></a>
 
 ###### Article R71
 
@@ -11107,7 +14893,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R75 (Ab)
 
 
-##### B - Fonctionnement.<a id=184></a>
+##### B - Fonctionnement.<a id=215></a>
 
 ###### Article R78
 
@@ -11185,7 +14971,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R88 (Ab)
 
 
-##### Paragraphe 2 : Procédure, règles d'instruction.<a id=185></a>
+##### Paragraphe 2 : Procédure, règles d'instruction.<a id=216></a>
 
 ###### Article R82
 
@@ -11427,9 +15213,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. L102 (Ab)
 
 
-### Titre VI : Dispositions diverses relatives au paiement des pensions.<a id=186></a>
+### Titre VI : Dispositions diverses relatives au paiement des pensions.<a id=217></a>
 
-#### Chapitre III : Prescription des arrérages.<a id=187></a>
+#### Chapitre III : Prescription des arrérages.<a id=218></a>
 
 ###### Article R91
 
@@ -11679,7 +15465,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R94 (Ab)
 
 
-#### Chapitre V : Règles générales de cumul.<a id=188></a>
+#### Chapitre V : Règles générales de cumul.<a id=219></a>
 
 ###### Article R102
 
@@ -11721,13 +15507,13 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
-### Titre VIII : Application dans les pays d'outre-mer de certaines dispositions du livre 1 de la première partie du code (instruction des demandes et voies de recours).<a id=189></a>
+### Titre VIII : Application dans les pays d'outre-mer de certaines dispositions du livre 1 de la première partie du code (instruction des demandes et voies de recours).<a id=220></a>
 
-#### Chapitre II : Dispositions spéciales aux pays d'outre-mer.<a id=190></a>
+#### Chapitre II : Dispositions spéciales aux pays d'outre-mer.<a id=221></a>
 
-##### Section 3 : Dispositions spéciales concernant les voies de recours.<a id=191></a>
+##### Section 3 : Dispositions spéciales concernant les voies de recours.<a id=222></a>
 
-##### Paragraphe 1 : Juridiction de première instance.<a id=192></a>
+##### Paragraphe 1 : Juridiction de première instance.<a id=223></a>
 
 ###### Article R122
 
@@ -11782,7 +15568,7 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
 
 
-##### Paragraphe 2 : Juridiction d'appel.<a id=193></a>
+##### Paragraphe 2 : Juridiction d'appel.<a id=224></a>
 
 ###### Article R125
 
@@ -11939,7 +15725,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R69
 
 
-##### Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc.<a id=194></a>
+##### Paragraphe 3 : Juridiction des pensions en Tunisie et au Maroc.<a id=225></a>
 
 ###### Article R131
 
@@ -11986,7 +15772,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Paragraphe 4 : Attributions.<a id=195></a>
+##### Paragraphe 4 : Attributions.<a id=226></a>
 
 ###### Article R137
 
@@ -12115,7 +15901,7 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
 
 
-##### Paragraphe 5 : Allocations diverses et frais.<a id=196></a>
+##### Paragraphe 5 : Allocations diverses et frais.<a id=227></a>
 
 ###### Article R141
 
@@ -12282,11 +16068,11 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=197></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=228></a>
 
-### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=198></a>
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=229></a>
 
-#### Chapitre II : Aumôniers militaires.<a id=199></a>
+#### Chapitre II : Aumôniers militaires.<a id=230></a>
 
 ###### Article R146
 
@@ -12314,9 +16100,9 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et de... - art. R122-1 (V)
 
 
-#### Chapitre III : Afféctés spéciaux et membres de la défense passive.<a id=200></a>
+#### Chapitre III : Afféctés spéciaux et membres de la défense passive.<a id=231></a>
 
-##### Section 1 : Défense passive.<a id=201></a>
+##### Section 1 : Défense passive.<a id=232></a>
 
 ###### Article R147
 
@@ -12343,6 +16129,44 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. L151 (V)
   - Code des pensions militaires d'invalidité et des v - art. L153 (V)
   - Code des pensions militaires d'invalidité et des v - art. R149 (V)
+
+
+###### Article R148
+
+La victime ou ses ayants droit doivent adresser une demande au directeur interdépartemental du ministère des anciens
+combattants ou au chef du service des pensions siégeant auprès d'un centre de réforme en apportant la preuve de la relation
+de cause à effet entre le service de défense passive et la blessure, la maladie ou le décès qui motivent la demande.
+
+Après enquête administrative et examen médical, le ministre des anciens combattants et victimes de guerre statue sur la
+demande. Sa décision est susceptible de recours devant les juridictions des pensions, et selon la procédure applicable devant
+ces juridictions.
+
+Dans le cas où le ministre a délégué ses pouvoirs, les fonctionnaires délégataires prennent des décisions de concession ou de
+rejet susceptible de recours devant les juridictions des pensions.
+
+Ces concessions de pensions et ces décisions de rejet sont confirmées, modifiées ou annulées dans les conditions indiquées à
+l'article L. 24.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 17 mars 1987
+  - TXT_SOURCE: Arrêté du 17 mars 1987 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L151 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L153 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L24 (M)
 
 
 ###### Article R150
@@ -12454,7 +16278,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre A85 à A114
 
 
-##### Section 2 : Sapeurs-pompiers des places fortes.<a id=202></a>
+##### Section 2 : Sapeurs-pompiers des places fortes.<a id=233></a>
 
 ###### Article R155
 
@@ -12476,13 +16300,405 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L154
 
 
-### Titre III : Règles applicables aux victimes civiles.<a id=203></a>
+### Titre II : Membres des organisations civiles et militaires de la Résistance.<a id=234></a>
 
-#### Chapitre Ier : Victimes civiles de la guerre.<a id=204></a>
+#### Chapitre Ier : De la qualité de résistant.<a id=235></a>
 
-##### Section 1 : Droit à pension.<a id=205></a>
+###### Article R156
 
-##### Paragraphe 1 : Déportés et internés politiques.<a id=206></a>
+Le bénéfice des dispositions édictées au 1° de l'article L. 172 est accordé à toute personne justifiant par des documents
+établis, soit par un organisme qualifié d'action français ou allié, soit par l'un des groupements reconnus par le conseil
+national de la résistance :
+
+Qu'elle-même ou le de cujus appartenait à l'un de ces organismes ou groupements ou opérait pour leur compte ;
+
+Que la blessure ou la maladie invoquée comme étant la cause de l'infirmité qui a entraîné l'invalidité ou le décès résulte de
+l'accomplissement d'un acte de résistance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R112-1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R123-1 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L172
+
+
+###### Article R157
+
+Le bénéfice des dispositions édictées au 2° de l'article L. 172 est accordé à toute personne justifiant des trois conditions
+suivantes :
+
+1° Avoir quitté ou tenté de quitter un territoire occupé par l'ennemi ou placé sous le contrôle de l'autorité de fait se
+disant Gouvernement de l'Etat français pour rejoindre l'une des forces énumérées au 2° susvisé.
+
+Cette preuve sera établie, soit par des documents émanant d'organismes qualifiés d'action français ou alliés ou de
+groupements reconnus par le conseil national de la résistance, soit par des déclarations faites par des personnes ayant
+assisté au franchissement ou à la tentative de franchissement de la frontière et dont les dires, de l'avis du comité local de
+libération, peuvent être retenus. Tout commencement d'exécution n'ayant pas produit d'effet par suite de circonstances
+indépendantes de la volonté de son auteur, est considéré comme tentative ;
+
+2° Soit avoir appartenu à un groupement de résistance ou de réfractaires, soit réunir au moment de son départ ou de sa
+tentative de départ les conditions d'âge et d'aptitude physique requises pour l'incorporation dans les forces énumérées au 2°
+de l'article L. 172.
+
+Les conditions d'aptitude physique exigées sont au minimum celles déterminant l'aptitude au service auxiliaire ; les
+conditions d'âge sont les suivantes :
+
+a) Forces françaises libres :
+
+Age minimum : dix-sept ans accomplis ;
+
+Age maximum : celui fixé suivant le grade, par le tableau annexé à l'ordonnance n° 23 du 13 février 1942 prise à Londres par
+le chef des Français libres, président du comité national ;
+
+b) Forces françaises d'Afrique du Nord ou d'Afrique occidentale française, relevant du comité français de la libération
+nationale, puis du Gouvernement provisoire de la République française :
+
+Age minimum : dix-sept ans accomplis ;
+
+Age maximum : cinquante-cinq ans pour les sous-officiers et hommes de troupe ; pour les officiers, la limite d'âge du grade
+des officiers de réserve augmentée d'un an.
+
+3° Apporter la preuve que les infirmités ont été contractées ou le décès survenu au cours ou à la suite du franchissement de
+la frontière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D402 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R287 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R112-2 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R112-3 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R112-4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R123-1 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L172
+  - Ordonnance 42-23 1942-02-13 annexe
+
+
+###### Article R158
+
+Le bénéfice des dispositions édictées au 5° de l'article L. 172 est accordé à toute personne établissant :
+
+1° La matérialité des concours ou actes énumérés au 5° ci-dessus visé, soit par les attestations des organismes qualifiés
+d'action français ou alliés ou de groupements reconnus par le conseil national de la résistance, soit par les déclarations
+des bénéficiaires ou de témoins, quand leurs dires, de l'avis du comité local de libération ou des organismes qualifiés
+d'action français ou alliés, peuvent être retenus ;
+
+2° Le fait que les infirmités ont été contractées ou que le décès est survenu à l'occasion du concours prêté dans l'une des
+circonstances précisées à l'alinéa premier ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R112-6 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R123-1 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L172
+
+
+###### Article R159
+
+La liste des organismes reconnus comme groupements de résistance est fixée par arrêté du ministre des anciens combattants et
+victimes de guerre et du ministre de la défense nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+
+###### Article R160
+
+Les déclarations des personnes ayant bénéficié du concours direct et personnel visé au 5° de l'article L. 172 doivent être
+certifiées par les services ou organismes dont relevaient lesdites personnes.
+
+Si ces services ou organismes ont été dissous, les déclarations sont annexées au dossier et il est procédé à une enquête dans
+les conditions fixées à l'article R. 161.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D112-7 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L172
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R161
+
+
+###### Article R161
+
+Les témoignages des personnes ayant assisté, soit à un franchissement de frontière ou à une tentative de franchissement, soit
+à un acte de résistance accompli isolément, sont recueillis par la gendarmerie et donnent lieu à un procès-verbal d'enquête
+où est également consigné l'avis du comité local de libération sur le crédit que l'on peut accorder aux dires des témoins.
+
+Si le témoin quelle que soit sa nationalité, réside à l'étranger, la déclaration du témoignage est recueillie par l'agent
+consulaire français dont le siège est le plus proche de son domicile ; celui-ci doit, en outre, faire connaître son avis sur
+l'honorabilité du déclarant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D112-8 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R160 (Ab)
+
+
+#### Chapitre II : Du droit à pension des membres de la Résistance.<a id=236></a>
+
+###### Article R162
+
+Les membres de la Résistance ont droit au bénéfice des dispositions des articles L. 5, L. 12, L. 15, L. 17 et L. 36 à L. 39.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R123-1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R132-8 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L12
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L15
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L17
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L39
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L5
+
+
+###### Article R163
+
+Les déportés résistants titulaires de la carte du combattant et pensionnés pour des infirmités contractées au cours de la
+déportation peuvent prétendre au bénéfice des dispositions des articles L. 36 à L. 40, que les infirmités invoquées
+proviennent de blessures ou de maladie et qu'elles aient ouvert droit à pension par preuve ou par présomption.
+
+Sont admis également à se prévaloir de ces dispositions les internés résistants, titulaires de la carte du combattant et
+pensionnés pour blessures reçues du fait de leur détention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R298 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L39
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L40
+
+
+###### Article R164
+
+Les internés résistants, titulaires de la carte du combattant et pensionnés par suite de maladie contractée du fait de leur
+détention peuvent prétendre au bénéfice des dispositions des articles L. 37 à L. 40, lorsque ces maladies ont occasionné soit
+l'une des infirmités nommément désignées à l'alinéa a) de l'article L. 37, soit une ou plusieurs infirmités remplissant les
+conditions de gravité exigées à l'alinéa b) du même article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R298 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L39
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L40
+
+
+###### Article R165
+
+La constatation médicale contemporaine des faits en cause est établie par le certificat du praticien qui a donné ses soins.
+Si le certificat n'a pas été établi, le praticien peut, à toute époque, attester la réalité de son constat à l'époque
+envisagée et en rapporter la substance.
+
+Si la preuve de l'imputabilité, soit de la blessure ou de la maladie, soit du décès, ne peut être apportée, les documents
+doivent contenir toutes précisions relatives à la nature de l'acte de résistance accompli, aux circonstances atmosphériques,
+aux circonstances de date et de lieu, qui rendent plausible, sauf preuve contraire, la présomption d'imputabilité des
+infirmités ou de décès audit acte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R123-3 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R123-4 (V)
+
+
+###### Article R166
+
+En raison des circonstances de clandestinité dans lesquelles se sont déroulés les faits de résistance, sont, à titre
+exceptionnel, considérées comme constituant un constat régulier les constatations contemporaines faites par des médecins,
+quels qu'ils soient, qu'ils aient appartenu ou non à un groupement de résistance ou de réfractaires à l'époque considérée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R123-5 (V)
+
+
+###### Article R167
+
+A défaut de constatation médicale contemporaine des faits en cause, les constatations médicales officielles ultérieures ne
+sont valables que si elles sont opérées par les autorités ayant qualité pour effectuer des constats réguliers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R123-2 (V)
+
+
+###### Article R168
+
+Les titulaires d'une carte de combattant volontaire de la Résistance portant mention d'un grade d'assimilation attribué dans
+les conditions prévues à l'article R. 259, ou, en cas de décès, les ayants droit à pension, peuvent obtenir une pension
+fondée sur ce grade.
+
+Les dispositions de l'article L. 108 leur sont applicables. Le point de départ du délai imparti, pour obtenir le paiement
+intégral des arrérages, est la date de la délivrance au bénéficiaire de la carte spéciale visée à l'article R. 260.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R258 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L108 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R259 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R260 (M)
+
+
+### Titre III : Règles applicables aux victimes civiles.<a id=237></a>
+
+#### Chapitre Ier : Victimes civiles de la guerre.<a id=238></a>
+
+##### Section 1 : Droit à pension.<a id=239></a>
+
+##### Paragraphe 1 : Déportés et internés politiques.<a id=240></a>
 
 ###### Article R169
 
@@ -12506,7 +16722,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R335 (Ab)
 
 
-##### Paragraphe 2 : Ayants cause.<a id=207></a>
+##### Paragraphe 2 : Ayants cause.<a id=241></a>
 
 ###### Article R170
 
@@ -12565,9 +16781,9 @@ _Cite_:
   - Code civil - art. 90
 
 
-##### Section 2 : Procédure.<a id=208></a>
+##### Section 2 : Procédure.<a id=242></a>
 
-##### Paragraphe 1 : Invalides.<a id=209></a>
+##### Paragraphe 1 : Invalides.<a id=243></a>
 
 ###### Article R172
 
@@ -12872,7 +17088,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R27
 
 
-##### Paragraphe 2 : Ayants cause.<a id=210></a>
+##### Paragraphe 2 : Ayants cause.<a id=244></a>
 
 ###### Article R182
 
@@ -13022,7 +17238,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L75
 
 
-##### Paragraphe 3 : Règles de liquidation.<a id=211></a>
+##### Paragraphe 3 : Règles de liquidation.<a id=245></a>
 
 ###### Article R188
 
@@ -13104,7 +17320,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L57
 
 
-##### Paragraphe 4 : Recours.<a id=212></a>
+##### Paragraphe 4 : Recours.<a id=246></a>
 
 ###### Article R191
 
@@ -13171,7 +17387,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R69 (M)
 
 
-##### Paragraphe 5 : Procédure applicable hors de la métropole.<a id=213></a>
+##### Paragraphe 5 : Procédure applicable hors de la métropole.<a id=247></a>
 
 ###### Article R194
 
@@ -13297,7 +17513,7 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-##### Paragraphe 6 : Allocations provisoires d'attente.<a id=214></a>
+##### Paragraphe 6 : Allocations provisoires d'attente.<a id=248></a>
 
 ###### Article R197
 
@@ -13401,11 +17617,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L25
 
 
-### Titre IV : Alsaciens et Lorrains.<a id=215></a>
+### Titre IV : Alsaciens et Lorrains.<a id=249></a>
 
-#### Chapitre II : Militaires ayant servi dans l'armée allemande.<a id=216></a>
+#### Chapitre II : Militaires ayant servi dans l'armée allemande.<a id=250></a>
 
-##### Section 1 : Conditions du droit à pension des militaires ayant servi au cours des guerres 1914-1918 et 1939-1945.<a id=217></a>
+##### Section 1 : Conditions du droit à pension des militaires ayant servi au cours des guerres 1914-1918 et 1939-1945.<a id=251></a>
 
 ###### Article R202
 
@@ -13492,7 +17708,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L233
 
 
-##### Section 2 : Procédure de liquidation.<a id=218></a>
+##### Section 2 : Procédure de liquidation.<a id=252></a>
 
 ###### Article R206
 
@@ -13637,6 +17853,21 @@ instance de pension auprès du médecin-chef du centre de réforme compétent.
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+
+###### Article R212
+
+La demande de pension est recevable sans limitation de délai.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article R213
@@ -13905,7 +18136,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 3 : Dispositions diverses.<a id=219></a>
+##### Section 3 : Dispositions diverses.<a id=253></a>
 
 ###### Article R221
 
@@ -13940,11 +18171,11 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=220></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=254></a>
 
-### Titre Ier : Carte et retraite du combattant.<a id=221></a>
+### Titre Ier : Carte et retraite du combattant.<a id=255></a>
 
-#### Chapitre Ier : Carte du combattant.<a id=222></a>
+#### Chapitre Ier : Carte du combattant.<a id=256></a>
 
 ###### Article R223
 
@@ -13984,7 +18215,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R229
 
 
-##### Section 1 : De la qualité de combattant.<a id=223></a>
+##### Section 1 : De la qualité de combattant.<a id=257></a>
 
 ###### Article R225
 
@@ -14084,7 +18315,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R400 (V)
 
 
-##### Section 2 : Procédure d'attribution et de retrait de la carte.<a id=224></a>
+##### Section 2 : Procédure d'attribution et de retrait de la carte.<a id=258></a>
 
 ###### Article R229
 
@@ -14248,9 +18479,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R244 (V)
 
 
-#### Chapitre II : Retraite du combattant.<a id=225></a>
+#### Chapitre II : Retraite du combattant.<a id=259></a>
 
-##### Section 1 : Procédure d'attribution.<a id=226></a>
+##### Section 1 : Procédure d'attribution.<a id=260></a>
 
 ###### Article R236
 
@@ -14416,7 +18647,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R251 (Ab)
 
 
-##### Section 2 : Payement de la retraite.<a id=227></a>
+##### Section 2 : Payement de la retraite.<a id=261></a>
 
 ###### Article R243
 
@@ -14480,7 +18711,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R235 (M)
 
 
-##### Section 3 : Citoyens français n'ayant pas servi dans l'armée française.<a id=228></a>
+##### Section 3 : Citoyens français n'ayant pas servi dans l'armée française.<a id=262></a>
 
 ###### Article R246
 
@@ -14673,7 +18904,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R245
 
 
-#### Chapitre III : Mesures d'exécution.<a id=229></a>
+#### Chapitre III : Mesures d'exécution.<a id=263></a>
 
 ###### Article R252
 
@@ -14731,11 +18962,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 
-### Titre II : Statuts des résistants, déportés, internés et réfractaires.<a id=230></a>
+### Titre II : Statuts des résistants, déportés, internés et réfractaires.<a id=264></a>
 
-#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=231></a>
+#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=265></a>
 
-##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=232></a>
+##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=266></a>
 
 ###### Article R254
 
@@ -14892,7 +19123,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L265 (V)
 
 
-##### Section 2 : Droits des combattants volontaires de la Résistance.<a id=233></a>
+##### Section 2 : Droits des combattants volontaires de la Résistance.<a id=267></a>
 
 ###### Article R258
 
@@ -14943,9 +19174,50 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R260 (M)
 
 
-##### Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance.<a id=234></a>
+##### Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance.<a id=268></a>
 
-##### Paragraphe 1 : Commissions.<a id=235></a>
+###### Article R260
+
+Le titre de combattant volontaire de la Résistance est attribué, sur demande ou même d'office, par décision du ministre des
+anciens combattants et victimes de guerre, président du comité d'administration de l'office national des anciens combattants
+et victimes de guerre qui peut déléguer ce pouvoir aux préfets, présidents des offices départementaux conformément aux
+dispositions de l'article A. 159-2.
+
+L'avis des commissions départementales ou de la commission nationale dont la composition est déterminée ci-après est
+préalablement recueilli. Il est délivré au bénéficiaire ou, à défaut, à son ayant cause, une carte spéciale dont les
+caractéristiques sont fixées par arrêté, pris après avis de l'office national des anciens combattants et victimes de guerre,
+qui font l'objet des articles A. 158 et A. 159.
+
+Le temps de présence pris en considération pour l'attribution du titre de combattant volontaire de la Résistance est
+mentionné sur ladite carte à titre indicatif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R255 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R259 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R264 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. R168 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R388 (T)
+  - Code des pensions militaires d'invalidité et des v - art. R389 (T)
+  - Code des pensions militaires d'invalidité et des v - art. R389-4 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R389-5 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A158 (M)
+  - Code des pensions militaires d'invalidité et des v - art. A159-2 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre A159-2, A158, A159
+
+
+##### Paragraphe 1 : Commissions.<a id=269></a>
 
 ###### Article R261
 
@@ -14990,11 +19262,685 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R269 (V)
 
 
-#### Chapitre II : Statut des déportés et internés résistants.<a id=236></a>
+###### Article R264
 
-##### Section 1 : De la qualité de déporté et interné résistant.<a id=237></a>
+Les membres non fonctionnaires des commissions instituées à l'article R. 260 sont indemnisés de leurs frais de déplacement
+dans les conditions fixées par un arrêté ministériel dont les dispositions font l'objet de l'article A. 159-3.
 
-##### Paragraphe 1 : Conditions générales d'obtention du titre.<a id=238></a>
+**Nota:**
+
+Décret n° 2009-1755 du 30 décembre 2009, art 20 : I. ― Les demandes en cours de traitement par les services supprimés sont
+transférées en l'état aux services et organismes repreneurs sans qu'il y ait lieu de renouveler les actes et les formalités
+régulièrement intervenus antérieurement à la date de cessation d'activité de ces services.
+
+II. - Jusqu'aux dates des arrêtés relatifs au transfert de leurs compétences aux services du ministre chargé des anciens
+combattants et victimes de guerre ou aux organismes désignés, les directions interdépartementales des anciens combattants et
+le service des ressortissants résidant à l'étranger situé à Château-Chinon font application des dispositions du présent code
+dans sa version antérieure au présent décret, sauf en ce qui concerne le 1° de l'article 2, le 1° de l'article 4, les 1°, 2°
+et 3° de l'article 6, les 6° et 7° de l'article 8, les 1° et 3° de l'article 9 et les articles 10 à 15 du présent décret qui
+entrent immédiatement en vigueur.
+
+Jusqu'aux dates de transfert de leurs compétences en matière de soins médicaux gratuits au service du ministre chargé des
+anciens combattants et victimes de guerre qui aura été désigné, les directions interdépartementales des anciens combattants
+et le service des ressortissants résidant à l'étranger situé à Château-Chinon font application du décret susvisé du 20
+février 1959 dans sa version antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 18
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A159-3
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R260
+
+
+##### Paragraphe 2 : Demande du titre de combattant volontaire de la Résistance.<a id=270></a>
+
+###### Article R265
+
+Toute personne qui veut obtenir l'attribution du titre de combattant volontaire de la Résistance doit adresser sa demande
+dans le délai fixé à l'article L. 269 :
+
+1° Si elle réside en France, au préfet, président de l'office départemental des anciens combattants et victimes de guerre
+dans la circonscription duquel se trouve cette résidence ;
+
+2° Si elle réside dans un département ou un territoire d'outre-mer ou un autre pays de l'Union française, à l'office national
+des anciens combattants et victimes de guerre ;
+
+3° Si elle réside à l'étranger, à l'office national des anciens combattants et victimes de guerre par l'intermédiaire du
+consulat dont elle relève ;
+
+En cas de décès ou de disparition, la demande peut être présentée dans le même délai, par le conjoint, les ascendants ou les
+descendants et, seulement à défaut de ces derniers, par des autres ayants cause dans l'ordre successoral ; elle doit toujours
+être adressée à l'office national des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L269 (Ab)
+
+
+###### Article R267
+
+Les demandes sont obligatoirement soumises à la commission départementale compétente, qui émet un avis :
+
+Sur le droit à la qualité de combattant volontaire de la Résistance ;
+
+Compte tenu des dispositions de l'article L. 183, sur le grade d'assimilation à attribuer aux combattants volontaires de la
+Résistance pour l'application, soit à eux-mêmes, soit à leurs ayants cause, du titre II du livre II (première partie).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L183 (M)
+
+_Modifié par_:
+
+  - Décret n°1952-09-23 art. 5 JORF 25 septembre 1952
+
+
+###### Article R268
+
+Le ministre des anciens combattants et victimes de guerre saisi, dans les conditions prévues aux articles précédents, d'une
+proposition d'attribution de la carte du combattant volontaire de la Résistance peut, avant décision, soumettre la demande à
+la commission nationale des combattants volontaires de la Résistance.
+
+Outre les cas visés aux articles R. 255 et R. 257, cet avis est obligatoirement recueilli par le ministre des anciens
+combattants et victimes de guerre :
+
+1° Si l'avis de la commission départementale ou de la commission algérienne est défavorable ou si le ministre des anciens
+combattants et victimes de guerre estime ne pas devoir suivre l'avis défavorable de la commission départementale ;
+
+2° Dans tous les cas où l'intéressé étant bénéficiaire du titre II du livre II (1re partie), un grade d'assimilation peut
+être attribué dans les conditions prévues à l'article L. 183.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L183 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R255 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R257 (V)
+
+_Modifié par_:
+
+  - Décret n°1952-09-23 art. 6 JORF 25 septembre 1952
+
+
+##### Section 4 : Conditions d'application aux membres des F.F.L. et aux membres de la Résistance ayant résisté dans les camps de prisonniers ou ayant servi dans les pays d'outre-mer ou en territoires étrangers occupés par l'ennemi.<a id=271></a>
+
+###### Article R269
+
+Le titre de combattant volontaire de la Résistance est attribué pour les catégories de résistants énumérés à la présente
+section, sur demande ou sur l'initiative du ministre des anciens combattants et victimes de guerre [*autorité compétente*],
+dans les cas prévus ci-après, par décision du ministre des anciens combattants et victimes de guerre, président du comité
+d'administration de l'office national des anciens combattants et victimes de guerre, après avis de la commission nationale
+instituée à l'article L. 270, dont la composition, fixée à l'article R. 261, est toutefois modifiée comme il est dit à
+l'article R. 270.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L270 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R261 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R270 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R280 (V)
+
+
+###### Article R270
+
+Lorsqu'elle siège pour l'application des dispositions de la présente section, la commission nationale est complétée par : 
+
+Un représentant du ministre chargé de la France d'outre-mer.
+
+D'autre part, les représentants des FFC, des FFI et de la RIF sont remplacés par : 
+
+Trois membres des FFL, désignés par le       ministre chargé des anciens combattants et victimes de guerre, sur proposition
+des associations intéressées ; 
+
+Deux représentants des prisonniers de guerre, désignés par le       ministre chargé des anciens combattants et victimes de
+guerre, sur proposition des associations intéressées ; 
+
+Un représentant des évadés de guerre, désigné par le       ministre chargé des anciens combattants et victimes de guerre, sur
+proposition des associations intéressées ; 
+
+Deux membres de la Résistance ayant servi dans les départements et territoires d'outre-mer et les autres pays de l'ancienne
+Union française, désignés par le ministre chargé de la France d'outre-mer, sur proposition des représentants de la métropole
+dans ces territoires.
+
+**Nota:**
+
+Décret n° 2009-1755 du 30 décembre 2009, art 20 : I. ― Les demandes en cours de traitement par les services supprimés sont
+transférées en l'état aux services et organismes repreneurs sans qu'il y ait lieu de renouveler les actes et les formalités
+régulièrement intervenus antérieurement à la date de cessation d'activité de ces services.
+
+II. - Jusqu'aux dates des arrêtés relatifs au transfert de leurs compétences aux services du ministre chargé des anciens
+combattants et victimes de guerre ou aux organismes désignés, les directions interdépartementales des anciens combattants et
+le service des ressortissants résidant à l'étranger situé à Château-Chinon font application des dispositions du présent code
+dans sa version antérieure au présent décret, sauf en ce qui concerne le 1° de l'article 2, le 1° de l'article 4, les 1°, 2°
+et 3° de l'article 6, les 6° et 7° de l'article 8, les 1° et 3° de l'article 9 et les articles 10 à 15 du présent décret qui
+entrent immédiatement en vigueur.
+
+Jusqu'aux dates de transfert de leurs compétences en matière de soins médicaux gratuits au service du ministre chargé des
+anciens combattants et victimes de guerre qui aura été désigné, les directions interdépartementales des anciens combattants
+et le service des ressortissants résidant à l'étranger situé à Château-Chinon font application du décret susvisé du 20
+février 1959 dans sa version antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 29 janvier 1990 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R269 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 18
+
+
+##### Paragraphe 1er : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres des forces françaises libres.<a id=272></a>
+
+###### Article R271
+
+A. - La qualité de combattant volontaire de la Résistance est reconnue :
+
+1° Aux membres des FFL qui peuvent prétendre à l'attribution de la carte du combattant en application des dispositions des
+articles R. 224 à R. 228.
+
+Les engagements dans les unités FFL contractés dans un département ou territoire d'outre-mer ou un autre pays de l'ancienne
+Union française par des personnes y résidant ne sont pris en considération que s'ils sont antérieurs soit au ralliement
+desdits territoires tant à l'organisation de la France libre qu'au comité national français de Londres, soit à leur
+libération par les troupes alliées ;
+
+2° Aux membres des FFL qui ont été exécutés, tués ou blessés dans des conditions de nature à ouvrir droit à une pension
+militaire de décès ou d'invalidité.
+
+B. - La qualité de combattant volontaire de la Résistance peut être reconnue, à titre exceptionnel et sur avis favorable de
+la commission nationale, aux personnes ayant accompli pendant quatre-vingt-dix jours au moins, consécutifs ou non, décomptés
+jour par jour, soit dans les FFL, soit dans les organismes relevant tant de l'organisation de la France libre que du comité
+national français de Londres, des services comportant habituellement l'exécution d'actes de résistance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R226 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R224
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R225
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R227
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R228
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R341-4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R341-5 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R272 (V)
+
+
+###### Article R272
+
+Sous réserve des dispositions de l'article R. 280, les demandes doivent être accompagnées des pièces établissant le titre
+auquel elles sont formulées, à savoir notamment :
+
+1° Pour les personnes visées à l'article R. 271 A, 1° :
+
+Une attestation d'appartenance aux FFL précisant la date de l'engagement ;
+
+Les documents établissant leur droit à la carte de combattant ou une copie certifiée conforme de leur carte ;
+
+2° Pour les personnes visées à l'article R. 271, A, 2° :
+
+Une copie certifiée conforme du titre provisoire ou définitif de la pension attribuée soit au demandeur, soit à ses ayants
+cause ;
+
+En l'absence de demande de pension, tous documents propres à établir l'existence du droit à pension ;
+
+3° Pour les personnes visées à l'article R. 271 B :
+
+Une attestation délivrée par l'organe central FFL certifiant la matérialité et la durée des actes de résistance accomplis par
+les intéressés et, le cas échéant, une attestation d'appartenance FFL précisant la date de l'engagement et la durée des
+services.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R271 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R280 (V)
+
+
+##### Paragraphe 2 : De la Résistance dans les camps de prisonniers.<a id=273></a>
+
+###### Article R273
+
+La qualité de combattant volontaire de la Résistance est reconnue aux prisonniers :
+
+1° Qui ont accompli habituellement pendant quatre-vingt-dix jours au moins, consécutifs ou non, décomptés jour par jour,
+avant la libération de leur camp, des actes caractérisés de résistance définis à l'article R. 287 ;
+
+2° Qui, pour acte de résistance, ont subi un transfert, une aggravation ou une prolongation de leur situation, de nature à
+constituer une nouvelle détention ayant pour cause cet acte même de résistance ;
+
+3° Qui ont été exécutés, tués ou blessés, soit dans l'accomplissement d'un des actes de résistance visés aux 1° et 2° ci-
+dessus, soit au cours de leur évasion ou de leur tentative d'évasion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R274 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R275 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R341-6 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R287
+
+
+###### Article R274
+
+En ce qui concerne les prisonniers titulaires de la médaille des évadés, en application des dispositions de la loi du 30
+octobre 1946, il est tenu compte d'une bonification de trente jours dans le calcul des quatre-vingt-dix jours de service dans
+la Résistance exigés à l'article R. 273, 1°, si, dans le délai de six mois après avoir recouvré leur liberté d'action, ils se
+sont mis à la disposition d'une formation à laquelle a été reconnue la qualité d'unité combattante ou ont accompli des actes
+qualifiés de résistance définis à l'article R. 287.
+
+Bénéficient également de la bonification de trente jours prévue ci-dessus, les prisonniers qui, bien qu'ayant échoué dans
+leurs tentatives d'évasion, sont néanmoins titulaires de la médaille des évadés, en application des dispositions de l'article
+3, b, de la loi du 30 octobre 1946 susvisée, sous réserve que, postérieurement à leur dernière tentative d'évasion, ils aient
+accompli des actes caractérisés de résistance définis à l'article R. 287.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-2423 du 30 octobre 1946
+  - Code des pensions militaires d'invalidité et de... - art. R273 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R287
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D341-7 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R275 (V)
+
+
+###### Article R275
+
+Les personnes définies aux articles R. 273 et R. 274 doivent joindre à leur demande, sous réserve, toutefois, des
+dispositions de l'article R. 280, les pièces établissant le titre auquel elles sont formulées, à savoir notamment :
+
+1° Pour les demandeurs visés à l'article R. 273 (1°) :
+
+a) En ce qui concerne la durée et le lieu de captivité, toutes pièces et documents officiels ou de service, délivrés par
+l'autorité militaire ou les organismes habilités ;
+
+b) En ce qui concerne les actes caractérisés de résistance, trois témoignages circonstanciés établis sur l'honneur, par des
+personnes ayant assisté à l'acte de résistance ou y ayant participé ;
+
+2° Pour les demandeurs visés à l'article R. 273 (2°) :
+
+Tous documents officiels ou de service attestant le transfert, l'aggravation ou la prolongation de situation, et, le cas
+échéant, trois témoignages circonstanciés établis sur l'honneur par des personnes ayant assisté à l'acte de résistance ou y
+ayant participé.
+
+L'honorabilité des témoins doit être certifiée :
+
+Dans le territoire d'outre-mer, par le commissaire de police ou le maire ou le représentant local de l'autorité française ;
+
+A l'étranger, par l'autorité consulaire la plus proche ;
+
+3° Pour les demandeurs visés à l'article R. 273 (3°), selon le cas :
+
+Une copie certifiée conforme du titre provisoire ou définitif de la pension attribuée, soit au demandeur, soit à son ayant
+cause ;
+
+En l'absence de demande de pension, tous documents propres à établir l'existence du droit à pension ;
+
+4° Pour les demandeurs visés à l'article R. 274 :
+
+Une copie certifiée conforme du décret portant attribution de la médaille des évadés, ainsi que les pièces prévues au 1°, a,
+du présent article et, selon le cas ;
+
+Les documents attestant l'appartenance à une unité combattante après l'évasion ;
+
+Les pièces prévues au 1°, b, du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R273 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R274 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R280 (V)
+
+
+##### Paragraphe 3 : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres de la Résistance ayant servi dans les départements et pays d'outre-mer ou en territoires étrangers occupés par l'ennemi.<a id=274></a>
+
+###### Article R276
+
+Au titre des services dans la Résistance effectués dans les départements ou pays d'outre-mer ou en territoires étrangers
+occupés par l'ennemi, la qualité de combattant volontaire de la Résistance est reconnue :
+
+1° Aux personnes qui, ayant appartenu pendant trois mois au moins avant la libération desdits départements ou territoires ou
+leur ralliement tant à l'organisation de la France libre qu'au comité national français de Londres, aux FFC dans une zone
+occupée par l'ennemi, auront en outre obtenu l'homologation régulière de leurs services par l'autorité militaire dans les
+conditions fixées au décret n° 366 du 25 juillet 1942 (FFC) ;
+
+2° Aux personnes qui, pouvant justifier dans le cadre des dispositions du décret n° 366 du 25 juillet 1942 de leur
+appartenance à un réseau reconnu par l'autorité militaire au titre des FFC se sont mises avant la libération desdits
+départements ou territoires ou leur ralliement tant à l'organisation de la France libre qu'au comité national français de
+Londres, à la disposition d'une formation de la Résistance à laquelle a été attribuée la qualité d'unité combattante et ont
+effectivement combattu pendant trois mois ;
+
+3° Aux personnes qui ont été exécutées, tuées ou blessées dans des conditions de nature à ouvrir droit à pension militaire de
+décès ou d'invalidité sous réserve que la cause déterminante de ces faits soit un acte caractérisé de résistance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R341-8 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R279 (V)
+
+_Cite_:
+
+  - Décret n°42-366 1942-07-25
+
+
+###### Article R277
+
+La qualité de combattant volontaire de la Résistance est reconnue aux personnes ayant obtenu la médaille des évadés en
+application des dispositions de la loi du 30 octobre 1946, qui remplissent en outre l'une des conditions définies ci-après :
+
+1° Avoir, après leur évasion, servi dans les départements ou pays d'outre-mer dans des conditions leur permettant de
+prétendre à la carte de combattant en application des dispositions des articles R. 224 à R. 228 ;
+
+2° Avoir été exécutées, tuées ou blessées dans des conditions de nature à ouvrir droit à pension militaire de décès ou
+d'invalidité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-2423 du 30 octobre 1946
+  - Code des pensions militaires d'invalidité et de... - art. R224 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R225 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R227 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R226
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R228
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R341-9 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R279 (V)
+
+
+###### Article R278
+
+La qualité de combattant volontaire de la Résistance peut être reconnue, à titre exceptionnel, et sur avis favorable de la
+commission nationale, aux personnes, qui, avant la libération desdits départements ou pays d'outre-mer ou leur ralliement
+tant à l'organisation de la France libre qu'au comité national français de Londres, ont accompli habituellement pendant une
+période de quatre-vingt-dix jours au moins, consécutifs ou non, décomptés jour par jour, des actes caractérisés de
+résistance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R341-10 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R279 (V)
+
+
+###### Article R279
+
+Les personnes définies aux articles R. 276, R. 277 et R. 278 doivent joindre à leur demande, sous réserve toutefois des
+dispositions de l'article R. 280, les pièces établissant le titre auquel elles sont formulées, à savoir notamment :
+
+1° Pour les demandeurs visés à l'article R. 276, 1° :
+
+Une copie certifiée conforme de l'attestation d'appartenance délivrée par l'autorité militaire certifiant la matérialité et
+la durée des services accomplis dans la zone ;
+
+2° Pour les demandeurs visés à l'article R. 276, 2° :
+
+Une copie certifiée conforme de l'attestation d'appartenance délivrée par l'autorité militaire compétente et toutes pièces
+délivrées par cette autorité attestant la participation effective au combat pendant trois mois au moins ;
+
+3° Pour les demandeurs visés à l'article R. 276, 3° :
+
+Une copie certifiée conforme du titre provisoire ou définitif de la pension attribuée soit au demandeur, soit à ses ayants
+cause ;
+
+En l'absence de demande de pension, tous documents propres à établir l'existence du droit à pension ;
+
+4° Pour les demandeurs visés à l'article R. 277 :
+
+Une copie certifiée conforme du décret portant attribution de la médaille des évadés, et, selon le cas :
+
+Soit les documents établissant leur droit à la carte du combattant ou une copie certifiée conforme de leur carte ;
+
+Soit les pièces prévues au 3° ci-dessus ;
+
+5° Pour les demandeurs visés à l'article R. 278 :
+
+Tous documents officiels ou de service tels que rapports ou citations pour les faits et la durée qu'ils mentionnent ou au
+moins deux témoignages circonstanciés attestant sur l'honneur la matérialité ainsi que la durée de l'activité dans la
+résistance et établis par des personnes notoirement connues pour leur activité dans la résistance. Dans le cas de
+témoignages, l'honorabilité des témoins doit être certifiée, s'ils résident à l'étranger, par l'autorité consulaire française
+la plus proche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R276 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R277 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R278 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R280 (V)
+
+
+##### Paragraphe 4 : Dispositions diverses.<a id=275></a>
+
+###### Article R280
+
+Toute demande d'attribution du titre de combattant volontaire de la Résistance ou toute proposition formulée par le ministre
+des anciens combattants et victimes de guerre, en application de l'article R. 269, doit être adressée dans le délai de trois
+ans à compter de la publication du décret n° 51-560 du 5 mai 1951 à l'Office national des anciens combattants et victimes de
+guerre.
+
+Les pièces justificatives peuvent être produites ultérieurement, lorsque l'intéressé a justifié au moment de la présentation
+de sa demande qu'il s'est déjà mis en instance pour les obtenir.
+
+Dans le cas de décès ou de disparition, la demande peut être présentée par le conjoint, les ascendants, les descendants, et,
+seulement à défaut de ces derniers, par les autres ayants cause dans l'ordre successoral.
+
+Il est délivré au bénéficiaire ou, à défaut, à son ayant cause, la carte spéciale dont les caractéristiques sont fixées aux
+articles A. 158 et A. 159-1 et à l'annexe II du titre II du livre III de la quatrième partie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Décret n°51-560 1951-05-05
+  - Code des pensions militaires d'invalidité et des v - art. A158 (M)
+  - Code des pensions militaires d'invalidité et des v - art. A159-1 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R269 (M)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R272 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R275 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R279 (V)
+
+
+###### Article R281
+
+Les dispositions des sections 1, 2 et 3 sont applicables aux bénéficiaires de la présente section, en tant qu'elles ne sont
+pas contraires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+#### Chapitre II : Statut des déportés et internés résistants.<a id=276></a>
+
+##### Section 1 : De la qualité de déporté et interné résistant.<a id=277></a>
+
+##### Paragraphe 1 : Conditions générales d'obtention du titre.<a id=278></a>
 
 ###### Article R286
 
@@ -15136,7 +20082,38 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R296 (V)
 
 
-##### Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant.<a id=239></a>
+###### Article R287 bis
+
+Pour l'application de l'article L. 276 concernant les déportés et internés résistants de la guerre 1914-1918, sont considérés
+comme actes de résistance à l'ennemi, à condition qu'ils aient été accomplis postérieurement au 2 août 1914 et, suivant les
+régions considérées, postérieurement à l'occupation du territoire par l'ennemi, les faits et actes ci-après :
+
+1° Les actes de résistance énumérés au 4° de l'article R. 287 dont la définition est valable pour la période de guerre
+1914-1918, compte tenu des conditions propres à celle-ci ;
+
+2° Le refus de travailler pour l'ennemi, à condition que ce refus ait été sanctionné d'une peine privative de liberté par un
+tribunal allemand et qu'au cours de l'accomplissement de sa peine l'intéressé n'ait pas effectué de travail volontaire pour
+l'ennemi ;
+
+3° Le actes de résistance définis au 5° de l'article R. 287.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R287 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L276
+
+
+##### Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant.<a id=279></a>
 
 ###### Article R289
 
@@ -15401,7 +20378,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R325 (V)
 
 
-##### Paragraphe 3 : Cas d'exclusion.<a id=240></a>
+##### Paragraphe 3 : Cas d'exclusion.<a id=280></a>
 
 ###### Article R297
 
@@ -15439,7 +20416,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L277 (V)
 
 
-##### Section 2 : Droits des déportés et internés résistants.<a id=241></a>
+##### Section 2 : Droits des déportés et internés résistants.<a id=281></a>
 
 ###### Article R298
 
@@ -15530,6 +20507,42 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L280 (V)
 
 
+###### Article R302
+
+Pour le calcul de la période de déportation à prendre en compte au titre de la campagne double, en matière de pensions,
+conformément aux dispositions de l'article L. 281, alinéa 1er, les intéressés sont considérés comme ayant été déportés
+jusqu'à une date fixée :
+
+Pour les déportés libérés par l'ennemi ou évadés :
+
+a) Si la prison ou le camp se trouvait hors du territoire français : à la veille du jour de leur arrivée sur le territoire ;
+
+b) Si la prison ou le camp était situé sur le territoire français ou sur un territoire relevant de l'autorité de la France :
+à la veille du jour de leur départ de ladite prison ou dudit camp ;
+
+Pour les déportés dont l'internement a pris fin en 1945 du fait de l'avance des forces alliées : à la veille du jour de leur
+présentation aux autorités françaises, et en cas d'hospitalisation, à la veille du jour de l'arrivée à l'hôpital, même si
+celui-ci est situé à l'étranger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°51-910 1951-07-09 art. 5 JORF 26 juillet 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L281
+
+
 ###### Article R304
 
 Les dispositions concernant les déportés et internés résistants et relatives aux décorations et aux autres droits et
@@ -15552,9 +20565,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R571
 
 
-##### Section 3 : Procédure d'attribution du titre de déporté et interné résistant.<a id=242></a>
+##### Section 3 : Procédure d'attribution du titre de déporté et interné résistant.<a id=282></a>
 
-##### Paragraphe 1 : Commissions.<a id=243></a>
+##### Paragraphe 1 : Commissions.<a id=283></a>
 
 ###### Article R306
 
@@ -15684,6 +20697,43 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre 306, 307, 308
 
 
+###### Article R311
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°66-851 du 14 novembre 1966, art. 14 v. init.
+
+
+###### Article R312
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°66-851 du 14 novembre 1966, art. 14 v. init.
+
+
+###### Article R312 bis
+
+Abrogé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°51-910 1951-07-09 art. 1 JORF 14 juillet 1951
+
+_Abrogé par_:
+
+  - Décret n°63-522 1963-05-27 art. 2 JORF 30 mai 1963
+
+
 ###### Article R315
 
 Les membres non fonctionnaires des commissions instituées par les articles R. 305 à R. 312 sont indemnisés de leurs frais de
@@ -15705,7 +20755,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre R305 à R312, A164
 
 
-##### Paragraphe 2 : Demande du titre de déporté et interné résistant.<a id=244></a>
+##### Paragraphe 2 : Demande du titre de déporté et interné résistant.<a id=284></a>
 
 ###### Article R319
 
@@ -15776,7 +20826,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R325 (V)
 
 
-##### Paragraphe 3 : Justification du titre de déporté et interné de la Résistance.<a id=245></a>
+##### Paragraphe 3 : Justification du titre de déporté et interné de la Résistance.<a id=285></a>
 
 ###### Article R326
 
@@ -15800,11 +20850,11 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-#### Chapitre III : Statut des déportés et internés politiques.<a id=246></a>
+#### Chapitre III : Statut des déportés et internés politiques.<a id=286></a>
 
-##### Section 1 : De la qualité de déporté et interné politique.<a id=247></a>
+##### Section 1 : De la qualité de déporté et interné politique.<a id=287></a>
 
-##### Paragraphe 1 : Conditions générales d'obtention du titre.<a id=248></a>
+##### Paragraphe 1 : Conditions générales d'obtention du titre.<a id=288></a>
 
 ###### Article R328
 
@@ -15877,7 +20927,7 @@ _Cite_:
   - Ordonnance 1943-07-06
 
 
-##### Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques.<a id=249></a>
+##### Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques.<a id=289></a>
 
 ###### Article R330
 
@@ -16054,7 +21104,7 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et de... - art. R343-6 (V)
 
 
-##### Paragraphe 3 : Cas d'exclusion.<a id=250></a>
+##### Paragraphe 3 : Cas d'exclusion.<a id=290></a>
 
 ###### Article R334
 
@@ -16101,7 +21151,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L265 (V)
 
 
-##### Section 2 : Des droits des déportés et internés politiques.<a id=251></a>
+##### Section 2 : Des droits des déportés et internés politiques.<a id=291></a>
 
 ###### Article R335
 
@@ -16132,9 +21182,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R571
 
 
-##### Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre.<a id=252></a>
+##### Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre.<a id=292></a>
 
-##### Paragraphe 1 : Commissions.<a id=253></a>
+##### Paragraphe 1 : Commissions.<a id=293></a>
 
 ###### Article R337
 
@@ -16294,6 +21344,88 @@ _Abrogé par_:
   - Décret n°66-851 1966-11-14 art. 14 JORF 19 novembre 1966
 
 
+###### Article R343-2
+
+Il est institué pour les départements du Haut-Rhin, du Bas-Rhin et de la Moselle une commission interdépartementale
+itinérante, chargée de formuler un avis sur les demandes de qualification émanant des personnes visées à l'article L. 286 2°.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R343-4 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L286-2
+
+
+###### Article R343-3
+
+La composition de cette commission, ainsi que les conditions de son fonctionnement, seront fixées par arrêté du ministre des
+anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+
+###### Article R343-4
+
+Le délégué interdépartemental du ministre des anciens combattants et victimes de guerre statue sur les demandes de
+qualification, après avis de la commission visée à l'article R. 343-2.
+
+Dans les deux mois suivant la notification de la décision du délégué, les intéressés ou leurs ayants cause peuvent formule un
+recours hiérarchique devant le ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R343-2 (Ab)
+
+
+###### Article R343-5
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°52-1057 1952-09-12 art. 1 JORF 14 septembre 1952
+
+_Abrogé par_:
+
+  - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
+
+
 ###### Article R344
 
 Abrogé.
@@ -16309,7 +21441,66 @@ _Abrogé par_:
   - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
 
 
-##### Paragraphe 2 : Demande de titre de déporté et interné politique.<a id=254></a>
+###### Article R344 bis
+
+Abrogé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°53-269 1953-03-27 art. 1 JORF 2 avril 1953
+
+_Abrogé par_:
+
+  - Décret n°63-522 1963-05-27 art. 8 JORF 30 mai 1963
+
+
+###### Article R345
+
+Les membres non fonctionnaires des commissions instituées par les articles R. 336 à R. 344 bis sont indemnisés de leurs frais
+de déplacement dans les conditions fixées par arrêté interministériel dont les dispositions font l'objet de l'article A.
+165-3.
+
+**Nota:**
+
+Décret n° 2009-1755 du 30 décembre 2009, art 20 : I. ― Les demandes en cours de traitement par les services supprimés sont
+transférées en l'état aux services et organismes repreneurs sans qu'il y ait lieu de renouveler les actes et les formalités
+régulièrement intervenus antérieurement à la date de cessation d'activité de ces services.
+
+II. - Jusqu'aux dates des arrêtés relatifs au transfert de leurs compétences aux services du ministre chargé des anciens
+combattants et victimes de guerre ou aux organismes désignés, les directions interdépartementales des anciens combattants et
+le service des ressortissants résidant à l'étranger situé à Château-Chinon font application des dispositions du présent code
+dans sa version antérieure au présent décret, sauf en ce qui concerne le 1° de l'article 2, le 1° de l'article 4, les 1°, 2°
+et 3° de l'article 6, les 6° et 7° de l'article 8, les 1° et 3° de l'article 9 et les articles 10 à 15 du présent décret qui
+entrent immédiatement en vigueur.
+
+Jusqu'aux dates de transfert de leurs compétences en matière de soins médicaux gratuits au service du ministre chargé des
+anciens combattants et victimes de guerre qui aura été désigné, les directions interdépartementales des anciens combattants
+et le service des ressortissants résidant à l'étranger situé à Château-Chinon font application du décret susvisé du 20
+février 1959 dans sa version antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 18
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A165-3
+
+
+##### Paragraphe 2 : Demande de titre de déporté et interné politique.<a id=294></a>
 
 ###### Article R347
 
@@ -16417,7 +21608,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R349 (V)
 
 
-##### Paragraphe 3 : Justification du titre de déporté et interné politique.<a id=255></a>
+##### Paragraphe 3 : Justification du titre de déporté et interné politique.<a id=295></a>
 
 ###### Article R351
 
@@ -16436,9 +21627,1429 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-### Titre III : Droits et avantages accessoires.<a id=256></a>
+#### Chapitre IV : Statut des réfractaires.<a id=296></a>
 
-#### Chapitre III : Décorations et insignes.<a id=257></a>
+##### Section 1 : Bénéficiaires.<a id=297></a>
+
+###### Article R352
+
+Sont considérées comme réfractaires les personnes qui, avant le 6 juin 1944, en cherchant à affaiblir le potentiel de guerre
+de l'ennemi  :
+
+1° Ayant fait l'objet d'un ordre de réquisition résultant des actes, dont la nullité a été expressément constatée, dits loi
+du 4 septembre 1942, décret du 19 septembre 1942, loi du 16 février 1943, loi du 1er février 1944, ont volontairement
+abandonné leur entreprise ou le siège de leur activité ou, à défaut d'être employées dans une entreprise ou d'exercer une
+activité, leur résidence habituelle, pour ne pas répondre à cet ordre ;
+
+2° Ayant été, à la suite d'un ordre de réquisition ou comme victimes de rafles, dirigées sur un lieu de travail, se sont
+soustraites par évasion à leur affectation ;
+
+3° Ayant été l'objet d'un ordre de réquisition ou victimes de rafles, ont été envoyées en pays ennemi, en territoires
+étrangers occupés par l'ennemi, ou en territoire français annexé par l'ennemi, mais volontairement n'y sont pas retournées à
+l'issue de leur première permission ;
+
+4° N'ayant pas reçu d'ordre de réquisition, mais inscrites sur les listes de main-d'oeuvre ou appartenant à des classes de
+mobilisation susceptibles d'être requises, se sont dérobées préventivement en abandonnant leur entreprise ou le siège de leur
+activité ou, à défaut d'être employées dans une entreprise ou d'exercer une activité, leur résidence habituelle.
+
+Les personnes visées ci-dessus doivent, en outre, à la suite de leur refus de se soumettre ou de leur soustraction préventive
+aux lois sur le STO, avoir vécu en marge des lois de Vichy et avoir été l'objet de recherches ou de poursuites de
+l'administration française ou allemande.
+
+Les demandes des personnes qui, domiciliées dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle avant l'annexion
+de fait, ont fait l'objet d'une mesure de réquisition ne résultant pas de l'application des actes mentionnés au 1° du présent
+article, sont soumises pour examen à la commission nationale prévue à l'article R. 356. A titre exceptionnel, les personnes
+domiciliées dans les autres départements et requises dans les mêmes conditions peuvent obtenir le bénéfice des dispositions
+du présent chapitre après avis de ladite commission nationale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°1942-09-19
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R356
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-3 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R354 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R360 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R361 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R363 (Ab)
+
+
+###### Article R353
+
+Sont également considérées comme réfractaires les personnes qui, domiciliées dans les départements du Bas-Rhin, du Haut-Rhin
+et de la Moselle avant l'annexion de fait, ont, en cherchant à affaiblir le potentiel de guerre de l'ennemi :
+
+a) Soit abandonné leur résidence habituelle pour ne pas répondre à un ordre effectif de mobilisation dans les formations
+militaires ou paramilitaires allemandes dont la liste est établie par arrêté du ministre des anciens combattants et victimes
+de guerre dont les dispositions font l'objet des articles A. 166 et A. 167 ;
+
+b) Soit abandonné leur résidence habituelle alors que, faisant partie des classes mobilisables par les autorités allemandes
+et effectivement mobilisées par ces dernières par la suite, elles couraient le risque d'être incorporées de force dans les
+formations militaires ou paramilitaires allemandes susdites ;
+
+c) Soit quitté volontairement les formations militaires ou paramilitaires allemandes susdites dans lesquelles elles avaient
+été incorporées de force :
+
+Avant le 6 juin 1944, lorsque ces formations étaient cantonnées ou engagées en France, sauf dans les territoires annexés ;
+
+Avant la libération ou la conquête du territoire où ces formations étaient cantonnées ou engagées, dans tous les autres cas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R355 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R360 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R361 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R363 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A166 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A167 (V)
+
+
+###### Article R354
+
+La période pendant laquelle les personnes visées aux articles R. 352 et R. 353 peuvent prétendre au titre de réfractaires
+commence à courir, selon les catégories considérées :
+
+Soit à la date de départ portée sur l'ordre de réquisition ou sur l'ordre de mobilisation ;
+
+Soit à la date de leur évasion ;
+
+Soit à la date d'expiration de leur première permission en France ;
+
+Soit à la date à laquelle elles auraient été, si elles ne s'étaient dérobées préventivement, contraintes de répondre à un
+ordre effectif de mobilisation ou de réquisition ou, à défaut d'un tel ordre, à la date à laquelle elles ont commencé à être
+l'objet de recherches ou de poursuites.
+
+Cette période prend fin au plus tard à la date de libération du territoire de la commune de refuge sauf, en ce qui concerne
+les personnes visées à l'article R. 353 c, et s'il y a lieu, à la date de leur rapatriement en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R352 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R353 (Ab)
+
+
+###### Article R355
+
+Ne peuvent prétendre au bénéfice de l'application du présent chapitre, les personnes désignées aux articles L. 299 et L. 300
+et notamment, en ce qui concerne celles visées à l'article R. 353, celles qui ont appartenu à un moment quelconque à une
+formation politique nationale-socialiste.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-6 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L299 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L300 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L299
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L300
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R353
+
+
+##### Section 2 : Procédure d'attribution du titre de réfractaire.<a id=298></a>
+
+###### Article R356
+
+Le titre de réfractaire est attribué, sur demande, par décision du ministre des anciens combattants et victimes de guerre,
+qui peut déléguer ses pouvoirs aux préfets, l'avis de la commission départementale ou, le cas échéant, de la commission
+nationale, dont la composition est déterminée ci-après, étant préalablement recueilli.
+
+Il est délivré au bénéficiaire, ou à défaut à son ayant cause, une carte dont les caractéristiques seront fixées par arrêté
+du ministre des anciens combattants et victimes de guerre pris après avis de l'office national des anciens combattants et
+victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R352 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R365 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R367 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R395-2 (V)
+
+
+###### Article R357
+
+La commission nationale prévue à l'article L. 307 comprend :
+
+D'une part :
+
+Le directeur de l'office national des anciens combattants et victimes de guerre ou son représentant, président ;
+
+Le directeur du contentieux, de l'état civil et des recherches ou son représentant ;
+
+Le directeur des pensions et des services médicaux ou son représentant ;
+
+Un représentant du ministre du travail ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ministre de l'économie et des finances ;
+
+Deux représentants de la Résistance intérieure française (R.I.F.) désignés par arrêté conjoint du ministre des anciens
+combattants et victimes de guerre et du ministre de la défense nationale, sur proposition de la commission nationale
+d'homologation de la Résistance intérieure française.
+
+D'autre part :
+
+Huit représentants des associations nationales intéressées, savoir :
+
+Six représentants des groupements nationaux les plus représentatifs de réfractaires ;
+
+Deux représentants des groupements d'Alsaciens et de Mosellans intéressés.
+
+Ces huit représentants sont désignés par arrêté du ministre des anciens combattants et victimes de guerre, sur proposition du
+groupement intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. R369 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L307 (M)
+
+
+###### Article R361
+
+Les demandes doivent être accompagnées des pièces susceptibles d'établir la qualité de réfractaire, à savoir notamment :
+
+1° Pour les personnes visées à l'article R. 352 (1°) :
+
+a) Une copie certifiée conforme de l'ordre de réquisition ou une attestation de l'entreprise qui a reçu cet ordre précisant
+que l'intéressé, employé dans ses services, a quitté le travail après avoir reçu un ordre de réquisition ou indiquant que les
+services français ou allemands ont prélevé, dans son entreprise, un certain nombre de travailleurs en vue d'un départ pour
+l'Allemagne, ou pour un territoire occupé ou annexé par les Allemands, et que l'intéressé figurait parmi eux. A défaut, il
+est produit un certificat du maire de la commune mentionnant ces renseignements.
+
+Ces pièces n'auront pas à être fournies si elles l'ont été en vue de l'obtention d'une attestation de la qualité de
+réfractaire délivrée antérieurement par la direction départementale du travail et de la main-d'oeuvre. Dans ce cas, la copie
+certifiée conforme de ladite attestation est versée au dossier ;
+
+b) Un certificat officiel témoignant de la résidence effective au lieu de refuge mentionné et de la durée du séjour en ce
+lieu ;
+
+c) Un certificat délivré par le préfet, indiquant que l'intéressé a été l'objet de poursuites ou de recherches de
+l'administration française ou allemande ou, à défaut, deux témoignages circonstanciés attestant sur l'honneur la matérialité
+des poursuites ou recherches dont l'intéressé a été l'objet ;
+
+2° Pour les personnes visées à l'article R. 352 (2°) :
+
+Les pièces visées au 1° (a) du présent article ;
+
+Ces pièces n'auront pas à être produites si elles l'ont été en vue de l'obtention d'un certificat modèle A ou M, délivré
+antérieurement par le ministre des anciens combattants et victimes de guerre. Dans ce cas, la copie certifiée conforme dudit
+certificat est versée au dossier ;
+
+Deux témoignages circonstanciés attestant sur l'honneur la matérialité de l'évasion et un récit de l'évasion par le requérant
+lui-même ;
+
+Les certificats visés au 1° (b et c) du présent article ;
+
+3° Pour les personnes visées à l'article R. 352 (3°) :
+
+Les pièces visées au 1° (a) du présent article, sous les réserves indiquées au 2° du présent article, pour les mêmes pièces ;
+
+Le certificat visé au 1° (b) du présent article ;
+
+Une copie certifiée conforme de la mise en demeure d'avoir à rejoindre le lieu de travail émanant des autorités allemandes ou
+françaises, ou toutes autres pièces officielles adressées par les mêmes autorités ou à défaut, soit un certificat délivré par
+le préfet indiquant que l'intéressé a été l'objet de poursuites et de recherches de l'administration française ou allemande,
+soit deux témoignages circonstanciés attestant sur l'honneur la matérialité des poursuites ou recherches dont l'intéressé a
+été l'objet ;
+
+4° Pour les personnes visées à l'article R. 352 (4°) :
+
+L'attestation de la qualité de réfractaire délivrée par le directeur départemental du travail et de la main-d'oeuvre ou un
+duplicata de cette attestation ;
+
+Un certificat de l'entreprise indiquant la date de cessation du travail ou un certificat du maire de la commune mentionnant
+ce renseignement ;
+
+Le certificat visé au 1° (b) du présent article ;
+
+Un certificat délivré par le préfet indiquant que l'intéressé a été l'objet de poursuites ou de recherches de
+l'administration française ou allemande ;
+
+5° Pour les personnes visées à l'article R. 353 (a) :
+
+Une copie certifiée conforme de l'ordre d'appel ou une attestation du maire de la résidence au moment de l'appel, certifiant
+que l'intéressé appartenait à une classe mobilisable dans le département et a fait l'objet d'un ordre effectif d'appel dans
+une formation militaire ou paramilitaire allemande ;
+
+Les certificats visés au 1° (b et c) du présent article ;
+
+6° Pour les personnes visées à l'article R. 353 (b) :
+
+Un certificat délivré par le maire de la résidence de l'intéressé à l'époque où il s'est dérobé, attestant que celui-ci
+appartenait à une classe qui, dans le département en cause, a fait l'objet d'un ordre d'appel ;
+
+Un certificat de l'entreprise ou de l'établissement scolaire indiquant la date de cessation du travail ou des études ou un
+certificat du maire de la commune mentionnant ce renseignement ;
+
+Les certificats visés au 1° (b et c) du présent article ;
+
+7° Pour les personnes visées à l'article R. 353 (c) :
+
+Une copie certifiée conforme du livret militaire allemand ou de l'état signalétique et des services ;
+
+Une copie certifiée conforme de la fiche de démobilisation établie par les autorités militaires françaises mentionnant l'acte
+d'évasion ;
+
+Une copie certifiée conforme par le maire ou le commissaire de police de pièces officielles de recherches de l'évadé de
+l'armée allemande ;
+
+Le certificat visé au 1° (b) du présent article.
+
+Ce certificat doit, en outre, préciser qu'il s'agit bien d'un évadé d'une formation militaire ou paramilitaire allemande et
+non d'un affecté spécial, ni d'un réformé, ou, à défaut de ces précisions, être accompagné de deux témoignages sur l'honneur
+de personnes ayant appartenu à la même unité au moment de l'évasion indiquant les circonstances, le lieu et la date de celle-
+ci.
+
+8° En cas de décès ou de disparition :
+
+Outre les pièces examinées, à raison de la catégorie à laquelle appartenait le défunt ou le disparu, visées aux 1° à 7° ci-
+dessus :
+
+Un acte de décès.
+
+Dans tous les cas, outre les pièces énumérées ci-dessus, les demandeurs doivent obligatoirement produire une déclaration sur
+l'honneur attestant qu'ils ne tombent pas sous le coup des dispositions de l'article L. 299.
+
+Les personnes visées à l'article R. 353 produisent en plus une attestation sur l'honneur, certifiant qu'elles n'ont pas
+appartenu à une formation politique nationale-socialiste.
+
+Toutes les fois qu'il s'agit de témoignages, l'honorabilité des témoins doit être certifiée :
+
+S'ils résident en France ou dans un pays d'outre-mer, par le commissaire de police ou le maire ou le représentant local de la
+France ;
+
+S'ils résident à l'étranger, par l'autorité consulaire française compétente.
+
+Les pièces justificatives prévues au présent article peuvent être produites postérieurement au dépôt des demandes de carte,
+lorsque les intéressés ont justifié, au moment de leur présentation, qu'ils se sont déjà mis en instance pour les obtenir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R362 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L299 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R352 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R353 (V)
+
+
+###### Article R362
+
+Les demandes sont obligatoirement soumises à la commission départementale compétente qui émet un avis sur la qualité de
+réfractaire après étude des dossiers qui lui sont adressés. Elle apprécie, le cas échéant, la valeur de tous documents que
+les intéressés auraient cru devoir joindre à leur demande lorsque ceux-ci sont dans l'impossibilité de fournir une ou
+plusieurs des pièces mentionnées à l'article R. 361.
+
+Dans les cas douteux et à défaut d'autres moyens, il peut être procédé par les soins des préfets à toute enquête jugée
+nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R361 (V)
+
+
+###### Article R363
+
+Sans préjudice des dispositions du présent chapitre qui prévoient que l'avis de la commission nationale doit être
+obligatoirement recueilli par le ministre des anciens combattants et victimes de guerre, cet avis est également exigé :
+
+1° Si, en cas de décision de rejet, une réclamation a été formulée par l'intéressé dans le délai de deux mois suivant la
+notification de la décision ;
+
+2° Si le dossier examiné concerne une personne, actuellement domiciliée hors du Bas-Rhin, du Haut-Rhin et de la Moselle, qui
+se trouvait dans ces départements lorsqu'elle remplissait l'une des conditions définies aux articles R. 352 et R. 353.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R352 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R353 (V)
+
+
+##### Section 3 : Droits des réfractaires.<a id=299></a>
+
+###### Article R364
+
+Les réfractaires ou, en cas de décès, leurs ayants cause ont droit, le cas échéant, à une pension au titre de la législation
+régissant les victimes civiles de guerre.
+
+Les réfractaires ayant participé à la Résistance dans les conditions fixées à l'article L. 172 ou, en cas de décès, leurs
+ayants cause ont droit à une pension militaire soit d'invalidité, soit de décès.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L172
+
+
+###### Article R365
+
+Le temps pendant lequel les bénéficiaires du présent chapitre peuvent être considérés comme réfractaires est mentionné sur la
+carte prévue à l'article R. 356.
+
+A cet effet, toute attribution de carte de réfractaire donne lieu à une notification à l'autorité militaire dont relèvent
+immédiatement les intéressés, comportant les éléments indispensables à la régularisation de leur situation militaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R356
+
+
+###### Article R366
+
+Les dispositions relatives aux prêts et aux décorations concernant les réfractaires font l'objet des articles R. 391-2 et R.
+395-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R391-2
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R395-2
+
+
+##### Section 4 : Dispositions diverses.<a id=300></a>
+
+###### Article R367
+
+Il ne peut être justifié du titre de réfractaire qu'en produisant la carte prévue à l'article R. 356. Cette carte a force
+probante, au lieu et place de tous certificats, attestations ou cartes délivrés précédemment.
+
+Toutefois, les attestations délivrées aux réfractaires par les directeurs départementaux du travail et de la main-d'oeuvre
+resteront provisoirement valables pour l'application des textes législatifs et réglementaires antérieurs à la publication de
+la loi du 22 août 1950, jusqu'à une date qui sera fixée par arrêté du ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°50-1027 1950-08-22
+  - Code des pensions militaires d'invalidité et des v - art. R356 (M)
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+
+###### Article R368
+
+En application des dispositions de l'article L. 319 bis, le ministre des anciens combattants et victimes de guerre peut,
+après avis de la commission nationale, procéder au retrait des cartes de réfractaire dont la décision d'attribution est
+reconnue mal fondée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L319 bis (V)
+
+
+###### Article R369
+
+Un arrêté interministériel fixe les conditions dans lesquelles sont indemnisés de leurs frais de déplacement les membres non
+fonctionnaires des commissions instituées aux articles R. 357 et R. 358.
+
+**Nota:**
+
+Décret n° 2009-1755 du 30 décembre 2009, art 20 : I. ― Les demandes en cours de traitement par les services supprimés sont
+transférées en l'état aux services et organismes repreneurs sans qu'il y ait lieu de renouveler les actes et les formalités
+régulièrement intervenus antérieurement à la date de cessation d'activité de ces services.
+
+II. - Jusqu'aux dates des arrêtés relatifs au transfert de leurs compétences aux services du ministre chargé des anciens
+combattants et victimes de guerre ou aux organismes désignés, les directions interdépartementales des anciens combattants et
+le service des ressortissants résidant à l'étranger situé à Château-Chinon font application des dispositions du présent code
+dans sa version antérieure au présent décret, sauf en ce qui concerne le 1° de l'article 2, le 1° de l'article 4, les 1°, 2°
+et 3° de l'article 6, les 6° et 7° de l'article 8, les 1° et 3° de l'article 9 et les articles 10 à 15 du présent décret qui
+entrent immédiatement en vigueur.
+
+Jusqu'aux dates de transfert de leurs compétences en matière de soins médicaux gratuits au service du ministre chargé des
+anciens combattants et victimes de guerre qui aura été désigné, les directions interdépartementales des anciens combattants
+et le service des ressortissants résidant à l'étranger situé à Château-Chinon font application du décret susvisé du 20
+février 1959 dans sa version antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 18
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R357
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R358
+
+
+#### Chapitre V : Statut des personnes contraintes au travail.<a id=301></a>
+
+##### Section 1 : Bénéficiaires.<a id=302></a>
+
+###### Article R370
+
+Bénéficient des dispositions du présent chapitre :
+
+a) Les Français ou ressortissants des pays d'outre-mer au sens de l'article L. 137, les étrangers dont les pays ont conclu un
+accord de réciprocité avec la France en matière de réparations à accorder aux victimes de guerre, les réfugiés statutaires
+qui, ayant fait l'objet d'un ordre de réquisition résultant des actes, dont la nullité a été expressément constatée, dits
+lois du 24 septembre 1942, décret du 19 septembre 1942, loi du 16 février 1943, loi du 1er février 1944, ou victimes de
+rafles, ont été contraints de quitter le territoire national et astreints au travail dans les pays ennemis ou occupés par
+l'ennemi ;
+
+b) Les Français ou ressortissants des pays d'outre-mer, les étrangers et les réfugiés statutaires visés à l'alinéa a du
+présent article qui ont été transférés par contrainte dans les mêmes conditions et astreints au travail dans les départements
+du Bas-Rhin, du Haut-Rhin et de la Moselle ou dans les territoires annexés par l'Allemagne au cours de la guerre.
+
+Les demandes des personnes victimes de rafles et des personnes qui, domiciliées dans les départements du Bas-Rhin, du Haut-
+Rhin et de la Moselle avant l'annexion de fait, ont fait l'objet d'une mesure de réquisition les éloignant de leur domicile
+prise en application d'autres actes que ceux mentionnés à l'alinéa a) du présent article, sont soumises, pour examen, à la
+commission nationale prévue à l'article R. 374. A titre exceptionnel, les personnes domiciliées dans les autres départements
+et requises dans les mêmes formes peuvent bénéficier des dispositions du présent chapitre, après avis de ladite commission
+nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-13 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R371 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R381 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R386 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R377 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L137
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R374
+  - Décret n°1942-09-19
+
+
+###### Article R371
+
+Le bénéfice des dispositions du présent chapitre est subordonné à la condition que la contrainte prévue à l'article R. 370
+ait été subie pendant au moins trois mois. Cette période commence à courir à la date à laquelle la contrainte est devenue
+effective. Elle prend fin au moment où ils ont recouvré leur liberté, au plus tard à la fin de leur permission, si à cette
+date, ils ont rempli, par suite de leur refus de repartir pour le lieu de travail, les conditions prévues pour obtenir le
+bénéfice des dispositions du chapitre IV du titre II du livre III de la première partie du code portant statut du
+réfractaire, ou à la date de leur rapatriement lorsque celui-ci est intervenu moins de trois mois après le 8 mai 1945. En cas
+de rapatriement postérieur à cette date, leur dossier est obligatoirement soumis à la commission nationale prévue à l'article
+R. 374.
+
+Aucune condition de durée n'est exigée en cas d'évasion, de rapatriement sanitaire ou de décès.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R344-14 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R370
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R374
+
+
+###### Article R372
+
+Ne peuvent prétendre au bénéfice de l'application du présent chapitre les individus visés à l'article L. 312.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L312
+
+
+##### Section 2 : Procédure de reconnaissance des droits.<a id=303></a>
+
+###### Article R373
+
+La qualité de bénéficiaire du chapitre V du titre II du livre III (1re partie) est reconnue, sur demande, par le ministre des
+anciens combattants et victimes de guerre qui peut déléguer ses pouvoirs aux préfets.
+
+L'avis de la commission départementale et, le cas échéant, de la commission nationale, dont les compositions sont déterminées
+aux articles R. 374 et R. 375 est préalablement recueilli. Il est, délivré au bénéficiaire ou, à défaut, à son ayant cause,
+une carte dont les caractéristiques seront fixées par arrêté du ministre des anciens combattants et victimes de guerre pris
+après avis de l'office national des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R386 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R387 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R395-3 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R374 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R375 (M)
+
+
+###### Article R374
+
+La commission nationale prévue à l'article L. 317 comprend :
+
+D'une part :
+
+Le directeur de l'office des anciens combattants et victimes de guerre ou son représentant, président ;
+
+Le directeur du contentieux, de l'état civil et des recherches ou son représentant ;
+
+Le directeur des pensions et des services médicaux ou son représentant ;
+
+Un représentant du ministre du travail ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ministre de l'économie et des finances.
+
+D'autre part :
+
+Six représentants des associations intéressées, savoir :
+
+Un représentant des groupements d'Alsaciens et Mosellans intéressés ;
+
+Cinq représentants des groupements nationaux les plus représentatifs des autres personnes visées au présent chapitre.
+
+Ces six représentants sont désignés par arrêté du ministre des anciens combattants et victimes de guerre sur la proposition
+du groupement intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. R370 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R371 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R387 bis (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R373 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L317 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L317 (M)
+
+
+###### Article R378
+
+Les demandes doivent être accompagnées des pièces susceptibles d'établir la qualité de bénéficiaire du présent chapitre, à
+savoir notamment :
+
+Une copie certifiée conforme de l'ordre de réquisition ou une attestation de l'entreprise qui a reçu cet ordre, précisant que
+l'intéressé employé dans ses services a quitté son travail après avoir reçu un ordre de réquisition ou indiquant que les
+services français ou allemands ont prélevé dans son entreprise un certain nombre de travailleurs en vue d'un départ pour
+l'Allemagne ou pour un territoire occupé ou annexé par les Allemands et que l'intéressé figurait parmi eux. A défaut, il est
+produit un certificat du maire de la commune mentionnant ces renseignements.
+
+Ces pièces n'auront pas à être produites si elles l'ont été en vue de l'obtention d'un certificat modèle A ou M délivré
+antérieurement par le ministère des anciens combattants et victimes de guerre. Dans ce cas, la copie certifiée conforme dudit
+certificat est versée au dossier.
+
+A ces pièces doivent être joints :
+
+En cas d'évasion ou de défection au terme d'une permission : deux témoignages circonstanciés attestant sur l'honneur la
+matérialité de l'évasion ou de la défection et un récit de l'évasion par le requérant lui-même ; l'honorabilité des témoins
+doit être certifiée :
+
+S'ils résident en France ou dans les pays d'outre-mer, par le commissaire de police ou le maire ou le représentant local de
+la France ;
+
+S'ils résident à l'étranger, par l'autorité consulaire compétente ;
+
+En cas de rapatriement sanitaire : le bulletin de retour délivré par les autorités ennemies ou, à défaut, un certificat du
+maire de la commune attestant la matérialité du retour et mentionnant la raison de ce retour ;
+
+En cas de décès : un acte de décès ;
+
+En ce qui concerne les personnes domiciliées dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle et y exerçant
+leur activité, qui ont été contraintes au travail dans les conditions fixées à l'article R. 370, dernier alinéa, une
+déclaration souscrite par le demandeur attestant sur l'honneur qu'il n'a pas appartenu à une formation politique nationale-
+socialiste.
+
+Les pièces justificatives présentées par les intéressés doivent mentionner les dates pouvant servir à fixer le début et la
+fin de la période de contrainte. La copie certifiée conforme de la carte de rapatriement est jointe au dossier. Ces pièces
+peuvent être produites postérieurement au dépôt des demandes de carte, lorsque les intéressés ont justifié, au moment de leur
+présentation, qu'ils se sont déjà mis en instance pour les obtenir.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre annexe, R370
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R379 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R381 (Ab)
+
+
+###### Article R379
+
+Les demandes sont obligatoirement soumises à la commission départementale compétente qui émet un avis sur le droit à la
+qualité de bénéficiaire des dispositions du présent chapitre, après étude des dossiers qui lui sont adressés. Elle apprécie,
+le cas échéant, la valeur de tous documents que les intéressés auraient cru devoir joindre à leur demande lorsque ceux-ci
+sont dans l'impossibilité de fournir une ou plusieurs des pièces mentionnées à l'article R. 378.
+
+Dans les cas douteux ou à défaut d'autres moyens, il peut être procédé, par les soins des préfets, à toute enquête jugée
+nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R378 (V)
+
+
+###### Article R380
+
+Sans préjudice des dispositions du présent chapitre qui prévoient que l'avis de la commission nationale doit être
+obligatoirement recueilli par le ministre des anciens combattants et victimes de guerre, cet avis est également exigé :
+
+1° Si, en cas de décision de rejet, une réclamation a été formulée par l'intéressé dans le délai de deux mois suivant la
+notification de la décision ;
+
+2° Si le dossier examiné concerne un Alsacien ou un Mosellan domicilié à l'époque hors du Bas-Rhin, du Haut-Rhin et de la
+Moselle qui a été affecté au travail dans ces trois départements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+
+##### Section 3 : Droits des bénéficiaires du présent chapitre.<a id=304></a>
+
+###### Article R381
+
+Pour les personnes contraintes au travail au sens de l'article L. 309, dont la qualité est reconnue compte tenu des
+justifications exigées en application des dispositions des articles R. 378 et R. 379, les infirmités résultant des blessures
+de toutes sortes ou de maladies imputables soit directement, soit par aggravation, à la période de contrainte visée à
+l'article R. 370 sont réputées effets directs ou indirects de la guerre et ouvrent droit à pension au titre de la législation
+régissant les victimes civiles de la guerre.
+
+Les dispositions de l'alinéa précédent sont applicables :
+
+a) Aux ressortissants français de la métropole et des territoires d'outre-mer et aux autochtones des pays d'outre-mer au sens
+de l'article L. 137 du Code des pensions ;
+
+b) Aux étrangers dont les pays ont conclu des accords de réciprocité avec la France ;
+
+c) Aux réfugiés statutaires en France auxquels la législation relative aux pensions des victimes civiles de guerre a été
+étendue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R379 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L137
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L309
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R370
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R378
+
+
+###### Article R382
+
+Lorsque les intéressés n'apportent pas la preuve que leurs infirmités sont imputables à la période de contrainte et que
+l'administration n'apporte pas la preuve contraire, la présomption d'origine leur est appliquée dans les conditions prévues
+aux alinéas 7, 8, 9 et 10 de l'article L. 3.
+
+En tout état de cause, la preuve de la filiation entre les infirmités constatées dans les délais de présomption et les
+infirmités invoquées doit être médicalement établie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R383 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L3
+
+
+###### Article R383
+
+Les ayants cause des personnes contraintes au travail ont droit à pension dans les conditions fixées par la législation
+régissant les victimes civiles de la guerre :
+
+a) Lorsque le décès, survenu au cours de la période de contrainte, est de ce fait légalement présumé imputable à la
+contrainte imposée par l'ennemi, sauf preuve contraire ;
+
+b) Lorsque le décès, survenu après le rapatriement, est la conséquence d'infirmités constatées dans les délais et conditions
+prévues aux alinéas 7, 8, 9 et 10 de l'article L. 3 et aurait ouvert droit à la présomption d'origine définie à l'article R.
+382 ;
+
+c) Lorsque le décès, survenu après le rapatriement, est imputable à une infirmité pensionnée ou ayant ouvert droit à pension,
+soit par preuve, soit par présomption au titre de l'article R. 382.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R143-2 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R382 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L3
+
+
+###### Article R384
+
+En vue de faire valoir le droit qui leur est reconnu à l'article L. 314, une attestation est délivrée aux intéressés, sur
+leur demande, par le ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L314 (V)
+
+
+###### Article R385
+
+Les dispositions relatives aux décorations concernant les personnes contraintes au travail font l'objet de l'article R.
+391-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R391-3
+
+
+##### Section 4 : Dispositions diverses.<a id=305></a>
+
+###### Article R386
+
+La carte et l'insigne prévus respectivement aux articles R. 373 et R. 391-3 peuvent être attribués, au titre de la guerre
+1914-1918, sur leur demande et selon les mêmes modalités, aux Français, aux ressortissants des pays d'outre-mer, aux
+étrangers dont les pays ont conclu un accord de réciprocité avec la France et aux apatrides ayant commencé à résider en
+France avant le 2 août 1914, qui ont été contraints, dans les conditions fixées à l'article R. 370 de quitter le territoire
+national et astreints au travail dans les pays ennemis ou occupés par l'ennemi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R370 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R373
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R391-3
+
+
+###### Article R387
+
+La carte prévue à l'article R. 373 a force probante au lieu et place de tous certificats, attestations ou cartes délivrés
+précédemment et notamment des certificats modèle A délivrés aux intéressés et des certificats modèle M délivrés à leurs
+ayants cause.
+
+Toutefois, ces certificats restent provisoirement valables pour l'application des textes législatifs et réglementaires
+antérieurs à la publication de la loi n° 51-538 du 14 mai 1951, jusqu'à une date qui sera fixée par arrêté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Loi n°51-538 du 14 mai 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R373
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D344-19 (V)
+
+
+###### Article R387 bis
+
+Un arrêté interministériel fixera les conditions dans lesquelles seront indemnisés de leurs droits de déplacement les membres
+non fonctionnaires des commissions instituées aux articles R. 374 et R. 375.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R374
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R375
+
+
+### Titre III : Droits et avantages accessoires.<a id=306></a>
+
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=307></a>
+
+##### Section 1 : Prêts.<a id=308></a>
+
+###### Article R388
+
+Pour l'examen des demandes présentées par des combattants volontaires de la Résistance, le comité départemental de prêts
+prévus aux articles 2 à 6 de l'ordonnance n° 45-2255 du 5 octobre 1945 est composé comme suit :
+
+Le trésorier-payeur général ou son représentant, président ;
+
+Le directeur de la succursale de la Banque de France ou son représentant ;
+
+Le directeur départemental des contributions directes ou son représentant ;
+
+Le secrétaire général de l'office départemental des anciens combattants et victimes de guerre ou son représentant ;
+
+Soit le président de la chambre de commerce siégeant au chef-lieu du département ou, à défaut de chambre de commerce au chef-
+lieu, le président d'une chambre de commerce désignée par le préfet ;
+
+Soit, lorsque le demandeur est un artisan, le président de la chambre des métiers ;
+
+En cas d'empêchement, le président de la chambre compétente peut se faire représenter par un membre de ladite chambre ;
+
+Le président de la commission interprofessionnelle départementale patronale de commerce, de l'industrie ou de l'artisanat
+instituée par arrêté ministériel du 30 novembre 1944 ou son représentant ;
+
+Un combattant volontaire de la Résistance désigné par la commission départementale prévue à l'article R. 260, de préférence
+parmi les membres de la commission qualifiée du conseil d'administration de l'office départemental, et, s'il s'agit d'une
+entreprise sinistrée, le délégué départemental du ministère de l'équipement et du logement ou son représentant ;
+
+A titre consultatif, le président de la banque populaire dont la circonscription comprend la localité où s'exerce l'activité
+du demandeur ou son représentant.
+
+Dans le département de Paris, le comité départemental est présidé par le receveur central des finances de Paris ou son
+représentant. Les représentants de la Banque de France et l'administration des contributions directes et du crédit populaire
+sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des imp<cb>ts et la chambre
+syndicale des banques populaires.
+
+</cb>
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1944-11-20
+  - Arrêté 1944-11-30
+  - Ordonnance 45-2255 1945-10-05 art. 2, art. 3, art. 4, art. 5, art. 6
+  - Ordonnance n°45-2255 du 5 octobre 1945 - art. 6, v. init.
+  - Code des pensions militaires d'invalidité et des v - art. R260 (M)
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Transféré par_:
+
+  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R391-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R389-4 (M)
+
+
+###### Article R389
+
+Le comité départemental des prêts prévu à l'article 3 de l'ordonnance du 17 octobre 1944 et à l'article 14 de l'ordonnance n°
+45-2468 du 20 octobre 1945 est composé comme suit :
+
+Le directeur départemental des services agricoles ou son représentant, président ;
+
+Le trésorier-payeur général ou son représentant, vice-président ;
+
+Le président de chacune des caisses régionales de crédit agricole mutuel du département ou son représentant ;
+
+Le secrétaire général de l'office départemental des anciens combattants et victimes de guerre ou son représentant ;
+
+L'ingénieur en chef ou l'ingénieur du génie rural de la circonscription ou son représentant ;
+
+Le directeur départemental des contributions directes ou son représentant ;
+
+Un représentant de la fédération départementale des syndicats d'exploitants agricoles désigné par le préfet ;
+
+Le président de la commission agricole départementale des prisonniers et déportés instituée par l'arrêté ministériel du 20
+novembre 1944 ;
+
+Un combattant volontaire de la Résistance désigné par la commission départementale prévue à l'article R. 260, de préférence
+parmi les membres de la commission qualifiée du conseil d'administration de l'office départemental ;
+
+Si la demande de prêt est déposée par un artisan rural, le président de la chambre de métiers ou son représentant ;
+
+Si la demande de prêt est présentée par un agriculteur sinistré, le délégué départemental du ministère de la construction et
+de l'urbanisme ou son représentant ;
+
+S'il s'agit d'un prêt d'installation et d'aménagement du foyer des ouvriers agricoles et des compagnons d'artisanat rural, le
+directeur départemental de la population ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1944-11-20
+  - Ordonnance 45-2468 1945-10-20 art. 14
+  - Code des pensions militaires d'invalidité et des v - art. R260 (M)
+  - Ordonnance 1944-10-17 art. 3
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Transféré par_:
+
+  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R391-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R389-5 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R389-5 (V)
+
+
+###### Article R390
+
+Pour l'application aux combattants volontaires de la Résistance des dispositions de l'ordonnance n° 45-2695 du 2 novembre
+1945, il est adjoint aux membres de la commission de reclassement prévue à l'article 1er de ladite ordonnance un combattant
+volontaire de la Résistance, désigné par la commission nationale prévue à l'article R. 260, de préférence parmi les membres
+de la commission compétente du comité d'administration de l'office national des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-2695 du 2 novembre 1945
+  - Code des pensions militaires d'invalidité et de... - art. R260 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article R391-1
+
+Avant d'être soumis pour décision au comité d'attribution des prêts ou à la banque populaire, les dossiers de demandes de
+prêts constitués en application des articles L. 327, 4° et L. 333, 3°, sont examinés, pour avis, par un comité restreint
+composé du secrétaire général de l'office départemental, d'un combattant volontaire de la Résistance de la commission
+qualifiée prévue aux articles précédents et, selon le cas, soit du président de la commission interprofessionnelle
+départementale patronale du commerce, de l'industrie et de l'artisanat, soit du président de la commission agricole
+départementale des prisonniers de guerre et déportés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L327 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L333 (M)
+
+
+###### Article R391-2
+
+Pour l'examen des demandes présentées par des réfractaires, les comités départementaux des prêts prévus aux articles 2 à 6 de
+l'ordonnance du 5 octobre 1945, à l'article 3 de l'ordonnance du 17 octobre 1944 ou à l'article 14 de l'ordonnance n° 45-2468
+du 20 octobre 1945 sont composés comme il est dit aux articles R. 388 et R. 389 ; toutefois, le combattant volontaire de la
+Résistance y figurant est remplacé par un réfractaire. Celui-ci est désigné par la commission départementale visée à
+l'article R. 358, de préférence parmi les membres de la commission qualifiée du conseil d'administration de l'office
+départemental.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R366 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R358 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R388 (T)
+  - Code des pensions militaires d'invalidité et des v - art. R389 (T)
+  - Ordonnance 1944-10-17 art. 3
+  - Ordonnance 45-2255 1945-10-05 art. 2, art. 3, art. 4, art. 5, art. 6
+  - Ordonnance n°45-2255 du 5 octobre 1945 - art. 6, v. init.
+  - Ordonnance 45-2468 1945-10-20 art. 14
+
+
+##### Section 2 : Pécule et indemnisations diverses.<a id=309></a>
+
+###### Article R391-4
+
+La perception de cette indemnité comporte la renonciation à toute demande ultérieure d'indemnisation complémentaire, au
+bénéfice de l'article L. 340.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L340
+
+
+###### Article R391-5
+
+Sont admis au bénéfice des dispositions de la présente section :
+
+1° Les déportés et internés résistants ou politiques en possession de leur carte définitive délivrée par le ministère des
+anciens combattants et victimes de guerre, en application des textes régissant le statut définitif des déportés et internés
+résistants ou politiques ;
+
+2° Les ayants cause, désignés ci-après, les déportés et internés résistants ou politiques décédés ;
+
+Le conjoint survivant, non remarié, quel que soit le régime matrimonial,
+
+ou à défaut et dans l'ordre suivant :
+
+Les descendants ;
+
+Les ascendants ;
+
+qui ont opté pour le mode d'indemnisation précité et sont en possession de la carte de déporté et interné résistant ou
+politique délivrée, à titre posthume, au nom du décédé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article R391-6
+
+Les demandes d'indemnisation sont présentées :
+
+Pour la métropole, aux délégués interdépartementaux du ministre des anciens combattants et victimes de guerre ;
+
+Pour les territoires d'outre-mer, aux représentants du ministre des anciens combattants et victimes de guerre du territoire
+considéré, qui ont instruit les demandes d'attribution des cartes définitives de déportés ou d'internés et dont l'indication
+est portée au verso des cartes délivrées.
+
+Lorsque les demandes ont été instruites par l'administration centrale du ministère des anciens combattants et victimes de
+guerre, les demandes d'indemnisation sont présentées directement à ce département.
+
+Les demandes d'indemnisation ne peuvent faire état des dommages couverts par la législation sur les dommages de guerre et les
+spoliations.
+
+A chaque demande doit être jointe la justification du préjudice subi du fait de l'arrestation, dont une évaluation sommaire
+est faite [*charge de la preuve*].
+
+Tous moyens de preuve sont admis, et notamment le témoignage des personnes visées aux articles 268 et 283 du Code de
+procédure civile, à l'exclusion de celles condamnées à une peine afflictive ou infamante ou à une peine correctionnelle pour
+cause de vol.
+
+Les attestations ou témoignages doivent être certifiés sur l'honneur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code de procédure civile 268, 283
+
+
+###### Article R391-7
+
+Tout retrait de carte de déporté et interné politique, effectué dans les conditions prévues à l'article L. 319 bis, entraîne
+le remboursement de l'indemnité perçue en application de la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L319 bis (V)
+
+
+###### Article R391-8
+
+Ne sont pas admises au bénéfice de la présente section les personnes visées aux articles L. 277 et L. 294.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L265 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L277
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L294
+
+
+#### Chapitre III : Décorations et insignes.<a id=310></a>
 
 ###### Article R392
 
@@ -16529,9 +23140,2557 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre A186-3, A186-4
 
 
-### Titre IV : Pupilles de la nation.<a id=258></a>
+###### Article R395-2
 
-#### Chapitre Ier : Reconnaissance du droit au titre de pupille de la nation.<a id=259></a>
+Les réfractaires bénéficiaires du chapitre IV du titre II du livre III ont droit au port d'un insigne dont le modèle sera
+défini par arrêté du ministre des anciens combattants et victimes de guerre.
+
+La carte visée à l'article R. 356 vaut autorisation du port de l'insigne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R366 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R356 (M)
+
+
+###### Article R395-3
+
+Les personnes contraintes au travail bénéficiaires du chapitre V du titre II du livre III ont droit au port d'un insigne dont
+le modèle sera défini par arrêté du ministre des anciens combattants et victimes de guerre.
+
+La carte visée à l'article R. 373 vaut autorisation du port de l'insigne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R373 (M)
+
+
+#### Chapitre IV : Emplois réservés.<a id=311></a>
+
+##### Section 1 : Attribution des emplois mentionnés aux tableaux annexés au présent chapitre (3e partie).<a id=312></a>
+
+##### Paragraphe 1 : Enumération et conditions générales d'attribution des emplois réservés.<a id=313></a>
+
+###### Article R396
+
+Les dispositions relatives aux emplois réservés s'appliquent aux bénéficiaires visés aux articles L. 393 à L. 396. En ce qui
+concerne les bénéficiaires désignés aux articles L. 397 à L. 401, ces mêmes dispositions sont applicables, sous réserve des
+indications particulières contenues dans les tableaux annexés au présent chapitre (3e partie), aux militaires et marins
+engagés ou rengagés ayant accompli au moins quatre années de présence effective sous les drapeaux et aux militaires et marins
+visés à l'article L. 398.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 18 mars 2010 - art. 2 (V)
+  - Arrêté du 5 août 2011 - art. 2 (V)
+  - Arrêté du 28 juin 2012 - art. 2 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L397 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L398 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L399 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L400 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L401 (V)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L393 à L396, L397, L399, L400, L401, L398
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R400
+
+La jouissance des droits civiques et une bonne moralité sont exigées de tous les candidats. Ces derniers doivent, en outre,
+posséder la nationalité française depuis cinq ans au moins.
+
+Toutefois, conformément aux dispositions des articles 82 et 83 de l'ordonnance n° 45-2441 du 19 octobre 1945 portant Code de
+la nationalité française ne sont pas soumis à cette dernière règle ;
+
+a) Le naturalisé qui a accompli effectivement dans l'armée française le temps de service actif correspondant aux obligations
+de sa classe d'âge ;
+
+b) Le naturalisé qui a servi cinq ans dans l'armée française ou celui qui, en temps de guerre, a contracté un engagement
+volontaire dans les armées françaises ou alliées ;
+
+c) Le naturalisé qui, en temps de guerre, a servi dans l'armée française et à qui la qualité de combattant a été reconnue
+conformément aux dispositions des articles R. 224 à R. 228 ;
+
+d) Le naturalisé qui a rendu à la France des services exceptionnels ou celui dont la naturalisation présente pour la France
+un intérêt exceptionnel et qui a été relevé de l'incapacité prévue à l'alinéa 3° de l'article 81 du Code de la nationalité
+française.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 45-2441 1945-10-19 art. 82, art. 83
+  - Code de la nationalité 81
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R225 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R226 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R228 (V)
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L397 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. R404 (V)
+  - Code du travail - art. R323-101 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### Paragraphe 2 : Instruction des demandes - Aptitudes exigées.<a id=314></a>
+
+##### A -Instruction des demandes.<a id=315></a>
+
+###### Article R401
+
+Le candidat remet sa demande d'emploi réservé :
+
+a) A son chef de corps ou de service s'il s'agit d'un militaire présent sous les drapeaux ;
+
+b) Au maire de sa résidence dans tous les autres cas.
+
+Un arrêté conjoint du ministre chargé de la fonction publique, du ministre des anciens combattants et victimes de guerre et
+du ministre d'Etat chargé de la défense nationale, dont les dispositions font l'objet de l'article A. 190-1, fixe la liste
+des pièces qui doivent constituer les dossiers de demandes d'emplois réservés.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R456 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A190-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R404
+
+Dès réception des demandes et après enquête, s'il y a lieu, le délégué interdépartemental du ministère des anciens
+combattants et victimes de guerre transmet au ministre des anciens combattants et victimes de guerre les dossiers révélant
+une inaptitude morale caractérisée. Le ministre fait examiner les dossiers sans délai. Si, à la suite de cet examen, il
+estime que le candidat ne remplit pas la condition de moralité exigée à l'alinéa 1er de l'article R. 400, il prend une
+décision de rejet qu'il adresse au délégué interdépartemental du ministère des anciens combattants et victimes de guerre et
+que ce dernier notifie au candidat.
+
+Si le ministre estime qu'il convient d'instruire la demande, il en informe le délégué interdépartemental en lui renvoyant le
+dossier.
+
+Dans ce cas, la décision du ministre tendant à faire poursuivre l'instruction de la demande ne préjuge pas la décision
+définitive qui sera prise ultérieurement, après avis de la commission de classement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R400 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### B - Aptitude physique.<a id=316></a>
+
+###### Article R405
+
+Le certificat d'aptitude physique aux emplois réservés est délivré par une commission composée de trois membres : deux
+médecins civils désignés par le préfet, dont un exerçant les fonctions de président ; un invalide ou une veuve de guerre
+désignés par l'office départemental des anciens combattants et victimes de guerre. Les médecins sont choisis de préférence
+parmi les victimes de guerre, les anciens combattants et les membres des groupements de Résistance.
+
+Les visites médicales sont organisées au chef-lieu de chaque département, à la diligence des délégués interdépartementaux
+suivant les instructions que ces fonctionnaires reçoivent du ministre des anciens combattants et victimes de guerre.
+Toutefois, le ministre peut exceptionnellement désigner une ville autre que le chef-lieu.
+
+Le candidat peut se présenter à la visite accompagné de son médecin. Ce dernier n'intervient pas dans l'examen médical, mais
+il peut présenter toutes observations orales ou écrites.
+
+Le 20 décembre de chaque année, l'office départemental des anciens combattants et victimes de guerre de chaque département
+notifie au délégué interdépartemental du ministère des anciens combattants et victimes de guerre compétent, les noms et
+adresses des invalides et des veuves de guerre qu'il a désignés à l'effet de siéger, pendant l'année suivante, dans la
+commission.
+
+Le 1er novembre de chaque année, le préfet demande aux chefs de service qui représentent dans son département les
+administrations visées aux tableaux annexés au présent chapitre (3e partie) de lui faire parvenir la liste des médecins
+civils susceptibles de siéger dans la commission.
+
+Le 20 décembre de chaque année, le préfet notifie au délégué interdépartemental du ministère des anciens combattants et
+victimes de guerre compétent les noms et adresses des médecins civils qu'il a choisis dans cette liste, les uns comme
+présidents titulaires ou suppléants, les autres comme membres titulaires ou suppléants.
+
+La présence de deux membres est nécessaire pour la validité des opérations.
+
+Lorsqu'un candidat sollicite plusieurs emplois, il est statué, au cours d'une seule séance, sur l'aptitude physique de
+l'intéressé à exercer tous les emplois sollicités, même si ces emplois appartiennent à des groupes ou à des administrations
+différents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. L407 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R423 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R425 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R433 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R435 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R459 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R460 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R406 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R471 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R406
+
+Le certificat d'aptitude physique, délivré à la suite de la visite médicale, indique l'état de santé du candidat en donnant,
+éventuellement, la description détaillée de la blessure ou de l'infirmité dont il est atteint.
+
+La commission apprécie l'aptitude ou l'inaptitude des candidats à l'emploi ou aux emplois et précise, en outre, s'ils sont
+aptes à l'ensemble des emplois du groupe dans lequel figurent les emplois sollicités.
+
+Pour la détermination de l'aptitude d'un candidat aux divers emplois, il est tenu compte de toutes les infirmités dont il est
+atteint, qu'elles aient ou non ouvert droit à pension.
+
+Le certificat d'aptitude physique, revêtu des signatures des médecins et de l'invalide ou de la veuve de guerre, est établi
+en double exemplaire ; un exemplaire est remis à l'intéressé à l'issue de la visite médicale, l'autre exemplaire est envoyé
+sans délai au délégué interdépartemental qui instruit la demande d'emploi réservé.
+
+En vue de permettre l'application du dernier alinéa de l'article L. 409, le candidat qui désire en bénéficier doit préciser
+dans sa demande qu'il est auxiliaire à temps complet ou titularisé en exécution des dispositions sur la titularisation des
+auxiliaires.
+
+Le délégué interdépartemental, saisi d'une telle demande, se met en relation avec le chef de l'administration dont relève
+l'emploi occupé et celui dont relève l'emploi postulé, aux fins d'obtenir les précisions prévues à l'article L. 409.
+
+Si l'emploi occupé et l'emploi postulé relèvent de la même administration, le chef de cette dernière établit une attestation
+constatant :
+
+1° Que le candidat à l'emploi réservé occupe ou non un poste d'auxiliaire à temps complet ou a bénéficié de la titularisation
+en exécution des dispositions relatives à la titularisation des auxiliaires ;
+
+2° Que l'emploi postulé est ou n'est pas de même nature que l'emploi provisoirement confié à l'intéressé.
+
+La même procédure est adoptée si l'emploi postulé est un emploi groupé au sens du troisième alinéa de l'article D. 313.
+
+Si l'emploi occupé ne relève pas de la même administration que l'emploi postulé, le délégué interdépartemental demande au
+chef de l'administration qui emploie le candidat une attestation constatant :
+
+1° Que le candidat à l'emploi réservé occupe ou non un poste d'auxiliaire à temps complet ou qu'il a été titularisé en
+exécution des dispositions relatives à la titularisation des auxiliaires ;
+
+2° La nature des fonctions provisoirement confiées à l'intéressé.
+
+Le délégué interdépartemental adresse, en communication l'attestation ci-dessus au chef de l'administration dont relève
+l'emploi postulé. Il lui demande si l'emploi occupé est de même nature que l'emploi postulé eu égard à l'aptitude physique
+que requiert son exercice.
+
+Lorsque les réponses ci-dessus sont affirmatives, le candidat n'est pas soumis, pour les emplois qu'elles concernent, aux
+visites médicales prévues à l'article R. 405. Dans ce cas, le délégué interdépartemental établit en double exemplaire un
+certificat constatant que le candidat est dispensé desdites visites. Un exemplaire de ce certificat est envoyé aux candidats,
+l'autre est annexé au dossier avec la ou les attestations ci-dessus prévues.
+
+Les candidats visés au présent article demeurent en tout état de cause tributaires des dispositions de l'avant-dernier alinéa
+de l'article R. 433.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R433 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D313 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L409 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R405 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R407
+
+En cas de réclamation du candidat contre la décision de la commission, il est procédé à une nouvelle expertise.
+
+La réclamation doit être présentée dans un délai de quinze jours après l'examen médical. Elle est adressée, par pli
+recommandé, au délégué interdépartemental du ministère des anciens combattants et victimes de guerre. Ce dernier désigne
+alors, sur la liste présentée par le préfet et visée à l'article R. 405, deux médecins autres que ceux qui ont procédé au
+premier examen médical et soumet la réclamation et le dossier initial à l'examen de la commission ainsi modifiée.
+
+La réunion de cette commission est provoquée par le délégué interdépartemental compétent. Le président de cette commission
+remet au délégué interdépartemental du ministère des anciens combattants et victimes de guerre un certificat d'aptitude ou
+d'inaptitude physique motivé comme il est dit à l'article R. 406.
+
+Si le certificat d'aptitude physique est de nouveau refusé pour le ou les emplois pour lesquels le candidat avait réclamé une
+nouvelle expertise, un dossier sommaire, constitué au nom du candidat, est envoyé au ministre des anciens combattants et
+victimes de guerre qui fait connaître sa décision au délégué interdépartemental, à charge pour lui de la notifier à
+l'intéressé.
+
+En ce qui concerne les emplois comportant une aptitude physique spéciale signalés dans les tableaux sous une rubrique
+particulière, les épreuves d'aptitude physique sont subies dans les conditions fixées aux articles R. 423 à R. 426.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L407 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R433 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R462 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R405 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R406 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R423 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R424 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R425 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R426 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### C - Aptitude professionnelle.<a id=317></a>
+
+###### Article R409
+
+L'examen commun de première catégorie comprend les épreuves suivantes :
+
+A. - Compositions écrites.
+
+1° Une composition française rédigée en quatre heures sur un sujet général (coefficient : 4) ;
+
+2° Une note rédigée en deux heures sur des éléments de droit administratif, de législation financière et de droit civil
+(coefficient : 2) ;
+
+3° Une épreuve d'une durée de deux heures comportant le résumé d'un texte législatif ou réglementaire complété par de courtes
+réponses à des questions posées par l'application de ce texte. Cette épreuve ne devra pas faire appel à des connaissances
+administratives ou juridiques autres que celles figurant au programme de l'examen (coefficient : 1) ;
+
+4° Des épreuves facultatives comportant la traduction effectuée sans dictionnaire d'un ou de deux textes rédigés dans des
+langues étrangères figurant sur une liste dressée par l'arrêté prévu à l'article R. 451 (coefficient : 2). Il est accordé
+deux heures pour chaque traduction aux candidats désirant subir ces épreuves facultatives.
+
+Les épreuves ont un caractère anonyme.
+
+B. - Epreuves orales.
+
+1° Une interrogation de dix minutes après une préparation de dix minutes sur l'organisation générale des pouvoirs publics
+ainsi que le programme de droit prévu pour la deuxième épreuve écrite (coefficient : 3) ;
+
+2° Une conversation d'une durée de dix minutes avec le jury sur un ou plusieurs sujets de caractère général (coefficient :
+2).
+
+Peuvent seuls être autorisés à se présenter aux épreuves orales les candidats qui, quelles que soient les notes obtenues aux
+épreuves écrites facultatives, ont obtenu une note égale ou supérieure à la moyenne dans l'ensemble des épreuves écrites
+obligatoires.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R464 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R451 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R411
+
+L'examen commun de troisième catégorie comporte les épreuves suivantes :
+
+a) Compositions écrites :
+
+1° Dictée simple de vingt lignes environ, comptant également comme épreuve d'écriture ;
+
+2° Rédaction d'un rapport simple ;
+
+3° Deux problèmes simples sur l'arithmétique ou le système métrique.
+
+Il est accordé vingt minutes pour la première composition et une heure pour chacune des deux suivantes.
+
+Les épreuves écrites ont un caractère anonyme ;
+
+b) Interrogations orales sur la géographie de la France et de l'Union française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R464 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R412
+
+L'examen commun de quatrième catégorie comporte les épreuves suivantes :
+
+1° Dictée simple, environ cinq lignes ;
+
+2° Quatre opérations d'arithmétique simple (addition, soustraction, multiplication, division).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R412 bis
+
+Pour les emplois relevant de la cinquième catégorie, la commission d'examen doit s'assurer que le candidat sait lire, écrire
+et compter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R413
+
+Le résultat de chaque épreuve prévue pour les examens communs des première, deuxième, troisième et quatrième catégories est
+constaté par un chiffre de 0 à 10, ce chiffre étant affecté d'un coefficient. Sont seuls considérés comme ayant satisfait aux
+épreuves les candidats qui ont obtenu au moins 50 % du maximum des points prévus pour l'ensemble des épreuves obligatoires.
+Toute note inférieure à 4 sur 10 pour la dictée et à 3 sur 10 pour les autres épreuves est éliminatoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R415
+
+Les candidats qui ont obtenu au moins la moitié du maximum des points prévu pour l'ensemble des épreuves écrites de l'examen
+de 1re catégorie visé à l'article R. 414, sans note éliminatoire, sont déclarés admissibles. La commission centrale en dresse
+la liste qui est signée par le président ou le secrétaire.
+
+Le procès-verbal des opérations est signé par le président et les membres de la commission et adressé au ministre des anciens
+combattants et victimes de guerre en même temps que la liste des candidats admissibles.
+
+Les candidats admissibles résidant en France sont convoqués à Paris, huit jours à l'avance, par le président de la commission
+centrale, pour les épreuves orales qui sont subies devant ladite commission.
+
+Sont également applicables aux examens de 1re catégorie les règles prévues à l'article R. 419.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R414
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R419
+
+
+###### Article R421
+
+Les sujets des épreuves écrites des examens communs sont choisis par le ministre des anciens combattants et victimes de
+guerre pour les première et deuxième catégories, et par les commissions chargées de délivrer le certificat d'aptitude
+professionnelle en ce qui concerne les troisième, quatrième et cinquième catégories.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R465 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### D - Aptitude physique spéciale et aptitude technique spéciale.<a id=318></a>
+
+###### Article R423
+
+Les épreuves d'aptitude physique et technique spéciales, visées aux articles R. 407, alinéa final et R. 408, alinéa 3, sont
+subies devant les administrations ou entreprises intéressées. Les postulants à ces emplois sont dispensés de se présenter,
+soit devant les commissions prévues à l'article R. 405 (aptitude physique), soit devant les commissions chargées de délivrer
+le certificat d'aptitude professionnelle aux autres emplois, soit devant les unes et les autres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R426 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R459 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R408 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R405
+
+
+###### Article R424
+
+Le délégué interdépartemental du ministère des anciens combattants et victimes de guerre saisi des demandes tendant à
+l'obtention d'emploi nécessitant des aptitudes physiques et techniques spéciales, avise de ces candidatures dans les dix
+jours qui suivent la fin de chaque trimestre le chef de l'administration ou de l'entreprise ou, le cas échéant, le délégué
+local désigné par ces administrations ou entreprises en vertu de l'article R. 426 pour leur permettre d'organiser les
+épreuves d'aptitudes spéciales.
+
+Les candidats ayant déposé leur demande entre le 1er octobre d'une année et le 30 septembre de l'année suivante doivent avoir
+subi les épreuves d'aptitudes spéciales au plus tard le 10 décembre de cette dernière année.
+
+Le chef de l'administration ou de l'entreprise saisi de candidatures à un emploi comportant des aptitudes spéciales avise le
+délégué interdépartemental des anciens combattants et victimes de guerre, au moins dix jours à l'avance, des jour, heure et
+lieu où le candidat doit se présenter pour subir les épreuves d'aptitude technique spéciale.
+
+Le ministre des anciens combattants et victimes de guerre peut charger son représentant d'assister aux épreuves et d'en
+dresser le compte rendu.
+
+Lorsque le ministre des anciens combattants et victimes de guerre décide d'établir, dans le courant d'une année, une liste
+provisoire complémentaire pour les emplois visés au présent article, il fixe, outre les emplois pour lesquels la mesure est
+prévue, la date limite de présentation des demandes d'emplois susceptibles d'être retenues dans cette liste et la date limite
+à laquelle les candidats devront avoir subi les épreuves d'aptitude spéciale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R408 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R426
+
+
+###### Article R425
+
+Dans le délai de vingt et un jours après la dernière épreuve, le chef de l'administration ou de l'entreprise en cause adresse
+en double exemplaire, au délégué interdépartemental du ministère des anciens combattants et victimes de guerre compétent, les
+certificats concernant le candidat et concluant l'un, soit à l'aptitude, soit à l'inaptitude physique spéciale, et l'autre
+soit à l'aptitude soit à l'inaptitude technique spéciale.
+
+Un exemplaire de chacun de ces certificats est envoyé au candidat par le délégué interdépartemental du ministère des anciens
+combattants et victimes de guerre.
+
+Si le certificat d'aptitude physique spécial est refusé au candidat, celui-ci peut demander une contre-expertise. Cette
+demande doit être adressée au délégué interdépartemental du ministère des anciens combattants et victimes de guerre, par pli
+recommandé, dans le délai de quinze jours qui suit la réception par le candidat du certificat concluant à l'inaptitude
+physique spéciale.
+
+Le délégué interdépartemental du ministère des anciens combattants et victimes de guerre fait alors examiner l'intéressé par
+une commission constituée dans les conditions prévues à l'article R. 405 du présent chapitre. Toutefois, le médecin civil qui
+n'exerce pas les fonctions de président est remplacé, dans ce cas, autant que possible, par un médecin résidant dans le
+département attaché à l'administration ou entreprise intéressée ou à des administrations ou entreprises similaires.
+
+Les prescriptions contenues dans les troisième, quatrième et cinquième alinéas de l'article R. 407 sont appliquées aux cas de
+ce genre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 18 septembre 1991 - art. 4 (V)
+  - Arrêté du 10 janvier 2002 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R426 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R461 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R408 (V)
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R405
+
+
+###### Article R426
+
+Les administrations et entreprises intéressées peuvent habiliter, à titre permanent ou provisoire, des autorités locales de
+la métropole ou d'outre-mer pour assurer, dans chaque département, en leur nom, l'application des dispositions des articles
+R. 423, R. 424 et R. 425. Lesdites autorités se réfèrent à la lettre de délégation qu'elles ont reçue lorsqu'elles délivrent
+ou refusent les certificats d'aptitude physique ou technique spéciales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R424 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R408 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R423
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R425
+
+
+##### Paragraphe 3 : Constitution et transmission des dossiers.<a id=319></a>
+
+###### Article R427
+
+Dans les dix jours qui suivent la fin des examens, les délégués interdépartementaux du ministère des anciens combattants et
+victimes de guerre adressent au ministre des anciens combattants et victimes de guerre :
+
+1° La liste des candidats qui n'ont pas obtenu le certificat d'aptitude professionnelle ; cette liste indique, pour chaque
+candidat, le motif de la non-obtention dudit certificat ;
+
+2° La liste des candidats qui ont obtenu le certificat d'aptitude professionnelle ;
+
+3° Les dossiers des candidats qui ont obtenu le certificat d'aptitude professionnelle complétés dudit certificat et du
+certificat d'aptitude physique.
+
+Pour l'application des dispositions du présent article, le président de la commission centrale se substitue au délégué
+interdépartemental du ministère des anciens combattants et victimes de guerre en ce qui concerne les emplois de la première
+catégorie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R428
+
+Lorsqu'un candidat, qui a postulé plusieurs emplois, n'a satisfait aux épreuves que pour certains d'entre eux, il peut
+demander dès réception du résultat des épreuves et dans les cinq jours qui suivent cette réception, qu'il soit sursis à
+l'envoi de son dossier jusqu'à ce qu'il ait pu se présenter une deuxième fois au cours de sessions ultérieures aux épreuves
+auxquelles il a échoué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### Paragraphe 4 : Classement des candidats.<a id=320></a>
+
+###### Article R429
+
+La commission instituée en vertu de l'article L. 411 se réunit tous les trois mois et propose au ministère des anciens
+combattants et victimes de guerre le reclassement des candidats pour chaque emploi.
+
+Sont considérés comme anciens combattants au regard de la législation sur les emplois réservés :
+
+1° Les titulaires de la carte du combattant instituée par l'article L. 253 ;
+
+2° Les invalides de la guerre 1939-1945 qui ont obtenu de l'office national des anciens combattants et victimes de guerre la
+délivrance d'un certificat tenant provisoirement lieu de carte du combattant.
+
+Le classement est opéré de la façon suivante :
+
+I. - Candidats figurant sur les listes de classement publiées au cours de l'année 1939 ou qui auraient obtenu leur classement
+au titre du troisième trimestre de l'année 1939.
+
+II. - Candidats nouveaux.
+
+Dans chacune de ces deux catégories, les candidats sont classés dans l'ordre suivant :
+
+A. - Invalides de guerre titulaires de la carte du combattant ou à l'égard desquels l'office national des anciens combattants
+et victimes de guerre a délivré le certificat provisoire susvisé et bénéficiaires des dispositions de l'article L. 432,
+alinéa 1er.
+
+A'. - Bénéficiaires des dispositions dudit article L. 432, mais non titulaires de la carte du combattant ou de l'attestation
+visée à l'alinéa A.
+
+B. - Invalides de guerre, titulaires de la carte du combattant ou du certificat visé à l'alinéa A ci-dessus et bénéficiaires
+des dispositions de l'article L. 430 ou des dispositions de l'article L. 436.
+
+B'. - Bénéficiaires des dispositions des articles L. 430 et L. 436, mais non titulaires de la carte du combattant ou du
+certificat provisoire visé à l'alinéa A.
+
+C. - Officiers, sous-officiers et hommes de troupe des armées de terre, de l'air et de mer, titulaires de la carte du
+combattant ou du certificat visé à l'alinéa A ci-dessus et bénéficiaires des dispositions de l'un des articles suivants : L.
+393 (alinéas 1 et 2), L. 431, L. 396 (bénéficiaires masculins) et L. 434 (premier alinéa).
+
+C'. - Bénéficiaires des dispositions desdits articles mais non titulaires de la carte du combattant ou du certificat
+provisoire visé à l'alinéa A.
+
+D. - Bénéficiaires du paragraphe 2 de la section 1 du présent chapitre (première partie).
+
+E. - Bénéficiaires de l'article L. 394 et bénéficiaires féminins de l'article L. 396.
+
+**Nota:**
+
+[*Nota : Code des pensions militaires d'invalidité et des victimes de la guerre R454 : champ d'application du présent
+chapitre.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 1 février 1993
+  - TXT_ASSOCIE: Arrêté du 1 février 1993 - art. 1 (Ab)
+  - TXT_ASSOCIE: Arrêté du 1 février 1993 - art. 2 (Ab)
+  - TXT_ASSOCIE: Arrêté du 1 février 1993 - art. 3 (Ab)
+  - TXT_ASSOCIE: Arrêté du 1 février 1993 - art. 4 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L253 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L393 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L394 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L396 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L411 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L430 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L432 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L434 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L436 (Ab)
+
+
+###### Article R430
+
+Les invalides de guerre et les bénéficiaires masculins de l'article L. 396, sont classés dans chacune des rubriques A, A', B,
+B', C, C', compte tenu de l'ordre établi à l'article L. 412 (alinéas 2° et 3°).
+
+Les candidats bénéficiaires du paragraphe 2 de la section 1 du présent chapitre (1re partie) sont classés entre eux d'après
+leurs titres tels qu'ils sont fixés à l'article L. 414. Ces titres sont exprimés en points, conformément aux dispositions
+d'une instruction du ministre des anciens combattants et victimes de guerre. Le nombre total des points obtenus par chaque
+candidat détermine son rang de classement.
+
+Les candidates bénéficiaires de l'article L. 394 et de l'article L. 396 sont classées compte tenu de la priorité fixée par
+l'article L. 413.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L394 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L396 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L412 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L413 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L414 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cité par_:
+
+  - Code du travail - art. R323-105 (Ab)
+
+
+###### Article R431
+
+Toutes les propositions sont transmises au ministre des anciens combattants et victimes de guerre avec, pour chacune d'elles,
+la mention de l'avis du commissaire du Gouvernement ; en cas de désaccord avec la commission, cet avis doit être motivé. Le
+classement définitif est arrêté par le ministre des anciens combattants et victimes de guerre qui établit, par emploi et
+suivant un numérotage continu dans chacune des rubriques A, A', B, B', C, C', D, E, la liste de classement. Cette dernière
+est publiée au Journal officiel.
+
+Il est établi au cours du premier semestre de chaque année une liste générale annuelle de classement. Le cas échéant, une ou
+plusieurs listes provisoires complémentaires sont établies entre les dates de publication de deux listes annuelles.
+
+La liste générale annuelle est constituée pour chaque emploi et pour chaque catégorie de candidats :
+
+a) Par les candidats figurant sur la liste générale annuelle de l'année précédente, non pourvus d'un emploi, dont le rang de
+classement est définitif en vertu des dispositions de l'article L. 417 et qui, de ce fait, sont placés en tête de la liste
+générale annuelle ;
+
+b) Par les candidats figurant éventuellement sur une des listes provisoires complémentaires publiées après la liste générale
+visée à l'alinéa a et non pourvus d'un emploi ;
+
+c) Par les autres candidats au titre de l'année en cours.
+
+Les candidats visés aux alinéas b et c concourent entre eux en vue de l'établissement de la liste générale annuelle et
+reçoivent, par emploi et par rubrique (A, A', B, B', C, C', D, E) un numéro définitif de classement faisant suite
+éventuellement au numérotage des candidats non nommés de la liste annuelle précédente.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L417 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R432
+
+Les candidats ayant marqué une préférence dans les conditions prévues par les alinéas 3, 4 et 5 de l'article L. 409 et qui
+ont refusé une nomination parce que le poste qui leur était offert n'est pas situé dans un département (ou un lieu, suivant
+le cas) de leur préférence, demeurent sur la liste de classement tant qu'une vacance ne se produit pas dans le département ou
+sur le lieu de préférence. Les candidats classés peuvent renoncer au bénéfice d'une partie ou de la totalité des préférences
+indiquées par eux en temps utile, tant qu'ils n'ont pas été désignés en application des dispositions de l'article L. 418.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R437 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L409
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L418
+
+
+###### Article R433
+
+Il est procédé aux nominations en tenant compte, par emploi et par rubrique définie à l'article R. 422, du numérotage établi
+dans la liste de classement.
+
+Le ministre des anciens combattants et victimes de guerre désigne aux administrations qui ont signalé des vacances d'emplois
+les candidats dont le tour de nomination est arrivé, suivant que ledit tour revient aux bénéficiaires du paragraphe 1er ou du
+paragraphe 2 de la section I du présent chapitre (première partie).
+
+Dans chacune des listes générales annuelles et provisoires complémentaires, les nominations doivent être faites jusqu'à
+épuisement en suivant l'ordre des inscriptions.
+
+A défaut de candidat classé dans une liste générale annuelle ou une liste provisoire complémentaire, sous les rubriques A,
+A', B, B', C, C', le ministre désigne des candidats classés sous la rubrique D.
+
+Pour les vacances revenant exclusivement aux candidats bénéficiaires du paragraphe 2 de la section I susvisée, il est fait
+appel aux seuls candidats classés dans cette catégorie.
+
+A défaut de candidats inscrits sur une liste générale annuelle pour un emploi déterminé, le ministre des anciens combattants
+et victimes de guerre informe l'administration intéressée qu'aucun candidat n'est classé. A partir de ce moment,
+l'administration peut procéder à des nominations temporaires dans les conditions fixées à l'article L. 421.
+
+Les candidats doivent obligatoirement remplir les conditions d'aptitude physique exigées pour l'exercice de leurs fonctions
+et sanctionnées par le certificat d'aptitude physique délivré dans les conditions prévues aux articles R. 405 à R. 407.
+
+De plus, ils doivent, à la diligence de l'administration à laquelle ils sont affectés, être reconnus soit indemnes de toute
+affection tuberculeuse, cancéreuse ou nerveuse, soit définitivement guéris.
+
+Les candidats qui ont reçu un avis de désignation pour un emploi font connaître au ministre des anciens combattants et
+victimes de guerre, dans le délai d'un mois à compter de la date de réception de cet avis, s'ils acceptent leur nomination
+audit emploi. Les candidats qui, dans le délai ci-dessus, n'ont pas fait connaître leur acceptation ou leur refus sont
+considérés comme ayant refusé l'emploi. L'avis de désignation doit reproduire cette disposition.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L421 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R405 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R406 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R422 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cité par_:
+
+  - Code du travail - art. R323-106 (Ab)
+
+
+###### Article R434
+
+Tout invalide, veuve de guerre, militaire des armées de terre, de l'air et de mer en possession d'un emploi réservé où un
+stage probatoire est imposé à tous les candidats par les règlements de l'administration intéressée qui, à l'expiration de ce
+stage, a été reconnu inapte professionnellement à cet emploi, peut solliciter un autre emploi réservé en adressant une
+demande à cet effet, suivant le cas, au ministre ou au chef de service sous l'autorité duquel il est placé.
+
+Cette demande doit, à peine de forclusion, être produite dans le délai de deux mois à compter du jour où le candidat a été
+avisé par son administration qu'il est inapte professionnellement à l'emploi occupé. Ladite demande est immédiatement
+transmise par l'administration intéressée au ministre des anciens combattants et victimes de guerre, qui fait procéder à son
+instruction. Le candidat ne conserve, en aucun cas, le bénéfice des épreuves d'aptitude physique ou d'aptitude
+professionnelle qu'il a subies avant la constatation de son inaptitude à l'emploi occupé.
+
+Si le stagiaire reconnu inapte professionnellement n'a pas formulé de demande de nouvel emploi dans le délai susmentionné, il
+est congédié à l'expiration du deuxième mois à partir de la date indiquée ci-dessus. Si, ayant formulé une demande, il n'a
+pas subi avec succès, dans le plus court délai, bien qu'ayant été régulièrement convoqué, les épreuves nécessaires à
+l'obtention de l'emploi demandé, il est congédié dès notification du résultat de l'examen à l'administration de laquelle il
+dépend.
+
+Si, dans les délais prévus par les deux alinéas précédents, il a formulé cette demande et subi avec succès les épreuves
+nécessaires à l'obtention de l'emploi demandé, il est maintenu en fonctions jusqu'à sa nomination.
+
+Toutefois, si cette dernière n'a pas eu lieu dans le délai de deux ans qui suit la constatation de l'inaptitude
+professionnelle, le stagiaire est licencié.
+
+En ce qui concerne les stagiaires déjà reconnus inaptes professionnellement avant la promulgation de la loi du 19 août 1950,
+le point de départ du délai de deux ans est fixé au 21 août 1950.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°71-989 du 13 décembre 1971 - art. 6 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cité par_:
+
+  - Décret n°73-878 du 29 août 1973 - art. 4 (Ab)
+  - Décret n°79-88 du 25 janvier 1979 - art. 10 (M)
+  - Décret n°79-89 du 25 janvier 1979 - art. 10 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Loi n°1950-08-19
+
+
+###### Article R435
+
+Lorsqu'un invalide de guerre, titulaire d'un emploi réservé ou non réservé de l'Etat, des départements ou des communes est,
+par suite d'aggravation de son état physique, devenu inapte à l'emploi qu'il occupe, il peut, conformément aux dispositions
+de l'article L. 432, solliciter soit un autre emploi parmi tous ceux figurant aux tableaux annexés au présent chapitre (3e
+partie), soit un emploi réservé ou non réservé dépendant spécialement de l'administration qui l'occupe en adressant une
+demande à cet effet au ministre ou chef de service sous l'autorité duquel il est placé. Cette demande doit, à peine de
+forclusion, être produite dans le délai de deux mois à compter du jour où la décision d'inaptitude a été notifiée à
+l'invalide de guerre par son administration.
+
+Si, en vertu des dispositions de l'alinéa 1er de l'article L. 432, le candidat sollicite un autre emploi réservé dans une
+administration quelconque, sa demande est transmise au ministre des anciens combattants et victimes de guerre par les soins
+de l'administration dont il dépend. Cette demande est accompagnée d'un certificat d'un médecin assermenté de l'administration
+intéressée concluant à l'inaptitude de l'invalide de guerre à l'emploi occupé.
+
+Si, en vertu des dispositions de l'avant-dernier alinéa de l'article L. 432, le candidat sollicite un emploi réservé ou non
+réservé dépendant de son administration, cette administration statue immédiatement sur l'aptitude physique et professionnelle
+de l'intéressé à cet emploi.
+
+Si aucune vacance n'est disponible dans les conditions ci-dessus, ou si le candidat est inapte physiquement ou
+professionnellement à l'emploi qu'il sollicite, l'administration intéressée en avise le candidat qui doit, dès lors, faire
+parvenir, dans le délai de deux mois, à ses chefs hiérarchiques, une demande tendant à obtenir un autre emploi réservé ou non
+réservé de la même administration ou tout autre emploi réservé dépendant d'une autre administration. Le ministre intéressé
+transmet la demande d'emploi au ministre des anciens combattants et victimes de guerre en y joignant un certificat médical
+concluant à l'inaptitude physique à l'emploi occupé, et en indiquant, s'il y a lieu, les raisons qui s'opposent à la mutation
+de l'intéressé à un autre emploi réservé ou non réservé de son administration.
+
+Dans tous les cas, le ministre des anciens combattants et victimes de guerre fait convoquer l'intéressé devant la commission
+prévue à l'article R. 405 en vue de déterminer s'il est bien inapte à l'emploi occupé.
+
+Le délégué interdépartemental du ministère des anciens combattants et victimes de guerre chargé d'instruire les demandes de
+ce genre désigne sur la liste des médecins prévue à l'article R. 405 deux médecins autres que ceux qui ont été signalés par
+l'administration dont relève l'emploi occupé.
+
+Si l'inaptitude est constatée, le ministre des anciens combattants et victimes de guerre en informe, sans délai,
+l'administration intéressée, laquelle nomme immédiatement le candidat à l'emploi disponible, lorsqu'il s'agit de
+l'application des dispositions de l'avant-dernier alinéa de l'article L. 432. Lorsqu'il s'agit de l'application des
+dispositions du premier alinéa du même article, la même commission qui a constaté l'inaptitude doit se prononcer également
+sur l'aptitude physique du candidat à l'emploi sollicité. S'il est déclaré inapte physiquement à ce dernier emploi, la
+commission médicale doit lui indiquer les emplois réservés compatibles avec son infirmité et le candidat peut, au cours de la
+séance de la commission médicale, modifier sa demande et la faire porter sur un ou plusieurs autres de ces derniers emplois
+réservés. Dans ce cas, la commission médicale statue immédiatement sur l'aptitude physique du candidat à tous les emplois
+sollicités.
+
+Si l'intéressé est déclaré inapte à l'emploi occupé et apte à un autre emploi réservé, il doit subir, le cas échéant, dans le
+plus court délai, l'examen et les épreuves d'aptitude professionnelle exigés. Toutefois, l'intéressé est dispensé de l'examen
+si l'emploi postulé est de même nature ou de la même catégorie que l'emploi occupé et s'il n'existe pas de différences
+essentielles dans les conditions d'aptitudes professionnelles exigées pour ces emplois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R436 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R437 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R469 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L432
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R405
+
+
+###### Article R436
+
+La commission constituée en exécution des dispositions de l'article L. 411 détermine, suivant les cas d'espèce, si l'emploi
+non réservé occupé par un invalide de guerre devenu inapte à cet emploi, en raison de l'aggravation de son état physique, est
+de même nature que l'emploi réservé sollicité par l'intéressé.
+
+Celui-ci peut être congédié :
+
+1° S'il n'a pas, dans le délai prévu au premier alinéa de l'article R. 435, présenté une demande de nomination à un nouvel
+emploi compatible avec son état physique ;
+
+2° Si, ayant formulé cette demande et ayant été régulièrement convoqué en vue de subir les épreuves spéciales d'aptitude
+professionnelle exigées pour l'emploi sollicité, il ne s'est pas présenté dans le plus court délai possible ;
+
+3° Si, en raison de la nature ou de la gravité des infirmités présentées, la commission médicale estime que l'intéressé est
+définitivement hors d'état d'assurer un service administratif quelconque ;
+
+4° Si, dans les deux ans qui suivent la reconnaissance de son inaptitude par l'administration qui l'occupe, il n'a pas obtenu
+sa nomination à un nouvel emploi.
+
+En ce qui concerne les fonctionnaires et agents reconnus inaptes physiquement à leur emploi avant la date de promulgation de
+la loi du 19 août 1950 et qui, à cette date, étaient encore en fonctions, le délai de deux ans est prorogé jusqu'au 20 août
+1952 inclus.
+
+Le droit à reclassement prévu aux alinéas 1er et 4 de l'article L. 432 ne peut s'exercer que pour deux nouveaux emplois,
+après constatation de l'inaptitude physique au premier emploi occupé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L411
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L432
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R435
+  - Loi n°1950-08-19
+
+
+###### Article R437
+
+Les dispositions de l'article R. 435 ne font pas obstacle à ce que les titulaires d'emplois réservés soient, conformément aux
+prescriptions des règlements en vigueur dans les administrations dont ils dépendent, mis par ces administrations en congé de
+maladie et tant que la maladie qui motive le congé n'entraîne pas inaptitude à l'emploi occupé ; l'octroi et la durée de ces
+congés, ainsi que les conditions de réintégration des intéressés, sont alors déterminés par lesdits règlements.
+
+Si, au contraire, la maladie qui a motivé le congé entraîne inaptitude à l'emploi, il doit être fait application à
+l'intéressé, du jour où cette inaptitude se révèle, des dispositions de l'article L. 432, ainsi que des dispositions de
+l'article R. 432.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L432
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R432
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R435
+
+
+###### Article R438
+
+Tout invalide ou veuve de guerre peut, en se démettant volontairement d'un emploi obtenu en vertu, soit de la loi du 17 avril
+1916, soit du paragraphe 1er de la section I du présent chapitre (première partie), solliciter un nouvel emploi en exécution
+des dispositions du premier alinéa de l'article L. 434. Il adresse, à cet effet, une demande au délégué interdépartemental du
+ministère des anciens combattants et victimes de guerre de son domicile.
+
+Le délégué interdépartemental constitue le dossier du candidat et lui fait subir les épreuves exigées. Toutefois, lorsque
+l'emploi demandé appartient à la même catégorie que celle de l'emploi précédemment occupé ou à une catégorie inférieure, le
+candidat est dispensé de l'examen commun de la catégorie prévue par le présent chapitre.
+
+Après son classement, le candidat doit immédiatement se démettre de ses fonctions. Il doit, s'il en fait la demande, être
+maintenu en fonctions jusqu'à sa nomination au nouvel emploi pour lequel il est classé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R439 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L434
+  - Loi n°1916-04-17
+
+
+###### Article R439
+
+Tout invalide ou veuve de guerre ayant renoncé à son classement ou refusé sa nomination, après avoir été classé en vertu du
+paragraphe 1er de la section 1 du présent chapitre (première partie) et qui désire solliciter un autre emploi réservé,
+adresse une demande à cet effet, par l'intermédiaire du maire de sa résidence, au délégué interdépartemental du ministère des
+anciens combattants et victimes de guerre de son domicile. Cette demande est instruite dans les conditions prescrites par
+l'article R. 438.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R438
+
+
+##### Section 2 : Emplois réservés aux orphelins de guerre.<a id=321></a>
+
+###### Article R440
+
+Dans les administrations de l'Etat, des départements, des communes et des entreprises visées à l'article L. 405, les
+orphelins de guerre des deux sexes bénéficient d'un droit de préférence pour l'obtention des emplois devant être confiés à
+des mineurs et dont la nomenclature est fixée par les tableaux annexés au présent chapitre (troisième partie). Au moment de
+la création de tout emploi destiné à un mineur, le ministre ou l'administration dont relève l'emploi devra le réserver aux
+bénéficiaires de l'article L. 395.
+
+Les administrations, les établissements et les entreprises précités qui disposent d'emplois tenus par des mineurs des deux
+sexes adressent, à la fin de chaque trimestre, à l'office départemental des anciens combattants et victimes de guerre dans le
+ressort duquel existe la vacance la liste et le nombre des emplois à pourvoir, avec indication de l'aptitude physique
+nécessaire, des connaissances exigées, du lieu et de la date où seront subis la visite médicale et, le cas échéant, l'examen
+ou le concours imposé à tous les candidats, du traitement ou du salaire afférent à chaque emploi ; ils indiquent en même
+temps la date à laquelle les nominations à ces emplois doivent être faites.
+
+L'office départemental des anciens combattants et victimes de guerre porte ces renseignements à la connaissance des orphelins
+et orphelines de guerre qui ont sollicité le bénéfice de l'article L. 395 et de l'office national des anciens combattants et
+victimes de guerre. L'office national en donne avis aux associations des victimes de guerre.
+
+Les orphelins de guerre des deux sexes candidats à des emplois non pourvus par voie de concours adressent leurs demandes
+d'emplois réservés à l'office départemental de leur domicile, qui constitue le dossier des candidats.
+
+Ces dossiers comprennent les pièces ci-après, qui sont établies sur papier libre :
+
+1° La demande d'emploi ;
+
+2° L'acte de décès du père et, le cas échéant, celui de la mère ;
+
+3° L'extrait du casier judiciaire n° 2 ou un extrait des sommiers judiciaires tenus à la préfecture de police, à Paris ;
+
+4° Un rapport d'enquête administrative sur la moralité du candidat établi à la demande de l'office départemental des anciens
+combattants et victimes de guerre ;
+
+5° Un certificat d'aptitude physique délivré par l'administration ou entreprise intéressée ;
+
+6° S'il y a lieu, un certificat indiquant le résultat de l'examen ;
+
+7° Un certificat délivré par le maire de la commune indiquant le nombre de frères ou soeurs mineurs du candidat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R443 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L405
+
+
+###### Article R441
+
+Au commencement de chaque trimestre, le conseil d'administration de l'office départemental des anciens combattants et
+victimes de guerre auquel est adjoint, à cet effet, un représentant des administrations ou entreprises intéressées, nommé par
+le préfet, procède aux opérations ci-après :
+
+1° Il statue sur la recevabilité des demandes d'emplois non pourvus par voie de concours qu'il a reçues, notamment au sujet
+des conditions d'âge et de moralité exigées ;
+
+2° Il avise les candidats et l'administration ou entreprise des décisions qu'il a prises.
+
+L'administration ou l'entreprise convoque ensuite les candidats dont la demande a été déclarée recevable, ainsi qu'il est dit
+ci-dessus, en vue de leur faire subir les épreuves imposées.
+
+Si l'emploi comporte un examen, un représentant de l'office départemental fait partie du jury. L'administration ou
+l'entreprise intéressée fait connaître le résultat des épreuves subies par les orphelins de guerre au conseil
+d'administration de l'office départemental. Ce conseil procède au classement des candidats admis à l'examen en tenant compte
+successivement :
+
+1° De la qualité d'orphelin de père et de mère ;
+
+2° Du nombre de frères ou de soeurs mineurs du candidat ;
+
+3° Des notes obtenues à l'examen ;
+
+4° De l'ancienneté de la demande.
+
+Le conseil d'administration de l'office départemental notifie la liste de classement établie par lui à l'administration ou
+entreprise intéressée qui doit, dès lors, procéder à la nomination des candidats classés par priorité à tous autres
+candidats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R443 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R442
+
+Pour les emplois de bureau accessibles aux mineurs des deux sexes et pourvus par voie de concours, les orphelins de guerre
+adressent leurs demandes directement à l'administration intéressée. Cette administration prend l'avis de l'office
+départemental des anciens combattants et victimes de guerre compétent au sujet de la recevabilité des candidatures.
+
+Les orphelins de guerre sont astreints au même concours que les autres candidats. Toutefois, les notes qu'ils obtiennent pour
+chaque épreuve sont majorées d'un dixième du maximum des points qu'il est possible d'obtenir pour l'épreuve.
+
+De même, s'il est prévu pour un concours des notes éliminatoires, les candidats devront bénéficier pour leur appréciation
+particulière d'une majoration de 10 % du maximum des points qu'il est possible d'obtenir pour l'épreuve comportant la note
+éliminatoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R443 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R443
+
+Le conseil d'administration de l'office départemental des anciens combattants et victimes de guerre veille à la nomination
+des orphelins de guerre admis aux concours ou classés par ses soins. Il signale à l'office national des anciens combattants
+et victimes de guerre les manquements qui auraient été apportés dans l'exécution des dispositions prévues aux articles R. 440
+à R. 444 par les administrations ou entreprises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R440
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R441
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R442
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R443
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R444
+
+
+###### Article R444
+
+Les orphelines de guerre sont admises à concourir à l'emploi d'ouvrières de manufactures de l'Etat dans les conditions fixées
+aux articles D. 315 à D. 327.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R443 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+
+##### Section 3 : Application dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle des dispositions des sections I et II du chapitre IV du présent titre (1re partie).<a id=322></a>
+
+###### Article R445
+
+Les dispositions des sections 1 et 2 du présent chapitre (1re partie) sont applicables aux catégories de bénéficiaires visées
+au paragraphe 1er de la section 1 dudit chapitre originaires des départements du Haut-Rhin, du Bas-Rhin et de la Moselle
+titulaires d'une pension tant en vertu de l'article L. 230 que du livre Ier (1re partie) et des articles L. 231 à L. 235. Les
+candidats se réclamant des dispositions ci-dessus indiquées et dont la pension n'a pas encore été concédée peuvent se mettre
+en instance dès que le délégué interdépartemental du ministère des anciens combattants et victimes de guerre compétent leur a
+délivré une attestation certifiant leurs droits à pension.
+
+Les dispositions des sections 1 et 2 du présent chapitre (1re partie) sont applicables aux catégories de bénéficiaires visées
+au paragraphe 2 de la section 1 dudit chapitre originaires des trois départements susvisés pour les services accomplis dans
+l'armée française au titre d'engagés, de rengagés ou de commissionnés, à condition qu'ils n'aient pas pris du service comme
+volontaires dans l'armée allemande dans les conditions prévues à l'article L. 233, après le 25 juin 1940.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L438 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R446 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L230
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L231
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L232
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L233
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L234
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L235
+
+
+###### Article R446
+
+Les emplois que peuvent postuler les bénéficiaires des dispositions de l'article R. 445 sont ceux qui figurent au tableau
+annexé au présent chapitre (3e partie). Ces emplois sont attribués aux originaires des départements du Haut-Rhin, du Bas-Rhin
+et de la Moselle dans les mêmes conditions qu'aux autres candidats, sous les réserves indiquées aux articles R. 447, R. 448
+et R. 449.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R445
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R447
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R448
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R449
+
+
+###### Article R447
+
+Pour l'obtention des emplois des première, deuxième et troisième catégories dans les départements du Haut-Rhin, du Bas-Rhin
+et de la Moselle, les candidats qui subissent en français et en allemand les épreuves imposées pour le certificat d'aptitude
+professionnelle reçoivent un certificat d'aptitude spéciale qui leur donne droit, pour l'ensemble des deux épreuves, à une
+majoration de dix points.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R446 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R448 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R448
+
+Une liste des candidats connaissant la langue allemande, établie pour chacune des première, deuxième et troisième catégories
+et comportant l'indication des emplois postulés par les candidats est adressée :
+
+Soit pour le 30 novembre de chaque année ;
+
+Soit dans les deux mois qui suivent la date limite fixée par la décision ministérielle prévue au dernier alinéa de l'article
+R. 403, par le délégué interdépartemental du ministère des anciens combattants et victimes de guerre chargé de la
+constitution des dossiers, aux présidents des commissions prévues pour faire subir les épreuves d'aptitude professionnelle
+des deuxième et troisième catégories.
+
+Deux au moins des membres de ces commissions doivent connaître la langue allemande.
+
+La présence de trois membres, dont un connaissant la langue allemande, est nécessaire jusqu'à la fin des opérations de la
+commission prévue à l'article R. 416 pour les examens de la deuxième catégorie.
+
+La présence de trois membres, dont un connaissant la langue allemande, est nécessaire jusqu'à la fin des opérations de la
+commission prévue à l'article R. 417 pour les examens de la troisième catégorie.
+
+En ce qui concerne les examens de la première catégorie, le président de la commission prévue à l'article R. 416 annexe aux
+compositions écrites la liste des candidats connaissant la langue allemande prévue au premier alinéa du présent article et
+adresse le tout, comme il est prescrit au dernier alinéa de l'article R. 419, au président de la commission centrale.
+
+Pour la correction des épreuves écrites et pour les interrogations orales des examens de première catégorie, concernant les
+candidats connaissant la langue allemande, la commission centrale comprend au moins trois membres connaissant cette langue.
+
+La présence de neuf membres, dont deux connaissant la langue allemande, est nécessaire jusqu'à la fin des opérations de la
+commission centrale.
+
+Les commissions, instituées par les articles R. 414, R. 416 et R. 417, délivrent le certificat d'aptitude professionnelle aux
+candidats qui, compte tenu de la majoration prévue à l'article R. 447, ont subi avec succès l'ensemble des épreuves
+d'aptitude physique et d'aptitude professionnelle exigées par l'emploi sollicité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R446 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R403
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R414
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R416
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R417
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R419
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R447
+
+
+###### Article R449
+
+Le classement et les nominations des candidats sont opérés conformément aux dispositions de la section 2 du présent chapitre
+(1re partie).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L438 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R446 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### Section 4 : Dispositions spéciales.<a id=323></a>
+
+###### Article R450
+
+Le contrôle des déclarations de vacances des emplois réservés est opéré, sous l'autorité du ministre des anciens combattants
+et victimes de guerre, par une commission nommée par ce ministre et composée :
+
+Du directeur des pensions et des services médicaux, président, ou de son représentant ;
+
+D'un représentant de la commission des pensions de l'Assemblée nationale ;
+
+D'un représentant de la commission des pensions du Sénat ;
+
+D'un représentant de la direction de la fonction publique ;
+
+D'un représentant du ministère de l'économie et des finances ;
+
+D'un représentant des victimes de guerre, sur proposition de l'office national des anciens combattants et victimes de
+guerre ;
+
+Du chef du bureau des emplois réservés, secrétaire.
+
+Dans la première quinzaine du mois de janvier de chaque année, les administrations qui réservent des emplois font connaître
+au ministre des anciens combattants et victimes de guerre :
+
+1° L'effectif budgétaire du 1er janvier pour chaque mois réservé ;
+
+2° Pour chaque emploi, le nombre de postes occupés au 1er janvier par les bénéficiaires d'emplois réservés et le nombre de
+postes occupés par suite de nominations à titre civil.
+
+Toutefois, la réglementation applicable en matière d'emplois réservés ne porte éventuellement que sur les vacances à
+pourvoir.
+
+Les administrations intéressées peuvent faire connaître leur intention de limiter le nombre des emplois à déclarer vacants
+lorsqu'elles jugent, dans l'intérêt du service, qu'il n'est pas opportun de pourvoir certains postes de titulaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L419 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+###### Article R451
+
+Un arrêté conjoint du ministre chargé de la fonction publique et du ministre des anciens combattants et victimes de guerre,
+dont les dispositions font l'objet des articles A. 190-2 et A. 190-3, indique :
+
+a) Les membres de la commission de classement constituée en exécution de l'article L. 411, qui reçoivent pour l'ensemble des
+travaux de cette commission une indemnité de fonctions ;
+
+b) Les membres des commissions instituées aux articles R. 414, R. 416, R. 417 et R. 418, qui reçoivent une indemnité ;
+
+c) Le montant de ces diverses indemnités, la rémunération des médecins près les commissions prévues à l'article R. 405 ;
+
+d) Les programmes détaillés des épreuves exigées pour les examens des 1re, 2e et 3e catégories et la liste des langues
+étrangères sur lesquelles les candidats aux examens des 1re et 2e catégories peuvent être interrogés au titre d'épreuves
+facultatives.
+
+Cet arrêté est également signé par le ministre de l'économie et des finances en ce qui concerne les alinéas a, b et c.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R409 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A190-2
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A190-3
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L411
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R405
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R414
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R416
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R417
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R418
+
+
+###### Article R452
+
+Pour décompter la bonification de service accordée aux fonctionnaires et agents visés à l'article L. 435, il est procédé
+ainsi qu'il suit : le temps de service obligatoirement accompli est déduit du nombre de mois de service effectif de
+l'intéressé ; le cinquième du nombre ainsi obtenu donne droit à autant de fois trois mois de bonification que le nombre 3 est
+contenu dans ce cinquième.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L435 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
+##### Section 6 : Application aux territoires d'outre-mer et aux territoires associés.<a id=324></a>
+
+##### A - Enumération et conditions générales d'attribution des emplois réservés.<a id=325></a>
+
+###### Article R454
+
+Les dispositions du présent chapitre sont applicables dans les territoires d'outre-mer et dans les territoires associés dans
+les conditions prévues aux articles R. 455 et R. 471.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R396 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R400 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R401 (M)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R402 (M)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R403 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R404 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R405 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R406 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R407 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R408 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R409 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R410 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R411 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R412 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R412 bis (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R413 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R414 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R415 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R416 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R417 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R418 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R419 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R420 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R421 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R422 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R423 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R424 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R425 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R426 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R427 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R428 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R429 (M)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R430 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R431 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R432 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R433 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R434 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R435 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R436 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R437 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R438 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R439 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R440 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R441 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R442 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R443 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R444 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R445 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R446 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R447 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R448 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R449 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R450 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R451 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R452 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R455 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R471 (Ab)
+
+
+###### Article R455
+
+La nomenclature des emplois susceptibles d'être postulés dans les divers cadres des territoires d'outre-mer et des
+territoires associés au titre des dispositions du présent chapitre (première partie), sections 1 et 2, est fixée par décret
+pris sur le rapport du ministre des anciens combattants et victimes de guerre, du ministre de la France d'outre-mer, du
+ministre de l'économie et des finances et du secrétaire d'Etat chargé de la fonction publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R454 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R458 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R459 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R460 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R463 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R464 (Ab)
+
+
+##### B - Dépôt des demandes.<a id=326></a>
+
+###### Article R456
+
+Les demandes d'emplois réservés dans les territoires d'outre-mer ou les territoires associés sont adressées :
+
+1° Si le candidat réside dans un pays d'outre-mer, soit au chef de corps ou de service si le candidat est présent sous les
+drapeaux, soit au chef de circonscription territoriale du lieu de résidence dans tous les autres cas ;
+
+2° Si le candidat réside dans la métropole, dans un département d'outre-mer, aux autorités visées à l'article R. 401.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R401 (M)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R470 (Ab)
+
+
+###### Article R457
+
+Les attributions dévolues, dans la métropole, en matière d'emplois réservés aux délégués interdépartementaux du ministère des
+anciens combattants et victimes de guerre, sont exercées, outre-mer, sous l'autorité, soit du haut commissaire ou gouverneur
+général dans les territoires groupés, soit du gouverneur ou chef de territoire dans les territoires non groupés, par les
+fonctionnaires désignés par leurs soins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+
+##### C - Aptitude physique.<a id=327></a>
+
+###### Article R458
+
+Aucun candidat à un emploi réservé figurant dans la nomenclature prévue à l'article R. 455 ne peut être inscrit sur une liste
+de classement s'il n'a, au préalable, été déclaré physiquement apte à servir outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R455
+
+
+###### Article R459
+
+Lorsque le candidat réside dans la métropole, l'aptitude physique spéciale au service outre-mer dans les zones
+intertropicales est déterminée dans les conditions prévues à l'article R. 423, les candidats étant dispensés de se présenter
+devant les commissions prévues à l'article R. 405.
+
+Un arrêté conjoint du ministre des anciens combattants et victimes de guerre et du ministre chargé de la France d'outre-mer
+détermine les conditions dans lesquelles est constatée l'aptitude physique aux emplois visés à l'article R. 455, compte tenu
+du groupe d'infirmités auquel ils sont rattachés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R405
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R423
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R455
+
+
+###### Article R460
+
+Les visites médicales que doivent subir les candidats aux emplois des cinq catégories de la nomenclature prévue à l'article
+R. 455, qu'ils résident outre-mer ou dans la métropole, sont subies devant des commissions constituées suivant les
+dispositions prévues à l'article R. 405. A défaut de médecins civils, des médecins militaires peuvent être désignés par le
+chef du territoire intéressé, avec l'agrément de l'office local des anciens combattants. Celui-ci a également qualité pour
+désigner les représentants de l'invalide ou de la veuve de guerre au sein desdites commissions. Ces dernières sont
+compétentes pour apprécier l'aptitude physique à l'emploi ou au groupe d'emplois sollicités, ainsi que, éventuellement,
+l'aptitude à servir dans le ou les territoires dont dépend l'emploi ou le groupe d'emplois en cause.
+
+Dans le cas où il est impossible de constituer la commission prévue à l'alinéa précédent, les examens d'aptitude physique
+sont subis devant le médecin des fonctionnaires du territoire considéré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R420 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R462 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R405
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R455
+
+
+###### Article R461
+
+Si le certificat d'aptitude physique spéciale au service outre-mer est refusé à un candidat résidant dans la métropole,
+celui-ci peut demander une nouvelle expertise dans les conditions prévues à l'article R. 422.
+
+Le délégué interdépartemental du ministère des anciens combattants et victimes de guerre fait alors examiner l'intéressé par
+une commission constituée dans les conditions prévues à l'article R. 425. Toutefois, celui des deux médecins civils qui
+n'exerce pas les fonctions de président est remplacé par un médecin militaire délégué par le conseil supérieur de santé du
+ministère chargé de la France d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R462 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R422
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R425
+
+
+###### Article R462
+
+En cas de réclamation du candidat contre la décision de la commission prévue à l'article R. 460, une nouvelle expertise a
+lieu, conformément à la procédure précisée à l'article R. 407, devant une commission composée comme il est indiqué au
+deuxième alinéa de l'article R. 461.
+
+De nouveaux médecins sont alors désignés par le chef du territoire intéressé.
+
+Au cas où l'examen contesté a été subi devant le médecin des fonctionnaires, la nouvelle expertise a lieu, sur pièces, par la
+commission prévue au deuxième alinéa de l'article R. 461.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R407
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R460
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R461
+
+
+##### D - Aptitude professionnelle.<a id=328></a>
+
+###### Article R463
+
+Les examens communs et les épreuves d'aptitude technique concernant les emplois visés à l'article R. 455 sont subis dans les
+conditions fixées aux articles R. 414 à R. 422.
+
+Lorsque le ministre des anciens combattants et victimes de guerre décide d'établir une ou plusieurs listes provisoires
+complémentaires de classement, il fixe les dates auxquelles sont organisés les examens complémentaires, après accord, s'il y
+a lieu, avec le ministre chargé de la France d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R455
+
+
+###### Article R464
+
+Les examens comportent, pour chaque catégorie, les épreuves prévues aux articles R. 409, R. 410 et R. 411.
+
+Toutefois, en ce qui concerne les emplois des quatrième et cinquième catégories figurant dans la nomenclature prévue à
+l'article R. 455, la condition minimum d'aptitude professionnelle est, pour la quatrième catégorie, savoir lire, écrire et
+compter, et, pour la cinquième catégorie, savoir parler français.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R409
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R410
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R411
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R455
+
+
+###### Article R465
+
+Les sujets des épreuves écrites des examens communs sont choisis dans les conditions fixées à l'article R. 421.
+
+Les sujets des épreuves d'aptitude technique sont choisis dans les conditions prévues à l'article R. 422.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R421
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R422
+
+
+###### Article R466
+
+Les commissions d'examens pour les première et deuxième catégories sont composées de la façon suivante :
+
+Président :
+
+Le haut commissaire, le gouverneur général, le gouverneur, le chef de territoire ou son représentant.
+
+Membres :
+
+Un administrateur en chef ou un administrateur de la France d'outre-mer ;
+
+Un inspecteur d'académie ou un inspecteur primaire ;
+
+Un représentant des anciens combattants ;
+
+Un membre désigné par le chef de la fédération ou du territoire, en fonction de la nature technique des épreuves.
+
+Pour la troisième catégorie, la commission d'examen est composée comme suit :
+
+Président :
+
+Un délégué du haut commissaire, du gouverneur général, du gouverneur ou du chef de territoire.
+
+Membres :
+
+Un inspecteur primaire ou son délégué ;
+
+Un représentant des anciens combattants ;
+
+Un membre désigné par le chef de la fédération ou du territoire, en fonction de la nature technique des épreuves.
+
+Pour les quatrième et cinquième catégories, les commissions d'examens sont fixées par arrêté du chef du territoire intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+
+###### Article R467
+
+Outre-mer, les commissions de surveillance des épreuves écrites pour les examens des première et deuxième catégories sont
+composées à la diligence des chefs de territoire ou du haut commissaire de France et sous leur responsabilité. Pour les
+troisième, quatrième et cinquième catégories, la surveillance des épreuves est assurée par deux membres de la commission des
+examens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R501 (Ab)
+
+
+###### Article R468
+
+La présence de trois membres, dont au moins un membre de l'enseignement, est nécessaire pour la validité des opérations
+relatives aux examens des première et deuxième catégories.
+
+Celle de deux membres, dont au moins un membre de l'enseignement, est nécessaire pour la validité des opérations relatives
+aux examens des troisième, quatrième et cinquième catégories.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+
+##### E - Fonctionnaires et agents devenus physiquement inaptes.<a id=329></a>
+
+###### Article R469
+
+Lorsqu'un invalide de guerre, devenu inapte à l'emploi qu'il occupe par suite de l'aggravation de son état physique,
+sollicite un autre emploi situé dans le territoire ou groupe de territoires où il se trouve en service, les pouvoirs du
+ministre des anciens combattants et victimes de guerre, tels qu'ils résultent de l'article R. 435, sont dévolus, soit au haut
+commissaire, soit au gouverneur général dans les territoires groupés, soit au gouverneur ou chef de territoire dans les
+territoires non groupés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R435
+
+
+##### F- Dispositions transitoires.<a id=330></a>
+
+###### Article R470
+
+Les demandes confirmatives de candidatures visées au deuxième alinéa de l'article R. 471 sont recevables si elles parviennent
+dans un délai de trois mois prenant effet à la date de publication du décret n° 53-771 du 13 août 1953, soit au délégué
+interdépartemental du ministère des anciens combattants et victimes de guerre, soit au directeur départemental des anciens
+combattants et victimes de guerre, soit à l'intendant, directeur des pensions, soit à l'un des fonctionnaires désignés
+conformément aux dispositions de l'article R. 456, selon le lieu de résidence du candidat. Celui-ci doit réunir toutes les
+conditions imposées par la législation en vigueur sur les emplois réservés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Décret n°53-771 1953-08-13
+  - Code des pensions militaires d'invalidité et des v - art. R456 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R471 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+
+##### Section 7 : Dispositions diverses et transitoires.<a id=331></a>
+
+###### Article R471
+
+Les candidats inscrits sur les listes de classement publiées au cours de l'année 1939, ou qui, ayant formulé leur demande au
+titre du troisième trimestre 1939 auraient été, au vu d'un dossier régulièrement constitué, compris dans la liste provisoire
+complémentaire afférente à ce trimestre, doivent remettre la demande confirmative prévue à l'article L. 436 au délégué
+interdépartemental du ministère des anciens combattants et victimes de guerre de leur domicile.
+
+Ces demandes ne sont recevables que si elles sont déposées dans le délai de trois mois suivant la publication du décret n°
+47-1297 du 10 juillet 1947, et si le candidat réunit toutes les conditions imposées.
+
+Les demandes confirmatives de candidatures visées au premier alinéa du présent article portant sur les emplois mentionnés au
+tableau figurant à l'annexe II du présent chapitre (3e partie) sont recevables, si elles sont parvenues au délégué
+interdépartemental du ministère des anciens combattants et victimes de guerre dans le délai de trois mois suivant la
+publication du décret n° 49-1012 du 27 juillet 1949. Le candidat doit réunir toutes les conditions imposées par la
+législation en vigueur sur les emplois réservés.
+
+Ces demandes doivent désigner nommément l'emploi ou les emplois postulés pour lesquels l'intéressé avait obtenu, sous
+l'ancienne législation, le certificat d'aptitude professionnelle.
+
+Le délégué interdépartemental du ministre des anciens combattants et victimes de guerre, qui a reçu les demandes
+confirmatives, convoque les candidats devant la commission médicale prévue à l'article R. 405. Il adresse au président de
+cette commission la liste des candidats, en mentionnant, en regard de chaque nom, le groupe d'invalidité dans lequel l'emploi
+postulé est rangé dans la nouvelle classification des invalidités compatibles avec l'exercice de la fonction.
+
+Dès que cet examen, qui doit avoir lieu au plus tard dans le mois qui suit l'envoi de la liste à la commission médicale est
+terminé, le président de cette commission adresse au délégué interdépartemental du ministère des anciens combattants et
+victimes de guerre un exemplaire du certificat d'aptitude physique.
+
+Les bénéficiaires du présent article n'ont pas à subir à nouveau les épreuves d'aptitude professionnelle.
+
+Ceux d'entre eux qui sont titulaires d'un certificat d'aptitude professionnelle pour des emplois qui ne sont plus réservés
+bénéficient dudit certificat en vue de l'obtention d'un des emplois analogues rangés dans la même catégorie ou dans une
+catégorie inférieure si ces emplois ne nécessitent aucune aptitude technique ou spéciale.
+
+Dans les quinze jours qui suivent la réception des certificats d'aptitude physique par le délégué interdépartemental des
+anciens combattants et victimes de guerre, celui-ci envoie les dossiers des intéressés au ministre des anciens combattants et
+victimes de guerre.
+
+Dès qu'il a reçu les dossiers, le ministre provoque la réunion de la commission de classement, laquelle établit ses nouvelles
+propositions de classement.
+
+Les candidats qui étaient inscrits dans la liste de 1939 pour des emplois qui ne sont plus réservés, sont intercalés dans la
+liste établie pour le nouvel emploi postulé, compte tenu du mode de classement prévu au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°47-1297 1947-07-10
+  - Décret n°49-1012 1949-07-27
+  - Code des pensions militaires d'invalidité et des v - art. L436 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R405 (V)
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R454 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R470 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R472 (Ab)
+
+
+###### Article R472
+
+Les candidats visés au deuxième alinéa de l'article L. 436 qui ont déjà été affectés à titre précaire et révocable à un
+emploi réservé peuvent, même si cet emploi n'est plus réservé, être titularisés dans leur emploi. A cet effet, ils adressent
+une demande à l'administration dont ils relèvent. Cette dernière statue sur ces demandes dans le délai d'un mois à dater de
+leur réception.
+
+Dans le cas où certaines administrations auraient procédé à des nominations à titre précaire et révocable sans avoir demandé,
+au préalable, communication du dossier d'emploi réservé au ministère des anciens combattants et victimes de guerre, elles
+réclameront ce dossier audit ministère.
+
+Si l'administration estime que les candidats ont satisfait au stage probatoire, elle prononce leur titularisation dans les
+conditions prévues par le statut de l'emploi. Les décisions de titularisation ou de refus, prises par les administrations
+intéressées, sont notifiées sans délai au ministre des anciens combattants et victimes de guerre.
+
+Les candidats ainsi titularisés, qui demandent la validation des services accomplis à titre précaire et révocable, peuvent
+faire décompter lesdits services pour l'avancement aussi bien que pour la retraite, comme s'ils les avaient accomplis en
+qualité de titulaires.
+
+Les candidats qui ont bénéficié de la mesure de titularisation prévue au présent article ne sont pas admis à présenter la
+demande confirmative de classement visée à l'article R. 471.
+
+Avant l'expiration du délai de trois mois, à dater du décret du 10 juillet 1947, les candidats dont la demande de
+titularisation n'a pas encore fait l'objet d'une décision ou a été rejetée doivent présenter, dans les conditions précisées à
+l'article R. 471, une demande confirmative de classement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°47-1297 1947-07-10
+  - Code des pensions militaires d'invalidité et des v - art. R471 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L436 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R473 (Ab)
+
+
+###### Article R473
+
+Le délai prévu à l'article L. 399 a pour point de départ le 10 juillet 1947 pour les militaires et marins libérés du service
+actif entre le 1er septembre 1939 et le 9 juillet 1947 ; il est prorogé, à partir du 10 juillet 1947, de la période qui
+restait à courir au 1er septembre 1939 pour son expiration, en ce qui concerne les militaires et marins libérés du service
+actif avant le 1er septembre 1939.
+
+La limite d'âge prévue à l'article L. 408 n'est pas opposable aux candidats qui, n'ayant pas quarante ans le 1er septembre
+1939, ont atteint cet âge le 1er septembre 1939 et le 9 janvier 1948, s'ils ont déposé une demande d'emploi réservé avant le
+10 janvier 1948.
+
+La limite d'âge supérieure d'admission à l'emploi d'ouvrière des manufactures de l'Etat est, pour les orphelines de guerre
+âgées de dix-huit à vingt-huit ans, au 1er septembre 1939 et ayant, à cette date, posé leur candidature audit emploi, majorée
+d'une durée égale au temps écoulé entre le 1er septembre 1939 et la date de la publication du décret du 10 juillet 1947.
+
+La demande confirmative d'emploi prévue à l'article L. 436 doit être déposée dans un délai de trois mois à dater de la
+publication du décret du 2 août 1949.
+
+Les orphelines de guerre, âgées de dix-huit à vingt-huit ans au 1er septembre 1939, qui, à cette date, n'avaient pas posé
+leur candidature à l'emploi d'ouvrière des manufactures de l'Etat, peuvent formuler une demande dans un délai de trois mois
+suivant la publication du décret du 2 août 1949 ; passé ce délai, la limite d'âge normale leur est opposable.
+
+Les orphelines de guerre qui ont atteint l'âge de dix-huit ans postérieurement au 1er septembre 1939 bénéficient d'un recul
+de la limite d'âge égal au temps écoulé entre la date à laquelle elles ont atteint l'âge de dix-huit ans et la date de la
+publication du décret du 2 août 1949.
+
+Leur demande doit être déposée dans les trois mois qui suivent ladite date. Passé ce délai, la limite d'âge normale leur est
+opposable.
+
+Les délais et limite d'âge tels qu'ils résultent des deux premiers alinéas du présent article, de même que le délai fixé au
+deuxième alinéa de l'article R. 472, ne sont pas opposables aux candidats anciens militaires libérés entre le 1er septembre
+1939 et le 29 octobre 1946 et ayant perçu un pécule, si leur demande est déposée avant le 21 février 1951.
+
+Toutefois, les bénéficiaires visés à l'alinéa précédent ne peuvent être nommés à un emploi réservé à la société nationale des
+chemins de fer français s'ils ont dépassé l'âge de quarante ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°47-1297 1947-07-10
+  - Code des pensions militaires d'invalidité et des v - art. L399 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R472 (Ab)
+  - Décret n°1949-08-02
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L408 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L436 (Ab)
+
+
+### Titre IV : Pupilles de la nation.<a id=332></a>
+
+#### Chapitre Ier : Reconnaissance du droit au titre de pupille de la nation.<a id=333></a>
 
 ###### Article R496
 
@@ -16809,9 +25968,9 @@ _Cite_:
   - Décret n°1811-06-13 art. 122
 
 
-#### Chapitre II : Protection et aide de l'Etat.<a id=260></a>
+#### Chapitre II : Protection et aide de l'Etat.<a id=334></a>
 
-##### Section 1 : Gestion des deniers pupillaires.<a id=261></a>
+##### Section 1 : Gestion des deniers pupillaires.<a id=335></a>
 
 ###### Article R505
 
@@ -17008,7 +26167,7 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-##### Section 2 : Placement des pupilles de la nation.<a id=262></a>
+##### Section 2 : Placement des pupilles de la nation.<a id=336></a>
 
 ###### Article R514
 
@@ -17027,7 +26186,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R515 (Ab)
 
 
-##### Paragraphe 1 : Placement dans les établissements.<a id=263></a>
+##### Paragraphe 1 : Placement dans les établissements.<a id=337></a>
 
 ###### Article R515
 
@@ -17353,7 +26512,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R520 (Ab)
 
 
-##### Paragraphe 2 : Placement chez les particuliers.<a id=264></a>
+##### Paragraphe 2 : Placement chez les particuliers.<a id=338></a>
 
 ###### Article R526
 
@@ -17510,7 +26669,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R529 (V)
 
 
-##### Section 3 : Equivalence de bourses et exonérations.<a id=265></a>
+##### Section 3 : Equivalence de bourses et exonérations.<a id=339></a>
 
 ###### Article R533
 
@@ -17535,7 +26694,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D399 (Ab)
 
 
-##### Section 4 : Subventions.<a id=266></a>
+##### Section 4 : Subventions.<a id=340></a>
 
 ###### Article R534
 
@@ -17569,7 +26728,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L471
 
 
-##### Paragraphe 1 : Subventions d'entretien.<a id=267></a>
+##### Paragraphe 1 : Subventions d'entretien.<a id=341></a>
 
 ###### Article R535
 
@@ -17702,7 +26861,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R538 (V)
 
 
-##### Paragraphe 2 : Subventions d'apprentissage.<a id=268></a>
+##### Paragraphe 2 : Subventions d'apprentissage.<a id=342></a>
 
 ###### Article R541
 
@@ -18162,7 +27321,7 @@ _Codifié par_:
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
-#### Chapitre III : Dispositions diverses.<a id=269></a>
+#### Chapitre III : Dispositions diverses.<a id=343></a>
 
 ###### Article R563
 
@@ -18189,11 +27348,42 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L485 (VT)
 
 
-## Livre IV : Etat civil et sépultures.<a id=270></a>
+## Livre IV : Etat civil et sépultures.<a id=344></a>
 
-### Chapitre III : Sépultures perpétuelles.<a id=271></a>
+### Chapitre III : Sépultures perpétuelles.<a id=345></a>
 
-#### Section 1 : Dispositions communes aux victimes civiles et militaires.<a id=272></a>
+#### Section 1 : Dispositions communes aux victimes civiles et militaires.<a id=346></a>
+
+###### Article R564
+
+Lorsque les victimes militaires ou civiles sont décédées dans les conditions prévues respectivement aux articles L. 498, L.
+505, L. 513, le regroupement des corps non restitués aux familles en exécution du chapitre II du livre IV (première partie),
+a lieu dans les cimetières nationaux ou dans les carrés spéciaux des cimetières communaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-1 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R566 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L498
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L505
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L513
+
 
 ###### Article R565
 
@@ -18304,7 +27494,81 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-### Chapitre IV : Voyages sur les tombes ou sur les lieux du crime.<a id=273></a>
+#### Section 2 : Dispositions concernant les personnes civiles.<a id=347></a>
+
+###### Article R569-2
+
+La sépulture perpétuelle est accordée aux personnes civiles décédées dans les conditions fixées à l'article L. 513.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L513
+
+
+###### Article R569-3
+
+Est considérée comme étant la conséquence directe d'un acte accompli volontairement pour lutter contre l'ennemi, la mort :
+
+1° Des personnes auxquelles la carte de déporté ou d'interné résistant a été attribuée en application du chapitre II du livre
+III du présent code ;
+
+2° Des personnes auxquelles la carte de combattant volontaire de la Résistance a été attribuée en application du chapitre Ier
+du livre III du présent code ;
+
+3° Des personnes remplissant les conditions prévues aux articles L. 177 à L. 182 portant application aux membres de la
+Résistance des pensions militaires fondées sur le décès ou l'invalidité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-13 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+
+###### Article R569-4
+
+La sépulture perpétuelle comporte l'inhumation dans un cimetière national ou dans un carré spécial d'un cimetière communal.
+L'aménagement et l'entretien perpétuel de la tombe sont assurés aux frais de l'Etat. Un arrêté interministériel dont les
+dispositions font l'objet de l'article A. 222 fixe le taux moyen de l'entretien.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A222
+
+
+### Chapitre IV : Voyages sur les tombes ou sur les lieux du crime.<a id=348></a>
 
 ###### Article R570
 
@@ -18370,13 +27634,13 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L515
 
 
-# Partie réglementaire - Décrets simples<a id=274></a>
+# Partie réglementaire - Décrets simples<a id=349></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=275></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=350></a>
 
-### Titre Ier : Droit à pension des invalides.<a id=276></a>
+### Titre Ier : Droit à pension des invalides.<a id=351></a>
 
-#### Chapitre Ier : Conditions du droit à pension.<a id=277></a>
+#### Chapitre Ier : Conditions du droit à pension.<a id=352></a>
 
 ###### Article D1
 
@@ -18397,7 +27661,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=278></a>
+#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=353></a>
 
 ###### Article D4
 
@@ -18425,9 +27689,9 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-### Titre II : Emoluments complémentaires.<a id=279></a>
+### Titre II : Emoluments complémentaires.<a id=354></a>
 
-#### Chapitre III : Indemnités de soins aux tuberculeux.<a id=280></a>
+#### Chapitre III : Indemnités de soins aux tuberculeux.<a id=355></a>
 
 ###### Article D8
 
@@ -18595,11 +27859,11 @@ _Cite_:
   - Loi n°1946-10-19 art. 93
 
 
-### Titre V : Révision et voies de recours.<a id=281></a>
+### Titre V : Révision et voies de recours.<a id=356></a>
 
-#### Chapitre II : Voies de recours.<a id=282></a>
+#### Chapitre II : Voies de recours.<a id=357></a>
 
-##### Section 1 : Désignation des commissaires du Gouvernement.<a id=283></a>
+##### Section 1 : Désignation des commissaires du Gouvernement.<a id=358></a>
 
 ###### Article D22
 
@@ -18628,7 +27892,7 @@ _Abrogé par_:
   - Décret n°63-1064 du 21 octobre 1963, art. 7 v. init.
 
 
-##### Section 2 : Dispositions concernant les départements d'outre-mer.<a id=284></a>
+##### Section 2 : Dispositions concernant les départements d'outre-mer.<a id=359></a>
 
 ###### Article D25
 
@@ -18666,7 +27930,7 @@ _Abrogé par_:
   - Décret n°63-1064 du 21 octobre 1963, v. init.
 
 
-##### Section 3 : Dispositions diverses.<a id=285></a>
+##### Section 3 : Dispositions diverses.<a id=360></a>
 
 ###### Article D29
 
@@ -18742,13 +28006,13 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-### Titre VI : Dispositions diverses relatives au paiement des pensions.<a id=286></a>
+### Titre VI : Dispositions diverses relatives au paiement des pensions.<a id=361></a>
 
-#### Chapitre VI : Allocations provisoires d'attente.<a id=287></a>
+#### Chapitre VI : Allocations provisoires d'attente.<a id=362></a>
 
-##### Section 1 : Militaires et marins.<a id=288></a>
+##### Section 1 : Militaires et marins.<a id=363></a>
 
-##### Paragraphe 1 : Règles générales.<a id=289></a>
+##### Paragraphe 1 : Règles générales.<a id=364></a>
 
 ###### Article D38
 
@@ -18796,7 +28060,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=290></a>
+##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=365></a>
 
 ###### Article D40
 
@@ -18933,9 +28197,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D50 (Ab)
 
 
-##### Section 2 : Ayants cause des militaires ou marins.<a id=291></a>
+##### Section 2 : Ayants cause des militaires ou marins.<a id=366></a>
 
-##### Paragraphe 1 : Règles générales.<a id=292></a>
+##### Paragraphe 1 : Règles générales.<a id=367></a>
 
 ###### Article D45
 
@@ -18953,7 +28217,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=293></a>
+##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=368></a>
 
 ###### Article D48
 
@@ -19066,13 +28330,13 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-### Titre VII : Soins, traitement et rééducation.<a id=294></a>
+### Titre VII : Soins, traitement et rééducation.<a id=369></a>
 
-#### Chapitre Ier : Soins gratuits.<a id=295></a>
+#### Chapitre Ier : Soins gratuits.<a id=370></a>
 
-##### Section 5 : Dispositions générales.<a id=296></a>
+##### Section 5 : Dispositions générales.<a id=371></a>
 
-##### Paragraphe 2 : Procédure et voies de recours.<a id=297></a>
+##### Paragraphe 2 : Procédure et voies de recours.<a id=372></a>
 
 ###### Article D111 à D120
 
@@ -19083,7 +28347,7 @@ _Abrogé par_:
   - Décret n°59-1362 du 20 novembre 1959
 
 
-#### Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française.<a id=298></a>
+#### Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française.<a id=373></a>
 
 ###### Article D121 à D224
 
@@ -19094,7 +28358,7 @@ _Abrogé par_:
   - Décret n°61-334 du 24 mars 1961 art. 2
 
 
-#### Chapitre V : Rééducation professionnelle.<a id=299></a>
+#### Chapitre V : Rééducation professionnelle.<a id=374></a>
 
 ###### Article D226
 
@@ -19225,11 +28489,11 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=300></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=375></a>
 
-### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=301></a>
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=376></a>
 
-#### Chapitre VII : Chantiers de la jeunesse.<a id=302></a>
+#### Chapitre VII : Chantiers de la jeunesse.<a id=377></a>
 
 ###### Article D232
 
@@ -19408,9 +28672,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-### Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer.<a id=303></a>
+### Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer.<a id=378></a>
 
-#### Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause.<a id=304></a>
+#### Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause.<a id=379></a>
 
 ###### Article D241
 
@@ -19467,7 +28731,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L41
 
 
-#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=305></a>
+#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=380></a>
 
 ###### Article D243
 
@@ -19592,7 +28856,7 @@ _Abrogé par_:
   - Décret n°53-772 du 13 août 1953 art. 8
 
 
-#### Chapitre III : Allocations provisoires d'attente.<a id=306></a>
+#### Chapitre III : Allocations provisoires d'attente.<a id=381></a>
 
 ###### Article D252
 
@@ -19741,13 +29005,13 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=307></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=382></a>
 
-### Titre Ier : Carte et retraite du combattant<a id=308></a>
+### Titre Ier : Carte et retraite du combattant<a id=383></a>
 
-#### Chapitre Ier : Carte du combattant<a id=309></a>
+#### Chapitre Ier : Carte du combattant<a id=384></a>
 
-##### Section 1 : Algérie.<a id=310></a>
+##### Section 1 : Algérie.<a id=385></a>
 
 ###### Article D258
 
@@ -19764,7 +29028,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 2 : Pays d'outre-mer.<a id=311></a>
+##### Section 2 : Pays d'outre-mer.<a id=386></a>
 
 ###### Article D259
 
@@ -19840,9 +29104,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre II : Retraite du combattant<a id=312></a>
+#### Chapitre II : Retraite du combattant<a id=387></a>
 
-##### Section 1 : Attribution et paiement de la retraite.<a id=313></a>
+##### Section 1 : Attribution et paiement de la retraite.<a id=388></a>
 
 ###### Article D264
 
@@ -19899,7 +29163,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 2 : Citoyens français n'ayant pas servi dans l'armée française.<a id=314></a>
+##### Section 2 : Citoyens français n'ayant pas servi dans l'armée française.<a id=389></a>
 
 ###### Article D266
 
@@ -19925,11 +29189,11 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-### Titre III : Droits et avantages accessoires.<a id=315></a>
+### Titre III : Droits et avantages accessoires.<a id=390></a>
 
-#### Chapitre Ier : Carte d'invalidité et droits y afférents<a id=316></a>
+#### Chapitre Ier : Carte d'invalidité et droits y afférents<a id=391></a>
 
-##### Section 1 : Réduction sur les transports ferroviaires.<a id=317></a>
+##### Section 1 : Réduction sur les transports ferroviaires.<a id=392></a>
 
 ###### Article D267
 
@@ -19951,7 +29215,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 2 : Réduction sur les transports routiers.<a id=318></a>
+##### Section 2 : Réduction sur les transports routiers.<a id=393></a>
 
 ###### Article D268
 
@@ -20017,7 +29281,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 3 : Droit de priorité.<a id=319></a>
+##### Section 3 : Droit de priorité.<a id=394></a>
 
 ###### Article D271
 
@@ -20030,7 +29294,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=320></a>
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=395></a>
 
 ###### Article D271-8
 
@@ -20167,9 +29431,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre III : Décorations et insignes.<a id=321></a>
+#### Chapitre III : Décorations et insignes.<a id=396></a>
 
-##### Section 1 : Légion d'honneur et médaille militaire.<a id=322></a>
+##### Section 1 : Légion d'honneur et médaille militaire.<a id=397></a>
 
 ###### Article D272
 
@@ -20242,7 +29506,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 2 : Croix du combattant volontaire de la guerre 1914-1918.<a id=323></a>
+##### Section 2 : Croix du combattant volontaire de la guerre 1914-1918.<a id=398></a>
 
 ###### Article D275
 
@@ -20283,7 +29547,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 3 : Croix du combattant.<a id=324></a>
+##### Section 3 : Croix du combattant.<a id=399></a>
 
 ###### Article D277
 
@@ -20387,7 +29651,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 4 : Médaille de prisonniers civils, déportés et otages de la grande guerre.<a id=325></a>
+##### Section 4 : Médaille de prisonniers civils, déportés et otages de la grande guerre.<a id=400></a>
 
 ###### Article D281
 
@@ -20474,7 +29738,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 5 : Médaille commémorative française de la guerre 1939-1945.<a id=326></a>
+##### Section 5 : Médaille commémorative française de la guerre 1939-1945.<a id=401></a>
 
 ###### Article D285
 
@@ -20707,7 +29971,7 @@ _Cité par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
 
 
-##### Section 6 : Médaille de la France libérée.<a id=327></a>
+##### Section 6 : Médaille de la France libérée.<a id=402></a>
 
 ###### Article D295
 
@@ -20763,7 +30027,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France".<a id=328></a>
+##### Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France".<a id=403></a>
 
 ###### Article D300
 
@@ -20902,7 +30166,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 8 : Insigne des victimes civiles.<a id=329></a>
+##### Section 8 : Insigne des victimes civiles.<a id=404></a>
 
 ###### Article D306
 
@@ -21022,11 +30286,11 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-### Titre IV : Pupilles de la Nation.<a id=330></a>
+### Titre IV : Pupilles de la Nation.<a id=405></a>
 
-#### Chapitre II : Protection et aide de l'Etat.<a id=331></a>
+#### Chapitre II : Protection et aide de l'Etat.<a id=406></a>
 
-##### Section 1 : Manutention des deniers pupillaires.<a id=332></a>
+##### Section 1 : Manutention des deniers pupillaires.<a id=407></a>
 
 ###### Article D361
 
@@ -21510,7 +30774,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 2 : Bourses et subventions.<a id=333></a>
+##### Section 2 : Bourses et subventions.<a id=408></a>
 
 ###### Article D382
 
@@ -21549,9 +30813,9 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-#### Chapitre III : Dispositions particulières.<a id=334></a>
+#### Chapitre III : Dispositions particulières.<a id=409></a>
 
-##### Section 1 : Enfants de militaires ou d'attachés aux armées victimes d'un fait de guerre sur un théâtre d'opérations situé hors de France.<a id=335></a>
+##### Section 1 : Enfants de militaires ou d'attachés aux armées victimes d'un fait de guerre sur un théâtre d'opérations situé hors de France.<a id=410></a>
 
 ###### Article D384
 
@@ -21571,7 +30835,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 2 : Algérie.<a id=336></a>
+##### Section 2 : Algérie.<a id=411></a>
 
 ###### Article D385
 
@@ -21603,7 +30867,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 3 : Territoires d'outre-mer.<a id=337></a>
+##### Section 3 : Territoires d'outre-mer.<a id=412></a>
 
 ###### Article D387
 
@@ -21694,9 +30958,9 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 4 : Pupilles résidant à l'étranger.<a id=338></a>
+##### Section 4 : Pupilles résidant à l'étranger.<a id=413></a>
 
-##### Paragraphe 1 : Reconnaissance du droit au titre de pupille de la nation.<a id=339></a>
+##### Paragraphe 1 : Reconnaissance du droit au titre de pupille de la nation.<a id=414></a>
 
 ###### Article D390
 
@@ -21850,7 +31114,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 2 : Protection et aide.<a id=340></a>
+##### Paragraphe 2 : Protection et aide.<a id=415></a>
 
 ###### Article D396
 
@@ -22010,9 +31274,9 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-## Livre IV : Etat civil et sépultures.<a id=341></a>
+## Livre IV : Etat civil et sépultures.<a id=416></a>
 
-### Chapitre II : Transferts et restitutions de corps.<a id=342></a>
+### Chapitre II : Transferts et restitutions de corps.<a id=417></a>
 
 ###### Article D402
 
@@ -22409,9 +31673,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-### Chapitre III : Sépultures perpétuelles.<a id=343></a>
+### Chapitre III : Sépultures perpétuelles.<a id=418></a>
 
-#### Section 1 : Lieux de sépultures.<a id=344></a>
+#### Section 1 : Lieux de sépultures.<a id=419></a>
 
 ###### Article D421
 
@@ -22474,7 +31738,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Section 2 : Entretien des cimetières.<a id=345></a>
+#### Section 2 : Entretien des cimetières.<a id=420></a>
 
 ###### Article D423
 
@@ -22609,7 +31873,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Section 3 : Dispositions particulières.<a id=346></a>
+#### Section 3 : Dispositions particulières.<a id=421></a>
 
 ###### Article D429
 
@@ -22670,13 +31934,13 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-## Livre V : Institutions.<a id=347></a>
+## Livre V : Institutions.<a id=422></a>
 
-### Titre Ier : Offices des anciens combattants et victimes de guerre.<a id=348></a>
+### Titre Ier : Offices des anciens combattants et victimes de guerre.<a id=423></a>
 
-#### Chapitre Ier : Office national.<a id=349></a>
+#### Chapitre Ier : Office national.<a id=424></a>
 
-##### Section 1 : Caractère juridique.<a id=350></a>
+##### Section 1 : Caractère juridique.<a id=425></a>
 
 ###### Article D431
 
@@ -22694,7 +31958,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 3 : Composition.<a id=351></a>
+##### Section 3 : Composition.<a id=426></a>
 
 ###### Article D437
 
@@ -22775,7 +32039,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 4 : Organisation.<a id=352></a>
+##### Section 4 : Organisation.<a id=427></a>
 
 ###### Article D442
 
@@ -22835,7 +32099,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 5 : Fonctionnement.<a id=353></a>
+##### Section 5 : Fonctionnement.<a id=428></a>
 
 ###### Article D444
 
@@ -22897,9 +32161,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 6 : Régime financier.<a id=354></a>
+##### Section 6 : Régime financier.<a id=429></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=355></a>
+##### Paragraphe 1 : Dispositions générales.<a id=430></a>
 
 ###### Article D448
 
@@ -23145,7 +32409,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 2 : Des recettes et des dépenses.<a id=356></a>
+##### Paragraphe 2 : Des recettes et des dépenses.<a id=431></a>
 
 ###### Article D458
 
@@ -23332,7 +32596,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 3 : Du budget et des crédits.<a id=357></a>
+##### Paragraphe 3 : Du budget et des crédits.<a id=432></a>
 
 ###### Article D464
 
@@ -23412,7 +32676,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable.<a id=358></a>
+##### Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable.<a id=433></a>
 
 ###### Article D468
 
@@ -23435,7 +32699,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 5 : Contrôle financier.<a id=359></a>
+##### Paragraphe 5 : Contrôle financier.<a id=434></a>
 
 ###### Article D469
 
@@ -23471,7 +32735,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 6 : Mesures d'application.<a id=360></a>
+##### Paragraphe 6 : Mesures d'application.<a id=435></a>
 
 ###### Article D471
 
@@ -23492,9 +32756,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux.<a id=361></a>
+#### Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux.<a id=436></a>
 
-##### Section 1 : Caractère juridique.<a id=362></a>
+##### Section 1 : Caractère juridique.<a id=437></a>
 
 ###### Article D472
 
@@ -23550,7 +32814,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 2 : Attributions.<a id=363></a>
+##### Section 2 : Attributions.<a id=438></a>
 
 ###### Article D475
 
@@ -23574,7 +32838,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 3 : Composition.<a id=364></a>
+##### Section 3 : Composition.<a id=439></a>
 
 ###### Article D480
 
@@ -23682,9 +32946,9 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 4 : Organisation et administration.<a id=365></a>
+##### Section 4 : Organisation et administration.<a id=440></a>
 
-##### Paragraphe 1 : Conseil d'administration.<a id=366></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=441></a>
 
 ###### Article D486
 
@@ -23791,7 +33055,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 2 : Commission permanente et sous-commissions.<a id=367></a>
+##### Paragraphe 2 : Commission permanente et sous-commissions.<a id=442></a>
 
 ###### Article D492
 
@@ -23809,7 +33073,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 3 : Questions diverses.<a id=368></a>
+##### Paragraphe 3 : Questions diverses.<a id=443></a>
 
 ###### Article D494
 
@@ -23827,7 +33091,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 5 : Fonctionnement.<a id=369></a>
+##### Section 5 : Fonctionnement.<a id=444></a>
 
 ###### Article D495
 
@@ -24000,9 +33264,9 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Section 6 : Régime financier.<a id=370></a>
+##### Section 6 : Régime financier.<a id=445></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=371></a>
+##### Paragraphe 1 : Dispositions générales.<a id=446></a>
 
 ###### Article D502
 
@@ -24286,7 +33550,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 2 : Des recettes et des dépenses.<a id=372></a>
+##### Paragraphe 2 : Des recettes et des dépenses.<a id=447></a>
 
 ###### Article D512
 
@@ -24510,7 +33774,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 3 : Du budget et des crédits.<a id=373></a>
+##### Paragraphe 3 : Du budget et des crédits.<a id=448></a>
 
 ###### Article D518
 
@@ -24630,7 +33894,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-##### Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable.<a id=374></a>
+##### Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable.<a id=449></a>
 
 ###### Article D522
 
@@ -24696,7 +33960,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 5 : Contrôle financier.<a id=375></a>
+##### Paragraphe 5 : Contrôle financier.<a id=450></a>
 
 ###### Article D524
 
@@ -24728,7 +33992,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Paragraphe 6 : Mesures d'application.<a id=376></a>
+##### Paragraphe 6 : Mesures d'application.<a id=451></a>
 
 ###### Article D525
 
@@ -24766,9 +34030,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre III : Ecoles de rééducation professionnelle<a id=377></a>
+#### Chapitre III : Ecoles de rééducation professionnelle<a id=452></a>
 
-##### Section 1 : Attributions.<a id=378></a>
+##### Section 1 : Attributions.<a id=453></a>
 
 ###### Article D526
 
@@ -24790,7 +34054,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 2 : Organisation.<a id=379></a>
+##### Section 2 : Organisation.<a id=454></a>
 
 ###### Article D527
 
@@ -24919,7 +34183,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 3 : Fonctionnement.<a id=380></a>
+##### Section 3 : Fonctionnement.<a id=455></a>
 
 ###### Article D534
 
@@ -25061,7 +34325,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-##### Section 4 : Régime financier.<a id=381></a>
+##### Section 4 : Régime financier.<a id=456></a>
 
 ###### Article D544
 
@@ -25314,9 +34578,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-### Titre II : Institution nationale des invalides.<a id=382></a>
+### Titre II : Institution nationale des invalides.<a id=457></a>
 
-#### Chapitre Ier : Régime des pensionnaires.<a id=383></a>
+#### Chapitre Ier : Régime des pensionnaires.<a id=458></a>
 
 ###### Article D555
 
@@ -25568,7 +34832,7 @@ _Abrogé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
-#### Chapitre II : Régime des hébergés.<a id=384></a>
+#### Chapitre II : Régime des hébergés.<a id=459></a>
 
 ###### Article D568
 
@@ -25596,7 +34860,7 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre III : Organisation administrative.<a id=385></a>
+#### Chapitre III : Organisation administrative.<a id=460></a>
 
 ###### Article D569
 
@@ -25617,13 +34881,13 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-# Partie réglementaire - Arrêtés<a id=386></a>
+# Partie réglementaire - Arrêtés<a id=461></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=387></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=462></a>
 
-### Titre Ier : Droits à pension des invalides.<a id=388></a>
+### Titre Ier : Droits à pension des invalides.<a id=463></a>
 
-#### Chapitre V : Demande de pension - Liquidation et concession.<a id=389></a>
+#### Chapitre V : Demande de pension - Liquidation et concession.<a id=464></a>
 
 ###### Article A3-1
 
@@ -25641,9 +34905,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A1 (M)
 
 
-### Titre V : Révision et voies de recours.<a id=390></a>
+### Titre V : Révision et voies de recours.<a id=465></a>
 
-#### Chapitre II : Voies de recours.<a id=391></a>
+#### Chapitre II : Voies de recours.<a id=466></a>
 
 ###### Article A4
 
@@ -25745,11 +35009,11 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-### Titre VII : Soins, traitement, rééducation, sécurité sociale.<a id=392></a>
+### Titre VII : Soins, traitement, rééducation, sécurité sociale.<a id=467></a>
 
-#### Chapitre Ier : Soins gratuits.<a id=393></a>
+#### Chapitre Ier : Soins gratuits.<a id=468></a>
 
-##### Section 9 : Indemnités diverses.<a id=394></a>
+##### Section 9 : Indemnités diverses.<a id=469></a>
 
 ###### Article A42 à A47
 
@@ -25760,7 +35024,7 @@ _Abrogé par_:
   - Arreté du 24 mars 1960 art. 1
 
 
-#### Chapitre V : Rééducation professionnelle.<a id=395></a>
+#### Chapitre V : Rééducation professionnelle.<a id=470></a>
 
 ###### Article A56
 
@@ -25803,7 +35067,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 1 : Placement chez l'employeur sans contrat d'apprentissage.<a id=396></a>
+##### Section 1 : Placement chez l'employeur sans contrat d'apprentissage.<a id=471></a>
 
 ###### Article A58
 
@@ -26188,7 +35452,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre A58 à A72
 
 
-##### Section 2 : Placement chez l'employeur avec contrat d'apprentissage.<a id=397></a>
+##### Section 2 : Placement chez l'employeur avec contrat d'apprentissage.<a id=472></a>
 
 ###### Article A74
 
@@ -26407,11 +35671,11 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L132 (VT)
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=398></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=473></a>
 
-### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=399></a>
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=474></a>
 
-#### Chapitre III : Affectés spéciaux de la défense passive.<a id=400></a>
+#### Chapitre III : Affectés spéciaux de la défense passive.<a id=475></a>
 
 ###### Article A85
 
@@ -27059,11 +36323,11 @@ _Cite_:
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L133 (M)
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=401></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=476></a>
 
-### Titre Ier : Carte et retraite du combattant.<a id=402></a>
+### Titre Ier : Carte et retraite du combattant.<a id=477></a>
 
-#### Chapitre Ier : Carte du combattant.<a id=403></a>
+#### Chapitre Ier : Carte du combattant.<a id=478></a>
 
 ###### Article A115
 
@@ -27081,9 +36345,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R226 (V)
 
 
-##### Section 1 : De la qualité de combattant<a id=404></a>
+##### Section 1 : De la qualité de combattant<a id=479></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=405></a>
+##### Paragraphe 1 : Dispositions générales.<a id=480></a>
 
 ###### Article A116
 
@@ -27137,7 +36401,7 @@ _Codifié par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-##### Paragraphe 2 : Dispositions propres à certaines catégories de combattants.<a id=406></a>
+##### Paragraphe 2 : Dispositions propres à certaines catégories de combattants.<a id=481></a>
 
 ###### Article A119
 
@@ -27299,7 +36563,7 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-##### Paragraphe 4 : Cas d'exclusion ou d'opposition.<a id=407></a>
+##### Paragraphe 4 : Cas d'exclusion ou d'opposition.<a id=482></a>
 
 ###### Article A125
 
@@ -27364,7 +36628,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R228 (V)
 
 
-##### Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers.<a id=408></a>
+##### Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers.<a id=483></a>
 
 ###### Article A128
 
@@ -27425,9 +36689,9 @@ _Codifié par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A143 (Ab)
 
 
-##### Section 2 : Procédure d'attribution de la carte.<a id=409></a>
+##### Section 2 : Procédure d'attribution de la carte.<a id=484></a>
 
-##### Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance.<a id=410></a>
+##### Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance.<a id=485></a>
 
 ###### Article A129
 
@@ -27555,7 +36819,7 @@ _Codifié par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-##### Paragraphe 2 : Demande et délivrance de la carte.<a id=411></a>
+##### Paragraphe 2 : Demande et délivrance de la carte.<a id=486></a>
 
 ###### Article A138
 
@@ -27639,7 +36903,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A140 (M)
 
 
-##### Paragraphe 3 : Demande et délivrance de la carte.<a id=412></a>
+##### Paragraphe 3 : Demande et délivrance de la carte.<a id=487></a>
 
 ###### Article A140
 
@@ -27689,9 +36953,9 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-#### Chapitre II : Retraite du combattant.<a id=413></a>
+#### Chapitre II : Retraite du combattant.<a id=488></a>
 
-##### Section 1 : Payement de la retraite du combattant.<a id=414></a>
+##### Section 1 : Payement de la retraite du combattant.<a id=489></a>
 
 ###### Article A144
 
@@ -27961,7 +37225,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre annexe, A149, A150, A151, A152
 
 
-##### Section 2 : Algérie et pays d'outre-mer.<a id=415></a>
+##### Section 2 : Algérie et pays d'outre-mer.<a id=490></a>
 
 ###### Article A154
 
@@ -28005,7 +37269,7 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A153 (V)
 
 
-##### Section 3 : Dispositions diverses.<a id=416></a>
+##### Section 3 : Dispositions diverses.<a id=491></a>
 
 ###### Article A155
 
@@ -28035,9 +37299,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre annexe J
 
 
-### Titre II : Statut des résistants, déportés, internés et réfractaires.<a id=417></a>
+### Titre II : Statut des résistants, déportés, internés et réfractaires.<a id=492></a>
 
-#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=418></a>
+#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=493></a>
 
 ###### Article A158
 
@@ -28074,7 +37338,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R280 (Ab)
 
 
-#### Chapitre II : Statut des déportés et internés de la Résistance.<a id=419></a>
+#### Chapitre II : Statut des déportés et internés de la Résistance.<a id=494></a>
 
 ###### Article A161
 
@@ -28132,7 +37396,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre R305 à R312
 
 
-#### Chapitre III : Statut des déportés et internés politiques.<a id=420></a>
+#### Chapitre III : Statut des déportés et internés politiques.<a id=495></a>
 
 ###### Article A165-1
 
@@ -28157,11 +37421,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A163 (V)
 
 
-### Titre III : Droits et avantages accessoires.<a id=421></a>
+### Titre III : Droits et avantages accessoires.<a id=496></a>
 
-#### Chapitre Ier : Droits attachés à la qualité de pensionné.<a id=422></a>
+#### Chapitre Ier : Droits attachés à la qualité de pensionné.<a id=497></a>
 
-##### Section 1 : Réduction sur les chemins de fer.<a id=423></a>
+##### Section 1 : Réduction sur les chemins de fer.<a id=498></a>
 
 ###### Article A169
 
@@ -28176,9 +37440,9 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 2 : Cartes de priorité.<a id=424></a>
+##### Section 2 : Cartes de priorité.<a id=499></a>
 
-##### Paragraphe 1 : Carte spéciale aux tierces personnes.<a id=425></a>
+##### Paragraphe 1 : Carte spéciale aux tierces personnes.<a id=500></a>
 
 ###### Article A170
 
@@ -28222,7 +37486,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L18 (M)
 
 
-##### Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens).<a id=426></a>
+##### Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens).<a id=501></a>
 
 ###### Article A172-1
 
@@ -28244,9 +37508,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L18 (M)
 
 
-#### Chapitre II : Dispositions pécuniaires.<a id=427></a>
+#### Chapitre II : Dispositions pécuniaires.<a id=502></a>
 
-##### Section 2 : Avantages fiscaux et autres.<a id=428></a>
+##### Section 2 : Avantages fiscaux et autres.<a id=503></a>
 
 ###### Article A173
 
@@ -28354,9 +37618,9 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-#### Chapitre III : Décorations et insignes.<a id=429></a>
+#### Chapitre III : Décorations et insignes.<a id=504></a>
 
-##### Section 1 : Légion d'honneur et médaille militaire.<a id=430></a>
+##### Section 1 : Légion d'honneur et médaille militaire.<a id=505></a>
 
 ###### Article A177
 
@@ -28421,7 +37685,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 2 : Médaille des prisonniers civils, déportés et otages de la guerre 1914-1918.<a id=431></a>
+##### Section 2 : Médaille des prisonniers civils, déportés et otages de la guerre 1914-1918.<a id=506></a>
 
 ###### Article A180
 
@@ -28545,11 +37809,11 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-### Titre IV : Pupilles de la nation.<a id=432></a>
+### Titre IV : Pupilles de la nation.<a id=507></a>
 
-#### Chapitre II : Protection et aide de l'Etat.<a id=433></a>
+#### Chapitre II : Protection et aide de l'Etat.<a id=508></a>
 
-##### Section 1 : Gestion des deniers pupillaires.<a id=434></a>
+##### Section 1 : Gestion des deniers pupillaires.<a id=509></a>
 
 ###### Article A191
 
@@ -28857,7 +38121,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A242 (V)
 
 
-##### Section 2 : Avantages accordés aux pupilles de la nation.<a id=435></a>
+##### Section 2 : Avantages accordés aux pupilles de la nation.<a id=510></a>
 
 ###### Article A202
 
@@ -28929,11 +38193,11 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A206 (V)
 
 
-## Livre IV : Etat civil et sépultures.<a id=436></a>
+## Livre IV : Etat civil et sépultures.<a id=511></a>
 
-### Chapitre II : Transfert et restitution des corps.<a id=437></a>
+### Chapitre II : Transfert et restitution des corps.<a id=512></a>
 
-#### Section 1 : Dispositions concernant les départements et territoires d'outre-mer.<a id=438></a>
+#### Section 1 : Dispositions concernant les départements et territoires d'outre-mer.<a id=513></a>
 
 ###### Article A206
 
@@ -29207,7 +38471,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A206 (V)
 
 
-#### Section 2 : Indemnités aux délégués représentant les familles aux exhumations.<a id=439></a>
+#### Section 2 : Indemnités aux délégués représentant les familles aux exhumations.<a id=514></a>
 
 ###### Article A216
 
@@ -29368,13 +38632,13 @@ _Cite_:
   - Décret n°1862-05-31 art. 94
 
 
-## Livre V : Institutions<a id=440></a>
+## Livre V : Institutions<a id=515></a>
 
-### Titre Ier : Offices des anciens combattants et victimes de la guerre<a id=441></a>
+### Titre Ier : Offices des anciens combattants et victimes de la guerre<a id=516></a>
 
-#### Chapitre Ier : Office national<a id=442></a>
+#### Chapitre Ier : Office national<a id=517></a>
 
-##### Section 2 : Dispositions diverses.<a id=443></a>
+##### Section 2 : Dispositions diverses.<a id=518></a>
 
 ###### Article A246
 
@@ -29433,11 +38697,11 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-#### Chapitre II : Offices départementaux<a id=444></a>
+#### Chapitre II : Offices départementaux<a id=519></a>
 
-##### Section 1 : Régime financier<a id=445></a>
+##### Section 1 : Régime financier<a id=520></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=446></a>
+##### Paragraphe 1 : Dispositions générales.<a id=521></a>
 
 ###### Article A250
 
@@ -29505,7 +38769,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D525 (V)
 
 
-##### Paragraphe 2 : Des recettes et des dépenses.<a id=447></a>
+##### Paragraphe 2 : Des recettes et des dépenses.<a id=522></a>
 
 ###### Article A253
 
@@ -29569,7 +38833,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D525 (V)
 
 
-##### Paragraphe 3 : Ecritures et comptes de l'agent comptable.<a id=448></a>
+##### Paragraphe 3 : Ecritures et comptes de l'agent comptable.<a id=523></a>
 
 ###### Article A256
 
@@ -29755,7 +39019,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D525 (V)
 
 
-##### Section 2 : Dispositions diverses.<a id=449></a>
+##### Section 2 : Dispositions diverses.<a id=524></a>
 
 ###### Article A264
 
@@ -29777,11 +39041,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A245 (V)
 
 
-#### Chapitre III : Etablissements attachés aux offices<a id=450></a>
+#### Chapitre III : Etablissements attachés aux offices<a id=525></a>
 
-##### Section 1 : Ecoles de rééducation professionnelle<a id=451></a>
+##### Section 1 : Ecoles de rééducation professionnelle<a id=526></a>
 
-##### Paragraphe 1 : Fonctionnement.<a id=452></a>
+##### Paragraphe 1 : Fonctionnement.<a id=527></a>
 
 ###### Article A265
 
@@ -29795,7 +39059,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Paragraphe 2 : Régime financier.<a id=453></a>
+##### Paragraphe 2 : Régime financier.<a id=528></a>
 
 ###### Article A266
 
@@ -30196,7 +39460,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 2 : Foyers d'anciens combattants et de victimes de la guerre.<a id=454></a>
+##### Section 2 : Foyers d'anciens combattants et de victimes de la guerre.<a id=529></a>
 
 ###### Article A289
 
@@ -30292,11 +39556,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre annexe J
 
 
-### Titre II : Institution nationale des invalides<a id=455></a>
+### Titre II : Institution nationale des invalides<a id=530></a>
 
-#### Chapitre Ier : Régime des pensionnaires<a id=456></a>
+#### Chapitre Ier : Régime des pensionnaires<a id=531></a>
 
-##### Section 1 : Instruction de la demande et admission.<a id=457></a>
+##### Section 1 : Instruction de la demande et admission.<a id=532></a>
 
 ###### Article A294
 
@@ -30429,7 +39693,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A298 (V)
 
 
-##### Section 2 : Réception - Admission définitive.<a id=458></a>
+##### Section 2 : Réception - Admission définitive.<a id=533></a>
 
 ###### Article A300
 
@@ -30483,7 +39747,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 3 : Régime pécuniaire, redevances, gratuité des soins.<a id=459></a>
+##### Section 3 : Régime pécuniaire, redevances, gratuité des soins.<a id=534></a>
 
 ###### Article A302
 
@@ -30537,7 +39801,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 4 : Tenue et logement.<a id=460></a>
+##### Section 4 : Tenue et logement.<a id=535></a>
 
 ###### Article A306
 
@@ -30582,9 +39846,9 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Section 5 : Discipline, permissions et congés<a id=461></a>
+##### Section 5 : Discipline, permissions et congés<a id=536></a>
 
-##### Paragraphe 1 : Discipline.<a id=462></a>
+##### Paragraphe 1 : Discipline.<a id=537></a>
 
 ###### Article A309
 
@@ -30609,7 +39873,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Paragraphe 2 : Permissions.<a id=463></a>
+##### Paragraphe 2 : Permissions.<a id=538></a>
 
 ###### Article A311
 
@@ -30636,7 +39900,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-##### Paragraphe 3 : Congés.<a id=464></a>
+##### Paragraphe 3 : Congés.<a id=539></a>
 
 ###### Article A313
 
@@ -30782,7 +40046,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre A313 à A323
 
 
-##### Section 6 : Dispositions diverses.<a id=465></a>
+##### Section 6 : Dispositions diverses.<a id=540></a>
 
 ###### Article A324
 
@@ -30795,7 +40059,7 @@ _Codifié par_:
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
-#### Chapitre II : Régime des hébergés.<a id=466></a>
+#### Chapitre II : Régime des hébergés.<a id=541></a>
 
 ###### Article A325
 
@@ -30930,7 +40194,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D568 (Ab)
 
 
-#### Chapitre III : Organisation administrative de l'institution nationale des invalides.<a id=467></a>
+#### Chapitre III : Organisation administrative de l'institution nationale des invalides.<a id=542></a>
 
 ###### Article A330 à A334
 
@@ -30941,13 +40205,13 @@ _Abrogé par_:
   - Décret n°54-652 du 11 juin 1954, v. init.
 
 
-# Annexes<a id=468></a>
+# Annexes<a id=543></a>
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=469></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=544></a>
 
-### Titre VI : Etrangers.<a id=470></a>
+### Titre VI : Etrangers.<a id=545></a>
 
-#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=471></a>
+#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=546></a>
 
 ###### Article Annexe 1, art. 1
 
@@ -31011,7 +40275,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=472></a>
+#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=547></a>
 
 ###### Article Annexe 2, art. 1
 
@@ -31180,7 +40444,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=473></a>
+#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=548></a>
 
 ###### Article Annexe 3, art. 1
 
@@ -31337,12 +40601,84 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=474></a>
+#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=549></a>
 
 ###### Article Annexe 4
 
 La jouissance de certains droits et le bénéfice de certaines faveurs accordés aux étrangers sous condition de réciprocité ne
 seront pas refusés aux réfugiés faute de réciprocité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+#### Convention franco-britannique du 23 janvier 1950<a id=550></a>
+
+###### Article Annexe 5, art. 1
+
+Le Gouvernement français accordera aux ressortissants britanniques, victimes civiles d'un fait de guerre survenu en France,
+et à leurs ayants cause, le bénéfice de la législation française en faveur des victimes civiles de guerre et des avantages
+qui y sont attachés, pendant la durée de leur résidence habituelle en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article Annexe 5, art. 2
+
+Le Gouvernement du Royaume-Uni accordera aux ressortissants français, victimes civiles d'un fait de guerre survenu dans le
+Royaume-Uni, et à leurs ayants cause, le bénéfice de la législation britannique en faveur des victimes civiles de guerre et
+des avantages qui y sont attachés, pendant la durée de leur résidence habituelle dans le Royaume-Uni.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article Annexe 5, art. 3
+
+Aux fins du présent accord :
+
+1° L'expression "ressortissants français" désignera tous les citoyens français et les ressortissants des territoires et Etats
+de l'Union française ;
+
+2° L'expression "ressortissants britanniques" désignera tous les citoyens du Royaume-Uni et des colonies et tous les protégés
+britanniques appartenant aux territoires dont le Gouvernement du Royaume-Uni est responsable en matière de relations
+internationales ;
+
+3° L'expression "France" désignera le territoire de la France métropolitaine ;
+
+4° L'expression "Royaume-Uni" désignera le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, à l'exclusion des îles de la
+Manche et de l'île du Man ;
+
+5° Les expressions "faits de guerre" et "ayants cause" seront définies conformément à la législation relative aux victimes de
+guerre du pays appelé à supporter la charge de la pension.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article Annexe 5, art. 4
+
+Le présent accord entrera en vigueur dès l'échange des ratifications, celui-ci devant avoir lieu à Londres aussitôt que faire
+se pourra. Il restera en vigueur jusqu'à ce que les deux gouvernements contractants y mettent fin d'un commun accord, mais
+pourra être dénoncé en tout temps, sur le désir de l'un d'eux, moyennant avis par écrit donné à l'autre un an à l'avance.
+
+En foi de quoi, les soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé le présent accord et y ont
+apposé leurs sceaux.
+
+Fait en double exemplaire, l'un en langue française, l'autre en langue anglaise, les deux textes faisant également foi.
 
 **Liens relatifs à cet article**
 
