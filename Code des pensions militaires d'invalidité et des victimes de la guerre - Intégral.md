@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1967-12-22
+Version Consolidée au 1968-01-27
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -218,9 +218,9 @@ Version Consolidée au 1967-12-22
             - [Paragraphe 9 : Procédure sommaire. (art. R62)](#215)
           - [Section 2 : Cour régionale des pensions. (art. R64 à R68)](#216)
           - [Section 3 : Conseil d'Etat. (art. R69 à R90)](#217)
-            - [Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation. (art. R71 à R80)](#218)
-              - [A - Organisation. (art. R71 à R76)](#219)
-              - [B - Fonctionnement. (art. R78 à R80)](#220)
+            - [Paragraphe 1 : Organisation et fonctionnement de la commission spéciale de cassation. (art. R70 à R81)](#218)
+              - [A - Organisation. (art. R70 à R76)](#219)
+              - [B - Fonctionnement. (art. R77 à R81)](#220)
             - [Paragraphe 2 : Procédure, règles d'instruction. (art. R82 à R90)](#221)
       - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. R91 à R102)](#222)
         - [Chapitre III : Prescription des arrérages. (art. R91 à R101)](#223)
@@ -17868,6 +17868,45 @@ _Cité par_:
 
 ##### A - Organisation.<a id=219></a>
 
+###### Article R70
+
+La commission spéciale de cassation des pensions, adjointe temporairement au Conseil d'Etat en vertu de l'article L. 95 pour
+statuer sur les recours en matière de pensions prévus par ledit article, est présidée par le président de la section du
+contentieux du Conseil d'Etat ou par un président de section honoraire au Conseil d'Etat, ancien président de la section du
+contentieux, nommé par décret.
+
+Elle comprend, outre son président, huit membres titulaires et quatre membres suppléants.
+
+Quatre membres titulaires sont choisis parmi les conseillers d'Etat en service ordinaire. L'un d'eux est désigné pour remplir
+les fonctions de vice-président de la commission.
+
+Les quatre autres membres titulaires sont pris parmi les conseillers maîtres à la Cour des comptes, les maîtres des requêtes
+au Conseil d'Etat, les conseillers référendaires à la Cour des comptes, les magistrats des cours d'appel en activité ou
+honoraires ou les avocats honoraires au Conseil d'Etat et à la Cour de cassation.
+
+Les quatre membres suppléants sont désignés dans les catégories énoncées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L95 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L96 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L99 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R88 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-75 1968-01-25 art. 1 JORF 27 janvier 1968
+
+
 ###### Article R71
 
 Les membres titulaires et suppléants sont nommés par décret contresigné par le garde des sceaux, ministre de la justice, et,
@@ -17907,6 +17946,46 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L97 (Ab)
 
 
+###### Article R73
+
+Sont adjoints à la commission en qualité de rapporteurs :
+
+1° Des auditeurs au Conseil d'Etat ou à la Cour des comptes ;
+
+2° Des magistrats de l'ordre administratif ou judiciaire, en activité ou honoraires, ou des avocats honoraires au Conseil
+d'Etat et à la Cour de cassation ;
+
+3° Des licenciés en droit ayant rempli pendant dix ans au moins des fonctions rétribuées dans l'ordre administratif ou
+judiciaire ;
+
+4° Des officiers ministériels honoraires ayant rempli leurs fonctions pendant dix ans au moins ;
+
+5° Des licenciés en droit offrant toutes garanties de compétence et d'honorabilité présentés par une commission présidée par
+le président de la commission spéciale de cassation et comprenant les présidents de section de ladite commission et le
+secrétaire général du Conseil d'Etat.
+
+Les rapporteurs sont nommés par arrêté du garde des sceaux, ministre de la justice, pris conjointement avec le ministre de
+l'économie et des finances en ce qui concerne les auditeurs à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L99 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-75 1968-01-25 art. 1 JORF 27 janvier 1968
+
+
 ###### Article R74
 
 Les fonctions de secrétaire de la commission spéciale de cassation sont remplies par un fonctionnaire du personnel des
@@ -17936,6 +18015,45 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R75 (Ab)
 
 
+###### Article R75
+
+Indépendamment du secrétaire, le personnel du secrétariat de la commission spéciale de cassation comprend des rédacteurs, des
+commis d'ordre, des dactylographes et un homme de service, qui sont recrutés, soit directement en qualité d'auxiliaires
+temporaires, soit par voie de détachement du personnel des administrations centrales des ministères.
+
+Les fonctionnaires ainsi détachés pour occuper des emplois le sont par arrêté du ministre duquel ils dépendent.
+
+Quatre secrétaires adjoints, choisis dans le personnel des bureaux du Conseil d'Etat, remplissent les fonctions de
+secrétaires de section.
+
+La désignation des secrétaires adjoints, leur affectation aux sections de la commission spéciale de cassation et, sous
+réserve des dispositions qui précèdent et de ce qui est dit à l'article R. 76, toutes les mesures relatives à l'organisation
+intérieure du secrétariat et à son fonctionnement font l'objet de décisions du président de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L100 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R74 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R76 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-75 1968-01-25 art. 1 JORF 27 janvier 1968
+
+
 ###### Article R76
 
 La rémunération du personnel de la commission spéciale de cassation est fixée par un décret contresigné par le ministre de la
@@ -17963,6 +18081,33 @@ _Cité par_:
 
 
 ##### B - Fonctionnement.<a id=220></a>
+
+###### Article R77
+
+La commission spéciale de cassation est divisée en quatre sections.
+
+Chaque section comprend des membres titulaires dont un conseiller d'Etat qui est chargé des fonctions de président.
+
+La répartition des membres titulaires et des rapporteurs entre les sections est arrêtée par le président de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R88 (Ab)
+
+_Modifié par_:
+
+  - Décret n°68-75 1968-01-25 art. 1 JORF 27 janvier 1968
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
+
 
 ###### Article R78
 
@@ -18038,6 +18183,26 @@ _Abrogé par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. R88 (Ab)
+
+
+###### Article R81
+
+Le président de la commission spéciale de cassation est, en cas d'empêchement, remplacé dans ses fonctions par le vice-
+président et, à défaut, par le président de section le plus ancien dans ses fonctions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°68-75 1968-01-25 art. 1 JORF 27 janvier 1968
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
 
 
 ##### Paragraphe 2 : Procédure, règles d'instruction.<a id=221></a>
