@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-12-19
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -500,10 +500,10 @@ Version Consolidée au 1985-10-01
         - [Chapitre Ier : Régime des pensionnaires. (art. D555 à D566)](#497)
         - [Chapitre II : Régime des hébergés. (art. D567 à D568)](#498)
         - [Chapitre III : Organisation administrative. (art. D569)](#499)
-  - [Partie réglementaire - Arrêtés (art. A2 à A329)](#500)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A2 à A84)](#501)
-      - [Titre Ier : Droits à pension des invalides. (art. A2 à A3-1)](#502)
-        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A2 à A3-1)](#503)
+  - [Partie réglementaire - Arrêtés (art. A1 à A329)](#500)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A1 à A84)](#501)
+      - [Titre Ier : Droits à pension des invalides. (art. A1 à A3-1)](#502)
+        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A1 à A3-1)](#503)
       - [Titre V : Révision et voies de recours. (art. A4 à A11)](#504)
         - [Chapitre II : Voies de recours. (art. A4 à A11)](#505)
       - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A12 à A84)](#506)
@@ -46545,6 +46545,38 @@ _Codifié par_:
 
 #### Chapitre V : Demande de pension - Liquidation et concession.<a id=503></a>
 
+###### Article A1
+
+Délégation est donnée aux commissaires de la République de région à l'effet de signer, au nom du ministre chargé des anciens
+combattants et victimes de guerre, dans les conditions prévues à l'article A. 2, les décisions portant rejet des demandes de
+pensions militaires d'invalidité et des demandes de pensions de victimes civiles de guerre présentées par les postulants qui,
+en raison de leur résidence, relèvent de la compétence territoriale de ces hauts fonctionnaires.
+
+La même délégation est donnée au responsable du service des ressortissants du département ministériel chargé des anciens
+combattants et victimes de guerre, qui résident à l'étranger, en ce qui concerne les postulants résidant en Algérie, en
+Tunisie ou au Maroc et, à compter du 1er janvier 1986, en ce qui concerne les postulants résidant dans les autres Etats
+étrangers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1972-07-31 art. 1 JORF 8 août 1972
+  - Arrêté 1982-07-29 art. 1 JONC 18 août 1982
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 10 septembre 1992
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A2 (Ab)
+
+
 ###### Article A2
 
 La délégation accordée à l'article A.1 concerne les demandes initiales de pension, les demandes de renouvellement de pensions
@@ -46570,6 +46602,35 @@ _Modifié par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. A1 (Ab)
+
+
+###### Article A3
+
+Délégation est donnée aux commissaires de la République de région à l'effet de signer au nom du ministre chargé des anciens
+combattants et victimes de guerre, les décisions portant rejet des demandes de pensions de veuves, d'orphelins ou
+d'ascendants présentées postérieurement au 5 septembre 1947 par les ayants cause de militaires, d'anciens militaires ou de
+victimes civiles de guerre qui, en raison de leur résidence, relèvent de la compétence territoriale de ces hauts
+fonctionnaires, à l'exclusion des demandes pour lesquelles les propositions favorables émises au terme de leur instruction ne
+sont pas entérinées à l'échelon ministériel.
+
+La même délégation est donnée au responsable du service des ressortissants du département ministériel chargé des anciens
+combattants et victimes de guerre, qui résident à l'étranger, en ce qui concerne les postulants résidant en Algérie, en
+Tunisie ou au Maroc et à compter du 1er janvier 1986, en ce qui concerne les postulants résidant dans les autres Etats
+étrangers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1982-07-29 art. 1 JONC 18 août 1982
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 10 septembre 1992
 
 
 ###### Article A3-1
