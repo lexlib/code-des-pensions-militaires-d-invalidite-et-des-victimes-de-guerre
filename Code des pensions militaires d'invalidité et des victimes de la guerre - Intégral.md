@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1972-12-09
+Version Consolidée au 1972-12-21
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -73,7 +73,7 @@ Version Consolidée au 1972-12-09
             - [Paragraphe 1 : Victimes de la guerre 1914-1918. (art. L193 à L196)](#70)
             - [Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées. (art. L197 à L207)](#71)
             - [Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale. (art. L208)](#72)
-            - [Paragraphe 4 : Ayants cause. (art. L210)](#73)
+            - [Paragraphe 4 : Ayants cause. (art. L209 à L210)](#73)
           - [Section 2 : Procédure (art. L211 à L223)](#74)
             - [Paragraphe 1 : Demande de pension et date d'entrée en jouissance. (art. L211 à L212)](#75)
             - [Paragraphe 3 : Règles de liquidation. (art. L214 à L219)](#76)
@@ -7098,6 +7098,41 @@ _Cité par_:
 
 
 ##### Paragraphe 4 : Ayants cause.<a id=73></a>
+
+###### Article L209
+
+En cas de décès de la victime, ses ayants droit peuvent, dans les mêmes conditions que les ayants droit des militaires, se
+prévaloir des dispositions du livre Ier y compris celles prévues par le 2° de l'article L. 43 en faveur des veuves des
+invalides à 85 % et au-dessus.
+
+Sont considérés comme orphelins dans les conditions du livre Ier les enfants d'une femme décédée, victime de la guerre, même
+si le père de ces enfants est encore vivant.
+
+Toutefois, les ayants droit des personnes hospitalisées à demeure dans les établissements publics d'assistance ne peuvent
+bénéficier des dispositions du présent chapitre.
+
+En cas de disparition dûment constatée, les ayants droit des personnes disparues dans les conditions prévues aux articles L.
+193 et L. 197 obtiennent également le bénéfice des dispositions du livre Ier.
+
+Les pensions d'invalidité définitives ou temporaires ne peuvent donner lieu à réversion.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 34 JORF 5 janvier 1954
+  - Loi n°72-1121 1972-12-20 art. 70 JORF 21 décembre 1972
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L193 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L197 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L43 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L210
 
