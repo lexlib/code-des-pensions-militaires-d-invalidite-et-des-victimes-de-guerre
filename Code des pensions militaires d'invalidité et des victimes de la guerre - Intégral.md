@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2001-12-28
+Version Consolidée au 2001-12-29
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -3776,24 +3776,20 @@ de l'article L. 18 du code et bénéficiaires de l'allocation spéciale n° 5 bi
 elles sont âgées de plus de soixante ans et si elles justifient d'une durée de mariage et de soins donnés d'une manière
 constante pendant au moins quinze années.
 
-Le taux de cette majoration est fixé à l'indice de pension 230.
+Le taux de cette majoration est fixé à l'indice de pension 350.
 
 Une majoration spéciale est attribuée, pour les soins donnés par elles à leur mari, aux veuves des grands invalides relevant
 de l'article L. 18 et bénéficiaires de l'allocation spéciale n° 5 bis, a, lorsqu'elles sont titulaires d'une pension, si
 elles sont âgées de plus de soixante ans et si elles justifient d'une durée de mariage et de soins donnés d'une manière
 constante pendant au moins quinze années.
 
-Le taux de cette majoration est fixé à l'indice de pension 140.
+Le taux de cette majoration est fixé à l'indice de pension 260.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°63-1241 1963-12-19 art. 53-I JORF 25 décembre 1963
 
 _Cité par_:
 
@@ -3807,11 +3803,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°65-997 1965-11-29 art. 62 JORF 30 novembre 1965
-  - Loi n°70-1199 1970-12-21 art. 86 JORF 22 décembre 1970
-  - Loi n°72-1121 1972-12-20 art. 68, 69 JORF 21 décembre 1972
-  - Loi n°78-1239 du 29 décembre 1978 - art. 94 () JORF 30 décembre 1978
-  - Loi n°80-30 1980-01-18 art. 92 1° JORF 19 janvier 1980
+  - Loi - art. 127 () JORF 29 décembre 2001
 
 _Nouveaux textes_:
 
@@ -10792,41 +10784,34 @@ ans, bénéficient de la retraite au taux déterminé par application de l'indic
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux alinéas précédents, bénéficient de la
 retraite au taux déterminé par application de l'indice de pension 33.
 
+Les bénéficiaires d'une pension d'invalidité au titre du présent code, indemnisant une ou plusieurs infirmités imputables à
+des services accomplis au cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de l'ordre hors
+métropole et titulaires de la carte du combattant, ont droit à la retraite du combattant à l'âge de soixante ans.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 _Cite_:
 
   - Loi n°53-1340 1953-12-31
   - Code de la sécurité sociale R224
-  - Code des pensions militaires d'invalidité et des v - art. L255 (V)
   - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
   - Code des pensions militaires d'invalidité et des v - art. R224 (M)
 
 _Modifié par_:
 
-  - Loi n°56-780 1956-08-04 JORF 7 août 1956 rectificatif JORF 10 octobre 1956
-  - Ordonnance 58-1374 1958-12-30 art. 21 1 JORF 31 décembre 1958
-  - Loi n°59-1454 1959-12-26 art. 45 JORF 27 décembre 1959
-  - Loi n°60-1384 1960-12-23 art. 60 JORF 24 décembre 1960
-  - Loi n°61-1396 1961-12-21 art. 52 JORF 22 décembre 1961
-  - Loi n°63-156 1963-02-23 art. 36 I JORF 24 février 1963
-  - Loi n°63-1241 1963-12-19 art. 51 JORF 25 décembre 1963
-  - Loi n°72-1121 1972-12-20 art. 65 JORF 21 décembre 1972
-  - Loi n°74-1129 1974-12-30 art. 69 JORF 31 décembre 1974
-  - Loi n°75-1278 1975-12-30 art. 91 JORF 31 décembre 1975
-  - Loi n°76-1232 1976-12-29 art. 91 JORF 30 décembre 1976
-  - Loi n°77-1467 1977-12-30 art. 85 JORF 31 décembre 1977
+  - Loi - art. 128 () JORF 29 décembre 2001
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 81 (MMN)
+  - Code des pensions militaires d'invalidité et de... - art. L255 (VT)
   - Code des pensions militaires d'invalidité et de... - art. R241 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R245 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R236 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L256 bis
