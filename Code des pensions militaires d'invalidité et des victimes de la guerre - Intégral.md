@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2003-08-06
+Version Consolidée au 2003-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -3703,28 +3703,31 @@ Lorsque le droit à pension de veuve naît en considération du taux de la pensi
 veuves au titre de l'article L. 50 et du troisième alinéa de l'article L. 51 ne peut excéder celui de la pension et des
 allocations de leur mari aux taux sur lesquels elles étaient calculées au moment de son décès.
 
+Ces dispositions ne font pas obstacle à l'application en 2004 d'une majoration uniforme des pensions des veuves calculées en
+application des dispositions des articles L. 49 à L. 52.
+
+Un décret contresigné par le ministre chargé des anciens combattants et victimes de guerre et par le ministre chargé de
+l'économie et des finances détermine le taux de la majoration uniforme ainsi appliquée en 2004.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 121 () JORF 31 décembre 2003
+
+_Cité par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
 
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. L50 (M)
   - Code des pensions militaires d'invalidité et des v - art. L51 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L50, L51, L49 à L52
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°73-1150 1973-12-27 art. 71 II JORF 28 décembre 1973
-
-_Modifié par_:
-
-  - Loi n°77-1467 1977-12-30 art. 100 I c JORF 31 décembre 1977
-
-_Cité par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
 
 
 ###### Article L52
