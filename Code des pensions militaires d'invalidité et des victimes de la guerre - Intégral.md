@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1996-05-18
+Version Consolidée au 1996-06-15
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -26445,10 +26445,10 @@ le 2 septembre 1939 se cumulent entre eux et avec ceux effectués au titre des o
 
 D'autre part, sont accordées des bonifications afférentes soit à des opérations de combat limitativement désignées ou
 effectuées dans des conditions exceptionnellement dangereuses, soit à des situations personnelles, résultant du contrat
-d'engagement ou d'une action d'éclat homologuée par citation individuelle ou par citation collective au titre d'une unité ou
-d'une fraction d'unité constituée. Ces bonifications ne devront pas excéder le coefficient six pour celles afférentes aux
-combats, ou la durée de dix jours pour celles afférentes aux situations personnelles. Leurs modalités d'application sont
-fixées par arrêtés des ministres intéressés ;
+d'engagement ou d'une action d'éclat homologuée par citation collective au titre d'une unité ou d'une fraction d'unité
+constituée. Ces bonifications ne devront pas excéder le coefficient six pour celles afférentes aux combats, ou la durée de
+dix jours pour celles afférentes aux situations personnelles. Leurs modalités d'application sont fixées par arrêtés des
+ministres intéressés ;
 
 2° Qui ont été évacués pour blessure reçue ou maladie contractée en service, alors qu'ils appartenaient aux unités énumérées
 aux listes susvisées, mais sans condition de durée de séjour dans ces unités ;
@@ -26509,7 +26509,7 @@ nationale en date du 1er avril 1943 ;
 a) Ont navigué pendant trois mois, consécutifs ou non, soit au commerce, soit à la pêche, en deuxième et troisième zones dans
 les régions et à des époques où la navigation donne droit à la qualité de combattant au personnel de la marine militaire ;
 
-b) Ont appartenu à une station de pilotage ou ont été inscrits au r<CB>le de remorqueur ou de bâtiment de servitude et ont
+b) Ont appartenu à une station de pilotage ou ont été inscrits au rôle de remorqueur ou de bâtiment de servitude et ont
 accompli trois mois de service entre les dates et dans les conditions fixées pour chaque station et chaque port suivant la
 procédure déterminée à l'article R. 227 ;
 
@@ -26522,7 +26522,11 @@ participé soit à des opérations d'évacuation de Dunkerque, soit à des opér
 Ces bonifications ne devront pas dépasser la durée de vingt-cinq jours. Leurs modalités d'application sont déterminées par
 arrêtés des ministres intéressés.
 
-Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 inclus :
+IV. - Personnels militaires ayant combattu en Indochine et en Corée.
+
+Les militaires visés par le décret n° 54-1262 du 24 décembre 1954.
+
+D - Pour les opérations effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 inclus :
 
 a) En Tunisie, à compter du 1er janvier 1952 ;
 
@@ -26530,20 +26534,8 @@ b) Au Maroc, à compter du 1er juin 1953 ;
 
 c) En Algérie, à compter du 31 octobre 1954.
 
-IV. - Personnels militaires ayant combattu en Indochine et en Corée.
-
-Les militaires visés par le décret n° 54-1262 du 24 décembre 1954.
-
-D - Pour les opérations indiquées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 inclus :
-
-a) en Tunisie, à compter du 1er janvier 1952 ;
-
-b) au Maroc, à compter de la fin de 1953 ;
-
-c) en Algérie, à compter du 31 octobre 1954.
-
 I. - Sont considérés comme des combattants les militaires des armées françaises et les membres des forces supplétives
-françaises [*définition*] :
+françaises  :
 
 1° Qui ont appartenu pendant trois mois, consécutifs ou non, à une unité combattante ou à une formation entrant dans l'une
 des catégories énumérées par l'arrêté interministériel prévu au troisième alinéa de l'article L. 253 bis et assimilée à une
@@ -26552,9 +26544,8 @@ unité combattante ;
 Pour le calcul de la durée d'appartenance, les services accomplis au titre d'opérations antérieures se cumulent entre eux et
 avec ceux des opérations d'Afrique du Nord ;
 
-Des bonifications afférentes à des situations personnelles résultant du contrat d'engagement ou d'une action d'éclat
-homologuée par citation individuelle sont accordées pour une durée ne pouvant excéder dix jours, suivant les modalités
-d'application fixées par arrêtés des ministres intéressés ;
+Des bonifications afférentes à des situations personnelles résultant du contrat d'engagement sont accordées pour une durée ne
+pouvant excéder dix jours, suivant les modalités d'application fixées par arrêtés des ministres intéressés ;
 
 2° Qui ont appartenu à une unité ayant connu, pendant leur temps de présence, neuf actions de feu ou de combat ;
 
@@ -26619,15 +26610,9 @@ bonifications à accorder.
 
 **Nota:**
 
-[*Nota : Décret n° 65-1048 du 2 décembre 1965, art. 9 : La "commission départementale de la carte du combattant" prévue par
-circulaire du 29 décembre 1949 est supprimée et ses attributions transférées à la "commission départementale des anciens
-combattants et victimes de guerre" qui lui est substituée.*]
-
-[*Nota - Code des pensions militaires d'invalidité et des victimes de la guerre D258 : le présent article est applicable à
-l'Algérie.*]
-
-[*Nota - Code des pensions militaires d'invalidité et des victimes de la guerre D259 : le présent article est applicable aux
-anciens combattants originaires des pays d'outre-mer.*]
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission des
+bonifications).
 
 **Liens relatifs à cet article**
 
@@ -26677,7 +26662,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°93-1079 du 14 septembre 1993 - art. 1 () JORF 15 septembre 1993
+  - Décret n°96-518 du 7 juin 1996 - art. 1 () JORF 15 juin 1996
+
+
+###### Article R224 bis
+
+Peuvent également prétendre à la carte du combattant les personnes qui ont fait l'objet d'une citation individuelle. Cette
+citation doit avoir été homologuée si elle a été obtenue au titre de la guerre de 1939-1945.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Créé par_:
+
+  - Décret n°96-518 du 7 juin 1996 - art. 2 () JORF 15 juin 1996
 
 
 ###### Article R225
@@ -26748,8 +26753,8 @@ _Cite_:
 
 Les personnes ayant pris part à des opérations de guerre ne remplissant pas les conditions visées ci-dessus, notamment les
 militaires ayant pris part aux opérations effectuées avant le 2 août 1914, peuvent individuellement demander à bénéficier de
-la qualité de combattant. La décision sur chacun de ces ces est prise par le ministre des anciens combattants et victimes de
-guerre, après instruction et avis des offices départementaux et de l'office national des anciens combattants et victimes de
+la qualité de combattant. La décision sur chacun de ces cas est prise par le ministre des anciens combattants et victimes de
+guerre, après instruction et avis des services départementaux de l'Office national des anciens combattants et victimes de
 guerre.
 
 Les prisonniers de guerre qui ne peuvent se prévaloir des dispositions de l'article R. 224 C, bien qu'ayant opposé une
@@ -26772,8 +26777,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-87 1975-02-11 art. 2 JORF 13 février 1975
-  - Décret n°83-622 1983-07-08 art. 1 JORF 10 juillet 1983
+  - Décret n°96-518 du 7 juin 1996 - art. 3 () JORF 15 juin 1996
 
 _Cité par_:
 
@@ -27027,11 +27031,13 @@ _Cité par_:
 
 ###### Article R230-1
 
-Lorsqu'elle est appelée à se prononcer sur l'attribution de la carte du combattant, la commission départementale comprend
+Lorsqu'elle est appelée à se prononcer sur l'attribution de la carte du combattant, la commission départementale comprend,
 outre les membres prévus à l'article R. 222-1 :
 
-Le délégué militaire départemental ou son représentant, sept représentants des associations ou des sections départementales
-d'anciens combattants désignés par le secrétaire d'Etat aux anciens combattants, sur proposition des groupements nationaux.
+a) Le délégué militaire départemental ou son représentant ;
+
+b) Sept représentants des associations représentatives d'anciens combattants, nommés par le préfet sur proposition desdites
+associations.
 
 **Liens relatifs à cet article**
 
@@ -27043,18 +27049,18 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
 
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 3 JORF 19 novembre 1966
-  - Décret n°75-88 1975-02-11 art. 2 JORF 13 février 1975
-
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
-
-_Cite_:
-
   - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°96-518 du 7 juin 1996 - art. 4 () JORF 15 juin 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article R231
@@ -28101,19 +28107,14 @@ départementale comprend, outre les membres prévus à l'article R. 222-1 :
 
 Le délégué militaire départemental ou son représentant ;
 
-Deux combattants volontaires de la Résistance représentant les Forces françaises combattantes (F.F.C.) ;
+Deux combattants volontaires de la Résistance représentant les Forces françaises combattantes (FFC) ;
 
-Deux combattants volontaires de la Résistance représentant les Forces françaises de l'intérieur (F.F.I.) ;
+Deux combattants volontaires de la Résistance représentant les Forces françaises de l'intérieur (FFI) ;
 
-Deux combattants volontaires de la Résistance représentant la Résistance intérieure française (R.I.F.).
+Deux combattants volontaires de la Résistance représentant la Résistance intérieure française (RIF).
 
-Les représentants des F.F.C., des F.F.I. et de la R.I.F. sont désignés par le ministre des anciens combattants et victimes de
-guerre, sur proposition de l'autorité militaire et après avis du préfet.
-
-**Nota:**
-
-[*Nota : Décret 66-851 du 14 novembre 1966, article 15 : Ces dispositions nouvelles ne concernent pas le département de la
-Seine*].
+Les représentants des FFC, des FFI et de la RIF sont nommés par le préfet, sur proposition des associations représentatives
+d'anciens résistants et après avis de l'autorité militaire qui vérifie notamment les titres des personnes proposées.
 
 **Liens relatifs à cet article**
 
@@ -28121,16 +28122,20 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 4 JORF 19 novembre 1966
-
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
   - Code des pensions militaires d'invalidité et des v - art. A159-3 (V)
   - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°96-518 du 7 juin 1996 - art. 5 () JORF 15 juin 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article R263
@@ -29838,19 +29843,15 @@ départementale comprend, outre les membres prévus à l'article R. 222-1 :
 
 Le délégué militaire départemental ou son représentant ;
 
-Deux déportés ou internés résistants représentant les forces françaises combattantes (F.F.C.) ;
+Deux déportés ou internés résistants représentant les forces françaises combattantes (FFC) ;
 
-Deux déportés ou internés résistants représentant les forces françaises de l'intérieur (F.F.I.) ;
+Deux déportés ou internés résistants représentant les forces françaises de l'intérieur (FFI) ;
 
-Deux déportés ou internés résistants représentant la Résistance intérieure française (R.I.F.).
+Deux déportés ou internés résistants représentant la Résistance intérieure française (RIF).
 
-Les représentants des F.F.C., des F.F.I. et de la R.I.F., dont trois au moins doivent être déportés résistants, sont nommés
-par arrêté du ministre des anciens combattants et victimes de guerre sur proposition de l'autorité militaire et après avis du
-préfet.
-
-**Nota:**
-
-Nota : Décret 66-851 1966-11-14 art. 15 : Ces dispositions nouvelles ne concernent pas le département de la Seine.*
+Les représentants des FFC, des FFI et de la RIF, dont trois au moins doivent être déportés résistants, sont nommés par le
+préfet, sur proposition des associations représentatives d'anciens résistants et après avis de l'autorité militaire qui
+vérifie notamment les titres des personnes proposées.
 
 **Liens relatifs à cet article**
 
@@ -29858,18 +29859,19 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 6 JORF 19 novembre 1966
-
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R342 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
+  - Décret n°96-518 du 7 juin 1996 - art. 6 () JORF 15 juin 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article R314
@@ -30975,16 +30977,10 @@ _Cite_:
 Lorsqu'elle est appelée à se prononcer sur l'attribution du titre de déporté ou d'interné politique, la commission
 départementale comprend, outre les membres prévus à l'article R. 222-1 :
 
-Un déporté résistant et un interné résistant désignés par arrêté du ministre des anciens combattants et victimes de guerre,
-après avis du préfet, parmi les membres prévus à l'article R. 310 ;
+Un déporté résistant et un interné résistant nommés par le préfet, parmi les membres prévus à l'article R. 310 ;
 
-Un déporté politique et un interné politique désignés par arrêté du ministre des anciens combattants et victimes de guerre,
-après avis du préfet, parmi cinq déportés et cinq internés politiques, dont la liste est établie par le conseil départemental
-des anciens combattants et victimes de guerre.
-
-**Nota:**
-
-
+Un déporté politique et un interné politique nommés par le préfet, parmi cinq déportés et cinq internés politiques, dont la
+liste est établie par le conseil départemental des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
 
@@ -30996,15 +30992,19 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°66-851 1966-11-14 art. 15
 
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 8 JORF 19 novembre 1966
-
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et des v - art. A165-2 (V)
   - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
+
+_Modifié par_:
+
+  - Décret n°96-518 du 7 juin 1996 - art. 7 () JORF 15 juin 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 _Cite_:
 
@@ -31541,8 +31541,9 @@ outre les membres prévus à l'article R. 222-1 :
 
 Le directeur départemental du travail et de la main-d'oeuvre ou son représentant ;
 
-Un représentant de la Résistance intérieure française (R.I.F.) désigné par arrêté du ministre des anciens combattants et
-victimes de guerre, sur proposition de l'autorité militaire et après avis du préfet ;
+Un représentant de la Résistance intérieure française (RIF) nommé par le préfet, sur proposition des associations
+représentatives d'anciens membres de la RIF et après avis de l'autorité militaire qui vérifie notamment les titres de la
+personne proposée ;
 
 Cinq représentants des associations départementales ou des sections départementales des organisations nationales les plus
 représentatives de réfractaires.
@@ -31555,24 +31556,14 @@ Trois représentants des associations d'Alsaciens et de Mosellans intéressés ;
 Deux représentants des associations départementales ou des sections départementales des organisations nationales les plus
 représentatives de réfractaires.
 
-Les représentants des associations et organisations sont désignés par arrêté du ministre des anciens combattants et victimes
-de guerre sur proposition des groupements nationaux et des associations d'Alsaciens et de Mosellans intéressés, après avis du
-préfet.
-
-**Nota:**
-
-[*Nota : Décret 66-851 du 14 novembre 1966 art. 15 : Les dispositions nouvelles ne concernent pas le département de la
-Seine.*]
+Les représentants des associations et organisations sont nommés par le préfet, sur proposition des groupements nationaux et
+des associations d'Alsaciens et de Mosellans intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 10 JORF 19 novembre 1966
 
 **Liens**:
 
@@ -31582,11 +31573,16 @@ _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et de... - art. R369 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R391-2 (M)
 
-_Cite_:
+_Modifié par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
+  - Décret n°96-518 du 7 juin 1996 - art. 8 () JORF 15 juin 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article R359
@@ -32211,24 +32207,14 @@ Trois représentants des associations d'Alsaciens et de Mosellans intéressés ;
 Deux représentants des associations départementales ou des sections départementales des organisations nationales les plus
 représentatives des autres personnes visées au présent chapitre.
 
-Les représentants des associations et des organisations sont désignés par arrêté du ministre des anciens combattants et
-victimes de guerre sur proposition des groupements nationaux ou des associations d'Alsaciens et Mosellans intéressés, après
-avis du préfet.
-
-**Nota:**
-
-
+Les représentants des associations et des organisations sont nommés par le préfet, sur proposition des groupements nationaux
+ou des associations d'Alsaciens et de Mosellans intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 12 JORF 19 novembre 1966
-  - Décret n°53-806 1953-09-04 art. 1 JORF 5 septembre 1953
 
 **Liens**:
 
@@ -32239,6 +32225,14 @@ _Cité par_:
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et de... - art. R387 bis (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R373 (M)
+
+_Modifié par_:
+
+  - Décret n°96-518 du 7 juin 1996 - art. 9 () JORF 15 juin 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 _Cite_:
 
