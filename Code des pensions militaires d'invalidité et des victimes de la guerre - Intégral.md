@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-01-10
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -44566,6 +44566,8 @@ par l'ennemi,
 
 le patronage et l'aide matérielle qui leur sont dus par la reconnaissance de la nation ;
 
+Veuves de titulaires de la carte du combattant ou de bénéficiaires du présent code décédés.
+
 b) D'exercer l'action sociale nécessaire en faveur des sinistrés, réfugiés et spoliés, tant qu'ils demeurent détenteurs de la
 carte attestant leur qualité.
 
@@ -44573,7 +44575,11 @@ carte attestant leur qualité.
 
 _Modifié par_:
 
-  - Décret n°55-1166 1955-08-29 art. 1 JORF 3 septembre 1955
+  - Décret n°91-24 du 4 janvier 1991 - art. 1 () JORF 10 janvier 1991
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°91-24 du 4 janvier 1991
 
 _Cité par_:
 
@@ -44597,10 +44603,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°91-24 du 4 janvier 1991
 
 
 ##### Section 3 : Composition.<a id=466></a>
