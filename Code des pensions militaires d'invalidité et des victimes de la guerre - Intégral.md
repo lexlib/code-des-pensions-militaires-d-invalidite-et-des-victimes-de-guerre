@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1956-01-17
+Version Consolidée au 1956-03-28
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -370,10 +370,10 @@ Version Consolidée au 1956-01-17
           - [Section 1 : Désignation des commissaires du Gouvernement. (art. D22 à D24)](#367)
           - [Section 2 : Dispositions concernant les départements d'outre-mer. (art. D25 à D28)](#368)
           - [Section 3 : Dispositions diverses. (art. D29 à D31)](#369)
-      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. D38 à D52)](#370)
-        - [Chapitre VI : Allocations provisoires d'attente. (art. D38 à D52)](#371)
-          - [Section 1 : Militaires et marins. (art. D38 à D44)](#372)
-            - [Paragraphe 1 : Règles générales. (art. D38 à D39)](#373)
+      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. D37 à D52)](#370)
+        - [Chapitre VI : Allocations provisoires d'attente. (art. D37 à D52)](#371)
+          - [Section 1 : Militaires et marins. (art. D37 à D44)](#372)
+            - [Paragraphe 1 : Règles générales. (art. D37 à D39)](#373)
             - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D40 à D44)](#374)
           - [Section 2 : Ayants cause des militaires ou marins. (art. D45 à D52)](#375)
             - [Paragraphe 1 : Règles générales. (art. D45 à D47)](#376)
@@ -30364,6 +30364,46 @@ _Codifié par_:
 
 ##### Paragraphe 1 : Règles générales.<a id=373></a>
 
+###### Article D37
+
+Les militaires ou les marins proposés par une commission de réforme pour une pension d'invalidité et renvoyés dans leurs
+foyers reçoivent une allocation provisoire d'attente payable par trimestre échu.
+
+Le montant de cette allocation est déterminé d'après le taux de la pension prévue par le présent code pour les militaires ou
+les marins de leur grade ayant le degré d'invalidité constaté. Elle est augmentée des majorations pour enfants prévues par le
+présent code.
+
+Le point de départ de l'allocation provisoire d'attente est fixé comme il suit :
+
+Le point de départ de l'allocation provisoire d'attente est fixé à la date indiquée par l'article L. 6 du présent code pour
+l'entrée en jouissance de la pension.
+
+Toutefois, lorsqu'il s'agit de l'exécution des décisions des juridictions de pensions, le point de départ de l'allocation
+provisoire d'attente n'est fixé qu'à la date du jugement de la décision rendu par la juridiction compétente.
+
+L'allocation provisoire d'attente cesse d'être allouée après l'échéance du dernier payement trimestriel qui précède
+immédiatement la remise du titre définitif de pension.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°56-303 1956-03-20 art. 1 JORF 28 mars 1956
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D39 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D40 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L6 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
 ###### Article D38
 
 Les allocations provisoires d'attente sont payables à raison de trente jours par mois à titre d'avance sur pension.
@@ -30565,6 +30605,34 @@ peuvent prétendre en exécution du présent code.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D46
+
+Le point de départ de l'allocation provisoire d'attente est fixé à la date indiquée par le présent code pour l'entrée en
+jouissance de la pension, sous réserve de l'application des dispositions prévues au premier alinéa de l'article L. 108 dudit
+code.
+
+Toutefois, lorsqu'il s'agit de l'exécution des décisions des juridictions de pensions, le point de départ de l'allocation
+provisoire d'attente n'est fixé qu'à la date du jugement ou de la décision rendu par la juridiction compétente.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L108
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°56-303 1956-03-20 art. 2 JORF 28 mars 1956
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D47
