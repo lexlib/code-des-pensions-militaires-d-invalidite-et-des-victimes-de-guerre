@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1992-12-30
+Version Consolidée au 1993-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -1527,26 +1527,26 @@ pour tenir compte de l'infirmité ou des infirmités supplémentaires, par degr�
 calculé sur la base de l'indice de pension 16 tel qu'il est défini à l'article L. 8 bis du présent code.
 
 Si, à l'infirmité la plus grave, s'ajoutent deux ou plus de deux infirmités supplémentaires, la somme des degrés d'invalidité
-est calculée en accordant à chacune des blessures supplémentaires la majoration prévue à l'article L. 14.    Lorsque le point
-de départ de la pension est postérieure au 31 octobre 1989, la valeur de la majoration ne peut être supérieure au pourcentage
-de l'invalidité résultant de l'infirmité temporaire ou définitive à laquelle elle se rattache. Si l'application de cette
-règle en cas de renouvellement d'une pension temporaire, de conversion d'une telle pension en pension définitive ou de
-révision d'une pension temporaire ou définitive entraîne une diminution de la somme des degrés d'invalidité :
+est calculée en accordant à chacune des blessures supplémentaires la majoration prévue à l'article L. 14.
+
+La majoration susvisée est accordée dans la limite de 50 degrés de surpension. Les infirmités classées après celle qui
+permet, compte tenu de la majoration correspondant à son rang, de franchir ladite limite sont affectées d'une majoration dont
+la valeur ne peut être supérieure au pourcentage de l'invalidité résultant de l'infirmité temporaire ou définitive à laquelle
+elle se rattache. Si l'application de cette règle en cas de renouvellement d'une pension temporaire, de conversion d'une
+telle pension en pension définitive ou de révision d'une pension temporaire ou définitive entraîne une diminution de la somme
+des degrés d'invalidité :
 
 - le taux global d'invalidité de la pension renouvelée ou convertie ne peut être inférieur au taux, calculé selon les
-dispositions du deuxième alinéa correspondant aux seuls éléments définitifs de la pension temporaire expirée ;     - le taux
-global d'invalidité de la pension révisée est maintenu, pour la durée de validité de ladite pension, à son niveau antérieur.
+dispositions du deuxième alinéa correspondant aux seuls éléments définitifs de la pension temporaire expirée ;
+
+- le taux global d'invalidité de la pension révisée est maintenu, pour la durée de validité de ladite pension, à son niveau
+antérieur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi n°53-1340 1953-12-31 art. 6 JORF 5 janvier 1954
-  - Loi n°89-936 du 29 décembre 1989 - art. 124 () JORF 30 décembre 1989
 
 _Cité par_:
 
@@ -1572,6 +1572,11 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L38 bis (VT)
   - Code des postes et des communications électroni... - art. R20-34 (V)
   - Code des postes et des communications électronique - art. R*13 (Ab)
+
+_Modifié par_:
+
+  - Loi - art. 119 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+  - Loi n°92-1376 1992-12-30 art. 119 I, III finances pour 1993 JORF 31 décembre 1992 en vigueur le 1er janvier 1993
 
 _Cite_:
 
@@ -50198,11 +50203,7 @@ _Cite_:
 
 ###### Article A38
 
-L'indemnité mensuelle allouée au médecin rapporteur de la commission supérieure des soins gratuits est fixée à 602,00 F.
-
-**Nota:**
-
-
+L'indemnité mensuelle allouée au médecin rapporteur de la Commission supérieure des soins gratuits est fixée à 617,70 F.
 
 **Liens relatifs à cet article**
 
@@ -50212,7 +50213,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1992-02-18 art. 1 JORF 26 février 1992 en vigueur le 1er janvier 1992
+  - Arrêté 1993-02-01 art. 1 JORF 16 février 1993 en vigueur le 1er janvier 1993
 
 **Liens**:
 
@@ -50221,7 +50222,7 @@ _Modifié par_:
 
 ###### Article A39
 
-Il est alloué aux membres non fonctionnaires de la Commission supérieure des soins gratuits une indemnité de 22,90 F par
+Il est alloué aux membres non fonctionnaires de la Commission supérieure des soins gratuits une indemnité de 23,50 F par
 heure de présence effective aux séances de la commission.
 
 **Nota:**
@@ -50236,7 +50237,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1992-02-18 art. 1 JORF 26 février 1992 en vigueur le 1er janvier 1992
+  - Arrêté 1993-02-18 art. 1 JORF 27 février 1993 en vigueur le 1er janvier 1993
 
 **Liens**:
 
@@ -50248,27 +50249,31 @@ _Modifié par_:
 L'indemnité mensuelle allouée aux médecins rapporteurs des commissions départementales des soins gratuits est fixée aux
 sommes indiquées ci-dessous :
 
-Indemnité de 92,90 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire de Belfort, Ariège, Lot, Creuse, Cantal,
+Indemnité de 95,30 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire de Belfort, Ariège, Lot, Creuse, Cantal,
 Haute-Corse, Corse-du-Sud, Gers, Tarn-et-Garonne, Haute-Saône, Haute-Loire, Haute-Marne, Meuse, Hautes-Pyrénées, Jura,
-Corrèze, Mayenne et Nièvre.
+Corrèze, Mayenne et Nièvre ;
 
-Indemnité de 105 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes, Yonne, Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-
+Indemnité de 107,80 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes, Yonne, Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-
 Garonne, Eure-et-Loir, Aveyron, Cher, Ardennes, Deux-Sèvres, Drôme, Vienne, Tarn, Vaucluse, Charente, Haute-Vienne, Ain,
-Haute-Savoie, Eure, Dordogne, Vosges, Allier, Côte-d'Or, Loiret, Vendée, Indre-et-Loire, Doubs et Manche.
+Haute-Savoie, Eure, Dordogne, Vosges, Allier, Côte-d'Or, Loiret, Vendée, Indre-et-Loire, Doubs et Manche ;
 
-Indemnité de 126 F : Sarthe, Marne, Gard, Charente-Maritime, Pyrénées-Atlantiques, Calvados, Somme, Côtes-d'Armor, Oise, Var,
-Aisne, Puy-de-Dôme, Morbihan, Saône-et-Loire, Val-d'Oise, Seine-et-Marne, Hérault, Haut-Rhin, Maine-et-Loire, Essonne, Ille-
-et-Vilaine, Haute-Garonne et Alpes-Maritimes.
+Indemnité de 129,30 F : Sarthe, Marne, Gard, Charente-Maritime, Pyrénées-Atlantiques, Calvados, Somme, Côtes-d'Armor, Oise,
+Var, Aisne, Puy-de-Dôme, Morbihan, Saône-et-Loire, Val-d'Oise, Seine-et-Marne, Hérault, Haut-Rhin, Maine-et-Loire, Essonne,
+Ille-et-Vilaine, Haute-Garonne et Alpes-Maritimes ;
 
-Indemnité de 152,20 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère, Bas-Rhin, Loire-Atlantique, Gironde et
-Moselle.
+Indemnité de 156,20 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère, Bas-Rhin, Loire-Atlantique, Gironde et
+Moselle ;
 
-Indemnité de 179,20 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rhône, Pas-de-Calais, Bouches-du-Rhône et Hauts-de-
+Indemnité de 183,90 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rhône, Pas-de-Calais, Bouches-du-Rhône et Hauts-de-
 Seine.
 
-Indemnité de 193,50 F : Nord.
+Indemnité de 198,60 F : Nord ;
 
-Indemnité de 217,30 F : Paris.
+Indemnité de 223 F : Paris.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -50278,7 +50283,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1992-02-18 art. 1 JORF 26 février 1992 en vigueur le 1er janvier 1992
+  - Arrêté 1992-10-12 art. 1 JORF 27 février 1993 en vigueur le 1er janvier 1993
 
 **Liens**:
 
@@ -50287,7 +50292,7 @@ _Modifié par_:
 
 ###### Article A41
 
-Il est alloué aux membres non fonctionnaires des commissions départementales des soins gratuits une indemnité de 22,90 F par
+Il est alloué aux membres non fonctionnaires des commissions départementales des soins gratuits une indemnité de 23,50 F par
 heure de présence effective aux séances des commissions.
 
 **Nota:**
@@ -50302,7 +50307,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1992-02-18 art. 2 JORF 26 février 1992 en vigueur le 1er janvier 1992
+  - Arrêté 1993-02-18 art. 2 JORF 27 février 1993 en vigueur le 1er janvier 1993
 
 **Liens**:
 
