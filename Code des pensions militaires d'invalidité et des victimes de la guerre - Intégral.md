@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1981-12-30
+Version Consolidée au 1982-08-18
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -500,10 +500,10 @@ Version Consolidée au 1981-12-30
         - [Chapitre Ier : Régime des pensionnaires. (art. D555 à D566)](#497)
         - [Chapitre II : Régime des hébergés. (art. D567 à D568)](#498)
         - [Chapitre III : Organisation administrative. (art. D569)](#499)
-  - [Partie réglementaire - Arrêtés (art. A3-1 à A329)](#500)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A3-1 à A84)](#501)
-      - [Titre Ier : Droits à pension des invalides. (art. A3-1)](#502)
-        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1)](#503)
+  - [Partie réglementaire - Arrêtés (art. A2 à A329)](#500)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A2 à A84)](#501)
+      - [Titre Ier : Droits à pension des invalides. (art. A2 à A3-1)](#502)
+        - [Chapitre V : Demande de pension - Liquidation et concession. (art. A2 à A3-1)](#503)
       - [Titre V : Révision et voies de recours. (art. A4 à A11)](#504)
         - [Chapitre II : Voies de recours. (art. A4 à A11)](#505)
       - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A12 à A84)](#506)
@@ -45888,6 +45888,33 @@ _Codifié par_:
 ### Titre Ier : Droits à pension des invalides.<a id=502></a>
 
 #### Chapitre V : Demande de pension - Liquidation et concession.<a id=503></a>
+
+###### Article A2
+
+La délégation accordée à l'article A.1 concerne les demandes initiales de pension, les demandes de renouvellement de pensions
+temporaires, les demandes de transformation en pensions définitives des pensions temporaires, les demandes de révision des
+pensions définitives ou temporaires pour aggravation ou pour survenance d'une infirmité nouvelle et les demandes
+d'attribution d'accessoires de pension présentées postérieurement au 5 septembre 1947, à l'exclusion :
+
+a) Des demandes pour lesquelles les instructions en vigueur réservent la décision au ministre des anciens combattants ;
+
+b) Des demandes n'entrant pas dans la catégorie définie au a ci-dessus, lorsque les propositions favorables émises à leur
+égard par la commission de réforme ne sont pas entérinées à l'échelon ministériel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1982-07-29 art. 1 JONC 18 août 1982
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A1 (Ab)
+
 
 ###### Article A3-1
 
