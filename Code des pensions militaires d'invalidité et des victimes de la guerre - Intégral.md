@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1953-09-23
+Version Consolidée au 1953-09-29
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -529,12 +529,12 @@ Version Consolidée au 1953-09-23
           - [Section 2 : Cartes de priorité. (art. A170 à A172-1)](#526)
             - [Paragraphe 1 : Carte spéciale aux tierces personnes. (art. A170 à A171)](#527)
             - [Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens). (art. A172-1)](#528)
-        - [Chapitre II : Dispositions pécuniaires. (art. A172-2 à A176)](#529)
+        - [Chapitre II : Dispositions pécuniaires. (art. A172-2 à A175)](#529)
           - [Section 1 : Pécules et indemnisations diverses. (art. A172-2 à A172-13)](#530)
             - [Paragraphe 1 : Pécule aux prisonniers de guerre ou à leurs ayants cause. (art. A172-2 à A172-6)](#531)
             - [Paragraphe 2 : Pécule aux ayants cause des prisonniers de guerre décédés en captivité ou après rapatriement. (art. A172-7 à A172-10)](#532)
             - [Paragraphe 3 : Dispositions générales. (art. A172-11 à A172-13)](#533)
-          - [Section 2 : Avantages fiscaux et autres. (art. A173 à A176)](#534)
+          - [Section 2 : Avantages fiscaux et autres. (art. A173 à A175)](#534)
         - [Chapitre III : Décorations et insignes. (art. A177 à A186-1)](#535)
           - [Section 1 : Légion d'honneur et médaille militaire. (art. A177 à A179)](#536)
           - [Section 2 : Médaille des prisonniers civils, déportés et otages de la guerre 1914-1918. (art. A180 à A186-1)](#537)
@@ -40782,17 +40782,6 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
   - Ordonnance 1945-10-19 art. 81, art. 82
-
-
-###### Article A176
-
-Abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1951-04-24 JORF 29 avril 1951
 
 
 #### Chapitre III : Décorations et insignes.<a id=535></a>
