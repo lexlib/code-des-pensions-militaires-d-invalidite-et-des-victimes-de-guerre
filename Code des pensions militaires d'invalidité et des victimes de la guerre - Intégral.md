@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-08-11
+Version Consolidée au 1954-09-05
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -212,7 +212,7 @@ Version Consolidée au 1954-08-11
             - [Paragraphe 5 : Attributions du greffier du tribunal. (art. R51)](#209)
             - [Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance. (art. R52 à R54)](#210)
             - [Paragraphe 7 : Sections des tribunaux de pensions. (art. R56)](#211)
-            - [Paragraphe 8 : Procédure normale. (art. R57 à R59)](#212)
+            - [Paragraphe 8 : Procédure normale. (art. R57 à R61)](#212)
             - [Paragraphe 9 : Procédure sommaire. (art. R62)](#213)
           - [Section 2 : Cour régionale des pensions. (art. R63 à R68)](#214)
           - [Section 3 : Conseil d'Etat. (art. R69 à R90)](#215)
@@ -15434,6 +15434,34 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+
+###### Article R61
+
+Il est alloué aux pensionnés et postulants à pension qui ont comparu sur convocation devant une juridiction des pensions ou
+devant le médecin expert commis par cette juridiction, une indemnité de comparution et, s'il y a lieu, une indemnité de
+voyage et de séjour égales à celles qui sont accordées aux témoins par le tarif des frais de justice en matière criminelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A107 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D29 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R192 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R47 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D711-7 (V)
 
 
 ##### Paragraphe 9 : Procédure sommaire.<a id=213></a>
