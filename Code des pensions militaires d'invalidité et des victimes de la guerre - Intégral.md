@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1983-12-28
+Version Consolidée au 1983-12-29
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -336,7 +336,7 @@ Version Consolidée au 1983-12-28
             - [Paragraphe 2 : Instruction des demandes - Aptitudes exigées. (art. R401 à R426)](#333)
               - [A -Instruction des demandes. (art. R401 à R404)](#334)
               - [B - Aptitude physique. (art. R405 à R407)](#335)
-              - [C - Aptitude professionnelle. (art. R409 à R421)](#336)
+              - [C - Aptitude professionnelle. (art. R408 à R421)](#336)
               - [D - Aptitude physique spéciale et aptitude technique spéciale. (art. R423 à R426)](#337)
             - [Paragraphe 3 : Constitution et transmission des dossiers. (art. R427 à R428)](#338)
             - [Paragraphe 4 : Classement des candidats. (art. R429 à R439)](#339)
@@ -30824,6 +30824,37 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
 
 
+###### Article R403
+
+L'autorité qui a reçu la demande transmet celle-ci au délégué interdépartemental du ministère des anciens combattants et
+victimes de guerre du lieu de résidence du candidat.
+
+Les candidatures parvenues moins de deux mois avant la date fixée pour les examens, conformément aux dispositions de
+l'article R. 408, sont instruites au titre de la session suivante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-1171 1983-12-26 art. 1 et art. 2 JORF 29 décembre 1983
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R448 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R408 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+
 ###### Article R404
 
 Dès réception des demandes et après enquête, s'il y a lieu, le délégué interdépartemental du ministère des anciens
@@ -31037,6 +31068,46 @@ _Cite_:
 
 
 ##### C - Aptitude professionnelle.<a id=336></a>
+
+###### Article R408
+
+Les candidats doivent subir selon les indications données dans les tableaux annexés au présent chapitre (3e partie), soit un
+examen commun pour tous les emplois d'une catégorie, soit un examen d'aptitude technique particulier pour certains emplois
+sollicités, soit l'examen commun de leur catégorie et, en outre, un examen d'aptitude technique. Ces examens sont organisés
+au moins une fois par an aux dates fixées par le ministre des anciens combattants et victimes de guerre.
+
+En ce qui concerne les emplois comportant une aptitude technique spéciale, qui figurent dans les tableaux sous une rubrique
+particulière, les épreuves d'aptitude professionnelle sont subies dans les conditions fixées aux articles R. 423 à R. 426.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-1171 1983-12-26 art. 3 et art. 4 JORF 29 décembre 1983
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R403 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R423 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R424 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R425 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R426 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
 
 ###### Article R409
 
