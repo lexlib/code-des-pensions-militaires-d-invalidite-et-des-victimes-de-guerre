@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-18
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -18847,12 +18847,11 @@ Elle a pour mission :
 pensions militaires d'invalidité et des victimes de la guerre satisfaisant aux conditions fixées par le décret visé à
 l'article L. 537 ;
 
-2° De dispenser dans un centre médico-chirurgical des soins en hospitalisation ou en consultation aux malades et blessés en
-vue de leur réadaptation fonctionnelle, professionnelle et sociale ; les personnes accueillies sont par priorité les
-pensionnaires de l'établissement ainsi que les autres bénéficiaires du présent code ; en outre, dans la limite des places
-disponibles, le ministre de tutelle peut faire admettre d'autres catégories de personnes sous réserve de garantir leur prise
-en charge ; ces catégories et les motifs d'admission sont prévus par le décret visé à l'article L. 537 après délibération du
-conseil d'administration ;
+2° De dispenser dans un centre médico-chirurgical des soins en hospitalisation ou en consultation en vue de la réadaptation
+fonctionnelle, professionnelle et sociale des patients ; les personnes accueillies sont en premier lieu les pensionnaires de
+l'établissement ainsi que les autres bénéficiaires du présent code :
+
+en outre, elle participe au service public hospitalier ;
 
 3° De participer aux études et à la recherche sur l'appareillage des handicapés conduites par le ministre chargé des anciens
 combattants. Ces participations font l'objet d'une convention préalable entre l'Etat et l'établissement lorsqu'elles
@@ -18864,15 +18863,15 @@ _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
-
-  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
-
 _Cité par_:
 
   - Décret n°92-105 du 30 janvier 1992 - art. 12 (Ab)
   - Code de la santé publique - art. L6112-2 (V)
   - Code des pensions militaires d'invalidité et des v - art. L533 (M)
+
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
 
 _Cite_:
 
@@ -18884,71 +18883,89 @@ _Cite_:
 Le conseil d'administration de l'Institution nationale des invalides est présidé par une personnalité nommée par le Président
 de la République.
 
-Il comprend en outre [*composition*] :
+Il comprend, en outre :
 
-1° Quatre membres de droit ou leurs représentants : le gouverneur des Invalides, le directeur du budget au ministère de
-l'économie, des finances et du budget, le directeur central du service de santé des armées et le directeur de
-l'administration générale du ministère chargé des anciens combattants ;
+1° Cinq représentants de l'Etat dont le gouverneur des Invalides ;
 
-2° Quatre personnalités nommées pour trois ans par décret en conseil des ministres dont trois représentant le monde
-combattant, parmi lesquelles deux sont proposées par des associations représentatives de grands invalides pensionnés au titre
-du code des pensions militaires d'invalidité et des victimes de la guerre ;
+2° Cinq personnalités qualifiées représentant le monde combattant ;
 
-3° Deux représentants des personnels élus pour trois ans, un par les personnels médicaux et paramédicaux et un par les autres
-personnels.
+3° Deux représentants du personnel ;
 
-Le directeur de l'établissement, l'agent comptable, le contrôleur financier ou en cas d'empêchement leurs représentants, deux
-représentants élus des pensionnaires et toute personne dont la présence est requise dans les débats assistent avec voix
-consultative aux séances du conseil d'administration.
+4° Deux représentants des usagers, dont un du centre des pensionnaires.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-1 (VD)
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
 
 _Cité par_:
 
   - Décret n°2004-564 du 17 juin 2004 - art. 1 (Ab)
 
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
 
 ###### Article L531
 
-Le conseil d'administration [*définition*] définit l'organisation et la politique générales de l'établissement, notamment ses
-programmes d'investissement. Il fixe le règlement intérieur et détermine la répartition des lits entre le centre médico-
-chirurgical et le centre de pensionnaires. Il donne son avis sur la nomination des chefs de service.
+Le conseil d'administration définit la politique générale de l'établissement. Il délibère sur le projet d'établissement, les
+programmes d'investissement, le budget et les décisions modificatives, y compris les propositions de dotation globale et de
+tarifs de prestation, les comptes et l'affectation des résultats d'exploitation, la création, la suppression et la
+transformation des structures de l'établissement, le tableau des emplois permanents et le règlement intérieur. Il donne son
+avis sur la nomination des chefs de service.
 
-Il vote le budget et approuve les comptes ; il autorise les acquisitions, les aliénations et les emprunts, ainsi que
-l'exercice des actions en justice, et fixe les conditions dans lesquelles sont passées les conventions.
+Il autorise les acquisitions, les aliénations et les emprunts, l'exercice des actions en justice, les conventions engageant
+l'établissement ainsi que sa participation à des réseaux de soins mentionnés à l'article L. 6121-5 du code de la santé
+publique (1).
 
-Il fixe les tarifs d'hospitalisation, de consultations et de soins, ainsi que le montant de la participation due par les
-pensionnaires, laquelle est plafonnée à un pourcentage de leurs revenus, pensions d'invalidité et allocations complémentaires
-comprises, déterminé par le décret visé à l'article L. 537. Ce décret précise les conditions dans lesquelles les revenus
-peuvent faire l'objet d'abattements, en raison de la situation des intéressés.
+Il fixe le montant de la participation due par les pensionnaires, laquelle est plafonnée à un pourcentage de leurs revenus,
+pensions d'invalidité et allocations complémentaires comprises, déterminé par le décret visé à l'article L. 537. Ce décret
+précise les conditions dans lesquelles les revenus peuvent faire l'objet d'abattements, en raison de la situation des
+intéressés.
 
 Il a seul qualité pour accepter les libéralités.
 
+**Nota:**
+
+L'article L. 6121-5 du code de la santé publique est abrogé par la loi n° 2002-303 du 4 mars 2002, article 84.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code de la santé publique - art. L6121-5
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L537
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L532 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. L535 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-2 (VD)
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L535 (Ab)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L537 (V)
 
 
 ###### Article L532
@@ -18993,27 +19010,36 @@ Les ressources de l'établissement comprennent notamment :
 1° Les subventions, avances, fonds de concours ou contributions qui lui sont attribués par l'Etat et, le cas échéant,
 d'autres collectivités ou personnes publiques ou privées ;
 
-2° Les sommes versées au titre des frais d'hospitalisation, de consultations et de soins, la participation des personnes
-admises en qualité de pensionnaires et le produit du remboursement des frais occasionnés par les personnes admises dans les
-conditions prévues au dernier membre de phrase du 2° de l'article L. 529 ;
+2° La participation des personnes admises en qualité de pensionnaires ;
 
-3° Les dons et legs ;
+3° La dotation globale de financement définie par l'article L. 174-15 du code de la sécurité sociale et les produits de
+l'activité hospitalière ;
 
-4° Le produit des emprunts.
+4° Les dons et legs ;
+
+5° Le produit des emprunts.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L174-15
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-4 (VD)
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L529 (M)
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L534
@@ -19040,57 +19066,65 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et de... - art. L622-5 (VD)
 
 
-###### Article L535
-
-Les délibérations relatives à la répartition des lits entre le centre des pensionnaires et le centre médico-chirurgical,
-ainsi que celles mentionnées aux deuxième et troisième alinéas de l'article L. 531, sont approuvées par arrêté conjoint du
-ministre chargé du budget et du ministre chargé des anciens combattants.
-
-Les autres délibérations sont exécutoires à l'expiration d'un délai de trente jours suivant leur transmission au ministre
-chargé des anciens combattants qui peut, dans ce délai, demander une nouvelle délibération au conseil d'administration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
-
-_Cité par_:
-
-  - Décret n°92-106 du 30 janvier 1992 - art. 5 (M)
-  - Décret n°92-106 du 30 janvier 1992 - art. 7 (M)
-
-_Abrogé par_:
-
-  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L531 (M)
-
-
 ###### Article L536
 
 L'Institution nationale des invalides est soumise au contrôle administratif et financier de l'Etat. Son activité est
-contrôlée par l'inspection générale des finances et par l'inspection générale des anciens combattants. Ses comptes sont
-soumis pour contrôle à la Cour des comptes.
+contrôlée par l'inspection générale des affaires sociales, l'inspection générale des finances et le contrôle général des
+armées. Ses comptes sont soumis pour contrôle à la Cour des comptes.
 
 Sur demande du ministre de tutelle ou du conseil d'administration, l'établissement est également soumis au contrôle des
 inspections du service de santé des armées pour toutes les questions relevant de la compétence de ces inspections.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-6 (VD)
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L536-1
+
+A l'exception des articles L. 6113-4, L. 6113-5 et L. 6113-10, les chapitres Ier et II du titre Ier du livre Ier de la
+première partie, le chapitre III du titre Ier du livre Ier de la sixième partie, les conditions techniques de fonctionnement
+prévues par le 3° de l'article L. 6122-2 ainsi que le titre III du livre Ier de la sixième partie du code de la santé
+publique sont applicables à l'Institution nationale des invalides.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°91-626 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991
+  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code de la santé publique - art. L6113-10
+  - Code de la santé publique - art. L6113-4
+  - Code de la santé publique - art. L6113-5
+  - Code de la santé publique - art. L6122-2
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L622-7 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L537
@@ -39229,20 +39263,27 @@ provisoire d'attente n'est fixé qu'à la date du jugement de la décision rendu
 L'allocation provisoire d'attente cesse d'être allouée après l'échéance du dernier payement trimestriel qui précède
 immédiatement la remise du titre définitif de pension.
 
+Il n'est plus attribué d'allocation provisoire d'attente.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°56-303 1956-03-20 art. 1 JORF 28 mars 1956
+  - Décret n°2002-74 du 11 janvier 2002 - art. 1 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D39 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. D40 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D44 (Ab)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L6 (M)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L6
 
 _Codifié par_:
 
@@ -39445,11 +39486,21 @@ pension, une allocation provisoire d'attente payable par trimestre échu.
 Le montant de cette allocation provisoire d'attente est déterminé d'après le taux de la pension à laquelle les ayants droit
 peuvent prétendre en exécution du présent code.
 
+Il n'est plus attribué d'allocation provisoire d'attente.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2002-74 du 11 janvier 2002 - art. 1 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D46
