@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1986-01-18
+Version Consolidée au 1986-01-26
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -25689,6 +25689,29 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L256
+
+
+###### Article R242
+
+La retraite du combattant est payée par virement à un compte ouvert au nom du retraité, ou de son représentant légal, ou du
+mandataire qu'ils auront désigné.
+
+A l'étranger, la retraite du combattant est payée dans les conditions prévues par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A145 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R251 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D321-5 (V)
 
 
 ###### Article R243
