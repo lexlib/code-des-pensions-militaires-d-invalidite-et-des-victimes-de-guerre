@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1987-02-01
+Version Consolidée au 1987-09-02
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -298,17 +298,17 @@ Version Consolidée au 1987-02-01
         - [Chapitre II : Statut des déportés et internés résistants. (art. R286 à R326)](#295)
           - [Section 1 : De la qualité de déporté et interné résistant. (art. R286 à R297)](#296)
             - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R286 à R287 ter)](#297)
-            - [Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant. (art. R289 à R296)](#298)
+            - [Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant. (art. R288 à R296)](#298)
             - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#299)
           - [Section 2 : Droits des déportés et internés résistants. (art. R298 à R304)](#300)
           - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R305 à R326)](#301)
             - [Paragraphe 1 : Commissions. (art. R306 à R315)](#302)
             - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R316 à R325)](#303)
             - [Paragraphe 3 : Justification du titre de déporté et interné de la Résistance. (art. R326)](#304)
-        - [Chapitre III : Statut des déportés et internés politiques. (art. R328 à R351)](#305)
-          - [Section 1 : De la qualité de déporté et interné politique. (art. R328 à R334)](#306)
-            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R328)](#307)
-            - [Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques. (art. R330 à R333)](#308)
+        - [Chapitre III : Statut des déportés et internés politiques. (art. R327 à R351)](#305)
+          - [Section 1 : De la qualité de déporté et interné politique. (art. R327 à R334)](#306)
+            - [Paragraphe 1 : Conditions générales d'obtention du titre. (art. R327 à R328)](#307)
+            - [Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques. (art. R329 à R333)](#308)
             - [Paragraphe 3 : Cas d'exclusion. (art. R334)](#309)
           - [Section 2 : Des droits des déportés et internés politiques. (art. R335)](#310)
           - [Section 3 : Procédure d'attribution du titre de déporté et interné politique - Justification de ce titre. (art. R336 à R351)](#311)
@@ -27360,6 +27360,45 @@ _Nouveaux textes_:
 
 ##### Paragraphe 2 : Conditions propres à chaque catégorie de déporté ou d'interné résistant.<a id=298></a>
 
+###### Article R288
+
+Pour l'attribution du titre de déporté résistant, la liste des prisons et des camps de concentration situés, d'une part, dans
+les territoires exclusivement administrés par l'ennemi, à l'exception de l'Indochine et, d'autre part, dans les départements
+du Haut-Rhin, du Bas-Rhin et de la Moselle, est fixée par un arrêté du ministre des anciens combattants et victimes de
+guerre, pris sur l'avis de la commission nationale prévue aux articles R. 306 à R. 308 et qui fait l'objet de l'article A.
+160, 2°.
+
+Si le lieu de déportation ne figure pas sur ladite liste, le titre de déporté résistant ne peut être attribué qu'après avis
+de la commission nationale susvisée. Cet avis n'est, toutefois, pas exigé s'il s'agit de personnes décédées au cours de leur
+transfert par l'ennemi vers ces camps ou prisons.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°87-721 1987-08-27 art. 3 JORF 2 septembre 1987
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R325 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R329 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A160 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R306 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R307 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R308 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. R329 (V)
+
+
 ###### Article R289
 
 Le titre d'interné résistant ne peut être attribué qu'aux personnes qui, remplissant les conditions prévues aux articles R.
@@ -28457,6 +28496,69 @@ _Codifié par_:
 
 ##### Paragraphe 1 : Conditions générales d'obtention du titre.<a id=307></a>
 
+###### Article R327
+
+Le titre de déporté politique est attribué aux Français ou ressortissants français qui, arrêtés pour tout autre motif qu'une
+infraction de droit commun ne tombant pas sous le bénéfice de l'ordonnance du 6 juillet 1943 relative à la légitimité des
+actes accomplis pour la cause de la libération de la France et à la révision des condamnations intervenues pour ces faits,
+ont été :
+
+1° Soit transférés par l'ennemi hors du territoire national puis incarcérés dans une prison ou internés dans un camp de
+concentration ;
+
+2° Soit incarcérés ou internés par l'ennemi, pendant au moins trois mois consécutifs ou non, dans les camps ou prisons du
+Haut-Rhin, du Bas-Rhin et de la Moselle ;
+
+3° Soit incarcérés ou internés par l'ennemi pendant trois mois au moins consécutifs ou non dans tout autre territoire
+exclusivement administré par l'ennemi et lorsqu'il s'agit de l'Indochine, dans les conditions fixées à l'article R. 331 ;
+
+4° Soit emmenés par l'ennemi dans un convoi de déportés vers des prisons ou des camps de concentration visés aux 1°, 2° ou 3°
+du présent article, puis, au cours de ce trajet, sont décédés ou se sont évadés.
+
+Aucune condition de durée de l'incarcération ou de l'internement n'est exigée des personnes qui se sont évadées ou qui ont
+été atteintes d'une maladie ou d'une infirmité imputable à l'internement ou à la déportation, et ayant ouvert droit à
+pension.
+
+Les étrangers justifiant des conditions ci-dessus peuvent également bénéficier de l'attribution du titre de déporté
+politique, pourvu que la date à laquelle ils ont commencé à résider en France soit antérieure au 1er septembre 1939.
+
+Il en est de même pour les étrangers victimes de la déportation pour un motif d'ordre politique ou racial et remplissant les
+conditions définies aux 1°, 2°, 3° ou 4° du premier alinéa du présent article qui ne résidaient pas en France avant le 1er
+septembre 1939 mais ont acquis depuis lors la nationalité française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°87-721 1987-08-27 art. 1 et art. 2 JORF 2 septembre 1987
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L286 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R331 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R332 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R343-1 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R332 (V)
+
+_Cite_:
+
+  - Ordonnance 1943-07-06
+
+
 ###### Article R328
 
 Le titre d'interné politique est attribué aux Français ou ressortissants français résidant en France ou dans un des pays
@@ -28529,6 +28631,56 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Conditions propres à certaines catégories de déportés et internés politiques.<a id=308></a>
+
+###### Article R329
+
+Pour l'attribution du titre de déporté politique, la liste des prisons et camps de concentration situés, d'une part, dans les
+territoires exclusivement administrés par l'ennemi, à l'exception de l'Indochine, et d'autre part, dans les départements du
+Haut-Rhin, du Bas-Rhin et de la Moselle, est celle prévue à l'article R. 288.
+
+Si le lieu de déportation ne figure pas sur ladite liste, le titre de déporté politique ne peut être attribué qu'après avis
+de la commission nationale constituée dans les conditions fixées aux articles R. 337 à R. 339. Cet avis n'est toutefois pas
+exigé s'il s'agit de personnes décédées au cours de leur transfert par l'ennemi vers ces camps ou prisons.
+
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Commission nationale des titres de déportés politiques et d'interné).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°87-721 1987-08-27 art. 3 JORF 2 septembre 1987
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L286 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R325 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R330 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R331 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R332 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. R288 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R332 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R288 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R337 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R338 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R339 (V)
+
 
 ###### Article R330
 
