@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1988-04-02
+Version Consolidée au 1989-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -5084,6 +5084,94 @@ _Abrogé par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. R82 (Ab)
+
+
+###### Article L102
+
+Les règles suivies devant la section du contentieux du Conseil d'Etat pour l'introduction, l'instruction et le jugement des
+recours en cassation, sont applicables aux pourvois formés devant la commission spéciale de cassation en tant qu'il n'y est
+pas dérogé par la présente section ou par les articles R. 82 à R. 90.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 19 (Ab) JORF 18 juillet 1978
+  - Loi n°87-1127 du 31 décembre 1987 - art. 14 () JORF 1er janvier 1988 en vigueur le 1er janvier 1989
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°87-1127 1987-12-31 art. 16 I
+
+_Abrogé par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 84 () JORF 18 janvier 2002 en vigueur le 1er avril 2002
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L102-1 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L104 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R82 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R83 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R84 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R85 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R86 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R87 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R88 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R89 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R90 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L102-1
+
+Lorsqu'il intente un pourvoi en cassation contre un arrêt d'une cour régionale des pensions, le ministre chargé des anciens
+combattants et des victimes de guerre doit, dans un délai de six mois à compter de l'enregistrement de son pourvoi, présenter
+un mémoire ampliatif explicitant les faits et moyens de sa requête. A défaut de présentation dudit mémoire dans le délai
+susvisé, il est réputé se désister de son pourvoi.
+
+Lorsqu'un particulier intente un pourvoi en cassation contre un arrêt d'une cour régionale des pensions, le ministre chargé
+des anciens combattants et des victimes de guerre est réputé acquiescer aux faits énoncés dans ce pourvoi si, dans un délai
+de six mois à compter de la communication qui lui en a été donnée, il s'est abstenu de produire un mémoire en défense.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°87-1127 1987-12-31 art. 16 I
+
+_Créé par_:
+
+  - Loi n°87-1127 du 31 décembre 1987 - art. 14 () JORF 1er janvier 1988 en vigueur le 1er janvier 1989
+
+_Abrogé par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 84 () JORF 18 janvier 2002 en vigueur le 1er avril 2002
+
+_Anciens textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L102 (Ab)
 
 
 ###### Article L103
@@ -20729,6 +20817,41 @@ _Cite_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. L102 (Ab)
+
+
+###### Article R82 bis
+
+La procédure préalable d'admission des pourvois en cassation devant la commission spéciale de cassation est régie par les
+dispositions de la section II du chapitre II du décret n° 63-766 du 30 juillet 1963, modifié par le décret n° 88-905 du 2
+septembre 1988, sous réserve des adaptations suivantes :
+
+Les fonctions de la commission d'admission, celles du président de cette commission et celles du président de la section du
+contentieux sont exercées respectivement par chacune des sections de la commission spéciale de la cassation, pour les
+affaires qui lui sont attribuées, par les présidents desdites sections et par le président de la commission spéciale de
+cassation.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Décret n°63-766 1963-07-30
+  - Décret n°88-905 1988-09-02
+
+_Créé par_:
+
+  - Décret n°88-909 1988-09-02 art. 1 JORF 3 septembre 1988 en vigueur le 1er janvier 1989
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
 
 
 ###### Article R83
