@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-10-20
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -658,20 +658,28 @@ _Codifié par_:
 ###### Article L1 bis
 
 La République française reconnaît, dans des conditions de stricte égalité avec les combattants des conflits antérieurs, les
-services rendus par les personnes qui ont participé sous son autorité aux opérations effectuées en Afrique du Nord entre le
-1er janvier 1952 et le 2 juillet 1962.
+services rendus par les personnes qui ont participé sous son autorité à la guerre d'Algérie ou aux combats en Tunisie et au
+Maroc entre le 1er janvier 1952 et le 2 juillet 1962.
 
 Elle leur accorde vocation à la qualité de combattant et au bénéfice des dispositions du présent code.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°99-882 du 18 octobre 1999 - art. 1 () JORF 20 octobre 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L2 (VD)
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°74-1044 1974-12-09 art. 1 JORF 10 décembre 1974
 
 
 ## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=3></a>
@@ -10040,10 +10048,10 @@ aux militaires des troupes supplétives permanentes d'Afrique du Nord qui, plac�
 défense nationale, ont servi au cours de la guerre 1939-1945 par contrat à terme fixe ou par tacite reconduction d'un tel
 contrat, ainsi qu'à leurs veuves, orphelins et ascendants.
 
-Ces dispositions sont également applicables aux membres des forces supplétives françaises ayant participé aux opérations
-effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 ainsi qu'à leurs ayants cause, lorsque les
-intéressés possèdent la nationalité française à la date de présentation de leur demande ou sont domiciliés en France à la
-même date.
+Ces dispositions sont également applicables aux membres des forces supplétives françaises ayant participé à la guerre
+d'Algérie ou aux combats en Tunisie et au Maroc entre le 1er janvier 1952 et le 2 juillet 1962 ainsi qu'à leurs ayants cause
+lorsque les intéressés possèdent la nationalité française à la date de présentation de leur demande ou sont domiciliés en
+France à la même date.
 
 Les pensions liquidées en application des dispositions de l'alinéa qui précède ne sont pas cumulables avec les pensions,
 rentes ou allocations servies au titre des mêmes infirmités en application de tout autre régime d'indemnisation.
@@ -10052,18 +10060,27 @@ rentes ou allocations servies au titre des mêmes infirmités en application de 
 
 _Modifié par_:
 
-  - Loi n°74-1044 1974-12-09 art. 4 JORF 10 décembre 1974
+  - Loi n°99-882 du 18 octobre 1999 - art. 2 () JORF 20 octobre 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L111-3 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L240 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L241 (VT)
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L244 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L245 (VT)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L240 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L241 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L246 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L246 (VT)
 
 _Codifié par_:
 
@@ -10450,8 +10467,8 @@ _Abrogé par_:
 
 Ont vocation à la qualité de combattant [*définition*] et à l'attribution de la carte du combattant, selon les principes
 retenus pour l'application du présent titre et des textes réglementaires qui le complètent, sous la seule réserve des
-adaptations qui pourraient être rendues nécessaires par le caractère spécifique des opérations effectuées en Afrique du Nord
-entre le 1er janvier 1952 et le 2 juillet 1962 :
+adaptations qui pourraient être rendues nécessaires par le caractère spécifique de la guerre d'Algérie ou des combats en
+Tunisie et au Maroc entre le 1er janvier 1952 et le 2 juillet 1962 :
 
 Les militaires des armées françaises,
 
@@ -10489,13 +10506,13 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 7 novembre 1996
   - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
 
+_Modifié par_:
+
+  - Loi n°99-882 du 18 octobre 1999 - art. 3 () JORF 20 octobre 1999
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi - art. 123 () JORF 31 décembre 1998
 
 
 ###### Article L253 quater
@@ -15510,35 +15527,24 @@ _Codifié par_:
 
 ###### Article L401 bis
 
-Les membres des forces supplétives françaises ayant participé aux opérations effectuées en Afrique du Nord entre le 1er
-janvier 1952 et le 2 juillet 1962 et possédant la nationalité française peuvent accéder aux emplois réservés prévus par le
-présent code.
+Les membres des forces supplétives françaises ayant participé à la guerre d'Algérie ou aux combats en Tunisie et au Maroc
+entre le 1er janvier 1952 et le 2 juillet 1962 et possédant la nationalité française peuvent accéder aux emplois réservés
+prévus par le présent code.
 
 Ils sont assimilés à des militaires.
 
 Un décret fixe les conditions dans lesquelles il peut être dérogé, en ce qui les concerne, aux dispositions prises en
-application des articles L. 397, L. 399, L. 407 et L. 408 du présent code (1).
-
-**Nota:**
-
-Nota - (1) Voir décret n° 75-89 du 11 février 1975.
+application des articles L. 397, L. 399, L. 407 et L. 408 du présent code.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°74-1044 1974-12-09 art. 6 JORF 10 décembre 1974
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L397 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L399 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L407 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L408 (M)
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°99-882 du 18 octobre 1999 - art. 4 () JORF 20 octobre 1999
 
 
 ##### Section 2 : Classement et nomination<a id=159></a>
