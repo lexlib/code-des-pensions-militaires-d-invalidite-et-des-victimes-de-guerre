@@ -2,8 +2,8 @@
 
 Ont vocation à la qualité de combattant [*définition*] et à l'attribution de la carte du combattant, selon les principes
 retenus pour l'application du présent titre et des textes réglementaires qui le complètent, sous la seule réserve des
-adaptations qui pourraient être rendues nécessaires par le caractère spécifique des opérations effectuées en Afrique du Nord
-entre le 1er janvier 1952 et le 2 juillet 1962 :
+adaptations qui pourraient être rendues nécessaires par le caractère spécifique de la guerre d'Algérie ou des combats en
+Tunisie et au Maroc entre le 1er janvier 1952 et le 2 juillet 1962 :
 
 Les militaires des armées françaises,
 
@@ -41,10 +41,10 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 7 novembre 1996
   - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
 
+_Modifié par_:
+
+  - Loi n°99-882 du 18 octobre 1999 - art. 3 () JORF 20 octobre 1999
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi - art. 123 () JORF 31 décembre 1998
