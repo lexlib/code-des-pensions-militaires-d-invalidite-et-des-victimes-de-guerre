@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1998-11-17
+Version Consolidée au 1998-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -23,13 +23,13 @@ Version Consolidée au 1998-11-17
         - [Chapitre IV : Des enfants naturels reconnus. (art. L63 à L65)](#20)
         - [Chapitre V : Droits des ayants cause des personnes disparues. (art. L66 à L66 bis)](#21)
       - [Titre IV : Droits à pension des ascendants. (art. L67 à L77)](#22)
-      - [Titre V : Révision et voies de recours. (art. L78 à L104)](#23)
+      - [Titre V : Révision et voies de recours. (art. L78 à L104-1)](#23)
         - [Chapitre Ier : Révision. (art. L78)](#24)
-        - [Chapitre II : Voies de recours. (art. L79 à L104)](#25)
+        - [Chapitre II : Voies de recours. (art. L79 à L104-1)](#25)
           - [Section 1 : Tribunal départemental des pensions. (art. L80)](#26)
           - [Section 2 : Cour régionale des pensions. (art. L89)](#27)
           - [Section 3 : Conseil d'Etat. (art. L95 à L103)](#28)
-          - [Section 4 : Dispositions générales. (art. L104)](#29)
+          - [Section 4 : Dispositions générales. (art. L104 à L104-1)](#29)
       - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L105 à L114 bis)](#30)
         - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L105 à L106)](#31)
         - [Chapitre II : Suspension du droit à pension. (art. L107)](#32)
@@ -5500,6 +5500,29 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L104-1
+
+Les dispositions de la première partie de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique sont applicables de
+plein droit, sans condition de ressources, aux personnes qui formulent une demande en application du présent code devant le
+tribunal départemental des pensions, la cour régionale des pensions et le Conseil d'Etat.
+
+Les modalités de rétribution de l'avocat désigné en application de ladite loi sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Loi n°91-647 1991-07-10
+
+_Créé par_:
+
+  - Loi n°98-1163 du 18 décembre 1998 - art. 8 () JORF 22 décembre 1998
 
 
 ### Titre VI : Dispositions diverses relatives au payement des pensions.<a id=30></a>
