@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1994-12-13
+Version Consolidée au 1994-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -936,13 +936,12 @@ _Codifié par_:
 
 ###### Article L8
 
-La pension temporaire est concédée pour trois années [*durée*]. Elle est renouvelable par périodes triennales [*périodicité*]
-après examens médicaux.
+La pension temporaire est concédée pour trois années. Elle est renouvelable par périodes triennales après examens médicaux.
 
 Au cas où la ou les infirmités résultent uniquement de blessures, la situation du pensionné doit, dans un délai de trois ans,
 à compter du point de départ légal défini à l'article L. 6, être définitivement fixée soit par la conversion à un taux
 supérieur, égal ou inférieur au taux primitif, de la pension temporaire en pension définitive, sous réserve toutefois de
-l'application de l'article 29, soit, si l'invalidité a disparu ou est devenue inférieure au degré indemnisable par la
+l'application de l'article L. 29, soit, si l'invalidité a disparu ou est devenue inférieure au degré indemnisable par la
 suppression de toute pension.
 
 Au cas où une infirmité, ouvrant droit à pension, associée ou non à d'autres, résulte de maladies, la pension temporaire est,
@@ -950,14 +949,15 @@ Au cas où une infirmité, ouvrant droit à pension, associée ou non à d'autre
 l'invalidité a disparu ou est devenue inférieure au degré indemnisable.
 
 Dans les mêmes conditions, la situation du pensionné temporaire doit, à l'expiration du délai de neuf ans qui suit le point
-de départ légal défini à l'article 6, être définitivement fixée soit par la conversion de la pension temporaire en pension
-définitive, sous réserve toutefois de l'application de l'article 29, soit par la suppression de toute pension.
+de départ légal défini à l'article L. 6, être définitivement fixée soit par la conversion de la pension temporaire en pension
+définitive, sous réserve toutefois de l'application de l'article L. 29, soit par la suppression de toute pension.
+
+Lorsque le pensionné temporaire est âgé de plus de soixante-quinze ans à la date d'expiration de la première ou de la
+deuxième période et que l'infirmité ouvrant droit à pension, associée ou non à d'autres, résulte de maladies, la situation
+dudit pensionné doit, à l'expiration de la période considérée, être définitivement fixée dans les conditions prévues à
+l'alinéa qui précède.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°53-1340 1953-12-31 art. 1 JORF 5 janvier 1954
 
 _Cité par_:
 
@@ -965,14 +965,31 @@ _Cité par_:
   - Décret n°99-490 du 10 juin 1999 - art. ANNEXE (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L178 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L203 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L27 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L28 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R210 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R27 (Ab)
 
+_Modifié par_:
+
+  - Loi n°94-1162 du 29 décembre 1994 - art. 80 () JORF 30 décembre 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L121-8 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R121-3 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R121-4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R121-5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R121-6 (V)
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L29 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L6 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L6 (VT)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L29
 
 _Codifié par_:
 
@@ -5836,15 +5853,18 @@ pour enfants, servie en application du présent code, dépasse un indice corresp
 [*montant maximum*], aucune revalorisation de la valeur du point d'indice de pension ne lui est plus applicable sauf
 dispositions contraires prévues par la loi.
 
+Toutefois, les revalorisations du point d'indice de pension effectuées conformément à l'article L. 8 bis au titre des
+périodes postérieures au 1er janvier 1995 sont applicables à la pension d'invalidité visée au présent article.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 120 () JORF 30 décembre 1990
+  - Loi n°94-1162 du 29 décembre 1994 - art. 78 () JORF 30 décembre 1994
 
 _Cité par_:
 
@@ -5861,6 +5881,10 @@ _Cité par_:
   - Décret n°2001-787 du 30 août 2001 - art. 2 (V)
   - Décret n°2001-1259 du 21 décembre 2001 - art. 3 (V)
   - Décret n°2001-1259 du 21 décembre 2001 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
 
 ### Titre VII : Soins, traitements, rééducation, sécurité sociale.<a id=37></a>
