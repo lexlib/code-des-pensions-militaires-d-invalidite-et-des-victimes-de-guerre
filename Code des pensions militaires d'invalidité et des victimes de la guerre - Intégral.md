@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1993-02-03
+Version Consolidée au 1993-02-17
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -21601,9 +21601,9 @@ Elle comprend, outre son président, huit membres titulaires et quatre membres s
 Quatre membres titulaires sont choisis parmi les conseillers d'Etat en service ordinaire. L'un d'eux est désigné pour remplir
 les fonctions de vice-président de la commission.
 
-Les quatre autres membres titulaires sont pris parmi les conseillers maîtres à la Cour des comptes, les maîtres des requêtes
-au Conseil d'Etat, les conseillers référendaires à la Cour des comptes, les magistrats des cours d'appel en activité ou
-honoraires ou les avocats honoraires au Conseil d'Etat et à la Cour de cassation.
+Les quatre autres membres titulaires sont pris parmi les conseillers d'Etat en service ordinaire, les conseillers maîtres à
+la Cour des comptes, les maîtres des requêtes au Conseil d'Etat, les conseillers référendaires à la Cour des comptes, les
+magistrats des cours d'appel en activité ou honoraires ou les avocats honoraires au Conseil d'Etat et à la Cour de cassation.
 
 Les quatre membres suppléants sont désignés dans les catégories énoncées à l'alinéa précédent.
 
@@ -21612,6 +21612,14 @@ Les quatre membres suppléants sont désignés dans les catégories énoncées �
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°93 du 11 février 1993 - art. 1 () JORF 17 février 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
 
 _Cite_:
 
@@ -21622,10 +21630,6 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. L96 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. L99 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R88 (Ab)
-
-_Modifié par_:
-
-  - Décret n°68-75 1968-01-25 art. 1 JORF 27 janvier 1968
 
 
 ###### Article R71
@@ -21652,15 +21656,23 @@ _Cité par_:
 
 ###### Article R72
 
-Les commissaires du Gouvernement, choisis parmi les maîtres de requêtes ou auditeurs au Conseil d'Etat, ou parmi les
-conseillers référendaires ou auditeurs à la Cour des comptes en activité de service, sont nommés dans les conditions
-déterminées à l'article L. 97.
+Les commissaires du Gouvernement, choisis parmi les conseillers d'Etat en service ordinaire, les maîtres de requêtes ou
+auditeurs au Conseil d'Etat, ou parmi les conseillers référendaires ou auditeurs à la Cour des comptes en activité de
+service, sont nommés dans les conditions déterminées à l'article L. 97.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°93 du 11 février 1993 - art. 1 () JORF 17 février 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
 
 _Cite_:
 
