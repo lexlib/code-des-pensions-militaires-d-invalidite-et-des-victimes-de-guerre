@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-06-11
+Version Consolidée au 1954-06-18
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -476,7 +476,7 @@ Version Consolidée au 1954-06-11
         - [Chapitre Ier : Régime des pensionnaires. (art. D555 à D566)](#473)
         - [Chapitre II : Régime des hébergés. (art. D567 à D568)](#474)
         - [Chapitre III : Organisation administrative. (art. D569)](#475)
-  - [Partie réglementaire - Arrêtés (art. A3-1 à A330 à A334)](#476)
+  - [Partie réglementaire - Arrêtés (art. A3-1 à A329)](#476)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A3-1 à A84)](#477)
       - [Titre Ier : Droits à pension des invalides. (art. A3-1 à A3-3)](#478)
         - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1 à A3-3)](#479)
@@ -553,7 +553,7 @@ Version Consolidée au 1954-06-11
         - [Section 1 : Dispositions concernant les départements et territoires d'outre-mer. (art. A206 à A215)](#550)
         - [Section 2 : Indemnités aux délégués représentant les familles aux exhumations. (art. A216 à A221)](#551)
       - [Chapitre III : Sépultures perpétuelles. (art. A222 à A223)](#552)
-    - [Livre V : Institutions (art. A224 à A330 à A334)](#553)
+    - [Livre V : Institutions (art. A224 à A329)](#553)
       - [Titre Ier : Offices des anciens combattants et victimes de la guerre (art. A224 à A293)](#554)
         - [Chapitre Ier : Office national (art. A224 à A249)](#555)
           - [Section 1 : Régime financier (art. A224 à A243)](#556)
@@ -573,7 +573,7 @@ Version Consolidée au 1954-06-11
             - [Paragraphe 1 : Fonctionnement. (art. A265)](#570)
             - [Paragraphe 2 : Régime financier. (art. A266 à A288)](#571)
           - [Section 2 : Foyers d'anciens combattants et de victimes de la guerre. (art. A289 à A293)](#572)
-      - [Titre II : Institution nationale des invalides (art. A294 à A330 à A334)](#573)
+      - [Titre II : Institution nationale des invalides (art. A294 à A329)](#573)
         - [Chapitre Ier : Régime des pensionnaires (art. A294 à A324)](#574)
           - [Section 1 : Instruction de la demande et admission. (art. A294 à A299)](#575)
           - [Section 2 : Réception - Admission définitive. (art. A300 à A301)](#576)
@@ -585,15 +585,14 @@ Version Consolidée au 1954-06-11
             - [Paragraphe 3 : Congés. (art. A313 à A323)](#582)
           - [Section 6 : Dispositions diverses. (art. A324)](#583)
         - [Chapitre II : Régime des hébergés. (art. A325 à A329)](#584)
-        - [Chapitre III : Organisation administrative de l'institution nationale des invalides. (art. A330 à A334)](#585)
-  - [Annexes (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#586)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#587)
-      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#588)
-        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#589)
-        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#590)
-        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#591)
-        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#592)
-        - [Convention franco-britannique du 23 janvier 1950 (art. Annexe 5, art. 1 à Annexe 5, art. 4)](#593)
+  - [Annexes (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#585)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#586)
+      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#587)
+        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#588)
+        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#589)
+        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#590)
+        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#591)
+        - [Convention franco-britannique du 23 janvier 1950 (art. Annexe 5, art. 1 à Annexe 5, art. 4)](#592)
 # Partie législative<a id=1></a>
 
 ## Première partie<a id=2></a>
@@ -45557,24 +45556,13 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D568 (Ab)
 
 
-#### Chapitre III : Organisation administrative de l'institution nationale des invalides.<a id=585></a>
+# Annexes<a id=585></a>
 
-###### Article A330 à A334
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=586></a>
 
-**Liens relatifs à cet article**
+### Titre VI : Etrangers.<a id=587></a>
 
-_Abrogé par_:
-
-  - Décret n°54-652 du 11 juin 1954, v. init.
-
-
-# Annexes<a id=586></a>
-
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=587></a>
-
-### Titre VI : Etrangers.<a id=588></a>
-
-#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=589></a>
+#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=588></a>
 
 ###### Article Annexe 1, art. 1
 
@@ -45638,7 +45626,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=590></a>
+#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=589></a>
 
 ###### Article Annexe 2, art. 1
 
@@ -45807,7 +45795,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=591></a>
+#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=590></a>
 
 ###### Article Annexe 3, art. 1
 
@@ -45964,7 +45952,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=592></a>
+#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=591></a>
 
 ###### Article Annexe 4
 
@@ -45978,7 +45966,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-britannique du 23 janvier 1950<a id=593></a>
+#### Convention franco-britannique du 23 janvier 1950<a id=592></a>
 
 ###### Article Annexe 5, art. 1
 
