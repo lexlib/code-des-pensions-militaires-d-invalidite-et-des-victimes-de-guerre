@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1957-06-09
+Version Consolidée au 1957-09-26
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -16847,6 +16847,35 @@ _Codifié par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. L97 (Ab)
+
+
+###### Article R74
+
+Les fonctions de secrétaire de la commission spéciale de cassation sont remplies par un fonctionnaire du personnel des
+bureaux du Conseil d'Etat désigné par arrêté du ministre de la justice pris sur proposition du vice-président du Conseil
+d'Etat après avis du président de la section du contentieux.
+
+La suppléance et l'intérim des fonctions de secrétaire sont assurés par l'un des secrétaires adjoints remplissant les
+fonctions de secrétaire de section mentionnées à l'article R. 75 (3e alinéa), désigné à cet effet par décision du président
+de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2003-662 du 15 juillet 2003 - art. 1 () JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L100 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R75 (Ab)
 
 
 ###### Article R76
