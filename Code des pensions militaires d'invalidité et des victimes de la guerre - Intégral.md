@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1992-09-27
+Version Consolidée au 1992-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -285,7 +285,7 @@ Version Consolidée au 1992-09-27
           - [Section 2 : Payement de la retraite. (art. R241 à R245)](#282)
           - [Section 3 : Citoyens français n'ayant pas servi dans l'armée française. (art. R246 à R251)](#283)
         - [Chapitre III : Mesures d'exécution. (art. R252 à R253)](#284)
-      - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R254 à R387 bis)](#285)
+      - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R254 à R387 ter)](#285)
         - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. R254 à R281)](#286)
           - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. R254 à R257)](#287)
           - [Section 2 : Droits des combattants volontaires de la Résistance. (art. R258 à R259)](#288)
@@ -322,11 +322,11 @@ Version Consolidée au 1992-09-27
           - [Section 2 : Procédure d'attribution du titre de réfractaire. (art. R356 à R363)](#319)
           - [Section 3 : Droits des réfractaires. (art. R364 à R366)](#320)
           - [Section 4 : Dispositions diverses. (art. R367 à R369)](#321)
-        - [Chapitre V : Statut des personnes contraintes au travail. (art. R370 à R387 bis)](#322)
+        - [Chapitre V : Statut des personnes contraintes au travail. (art. R370 à R387 ter)](#322)
           - [Section 1 : Bénéficiaires. (art. R370 à R372)](#323)
-          - [Section 2 : Procédure de reconnaissance des droits. (art. R373 à R380)](#324)
+          - [Section 2 : Procédure de reconnaissance des droits. (art. R373 à R379)](#324)
           - [Section 3 : Droits des bénéficiaires du présent chapitre. (art. R381 à R385)](#325)
-          - [Section 4 : Dispositions diverses. (art. R386 à R387 bis)](#326)
+          - [Section 4 : Dispositions diverses. (art. R386 à R387 ter)](#326)
       - [Titre III : Droits et avantages accessoires. (art. R388 à R469)](#327)
         - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. R388 à R391-8)](#328)
           - [Section 1 : Prêts. (art. R388 à R391-2)](#329)
@@ -10472,9 +10472,13 @@ _Codifié par_:
 ###### Article L254
 
 Toute décision prise par le ministre des anciens combattants et victimes de guerre, en application de l'article R. 227,
-reconnue par la suite mal fondée, peut être à toute époque rapportée par le ministre, à la diligence de l'Office national.
+reconnue par la suite mal fondée, peut être à toute époque rapportée par le ministre.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 1 () JORF 22 décembre 1992
 
 _Cite_:
 
@@ -12325,12 +12329,9 @@ _Abrogé par_:
 
 ###### Article L307
 
-Les commissions départementales sont instituées auprès des offices départementaux des anciens combattants et victimes de
-guerre et la commission nationale auprès de l'office national des anciens combattants et victimes de guerre.
-
 Ces commissions comprennent [*composition*] :
 
-a) Les représentants du ministère des anciens combattants et victimes de guerre ;
+a) Des représentants du ministère des anciens combattants et victimes de guerre ;
 
 Des représentants du ministre de la sécurité sociale ;
 
@@ -12342,20 +12343,29 @@ concerne la commission nationale, sur présentation des organisations nationales
 ce qui concerne les commissions départementales, sur présentation des organisations nationales qualifiées sur le plan
 départemental ou, à défaut, sur présentation des organisations locales de réfractaires.
 
+**Nota:**
+
+Nota : La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30
+art. 3.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 1 () JORF 22 décembre 1992
 
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et des v - art. R357 (V)
 
+_Abrogé par_:
+
+  - Ordonnance 2004-637 2004-07-01 art. 13 5° JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi n°57-134 1957-02-08 art. 3 JORF 9 février 1957
 
 
 #### Chapitre V : Statut des personnes contraintes au travail<a id=120></a>
@@ -12610,13 +12620,14 @@ bénéficiaires du présent chapitre.
 Les demandes formulées à cet effet sont soumises pour avis à des commissions départementales et, en cas de contestation, à
 une commission nationale.
 
-La commission nationale et les commissions départementales dont la composition sera fixée par règlement d'administration
-publique siègent auprès de l'office national et des offices départementaux des anciens combattants et victimes de guerre.
-
 Elles comprennent des représentants des administrations intéressées et, pour la moitié, des bénéficiaires du présent statut,
 sur présentation de leurs organisations nationales.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 1 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -12773,18 +12784,29 @@ _Abrogé par_:
 
 ###### Article L322
 
-Les invalides de guerre dont la carte dite "d'invalidité" porte, au verso, la mention "station debout pénible" apposée par
-les offices départementaux des anciens combattants et victimes de guerre, mention authentifiée par le cachet de l'office
-départemental et la signature du préfet ou de son délégué, bénéficient d'un droit de priorité pour l'accès aux bureaux et
-guichets des administrations et services publics, aux transports publics et aux magasins de commerce.
+Les invalides de guerre dont la carte dite "d'invalidité" porte, au verso, la mention "station debout pénible", bénéficient
+d'un droit de priorité pour l'accès aux bureaux et guichets des administrations et services publics, aux transports publics
+et aux magasins de commerce.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 1 () JORF 22 décembre 1992
 
 _Cité par_:
 
   - Décret n°2014-1283 du 23 octobre 2014 - art. (VD)
   - Code des pensions militaires d'invalidité et de... - art. R389-2 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R387 quater (T)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L251-3 (VD)
 
 _Codifié par_:
 
@@ -12794,11 +12816,15 @@ _Codifié par_:
 ###### Article L323
 
 Les invalides bénéficiaires de l'article L. 18 peuvent demander, au bénéfice de la tierce personne à laquelle ils sont
-obligés de recourir, la délivrance par l'office départemental du lieu de leur résidence, d'une carte spéciale de priorité
-dont le modèle et les modalités d'attribution sont déterminés par arrêté du ministre des anciens combattants et victimes de
-guerre. Cette carte, pour être valable, doit être présentée avec la carte d'invalidité correspondante.
+obligés de recourir, la délivrance d'une carte spéciale de priorité dont le modèle et les modalités d'attribution sont
+déterminés par arrêté du ministre des anciens combattants et victimes de guerre. Cette carte, pour être valable, doit être
+présentée avec la carte d'invalidité correspondante.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 1 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -26478,52 +26504,35 @@ _Cite_:
 
 ###### Article R227 bis
 
-Les demandes individuelles de carte du combattant entrant dans le champ d'application de l'article R. 227 sont adressées à
-l'office national des anciens combattants et victimes de guerre et y sont examinées par une commission comprenant :
+Les demandes individuelles de carte du combattant entrant dans le champ d'application de l'article R. 227 sont adressées au
+ministre chargé des anciens combattants et des victimes de guerre et y sont examinées par une commission comprenant :
 
 1° Vingt et un représentants des anciens combattants titulaires de la carte ;
 
 2° Six représentants du ministre de la défense (terre, marine, air).
 
-La commission élit dans son sein un président et deux [*nombre*] vice-présidents choisis parmi les représentants des anciens
-combattants et se divise en deux sections comprenant chacune respectivement dix représentants des anciens combattants et
-trois représentants du ministre de la défense (terre, marine, air). Les deux vice-présidents assument la présidence des
-sections.
+La commission élit dans son sein un président et deux vice-présidents choisis parmi les représentants des anciens combattants
+et se divise en deux sections comprenant chacune respectivement dix représentants des anciens combattants et trois
+représentants du ministre de la défense (terre, marine, air). Les deux vice-présidents assument la présidence des sections.
 
 Le président de la commission répartit les dossiers entre les deux sections, qui émettent leur avis au nom de la commission.
 
 La commission se réunit en séance plénière (les deux sections réunies) sous la présidence de son président, sur la demande
-soit du ministre des anciens combattants et victimes de guerre, soit du directeur de l'office national, soit du président ou
-d'un président de section.
+soit du ministre des anciens combattants et victimes de guerre, soit du président ou d'un président de section.
 
-En cas de partage des voix, soit en commission, soit en section, la voix du président est prépondérante.
+En cas de partage égal des voix, soit en commission, soit en section, la voix du président est prépondérante.
 
-Le secrétaire de la commission, les secrétaires des sections et les rapporteurs sont désignés par le directeur de l'office
-national des anciens combattants et victimes de guerre parmi les fonctionnaires dudit office.
+Les fonctions de secrétaire et de rapporteur sont assurées par des agents du ministère chargé des anciens combattants et des
+victimes de guerre.
 
 Les membres de la commission nationale de la carte du combattant sont désignés par un arrêté du ministre des anciens
 combattants et victimes de guerre.
-
-**Nota:**
-
-[*Nota : Décret n° 65-1048 du 2 décembre 1965, art. 9 : La "commission départementale de la carte du combattant" prévue par
-circulaire du 29 décembre 1949 est supprimée et ses attributions transférées à la "commission départementale des anciens
-combattants et victimes de guerre" qui lui est substituée.*]    [*Nota - Code des pensions militaires d'invalidité et des
-victimes de la guerre D258 : le présent article est applicable à l'Algérie*].
-
-[*Nota - Code des pensions militaires d'invalidité et des victimes de la guerre D259 : le présent article est applicable aux
-anciens combattants originaires des pays d'outre-mer*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Modifié par_:
-
-  - Décret n°60-749 1960-07-25 art. 1 JORF 29 juillet 1960
-  - Décret n°75-88 1975-02-11 art. 1 JORF 13 février 1975
 
 _Cité par_:
 
@@ -26534,6 +26543,14 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art.  18 (V)
 
 _Cite_:
 
@@ -26742,25 +26759,16 @@ _Cite_:
 
 ###### Article R231
 
-Le modèle de la carte est déterminé par arrêté du ministre des anciens combattants et victimes de guerre, pris après avis de
-l'office national des anciens combattants et victimes de guerre, qui fait l'objet de l'article A. 142.
+Le modèle de la carte est déterminé par arrêté du ministre des anciens combattants et victimes de guerre, qui fait l'objet de
+l'article A. 142.
 
-La carte contient notamment les mentions suivantes : prénoms, domicile, lieu de naissance.
+La carte contient notamment les mentions suivantes : nom et prénoms, domicile, lieu de naissance.
 
 Pour être valable, elle doit être revêtue de la signature du président de l'office départemental des anciens combattants et
 victimes de guerre et de celle du titulaire.
 
 Il y est apposé une photographie du titulaire, de la dimension de 3 centimètres sur 4, oblitérée au timbre sec par l'office
 départemental.
-
-**Nota:**
-
-[*Nota : Décret n° 65-1048 du 2 décembre 1965, art. 9 : La "commission départementale de la carte du combattant" prévue par
-circulaire du 29 décembre 1949 est supprimée et ses attributions transférées à la "commission départementale des anciens
-combattants et victimes de guerre" qui lui est substituée.*]
-
-[*Nota - Code des pensions militaires d'invalidité et des victimes de la guerre D258 : le présent article est applicable à
-l'Algérie*].
 
 **Liens relatifs à cet article**
 
@@ -26771,6 +26779,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -26852,8 +26864,8 @@ _Codifié par_:
 
 ###### Article R235
 
-Les certificats provisoires ou les cartes indûment attribuées sont retirés à la diligence de l'office national des anciens
-combattants et victimes de guerre (V. annexes : JORF 27 avril 1951).
+Les certificats provisoires ou les cartes indûment attribuées sont retirés par le ministre chargé des anciens combattants et
+des victimes de guerre.
 
 **Liens relatifs à cet article**
 
@@ -26865,9 +26877,17 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
 
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R244 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R244 (Ab)
 
 
 #### Chapitre II : Retraite du combattant.<a id=280></a>
@@ -27144,17 +27164,20 @@ _Cité par_:
 ###### Article R244
 
 La retraite du combattant est incessible et insaisissable. Elle cesse d'être payée lorsque, en application de l'article R.
-235, la carte du combattant est retirée. A cet effet, l'office national des anciens combattants et victimes de guerre, en
-même temps qu'il prescrit le retrait de la carte, en informe le ministère des anciens combattants et victimes de guerre qui,
-par l'intermédiaire du directeur départemental qualifié, fait aviser le comptable supérieur assignataire de la retraite, en
-vue de la suspension du payement de celle-ci. Les sommes perçues par les intéressés leur sont maintenues. Toutefois, en cas
-de mauvaise foi, le recouvrement de cette somme est opéré après avis de l'office national.
+235, la carte du combattant est retirée. A cet effet, le ministre chargé des anciens combattants et des victimes de guerre,
+en même temps qu'il prescrit le retrait de la carte, en avise le comptable supérieur assignataire de la retraite, en vue de
+la suspension du paiement de celle-ci. Les sommes perçues par les intéressés leur sont maintenues. Toutefois, en cas de
+mauvaise foi, le recouvrement de cette somme est opéré après avis de l'office national.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -27678,23 +27701,29 @@ _Cite_:
 ###### Article R260
 
 Le titre de combattant volontaire de la Résistance est attribué, sur demande ou même d'office, par décision du ministre des
-anciens combattants et victimes de guerre, président du comité d'administration de l'office national des anciens combattants
-et victimes de guerre qui peut déléguer ce pouvoir aux préfets, présidents des offices départementaux conformément aux
-dispositions de l'article A. 159-2.
+anciens combattants et victimes de guerre, qui peut déléguer ce pouvoir aux préfets, présidents des offices départementaux
+conformément aux dispositions de l'article A. 159-2 (1).
 
 L'avis des commissions départementales ou de la commission nationale dont la composition est déterminée ci-après est
 préalablement recueilli. Il est délivré au bénéficiaire ou, à défaut, à son ayant cause, une carte spéciale dont les
-caractéristiques sont fixées par arrêté, pris après avis de l'office national des anciens combattants et victimes de guerre,
-qui font l'objet des articles A. 158 et A. 159.
+caractéristiques sont fixées par arrêté, qui font l'objet des articles A. 158 et A. 159.
 
 Le temps de présence pris en considération pour l'attribution du titre de combattant volontaire de la Résistance est
 mentionné sur ladite carte à titre indicatif.
+
+**Nota:**
+
+NOTA (1) : article abrogé par arrêté du 11 mars 1959 art. 2.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -27722,30 +27751,30 @@ _Cite_:
 
 La commission nationale comprend :
 
-Le directeur de l'office national des anciens combattants et victimes de guerre ou son représentant, président ;
+Le directeur de l'office national des anciens combattants et victimes de guerre ou son représentant ;
 
 Le directeur des pensions et des services médicaux ou son représentant ;
 
-Le directeur du contentieux, de l'état civil et des recherches ou son représentant ;
+Le directeur chargé des statuts et des titres ou son représentant, président ;
 
 Un représentant du ministre de la défense nationale ;
 
 Un représentant du ministre de l'économie et des finances ;
 
-Deux combattants volontaires de la Résistance représentant les F.F.C. ;
+Deux combattants volontaires de la Résistance représentant les FFC ;
 
-Deux combattants volontaires de la Résistance représentant les F.F.I. ;
+Deux combattants volontaires de la Résistance représentant les FFI ;
 
-Deux combattants volontaires de la Résistance représentant la R.I.F..
+Deux combattants volontaires de la Résistance représentant la RIF.
 
 Les représentants des combattants volontaires de la Résistance sont désignés par arrêté conjoint du ministre des anciens
 combattants et victimes de guerre et du ministre de la défense nationale sur proposition des commissions nationales
-d'homologation des F.F.C., des F.F.I. et de la R.I.F..
+d'homologation des FFC, des FFI et de la RIF.
 
-En cas de partage des voix, celle du président de la commission est prépondérante.
+En cas de partage égal des voix, celle du président de la commission est prépondérante.
 
-Le secrétaire de la commission et les rapporteurs sont désignés par le directeur de l'office national des anciens combattants
-et victimes de guerre parmi les fonctionnaires dudit office.
+Les fonctions de secrétaire et de rapporteur sont assurées par des agents du ministère chargé des anciens combattants et des
+victimes de guerre.
 
 **Liens relatifs à cet article**
 
@@ -27753,12 +27782,20 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et de... - art. A159-3 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L268 (VT)
   - Code des pensions militaires d'invalidité et des v - art. R269 (V)
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
 ###### Article R262
@@ -27805,13 +27842,36 @@ La commission nationale se réunit sur convocation de son président. Celui-ci f
 
 En cas de partage, la voix du président est prépondérante.
 
-Les fonctions de secrétaire et de rapporteur sont assurées par des fonctionnaires de l'office national.
+Les fonctions de secrétaire et de rapporteur sont assurées par des agents du ministère chargé des anciens combattants et des
+victimes de guerre.
 
 Un procès-verbal est établi après chaque séance et adressé aux membres de la commission.
 
 **Nota:**
 
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Commission nationale chargée d'examiner les demandes d'attribution de la carte du combattant
+volontaire de la résistance).
 
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+
+Décret n° 2009-1755 du 30 décembre 2009, art 20 : I. ― Les demandes en cours de traitement par les services supprimés sont
+transférées en l'état aux services et organismes repreneurs sans qu'il y ait lieu de renouveler les actes et les formalités
+régulièrement intervenus antérieurement à la date de cessation d'activité de ces services.
+
+II. - Jusqu'aux dates des arrêtés relatifs au transfert de leurs compétences aux services du ministre chargé des anciens
+combattants et victimes de guerre ou aux organismes désignés, les directions interdépartementales des anciens combattants et
+le service des ressortissants résidant à l'étranger situé à Château-Chinon font application des dispositions du présent code
+dans sa version antérieure au présent décret, sauf en ce qui concerne le 1° de l'article 2, le 1° de l'article 4, les 1°, 2°
+et 3° de l'article 6, les 6° et 7° de l'article 8, les 1° et 3° de l'article 9 et les articles 10 à 15 du présent décret qui
+entrent immédiatement en vigueur.
+
+Jusqu'aux dates de transfert de leurs compétences en matière de soins médicaux gratuits au service du ministre chargé des
+anciens combattants et victimes de guerre qui aura été désigné, les directions interdépartementales des anciens combattants
+et le service des ressortissants résidant à l'étranger situé à Château-Chinon font application du décret susvisé du 20
+février 1959 dans sa version antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
@@ -27821,7 +27881,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-851 1966-11-14 art. 5 JORF 19 novembre 1966
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 18
 
 _Cité par_:
 
@@ -28056,17 +28120,20 @@ _Modifié par_:
 ###### Article R269
 
 Le titre de combattant volontaire de la Résistance est attribué pour les catégories de résistants énumérés à la présente
-section, sur demande ou sur l'initiative du ministre des anciens combattants et victimes de guerre [*autorité compétente*],
-dans les cas prévus ci-après, par décision du ministre des anciens combattants et victimes de guerre, président du comité
-d'administration de l'office national des anciens combattants et victimes de guerre, après avis de la commission nationale
-instituée à l'article L. 270, dont la composition, fixée à l'article R. 261, est toutefois modifiée comme il est dit à
-l'article R. 270.
+section, sur demande de l'intéressé ou sur l'initiative du ministre des anciens combattants et victimes de guerre, dans les
+cas prévus ci-après, par décision du ministre des anciens combattants et victimes de guerre, après avis de la commission
+nationale instituée à l'article L. 270, dont la composition, fixée à l'article R. 261, est toutefois modifiée comme il est
+dit à l'article R. 270.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cite_:
 
@@ -31093,14 +31160,17 @@ qui peut déléguer ses pouvoirs aux préfets, l'avis de la commission départem
 nationale, dont la composition est déterminée ci-après, étant préalablement recueilli.
 
 Il est délivré au bénéficiaire, ou à défaut à son ayant cause, une carte dont les caractéristiques seront fixées par arrêté
-du ministre des anciens combattants et victimes de guerre pris après avis de l'office national des anciens combattants et
-victimes de guerre.
+du ministre des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -31116,9 +31186,9 @@ La commission nationale prévue à l'article L. 307 comprend :
 
 D'une part :
 
-Le directeur de l'office national des anciens combattants et victimes de guerre ou son représentant, président ;
+Le directeur de l'office national des anciens combattants et victimes de guerre ou son représentant ;
 
-Le directeur du contentieux, de l'état civil et des recherches ou son représentant ;
+Le directeur chargé des statuts et des titres ou son représentant, président ;
 
 Le directeur des pensions et des services médicaux ou son représentant ;
 
@@ -31128,13 +31198,13 @@ Un représentant du ministre de l'intérieur ;
 
 Un représentant du ministre de l'économie et des finances ;
 
-Deux représentants de la Résistance intérieure française (R.I.F.) désignés par arrêté conjoint du ministre des anciens
+Deux représentants de la Résistance intérieure française (RIF) désignés par arrêté conjoint du ministre des anciens
 combattants et victimes de guerre et du ministre de la défense nationale, sur proposition de la commission nationale
 d'homologation de la Résistance intérieure française.
 
 D'autre part :
 
-Huit représentants des associations nationales intéressées, savoir :
+Huit représentants des associations nationales intéressées, à savoir :
 
 Six représentants des groupements nationaux les plus représentatifs de réfractaires ;
 
@@ -31149,10 +31219,18 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Code des pensions militaires d'invalidité et de... - art. R369 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 _Cite_:
 
@@ -31220,13 +31298,10 @@ La commission nationale est réunie sur convocation de son président qui fixe l
 
 En cas de partage, la voix du président est prépondérante.
 
-Les fonctions de secrétaires et de rapporteur sont assurées par des fonctionnaires de l'office national.
+Les fonctions de secrétaire et de rapporteur sont assurées par des agents du ministère chargé des anciens combattants et des
+victimes de guerre.
 
 Un procès-verbal est établi après chaque séance et adressé aux membres de la commission.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -31234,13 +31309,17 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 11 JORF 19 novembre 1966
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°66-851 1966-11-14 art. 15
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
 ###### Article R360
@@ -31720,19 +31799,30 @@ _Cite_:
 
 ###### Article R373
 
-La qualité de bénéficiaire du chapitre V du titre II du livre III (1re partie) est reconnue, sur demande, par le ministre des
-anciens combattants et victimes de guerre qui peut déléguer ses pouvoirs aux préfets.
+La qualité de bénéficiaire du chapitre V du titre II du livre III (première partie : Législative) est reconnue, sur demande,
+par le ministre chargé des anciens combattants et des victimes de guerre, qui peut déléguer ses pouvoirs aux préfets.
 
-L'avis de la commission départementale et, le cas échéant, de la commission nationale, dont les compositions sont déterminées
-aux articles R. 374 et R. 375 est préalablement recueilli. Il est, délivré au bénéficiaire ou, à défaut, à son ayant cause,
-une carte dont les caractéristiques seront fixées par arrêté du ministre des anciens combattants et victimes de guerre pris
-après avis de l'office national des anciens combattants et victimes de guerre.
+La demande de carte est obligatoirement soumise à l'avis d'une commission départementale dont la composition est prévue à
+l'article R. 375.
+
+L'avis d'une commission nationale dont la composition est prévue à l'article R. 374 doit, en outre, être obligatoirement
+recueilli par le ministre chargé des anciens combattants et des victimes de guerre :
+
+1° Si, en cas de décision de rejet, un recours a été formulé devant le ministre par l'intéressé dans le délai de deux mois
+suivant la notification de cette décision ;
+
+2° Si le dossier examiné concerne un Alsacien ou un Mosellan domicilié à l'époque hors du Bas-Rhin, du Haut-Rhin ou de la
+Moselle et qui a été contraint au travail dans ces trois départements.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cité par_:
 
@@ -31752,9 +31842,9 @@ La commission nationale prévue à l'article L. 317 comprend :
 
 D'une part :
 
-Le directeur de l'office des anciens combattants et victimes de guerre ou son représentant, président ;
+Le directeur de l'office des anciens combattants et victimes de guerre ou son représentant ;
 
-Le directeur du contentieux, de l'état civil et des recherches ou son représentant ;
+Le directeur chargé des statuts et des titres ou son représentant, président ;
 
 Le directeur des pensions et des services médicaux ou son représentant ;
 
@@ -31766,7 +31856,7 @@ Un représentant du ministre de l'économie et des finances.
 
 D'autre part :
 
-Six représentants des associations intéressées, savoir :
+Six représentants des associations intéressées, à savoir :
 
 Un représentant des groupements d'Alsaciens et Mosellans intéressés ;
 
@@ -31781,6 +31871,10 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
 _Cité par_:
 
   - Arrêté du 11 mars 1996 - art. Annexe (V)
@@ -31789,13 +31883,17 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R387 bis (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R373 (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L317 (M)
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 **Liens**:
 
   - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L317 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L317 (M)
 
 
 ###### Article R375
@@ -31856,69 +31954,58 @@ La commission nationale est réunie sur convocation de son président, qui fixe 
 
 En cas de partage, la voix du président est prépondérante.
 
-Les fonctions de secrétaire et de rapporteur sont assurées par des fonctionnaires de l'office national.
+Les fonctions de secrétaire et de rapporteur sont assurées par des agents du ministère chargé des anciens combattants et des
+victimes de guerre.
 
 Un procès-verbal est établi après chaque séance et adressé aux membres de la commission.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Modifié par_:
-
-  - Décret n°66-851 1966-11-14 art. 13 JORF 19 novembre 1966
 
 **Liens**:
 
   - SPEC_APPLI: Décret n°66-851 1966-11-14 art. 15
 
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
 
 ###### Article R377
 
-Toute personne désirant obtenir le bénéfice des dispositions du chapitre V du titre II du livre III doit adresser sa demande.
-
-1° Si elle est domiciliée en France métropolitaine ou en Algérie, au préfet, président de l'office départemental des anciens
-combattants et victimes de guerre du département dans lequel elle est domiciliée ;
-
-2° Si elle est domiciliée dans un département ou dans un pays d'outre-mer ou à l'étranger, au préfet, président de l'office
-départemental des anciens combattants et victimes de guerre du département où se sont produits les actes et les faits
-mentionnés à l'article R. 370 ;
-
-3° Si elle réside momentanément hors de France, au président de l'office départemental du lieu de son domicile.
-
-Dans le cas où le domicile ou le lieu de résidence se trouve à l'étranger, les demandes sont transmises par l'intermédiaire
-de l'autorité consulaire française compétente.
-
-Sans préjudice des droits reconnus aux intéressés en matière de pension, la demande doit être produite avant le 1er janvier
-1954.
-
-En cas de décès ou de disparition, la demande peut être présentée, dans le même délai, par le conjoint, les descendants ou
-les ascendants du défunt ou du disparu. Elle doit être adressée à l'office départemental des anciens combattants et victimes
-de guerre du département où réside le demandeur.
+En cas de décès ou de disparition de la personne contrainte au travail en pays ennemi, la demande peut être formulée par le
+conjoint, les ascendants ou les descendants du défunt ou disparu. Il est délivré au bénéficiaire ou à défaut à son ayant
+cause une carte dont les caractéristiques sont fixées par arrêté du ministre chargé des anciens combattants et des victimes
+de guerre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 _Cité par_:
 
   - Arrêté du 16 octobre 2008 (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R370 (V)
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
-_Modifié par_:
+_Nouveaux textes_:
 
-  - Décret n°53-806 1953-09-04 art. 2 JORF 5 septembre 1953
+  - Code des pensions militaires d'invalidité et de... - art. D344-16 (V)
 
 
 ###### Article R378
@@ -31998,28 +32085,6 @@ _Codifié par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. R378 (V)
-
-
-###### Article R380
-
-Sans préjudice des dispositions du présent chapitre qui prévoient que l'avis de la commission nationale doit être
-obligatoirement recueilli par le ministre des anciens combattants et victimes de guerre, cet avis est également exigé :
-
-1° Si, en cas de décision de rejet, une réclamation a été formulée par l'intéressé dans le délai de deux mois suivant la
-notification de la décision ;
-
-2° Si le dossier examiné concerne un Alsacien ou un Mosellan domicilié à l'époque hors du Bas-Rhin, du Haut-Rhin et de la
-Moselle qui a été affecté au travail dans ces trois départements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Abrogé par_:
-
-  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
 
 
 ##### Section 3 : Droits des bénéficiaires du présent chapitre.<a id=325></a>
@@ -32235,6 +32300,99 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R374
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R375
+
+
+###### Article R387 quater
+
+Le droit de priorité prévu à l'article L. 322 est attesté par l'inscription sur la carte mentionnée à l'article R. 387 ter
+d'une mention "station debout pénible". Cette mention est apposée par les services relevant du ministre chargé des anciens
+combattants et des victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Transféré par_:
+
+  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L322 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R387 ter (T)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R389-2 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R389-2 (V)
+
+
+###### Article R387 quinquies
+
+Le droit de priorité prévu à l'article L. 323 est attesté par l'attribution d'une carte spéciale de priorité délivrée par les
+services relevant du ministre chargé des anciens combattants et des victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Transféré par_:
+
+  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L323 (M)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R389-3 (V)
+
+
+###### Article R387 ter
+
+Le droit aux avantages prévus aux articles L. 320 et L. 321 est attesté par l'attribution d'une carte d'invalidité délivrée
+par les services relevant du ministre chargé des anciens combattants et des victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Créé par_:
+
+  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+
+_Transféré par_:
+
+  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R389-2 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R387 quater (T)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L320 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L321 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R389-1 (V)
 
 
 ### Titre III : Droits et avantages accessoires.<a id=327></a>
