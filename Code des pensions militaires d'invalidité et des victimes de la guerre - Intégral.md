@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-08-25
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -194,9 +194,9 @@ Version Consolidée au 1990-01-01
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R571)](#191)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R1 à R145)](#192)
       - [Titre Ier : Droits à pension des invalides. (art. R1 à R28)](#193)
-        - [Chapitre III : Taux des pensions. (art. R1 à R5)](#194)
-        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. R6 à R27)](#195)
-          - [Section 1 : Militaires présents sous les drapeaux. (art. R6 à R7)](#196)
+        - [Chapitre III : Rapport constant entre les pensions et les traitements bruts de la fonction publique de l'Etat. (art. R1 à R6)](#194)
+        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. R7 à R27)](#195)
+          - [Section 1 : Militaires présents sous les drapeaux. (art. R7)](#196)
           - [Section 2 : Militaires renvoyés dans leurs foyers. (art. R8 à R9)](#197)
           - [Section 2 bis : Règles générales pour l'instruction des demandes de pension. (art. R10 à R17)](#198)
           - [Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins. (art. R18 à R19)](#199)
@@ -18631,12 +18631,12 @@ _Codifié par_:
 
 ### Titre Ier : Droits à pension des invalides.<a id=193></a>
 
-#### Chapitre III : Taux des pensions.<a id=194></a>
+#### Chapitre III : Rapport constant entre les pensions et les traitements bruts de la fonction publique de l'Etat.<a id=194></a>
 
 ###### Article R1
 
-Le présent chapitre détermine les dispositions nécessaires pour assurer, en cas de modification des traitements, une
-variation équivalente des pensions.
+La valeur du point de pension est fixée par décret pris sur le rapport du ministre chargé des anciens combattants et des
+victimes de guerre et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -18644,20 +18644,79 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
+
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
 _Cité par_:
 
   - Arrêté du 21 octobre 2008 (V)
 
 
+###### Article R2
+
+Pour l'application du 2° du paragraphe B de l'article L. 8 bis, la variation moyenne des traitements bruts des fonctionnaires
+de l'Etat qui résulte de l'attribution uniforme d'un point d'indice majoré est fixée à 0,25 %.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Décret n°87-263 du 9 avril 1987 - art. 2 (V)
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V)
+
+_Créé par_:
+
+  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
+_Abrogé par_:
+
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V) JORF 29 mai 2005
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
+
 ###### Article R3
 
-Dans le présent chapitre l'expression "pension" s'entend des "pensions militaires d'invalidité et de victimes civiles de la
-guerre, et majorations et allocations qui leur sont rattachées, à l'exclusion des prestations familiales et avantages
-familiaux similaires".
+La commission qui est appelée, en application du 3° du B de l'article L. 8 bis, à émettre un avis sur la modification de la
+valeur du point de pension pour tenir compte des variations de traitement dont ont bénéficié au cours de l'année précédente
+certaines catégories de fonctionnaires de l'Etat comprend, sous la présidence du ministre chargé des anciens combattants et
+des victimes de guerre ou de son représentant :
+
+a) Quatorze représentants du Parlement, dont sept sénateurs désignés par le président du Sénat et sept députés désignés par
+le président de l'Assemblée nationale ;
+
+b) Quatorze représentants de l'administration, dont sept désignés par le ministre chargé des anciens combattants et des
+victimes de guerre, cinq par le ministre chargé de l'économie, des finances et du budget et deux par le ministre chargé de la
+fonction publique ;
+
+c) Quatorze membres désignés pour trois ans par le ministre chargé des anciens combattants et des victimes de guerre sur
+proposition des associations d'anciens combattants et victimes de guerre les plus représentatives, des mutilés et invalides,
+des familles des morts, des déportés et des internés, des victimes civiles de guerre et des titulaires de la carte du
+combattant.
+
+Les membres mentionnés aux a et c ci-dessus sont assistés de suppléants, désignés dans les mêmes conditions, qui les
+remplacent en cas d'absence ou d'empêchement. Ces suppléants ne peuvent siéger lorsque les membres titulaires qu'ils sont
+appelés à remplacer sont présents.
+
+Lorsque les fonctions d'un membre titulaire ou suppléant prennent fin pour quelque motif que ce soit, il est pourvu à son
+remplacement pour la durée du mandat restant à courir dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -18671,16 +18730,32 @@ _Cité par_:
   - Arrêté du 11 mars 1996 - art. Annexe (V)
   - Décret n°2005-596 du 27 mai 2005 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
+
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
+_Abrogé par_:
+
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V) JORF 29 mai 2005
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
 
 ###### Article R4
 
-En cas de variation du traitement brut d'activité afférent à l'indice du classement hiérarchique des grades et emplois de
-l'Etat qui est mentionné à l'article L. 8 bis des modifications correspondantes devront affecter, à partir de la date à
-laquelle cette variation prendra effet, le montant des pensions.
+La commission se réunit sur convocation de son président, qui fixe l'ordre du jour de la séance.
+
+Les membres de la commission reçoivent, dix jours au moins avant la date de la réunion, une convocation à laquelle sont
+joints l'ordre du jour et un rapport établi par le ou les ministres chargés de l'économie et du budget sur les évolutions
+respectives en moyenne de la valeur du point de pension et de l'indice d'ensemble des traitements de la fonction publique
+(brut) tel qu'il est défini par l'Institut national de la statistique et des études économiques.
 
 **Liens relatifs à cet article**
 
@@ -18690,30 +18765,31 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-776 1983-08-30 art. 2 JORF 2 septembre 1983
-  - Décret n°85-1320 1985-12-10 art. 1 JORF 14 décembre 1985
-  - Décret n°86-800 1986-06-30 art. 1 JORF 4 juillet 1986 en vigueur octobre 1985
-  - Décret n°87-263 du 9 avril 1987 - art. 1 () JORF 15 avril 1987 en vigueur le 1er février 1987
+  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
 
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
+_Abrogé par_:
+
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V) JORF 29 mai 2005
 
 _Cité par_:
 
   - Décret n°2005-596 du 27 mai 2005 - art. 1 (V)
   - Code des pensions militaires d'invalidité et des v - art. R5 (M)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
-
 
 ###### Article R5
 
-Les modalités d'application de l'article R. 4 sont fixées par décret, pris sur le rapport du ministre des anciens combattants
-et victimes de guerre et du ministre de l'économie et des finances dans le mois qui suivra la publication au Journal officiel
-des mesures concernant les traitements.
+La commission ne délibère valablement que si la moitié des membres titulaires sont présents ou remplacés par leur suppléant.
+
+Lorsque le quorum n'est pas atteint sur un ordre du jour donné, la commission délibère valablement sans condition de quorum
+après une nouvelle convocation portant sur le même ordre du jour et effectuée dans les mêmes conditions.
+
+Le secrétariat est assuré par les services du ministre chargé des anciens combattants et des victimes de guerre.
 
 **Liens relatifs à cet article**
 
@@ -18721,35 +18797,30 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
+
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
+_Abrogé par_:
+
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V) JORF 29 mai 2005
 
 _Cité par_:
 
   - Décret n°2005-596 du 27 mai 2005 - art. 1 (V)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. R4 (M)
-
-
-#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=195></a>
-
-##### Section 1 : Militaires présents sous les drapeaux.<a id=196></a>
 
 ###### Article R6
 
-Les militaires ou marins qui, avant de quitter le service veulent faire valoir leurs droits à une pension pour cause de
-blessures reçues ou d'infirmités ou maladies contractées ou aggravées en service doivent, s'ils n'ont pas été proposés
-d'office, adresser leur demande par la voie hiérarchique au chef de corps dont ils relèvent.
+L'avis de la commission ainsi que, le cas échéant, les résultats du vote sont annexés au rapport de présentation du projet de
+décret modifiant la valeur du point de pension en application du 3° du B de l'article L. 8 bis.
 
-En prévision d'une telle demande, tout chef de corps ou de détachement, tout commandant de bâtiment ou chef de service de la
-guerre, de la marine ou de l'air, est tenu [*obligation*], dès que se produit un fait de nature à ouvrir droit à pension, de
-faire constater, par tous les moyens mis à sa disposition, l'origine des blessures reçues, des maladies ou infirmités
-contractées ou aggravées dont sont atteints les militaires ou marins placés sous ses ordres. Des certificats sont établis,
-énonçant les faits constatés et les éléments qui peuvent déterminer la relation de ces faits avec le service. Pour établir
-cette relation, il peut être dressé tout procès-verbal ou fait toute enquête qu'il appartiendra.
+Un procès-verbal de la séance est adressé aux membres de la commission dans un délai de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -18757,20 +18828,36 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Créé par_:
+
+  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
+
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
+  - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
+_Transféré par_:
+
+  - Décret n°95-734 1995-05-09 art. 12 1° JORF 13 mai 1995
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R111 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R7 (V)
 
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+
 _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et des v - art. R5-1 (Ab)
 
+
+#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=195></a>
+
+##### Section 1 : Militaires présents sous les drapeaux.<a id=196></a>
 
 ###### Article R7
 
