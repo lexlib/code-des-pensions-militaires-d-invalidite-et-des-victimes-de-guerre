@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1983-03-25
+Version Consolidée au 1983-06-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -149,14 +149,14 @@ Version Consolidée au 1983-03-25
           - [Section 10 : Insigne des mères, veuves et veufs des "Morts pour la France". (art. L387 à L390)](#146)
           - [Section 11 : Insignes des réfractaires et des personnes contraintes au travail. (art. L391 à L391 bis)](#147)
           - [Section 12 : Mesures d'exécution. (art. L392)](#148)
-        - [Chapitre IV : Emplois réservés (art. L395 à L450)](#149)
-          - [Section 1 : Bénéficiaires des emplois réservés (art. L395 à L401 bis)](#150)
-            - [Paragraphe 1 : Invalides, veuves et orphelins de guerre. (art. L395 à L396)](#151)
+        - [Chapitre IV : Emplois réservés (art. L393 à L450)](#149)
+          - [Section 1 : Bénéficiaires des emplois réservés (art. L393 à L401 bis)](#150)
+            - [Paragraphe 1 : Invalides, veuves et orphelins de guerre. (art. L393 à L396)](#151)
             - [Paragraphe 2 : Militaires. (art. L397 à L401 bis)](#152)
           - [Section 2 : Classement et nomination (art. L402 à L440)](#153)
             - [Paragraphe 1 : Enumération des emplois réservés. (art. L402 à L406)](#154)
-            - [Paragraphe 2 : Classement des candidats. (art. L407 à L416)](#155)
-            - [Paragraphe 3 : Procédure de nomination aux emplois réservés énumérés aux articles L. 402, L. 405 et L. 406. (art. L419 à L421)](#156)
+            - [Paragraphe 2 : Classement des candidats. (art. L407 à L417)](#155)
+            - [Paragraphe 3 : Procédure de nomination aux emplois réservés énumérés aux articles L. 402, L. 405 et L. 406. (art. L418 à L421)](#156)
             - [Paragraphe 4 : Procédure de nomination aux emplois réservés des communes. (art. L422 à L424)](#157)
             - [Paragraphe 5 : Règles d'attribution des recettes buralistes de 2e classe. (art. L425 à L427)](#158)
             - [Paragraphe 6 : Publication des nominations - Recours. (art. L428)](#159)
@@ -13985,6 +13985,64 @@ _Codifié par_:
 
 ##### Paragraphe 1 : Invalides, veuves et orphelins de guerre.<a id=151></a>
 
+###### Article L393
+
+Bénéficient, jusqu'au 27 avril 1989, d'un droit de préférence pour l'obtention des emplois réservés de l'Etat, des
+établissements publics, des départements, des communes, de la ville de Paris, des territoires d'outre-mer :
+
+Les officiers et hommes de troupe des armées de terre, de mer et de l'air, invalides de guerre, c'est-à-dire pensionnés
+définitifs ou temporaires par suite de blessures reçues ou de maladies contractées ou aggravées par le fait ou à l'occasion
+du service au cours des guerres 1914-1918 et 1939-1945 ou au cours des expéditions postérieures déclarées campagnes de guerre
+par l'autorité compétente ;
+
+Les membres de la Résistance, bénéficiaires du titre II du livre II du présent code.
+
+Toutefois, pour les militaires visés au titre des expéditions déclarées campagnes de guerre, un délai de dix ans court à
+partir du jour de leur admission à pension.
+
+Les demandes des intéressés sont recevables pendant toute la durée du délai prévu à l'alinéa 1er du présent article.
+
+On postule les emplois réservés sans condition d'âge, ni de durée de service.
+
+Les officiers et hommes de troupe peuvent être classés et nommés même s'ils ne possèdent pas leur titre définitif de pension.
+
+A défaut de militaires remplissant les conditions indiquées ci-dessus, les emplois sont attribués aux militaires des armées
+de terre, de mer et de l'air engagés et rengagés, commissionnés ou appartenant au cadre de maistrance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°67-1173 1967-12-22 art. 8 JORF 29 décembre 1967
+  - Loi n°83-452 1983-06-07 art. 3 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+
+_Cité par_:
+
+  - Décret n°85-1229 du 20 novembre 1985 - art. 3 (VT)
+  - Loi n°87-565 du 22 juillet 1987 - art. 19 (Ab)
+  - Loi n°91-1389 du 31 décembre 1991 - art. 1 (V)
+  - Arrêté du 13 avril 2010 - art. 1 (V)
+  - Arrêté du 13 avril 2010 - art. 2 (V)
+  - Arrêté du 28 juin 2012 - art. 2 (V)
+  - Loi n°2016-483 du 20 avril 2016 - art. 25 (V)
+  - Code de la défense. - art. L4123-4 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L398 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L402 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L403 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L404 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L412 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R402 (V)
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
 ###### Article L395
 
 Dans les administrations et établissements de l'Etat, des départements, des communes et des territoires d'outre-mer et dans
@@ -14265,6 +14323,61 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L408 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L401
+
+A partir du 27 avril 1989, le nombre des emplois énumérés aux articles L. 402 et L. 405 réservés aux bénéficiaires des
+articles L. 397 et L. 400 s'augmentera progressivement de celui des emplois qui cesseront d'être attribués aux invalides de
+guerre. 
+
+Après l'expiration du même délai, les emplois communaux, dont l'attribution par préférence aux invalides de guerre est prévue
+par l'article L. 404 sont attribués, concurremment et dans les mêmes conditions, aux militaires et marins visés par l'article
+L. 397. 
+
+Les emplois visés par les articles L. 394 et L. 395 seront attribués après le 27 avril 1956, concurremment et dans les mêmes
+conditions, aux veuves et aux orphelins des militaires ou marins de tous grades morts par suite de blessures reçues ou de
+maladies contractées ou aggravées par le fait ou à l'occasion du service.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°67-1173 1967-12-22 art. 8 JORF 29 décembre 1967
+  - Loi n°83-452 1983-06-07 art. 3 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+
+_Cité par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 6 (VT)
+  - Loi n°2008-492 du 26 mai 2008 - art. 2 (V)
+  - Loi n°2008-492 du 26 mai 2008 - art. 3 (V)
+  - Décret n°2009-629 du 5 juin 2009 - art. 2 (V)
+  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 8 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L403 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R396 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R399 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R400 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R401 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R404 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R406 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L394 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L397 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L400 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L402 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L404 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
 
 _Codifié par_:
 
@@ -14850,7 +14963,93 @@ _Abrogé par_:
   - Décret n°90-1007 du 8 novembre 1990 - art. 3 () JORF 13 novembre 1990
 
 
+###### Article L417
+
+Une liste de classement par catégorie est arrêtée, au moins une fois par an, par le ministre des anciens combattants.
+
+Dans chaque catégorie, les candidats sont classés par emploi et par département.
+
+Lorsqu'il y a lieu d'établir une nouvelle liste de classement, le reliquat de la liste précédente est reporté, en respectant
+l'ordre de classement, en tête de la nouvelle liste.
+
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-690 1955-05-20 art. 2 JORF 22 mai 1955
+  - Loi n°83-452 1983-06-07 art. 1 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L404 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R431 (Ab)
+
+
 ##### Paragraphe 3 : Procédure de nomination aux emplois réservés énumérés aux articles L. 402, L. 405 et L. 406.<a id=156></a>
+
+###### Article L418
+
+Lorsqu'il y a lieu de nommer à un emploi réservé, le ministre ou l'administration dont relève l'emploi à pourvoir avise le
+ministre des anciens combattants et victimes de guerre. Ce dernier notifie aux administrations qui ont signalé des vacances
+d'emplois les noms des candidats classés appelés à combler ces vacances.
+
+Ces désignations sont opérées suivant le rang de classement en commençant par les emplois appartenant à la catégorie la plus
+élevée. Il n'est fait appel aux candidats figurant sur la liste provisoire qu'en cas d'épuisement de la liste générale
+annuelle.
+
+Les candidats sont informés de la notification prévue au premier alinéa et de la date à laquelle elle a été faite.
+
+Les candidats désignés pour une nomination sont rayés de la liste de classement pour tous les autres emplois postulés.
+
+Ils doivent obligatoirement être nommés aux emplois pour lesquels ils ont été désignés dans les deux mois suivant la
+notification de leur désignation à l'administration intéressée.
+
+Pour les vacances revenant exclusivement aux candidats bénéficiaires du paragraphe 2 de la première section, il est fait
+appel aux seuls candidats de cette catégorie.
+
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°83-452 1983-06-07 art. 2 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R432 (Ab)
+  - Code du travail - art. R323-106 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L402 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L405 (V)
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L406 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L419
 
