@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1993-10-06
+Version Consolidée au 1993-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -864,16 +864,10 @@ _Cite_:
 
 ###### Article L6
 
-La pension prévue par le présent code est attribuée sur demande de l'intéressé après examen par une commission de réforme
-selon les modalités fixées par décret en Conseil d'Etat.
+La pension prévue par le présent code est attribuée sur demande de l'intéressé après examen, à son initiative, par une
+commission de réforme selon des modalités fixées par décret en Conseil d'Etat.
 
-L'entrée en jouissance est fixée à la date du dép<cb>t de la demande [*point de départ*].
-
-</cb>
-
-**Nota:**
-
-[*Nota - Loi 82-599 du 13 juillet 1982, article 31 : date d'entrée en vigueur différée*].
+L'entrée en jouissance est fixée à la date du dépôt de la demande.
 
 **Liens relatifs à cet article**
 
@@ -881,19 +875,28 @@ L'entrée en jouissance est fixée à la date du dép<cb>t de la demande [*point
 
   - SPEC_APPLI: Loi n°82-599 1982-07-13 art. 31
 
-_Modifié par_:
+_Créé par_:
 
-  - Loi n°82-599 du 13 juillet 1982 - art. 25 () JORF 14 juillet 1982 en vigueur le 1er décembre 1982
+  - Loi n°93-1352 du 30 décembre 1993 - art. 100 () JORF 31 décembre 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D37 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L28 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L8 (VT)
   - Code des pensions militaires d'invalidité et de... - art. R14 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R27 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. L8 (M)
   - Code des pensions militaires d'invalidité et des v - art. R14-1 (P)
   - Code des pensions militaires d'invalidité et des v - art. R15 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L151-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L151-4 (VD)
 
 _Codifié par_:
 
@@ -1647,8 +1650,9 @@ précédent alinéa.
 En aucun cas, il ne saurait être fait état de cette majoration pour augmenter les frais actuels d'hospitalisation qui sont à
 la charge des bénéficiaires de la mesure prise en leur faveur.
 
-Le droit à cette hospitalisation ou à cette majoration de pension est constaté par la commission de réforme , au moment où
-elle statue sur le degré d'invalidité dont le mutilé est atteint.
+Le droit à cette hospitalisation ou à cette majoration de pension est constaté par le médecin-chef du centre de réforme et,
+le cas échéant, par la commission de réforme, au moment où il est statué sur le degré d'invalidité dont le mutilé est
+atteint.
 
 Il est révisable tous les trois ans, après examens médicaux, même lorsque la pension ne présente pas ou ne présente plus le
 caractère temporaire, si l'incapacité de se mouvoir, de se conduire ou d'accomplir les actes essentiels à la vie n'a pas été
@@ -1698,6 +1702,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°93-1352 du 30 décembre 1993 - art. 100 () JORF 31 décembre 1993
 
 _Nouveaux textes_:
 
@@ -1999,9 +2007,9 @@ Les concessions ainsi établies sont confirmées ou modifiées par un arrêté c
 victimes de guerre et du ministre de l'économie et des finances. La concession ne devient définitive qu'après intervention
 dudit arrêté.
 
-Les concessions primitives établies par les fonctionnaires délégués à cet effet ne peuvent être effectuées qu'en homologuant
-les propositions favorables ou défavorables émises par les commissions de réforme en ce qui concerne le diagnostic et le taux
-d'invalidité.
+Les concessions primitives établies par les fonctionnaires délégués à cet effet ne peuvent être effectuées que conformément
+aux propositions émises par le médecin-chef du centre de réforme et, le cas échéant, par la commission de réforme en ce qui
+concerne le diagnostic et le taux de l'invalidité.
 
 Les dispositions qui précèdent ne sont pas applicables aux militaires et marins de carrière ni aux fonctionnaires bénéficiant
 du régime des pensions militaires, pour lesquels la pension est liquidée, selon les cas, par le ministre d'Etat chargé de la
@@ -2025,6 +2033,14 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R27 (V)
   - Code des pensions militaires d'invalidité et des v - art. R29 (V)
   - Code des pensions militaires d'invalidité et des v - art. R36 (V)
+
+_Créé par_:
+
+  - Loi n°93-1352 du 30 décembre 1993 - art. 100 () JORF 31 décembre 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-1752 du 25 décembre 2009 - art. 2
 
 **Liens**:
 
@@ -2127,10 +2143,19 @@ _Cite_:
 ###### Article L28
 
 Tout bénéficiaire d'une pension temporaire chez qui s'est produite une complication nouvelle ou une aggravation de son
-infirmité peut, sans atteindre l'expiration de la période de trois ans prévue à l'article L. 8, adresser une demande de
-révision sur laquelle il doit être statué par la commission de réforme dans les deux mois qui suivent sa demande.
+infirmité peut, sans attendre l'expiration de la période de trois ans prévue à l'article L. 8, adresser une demande de
+révision sur laquelle le médecin-chef du centre de réforme doit formuler une proposition de liquidation dans les deux mois
+qui suivent le dépôt de la demande, selon les modalités définies à l'article L. 6.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°93-1352 du 30 décembre 1993 - art. 100 () JORF 31 décembre 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-1752 du 25 décembre 2009 - art. 2
 
 _Cité par_:
 
@@ -2139,7 +2164,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L8 (M)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L6
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L8
 
 _Codifié par_:
 
@@ -3810,11 +3836,10 @@ Sous réserve des mesures transitoires prévues au quatrième alinéa du présen
 précèdent se substituent intégralement au régime des majorations prévues antérieurement par l'article 19 de la loi du 31 mars
 1919.
 
-Cependant en aucun cas l'application du nouveau régime aux familles comptant au moins deux enfants [*nombre*] nés avant le
-1er octobre 1945 [*date limite*] et ouvrant droit aux majorations prévues antérieurement par l'article 19 de la loi du 31
-mars 1919 ne peut entraîner une diminution du total des majorations effectivement perçues à cette date au titre desdits
-enfants. Le nouveau régime est intégralement applicable à partir du 1er octobre 1946 aux familles ne comptant qu'un seul
-enfant à charge.
+Cependant en aucun cas l'application du nouveau régime aux familles comptant au moins deux enfants nés avant le 1er octobre
+1945 et ouvrant droit aux majorations prévues antérieurement par l'article 19 de la loi du 31 mars 1919 ne peut entraîner une
+diminution du total des majorations effectivement perçues à cette date au titre desdits enfants. Le nouveau régime est
+intégralement applicable à partir du 1er octobre 1946 aux familles ne comptant qu'un seul enfant à charge.
 
 Toutefois, lorsque les enfants des veuves visés aux alinéas qui précèdent cessent d'ouvrir droit aux prestations familiales
 et qu'ils réunissent les conditions requises pour pouvoir prétendre à pension d'orphelin, il est versé à la mère, jusqu'à
@@ -3823,10 +3848,10 @@ l'âge de dix-huit ans de chacun des enfants, une majoration égale à celle pr�
 Sous réserve qu'ils ne soient pas bénéficiaires des dispositions de l'article L. 57, les enfants atteints d'une infirmité
 incurable ne leur permettant pas de gagner un salaire dont le montant est fixé par décret ouvrent droit, lorsque leur mère ne
 peut plus prétendre aux prestations familiales de leur chef et sauf dans le cas où ils sont hospitalisés aux frais de l'Etat,
-à une allocation spéciale égale à l'indice de pension 270. Cette allocation est versée directement à l'intéressé à compter de
+à une allocation spéciale égale à l'indice de pension 333. Cette allocation est versée directement à l'intéressé à compter de
 sa majorité.
 
-Cette allocation n'est cumulable avec aucun autre supplément familial attribué au titre du même enfant [*non cumul*].
+Cette allocation n'est cumulable avec aucun autre supplément familial attribué au titre du même enfant.
 
 Le bénéfice de l'allocation spéciale est maintenu au dernier orphelin dont le droit à pension est né du remariage de sa mère,
 antérieur à la date d'entrée en vigueur de la loi du 9 septembre 1941.
@@ -3876,13 +3901,6 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R37 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. L66 (M)
 
-_Modifié par_:
-
-  - Loi n°53-1340 1953-12-31 art. 23-I et II JORF 5 janvier 1954
-  - Loi n°72-1121 1972-12-20 art. 67 JORF 21 décembre 1972
-  - Loi n°75-1278 1975-12-30 art. 75 JORF 31 décembre 1975
-  - Loi n°78-1239 du 29 décembre 1978 - art. 95 () JORF 30 décembre 1978
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°86-1182 du 5 novembre 1986
@@ -3903,6 +3921,10 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°96-1144 du 26 décembre 1996 - art. 1 (V)
   - TXT_SOURCE: Décret n°98-73 du 4 février 1998
   - TXT_SOURCE: Décret n°98-73 du 4 février 1998 - art. 1 (V)
+
+_Créé par_:
+
+  - Loi n°93-1352 1993-12-30 art. 102 finances pour 1994 JORF 31 décembre 1993
 
 _Cite_:
 
@@ -5975,21 +5997,22 @@ _Codifié par_:
 ###### Article L118
 
 Par dérogation aux dispositions de l'article L. 79, toutes les contestations auxquelles donne lieu l'application de l'article
-L. 115 et des textes pris pour son application, sont jugées en premier ressort par la commission départementale des soins
-gratuits.
+L. 115 et des textes pris pour son application, sont jugées en premier ressort par la commission contentieuse des soins
+gratuits. 
 
-Les décisions de la commission départementale des soins gratuits sont susceptibles d'appel devant la commission supérieure
-des soins gratuits.
+Les décisions de la commission contentieuse des soins gratuits sont susceptibles d'appel devant la commission supérieure des
+soins gratuits. 
 
 Ces commissions constituent des juridictions administratives. Elles comprennent, notamment, des représentants des praticiens
-et des pensionnés.
+et des pensionnés. 
+
+Le siège et le ressort des commissions contentieuses des soins gratuits sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Codifié par_:
 
-  - Loi n°55-356 1955-04-03 art. 11 II JORF 4 avril 1955
-  - Ordonnance 59-261 1959-02-04 art. 4 JORF 10 février 1959
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 _Cité par_:
 
@@ -6003,18 +6026,22 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R615-30 (T)
   - Code des pensions militaires d'invalidité et de... - art. D107 (Ab)
 
-_Cite_:
+_Créé par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L79 (M)
+  - Loi n°93-1352 du 30 décembre 1993 - art. 101 (V) JORF 31 décembre 1993
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 8 (V)
 
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L79 (M)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L79
 
 
 ##### Section 3 : Dispositions générales.<a id=41></a>
