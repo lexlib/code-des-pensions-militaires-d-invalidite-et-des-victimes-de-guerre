@@ -1,8 +1,8 @@
 # Article R227 quater
 
-La décision sur la demande d'attribution de la carte du combattant est prise par le commissaire de la République après avis
-de la commission départementale prévue à l'article R. 230, dans les cas où le nombre d'actions de feu ou de combat détermine
-la décision, conformément aux directives définies par la commission d'experts instituée par l'article L. 253 bis.
+La décision sur la demande d'attribution de la carte du combattant est prise par le préfet après avis de la commission
+départementale prévue à l'article R. 230, dans les cas où le nombre d'actions de feu ou de combat détermine la décision,
+conformément aux directives définies par la commission d'experts instituée par l'article L. 253 bis.
 
 Les personnes ayant pris part aux opérations ou aux actions définies à l'article L. 253 bis et qui ne remplissent pas les
 conditions mentionnées à l'alinéa précédent peuvent individuellement demander à bénéficier de la qualité de combattant
@@ -18,9 +18,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-622 1983-07-08 art. 2 JORF 10 juillet 1983
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 _Cite_:
 
