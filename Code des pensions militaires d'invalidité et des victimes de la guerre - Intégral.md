@@ -1,8 +1,8 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1973-12-28
+Version Consolidée au 1974-12-10
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
-    - [Première partie (art. L1)](#2)
+    - [Première partie (art. L1 à L1 bis)](#2)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#3)
       - [Titre Ier : Droit à pension des invalides. (art. L2 à L29)](#4)
         - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L5)](#5)
@@ -144,9 +144,9 @@ Version Consolidée au 1973-12-28
           - [Section 11 : Insignes des réfractaires et des personnes contraintes au travail. (art. L391 à L391 bis)](#141)
           - [Section 12 : Mesures d'exécution. (art. L392)](#142)
         - [Chapitre IV : Emplois réservés (art. L395 à L450)](#143)
-          - [Section 1 : Bénéficiaires des emplois réservés (art. L395 à L400)](#144)
+          - [Section 1 : Bénéficiaires des emplois réservés (art. L395 à L401 bis)](#144)
             - [Paragraphe 1 : Invalides, veuves et orphelins de guerre. (art. L395 à L396)](#145)
-            - [Paragraphe 2 : Militaires. (art. L397 à L400)](#146)
+            - [Paragraphe 2 : Militaires. (art. L397 à L401 bis)](#146)
           - [Section 2 : Classement et nomination (art. L402 à L440)](#147)
             - [Paragraphe 1 : Enumération des emplois réservés. (art. L402 à L406)](#148)
             - [Paragraphe 2 : Classement des candidats. (art. L407 à L416)](#149)
@@ -632,6 +632,25 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L1 bis
+
+La République française reconnaît, dans des conditions de stricte égalité avec les combattants des conflits antérieurs, les
+services rendus par les personnes qui ont participé sous son autorité aux opérations effectuées en Afrique du Nord entre le
+1er janvier 1952 et le 2 juillet 1962.
+
+Elle leur accorde vocation à la qualité de combattant et au bénéfice des dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°74-1044 1974-12-09 art. 1 JORF 10 décembre 1974
 
 
 ## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=3></a>
@@ -8106,6 +8125,70 @@ _Abrogé par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
+###### Article L243
+
+Les dispositions des articles L. 240 et L. 241 sont applicables, dans les conditions fixées par les articles L. 244 à L. 246,
+aux militaires des troupes supplétives permanentes d'Afrique du Nord qui, placées sous l'autorité du ministre chargé de la
+défense nationale, ont servi au cours de la guerre 1939-1945 par contrat à terme fixe ou par tacite reconduction d'un tel
+contrat, ainsi qu'à leurs veuves, orphelins et ascendants.
+
+Ces dispositions sont également applicables aux membres des forces supplétives françaises ayant participé aux opérations
+effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 ainsi qu'à leurs ayants cause, lorsque les
+intéressés possèdent la nationalité française à la date de présentation de leur demande ou sont domiciliés en France à la
+même date.
+
+Les pensions liquidées en application des dispositions de l'alinéa qui précède ne sont pas cumulables avec les pensions,
+rentes ou allocations servies au titre des mêmes infirmités en application de tout autre régime d'indemnisation.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°74-1044 1974-12-09 art. 4 JORF 10 décembre 1974
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L244 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L245 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L240 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L241 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L246 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L244
+
+Pour l'application du premier alinéa de l'article L. 243, le bénéfice de la présomption d'imputabilité au service, en ce qui
+concerne les maladies, ne joue que pour celles contractées ou aggravées à l'occasion du service au cours d'une expédition à
+l'extérieur de l'Etat ou du territoire d'origine des postulants ou en captivité et compte tenu des délais prévus par
+l'article L. 3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L243
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L3
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°74-1044 1974-12-09 art. 5 JORF 10 décembre 1974
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
 ###### Article L245
 
 Le point de départ des pensions et allocations diverses servies au titre de l'article L. 243 ne peut être antérieur au 4 mars
@@ -8427,6 +8510,52 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L253 ter
+
+La qualité de combattant est reconnue aux militaires qui, du fait des opérations mentionnées à l'article L. 253 bis, ont été
+détenus par l'adversaire et privés de la protection des conventions de Genève [*définition*].
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°74-1044 1974-12-09 art. 3 JORF 10 décembre 1974
+
+_Transféré par_:
+
+  - Loi n°93-7 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Décret n°93-969 du 28 juillet 1993 - art. 1 (V)
+  - Décret n°93-969 du 28 juillet 1993 - art. 2 (V)
+  - Arrêté du 12 janvier 1994 - art. 1 (V)
+  - Arrêté du 12 janvier 1994 - art. Annexe (V)
+  - Décret n°2007-741 du 9 mai 2007 - art. 1 (Ab)
+  - Code de la défense. - art. L4123-4 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R224 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 12 janvier 1994
+  - TXT_ASSOCIE: Arrêté du 12 janvier 1994 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 12 janvier 1994 - art. ANNEXE (V)
+  - TXT_SOURCE: Arrêté du 3 décembre 1997
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L253 bis (M)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L253 quater (V)
+  - Code des pensions militaires d'invalidité et des v - art. L253 quater (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L254
@@ -12652,6 +12781,39 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L408 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L401 bis
+
+Les membres des forces supplétives françaises ayant participé aux opérations effectuées en Afrique du Nord entre le 1er
+janvier 1952 et le 2 juillet 1962 et possédant la nationalité française peuvent accéder aux emplois réservés prévus par le
+présent code.
+
+Ils sont assimilés à des militaires.
+
+Un décret fixe les conditions dans lesquelles il peut être dérogé, en ce qui les concerne, aux dispositions prises en
+application des articles L. 397, L. 399, L. 407 et L. 408 du présent code (1).
+
+**Nota:**
+
+Nota - (1) Voir décret n° 75-89 du 11 février 1975.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°74-1044 1974-12-09 art. 6 JORF 10 décembre 1974
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L397 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L399 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L407 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L408 (M)
 
 _Codifié par_:
 
