@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1975-09-15
+Version Consolidée au 1977-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -2803,6 +2803,36 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L43 (M)
   - Code des pensions militaires d'invalidité et des v - art. L50 (M)
   - Code des pensions militaires d'invalidité et des v - art. L57 (M)
+
+
+###### Article L51-1
+
+Lorsque le droit à pension de veuve naît en considération du taux de la pension du mari, le montant des sommes allouées aux
+veuves au titre de l'article L. 50 et du troisième alinéa de l'article L. 51 ne peut excéder celui de la pension et des
+allocations de leur mari aux taux sur lesquels elles étaient calculées au moment de son décès.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L50 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L51 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°73-1150 1973-12-27 art. 71 II JORF 28 décembre 1973
+
+_Modifié par_:
+
+  - Loi n°77-1467 1977-12-30 art. 100 I c JORF 31 décembre 1977
+
+_Cité par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
 
 
 ###### Article L52
@@ -8799,6 +8829,63 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+
+###### Article L256
+
+La retraite prévue à l'article qui précède est attribuée à partir de l'âge de soixante ans à tout titulaire de la carte du
+combattant bénéficiaire du livre IX du Code de la sécurité sociale.
+
+Son montant est déterminé par l'application de l'indice de pension 33 tel qu'il est défini à l'article L. 8 bis.
+
+Les anciens combattants ne remplissant pas les conditions prévues au premier alinéa ci-dessus mais qui, antérieurement à la
+date de la promulgation de la loi n° 53-1340 du 31 décembre 1953, étaient titulaires de la retraite du combattant ou avaient
+formulé une demande à cet effet ou qui, âgés de 50 ans au moins au 7 janvier 1954 ont formulé une demande avant le 1er
+janvier 1958, continueront à recevoir application du régime et des taux antérieurs à la condition qu'ils bénéficient des
+dispositions du livre IX du Code de la sécurité sociale ou qu'ils soient titulaires de la carte au titre des dispositions du
+paragraphe A de l'article R. 224 du présent code.
+
+Les titulaires de la carte du combattant au titre des dispositions du paragraphe A de l'article R. 224 du code, âgés de 65
+ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 33.
+
+Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux alinéas précédents, bénéficient de la
+retraite au taux déterminé par application de l'indice de pension 33.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Loi n°53-1340 1953-12-31
+  - Code de la sécurité sociale R224
+  - Code des pensions militaires d'invalidité et des v - art. L255 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+
+_Modifié par_:
+
+  - Loi n°56-780 1956-08-04 JORF 7 août 1956 rectificatif JORF 10 octobre 1956
+  - Ordonnance 58-1374 1958-12-30 art. 21 1 JORF 31 décembre 1958
+  - Loi n°59-1454 1959-12-26 art. 45 JORF 27 décembre 1959
+  - Loi n°60-1384 1960-12-23 art. 60 JORF 24 décembre 1960
+  - Loi n°61-1396 1961-12-21 art. 52 JORF 22 décembre 1961
+  - Loi n°63-156 1963-02-23 art. 36 I JORF 24 février 1963
+  - Loi n°63-1241 1963-12-19 art. 51 JORF 25 décembre 1963
+  - Loi n°72-1121 1972-12-20 art. 65 JORF 21 décembre 1972
+  - Loi n°74-1129 1974-12-30 art. 69 JORF 31 décembre 1974
+  - Loi n°75-1278 1975-12-30 art. 91 JORF 31 décembre 1975
+  - Loi n°76-1232 1976-12-29 art. 91 JORF 30 décembre 1976
+  - Loi n°77-1467 1977-12-30 art. 85 JORF 31 décembre 1977
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 81 (MMN)
+  - Code des pensions militaires d'invalidité et de... - art. R241 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R245 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R236 (V)
 
 
 ###### Article L256 bis
