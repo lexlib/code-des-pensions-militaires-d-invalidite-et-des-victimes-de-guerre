@@ -1,16 +1,16 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1980-12-31
+Version Consolidée au 1981-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#3)
-      - [Titre Ier : Droit à pension des invalides. (art. L2 à L29)](#4)
+      - [Titre Ier : Droit à pension des invalides. (art. L2 à L30)](#4)
         - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L5)](#5)
         - [Chapitre II : Pensions définitives et pensions temporaires. (art. L7 à L8)](#6)
         - [Chapitre III : Taux des pensions. (art. L10 à L18)](#7)
         - [Chapitre IV : Majorations pour enfants. (art. L19 à L20)](#8)
         - [Chapitre V : Demandes de pension - Liquidation et concession. (art. L21 à L27)](#9)
-        - [Chapitre VI : Révision pour aggravation. (art. L28 à L29)](#10)
+        - [Chapitre VI : Révision pour aggravation. (art. L28 à L30)](#10)
       - [Titre II : Emoluments complémentaires. (art. L31 à L41)](#11)
         - [Chapitre Ier : Allocations spéciales temporaires aux grands invalides. (art. L31 à L35 ter)](#12)
         - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. L36 à L40)](#13)
@@ -1800,6 +1800,50 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L30
+
+Le droit à la révision est également ouvert au profit du militaire ou marin, titulaire d'une pension pour la perte d'un oeil
+ou d'un membre ou pour surdité totale unilatérale, qui, par suite d'un accident postérieur à la liquidation de sa pension,
+venant à perdre le second oeil ou un second membre, ou à être atteint de surdité totale de l'autre oreille, se trouve de ce
+fait atteint d'une incapacité absolue, sans être indemnisé par un tiers pour cette seconde infirmité.
+
+Dans ce cas, sa pension est portée au chiffre attribué aux militaires pour une infirmité de 100 % ; le recours de l'Etat
+s'exerce contre les tiers responsables de l'accident.
+
+Le taux de 100 % est également alloué au militaire ou au marin qui avait perdu un oeil ou un membre, ou était atteint de
+surdité totale unilatérale, antérieurement au service et qui vient à perdre le second oeil ou un second membre, ou à être
+atteint de surdité totale de l'autre oreille, par le fait ou à l'occasion du service.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°80-1094 1980-12-30 art. 63 I JORF 31 décembre 1980 en vigueur le 1er janvier 1981
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°80-1094 1980-12-30 art. 63 III
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L121-9 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L154-2 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L37 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R210 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R33 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
 ### Titre II : Emoluments complémentaires.<a id=11></a>
 
 #### Chapitre Ier : Allocations spéciales temporaires aux grands invalides.<a id=12></a>
@@ -3097,6 +3141,96 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L43 (M)
   - Code des pensions militaires d'invalidité et des v - art. L50 (M)
   - Code des pensions militaires d'invalidité et des v - art. L57 (M)
+
+
+###### Article L51
+
+Le montant des pensions allouées dans les conditions fixées à l'article L. 50 est fixé aux quatre tiers de la pension au taux
+normal pour les veuves non remariées dont les revenus imposables à l'imp<cb>t unique sur le revenu des personnes physiques
+n'excède pas une somme égale, par part de revenu au sens de l'article 194 et 195 du Code général des imp<cb>ts, à celle en
+deçà de laquelle aucune cotisation n'est perçue en ce qui concerne les bénéficiaires des revenus du travail salarié et qui se
+trouvent dans l'une des situations suivantes :
+
+1° Soit âgées de plus de cinquante-sept ans ;
+
+2° Soit infirmes ou atteintes d'une maladie incurable ou entraînant une incapacité permanente de travail.
+
+Si les revenus imposables à l'imp<cb>t unique sur le revenu des personnes physiques sont supérieurs à la somme ci-dessus
+définie, la partie de la pension prévue à l'alinéa précédent excédant selon le cas le taux normal ou le taux de réversion est
+réduite à concurrence de la portion du revenu dépassant ladite somme.
+
+Le montant de la pension est déterminé par application de l'indice 500 pour les veuves âgées de plus de quarante ans et
+celles qui, avant cet âge, sont infirmes ou atteintes d'une maladie incurable ou entraînant une incapacité permanente de
+travail mais ne remplissent pas la condition de ressources prévue au premier alinéa.
+
+Pour les veuves de guerre non remariées, ayant des enfants susceptibles de prétendre à pension principale d'orphelin et à
+charge au sens de la législation sur les prestations familiales, les indices de pension sont majorés de 120 points pour
+chaque enfant susceptible de prétendre à pension principale d'orphelin et à charge au sens de la législation sur les
+prestations familiales. Cette majoration est portée à 160 points par enfant à partir du troisième. Lorsque la charge
+effective et permanente des enfants est assumée par une ou des personnes autres que la mère, la majoration est versée à cette
+ou ces personnes.
+
+Les pensions visées au présent article se cumulent avec les prestations familiales accordées aux veuves et orphelins de
+guerre par l'article L. 54.
+
+Les dispositions du présent article sont applicables jusqu'à leur majorité aux orphelins de guerre dont le père et la mère
+sont décédés.
+
+Un décret contresigné par le ministre des anciens combattants et victimes de guerre et le ministre de l'économie et des
+finances déterminera, pour l'application de l'article L. 50 et du présent article, les indices correspondants aux taux de
+pensions allouées aux veuves non remariées, en fonction du grade détenu par leur mari.
+
+</cb></cb></cb>
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 194, 195
+  - Code des pensions militaires d'invalidité et des v - art. L50 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L54 (M)
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 22 JORF 5 janvier 1954
+  - Loi n°56-780 1956-08-04 art. 98 JORF 7 août 1956
+  - Loi n°60-1384 1960-12-23 art. 63 II JORF 24 décembre 1960
+  - Loi n°67-1114 1967-12-21 art. 76 JORF 22 décembre 1967
+  - Loi n°73-1150 1973-12-27 art. 71 I JORF 28 décembre 1973
+  - Loi n°77-1467 1977-12-30 art. 100 I a et b JORF 31 décembre 1977
+  - Loi n°78-753 du 17 juillet 1978 - art. 17 (M) JORF 18 juillet 1978
+  - Loi n°80-30 1980-01-18 art. 92 2° JORF 19 janvier 1980
+  - Loi n°80-1094 1980-12-30 art. 67 JORF 31 décembre 1980, en vigueur le 1er janvier 1981
+
+_Cité par_:
+
+  - Loi n°62-873 du 31 juillet 1962 - art. 13 (Ab)
+  - Décret n°64-994 du 17 septembre 1964 - art. 45 (V)
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
+  - Code de la sécurité sociale. - art. L814-3 (Ab)
+  - Code de la sécurité sociale. - art. R815-15 (V)
+  - Code de la sécurité sociale. - art. R815-26 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L183 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L19 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L213 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L214 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L51-1 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L52 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L55 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L57 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L72 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R170 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R184 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L56 (M)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D141-10 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D141-6 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L51-1
@@ -8359,6 +8493,43 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L51
+
+
+###### Article L215
+
+Les victimes civiles de guerre qui avaient perdu un oeil ou un membre, ou étaient atteintes de surdité totale unilatérale,
+avant le fait de guerre ayant causé la perte du second oeil ou d'un second membre ou la surdité totale de l'autre oreille, et
+qui présentent ainsi une invalidité absolue, obtiennent une pension d'invalidité d'un taux égal à celui qui leur serait
+attribué si toutes leurs infirmités étaient imputables à un fait de guerre.
+
+Ce taux est également celui de la pension allouée aux victimes civiles qui, déjà pensionnées pour la perte d'un oeil ou d'un
+membre ou pour surdité totale unilatérale, viennent à perdre le second oeil ou un second membre, ou à être atteintes de
+surdité de l'autre oreille, par suite d'un accident postérieur à la liquidation de leur pension et présentent, de ce fait,
+une incapacité absolue, sans être indemnisées par un tiers pour cette seconde infirmité. Dans ce cas, le recours de l'Etat
+s'exerce contre le tiers responsable de l'accident.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L124-29 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L154-3 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°80-1094 1980-12-30 art. 63 II JORF 31 décembre 1980 en vigueur le 1er janvier 1981
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°80-1094 1980-12-30 art. 63-III
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L216
