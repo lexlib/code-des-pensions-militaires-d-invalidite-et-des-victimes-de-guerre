@@ -11,18 +11,23 @@ professionnelle, éventuellement précédée de sa réadaptation fonctionnelle.
 Cette allocation a pour effet de porter le montant global des ressources de ces pensionnés à des taux dont le plus élevé ne
 pourra excéder celui de la pension à l'indice 1500.
 
-Un décret, pris dans la forme du règlement d'administration publique, fixera les conditions d'application du présent article.
+Un décret, pris dans la forme du décret en Conseil d'Etat, fixera les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L131-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R131-9 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L35 ter (VT)
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°53-1340 1953-12-31 art. 13 JORF 5 janvier 1954
-
-_Modifié par_:
-
-  - Décret n°57-1405 1957-12-31 art. 1 JORF 1er janvier 1958
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
