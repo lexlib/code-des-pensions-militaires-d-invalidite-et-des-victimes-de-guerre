@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1983-03-25
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -539,7 +539,7 @@ Version Consolidée au 1982-12-30
             - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#536)
           - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#537)
             - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A136)](#538)
-            - [Paragraphe 2 : Demande et délivrance de la carte. (art. A138 à A141)](#539)
+            - [Paragraphe 2 : Demande et délivrance de la carte. (art. A137 à A141)](#539)
             - [Paragraphe 3 : Demande et délivrance de la carte. (art. A140 à A142)](#540)
         - [Chapitre II : Retraite du combattant. (art. A144 à A157)](#541)
           - [Section 1 : Payement de la retraite du combattant. (art. A144 à A153)](#542)
@@ -49495,6 +49495,70 @@ _Codifié par_:
 
 
 ##### Paragraphe 2 : Demande et délivrance de la carte.<a id=539></a>
+
+###### Article A137
+
+Les demandes des personnes visées au présent chapitre sont adressées par les intéressés aux offices départementaux ou aux
+offices de la France d'outre-mer de leur résidence. Elles sont obligatoirement établies sur des formules délivrées par les
+offices.
+
+Les dossiers des personnes visées à l'article A. 119 doivent comporter l'attestation délivrée aux demandeurs par les soins de
+l'autorité militaire compétente. Les agents qui ne sont pas, lors du dépôt de leur demande, en possession de cette
+attestation, sont soumis à la procédure instituée à l'article A. 123.
+
+Les demandes des personnes visées aux alinéas 1° et 2° de l'article R. 224 C, doivent être accompagnées d'une copie certifiée
+conforme, soit de la carte de déporté ou d'interné de la Résistance, soit de la carte de combattant volontaire de la
+Résistance.
+
+Les dossiers sont soumis dans tous les cas à la commission départementale des anciens combattants et victimes de guerre, qui
+ne peut valablement siéger qu'avec la participation de la majorité des membres non fonctionnaires.
+
+Lorsque les demandes ont fait l'objet d'un avis unanime de tous les membres présents de cette commission, la décision est
+prise par le commissaire de la République.
+
+Toutefois, lorsque la décision d'octroi ou de rejet est conditionnée par l'appréciation de services non homologués par
+l'autorité militaire, mais ayant donné lieu à des témoignages non validés par un liquidateur national de mouvement ou de
+réseau, les dossiers sont obligatoirement envoyés à l'Office national des anciens combattants et victimes de guerre, même si
+l'avis de la commission départementale a été rendu à l'unanimité. Ces dossiers sont ensuite soumis à la décision du ministre
+des anciens combattants, après avis de la commission prévue à l'article A. 119, mais dont le président est alors désigné par
+le ministre des anciens combattants. En outre, il est adjoint à cette commission trois membres pris dans le sein de la
+commission instituée pour l'application de l'article R. 227.
+
+Cette dernière procédure est également applicable chaque fois que les demandes n'ont pas fait l'objet d'un avis unanime de la
+commission départementale.
+
+Pour juger des cas individuels de la résistance extramétropolitaine, la commission est complétée comme prévu à l'article A.
+119.
+
+**Nota:**
+
+[*Nota : Code des pensions militaires d'invalidité et des victimes de la guerre A128 : définition des français et des
+étrangers pouvant bénéficier des dispositions du présent chapitre.*]
+
+[*Nota : La décision 50826 et 50884 du Conseil d'Etat du 13 février 1987 annule les 5°, 6° et 7° alinéas du présent
+article.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R226 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A119 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre A119, A123, R224, R227
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
 
 ###### Article A138
 
