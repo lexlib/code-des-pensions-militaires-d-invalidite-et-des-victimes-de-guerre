@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1970-07-07
+Version Consolidée au 1970-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -3577,6 +3577,83 @@ _Nouveaux textes_:
 
 _Cite_:
 
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L67
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L73
+
+Si le père ou la mère ont perdu plusieurs enfants des suites de blessures reçues ou de maladies contractées ou aggravées sous
+les drapeaux, il est alloué une majoration de pension déterminée par application de l'indice de pension 45 tel qu'il est
+défini à l'article L. 8 bis du code, pour chaque enfant décédé à partir du second inclusivement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 28 JORF 5 janvier 1954
+  - Loi n°70-1199 1970-12-21 art. 84 JORF 22 décembre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D141-15 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L141-11 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D21 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L148 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L8 bis
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L74
+
+A défaut du père et de la mère, la pension est accordée aux grands-parents dans les conditions prévues à l'article L. 67.
+Elle est la même que pour les parents.
+
+Chaque grand-parent ou chaque couple de grands-parents ne peut recevoir qu'une seule pension.
+
+La pension est augmentée pour chaque petit enfant décédé, à concurrence de trois, à partir du second inclusivement, par
+application de l'indice de pension 45, tel qu'il est défini à l'article L. 8 bis du code.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 29 JORF 5 janvier 1954
+  - Loi n°70-1199 1970-12-21 art. 84 JORF 22 décembre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D141-15 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L141-12 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D21 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L148 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L8 bis (VT)
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L67
 
 _Codifié par_:
