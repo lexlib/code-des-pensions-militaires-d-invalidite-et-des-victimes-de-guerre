@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1979-01-11
+Version Consolidée au 1979-02-03
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -573,7 +573,7 @@ Version Consolidée au 1979-01-11
       - [Chapitre II : Transfert et restitution des corps. (art. A206 à A221)](#570)
         - [Section 1 : Dispositions concernant les départements et territoires d'outre-mer. (art. A206 à A215)](#571)
         - [Section 2 : Indemnités aux délégués représentant les familles aux exhumations. (art. A216 à A221)](#572)
-      - [Chapitre III : Sépultures perpétuelles. (art. A222 à A223)](#573)
+      - [Chapitre III : Sépultures perpétuelles. (art. A221 bis à A223)](#573)
     - [Livre V : Institutions (art. A224 à A329)](#574)
       - [Titre Ier : Offices des anciens combattants et victimes de la guerre (art. A224 à A293)](#575)
         - [Chapitre Ier : Office national (art. A224 à A249)](#576)
@@ -51413,6 +51413,26 @@ _Cite_:
 
 
 ### Chapitre III : Sépultures perpétuelles.<a id=573></a>
+
+###### Article A221 bis
+
+Est autorisé sur les tombes des militaires confiées à la garde de l'Etat, le dépôt de fleurs naturelles par les personnes
+désireuses d'honorer la mémoire des morts.
+
+Les fleurs doivent être enlevées par les agents chargés de l'entretien des sépultures lorsqu'elles sont fanées.
+
+Les aménagements ou ornementations spéciaux, par les familles, demeurent interdits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Abrogé par_:
+
+  - Arrêté du 3 décembre 2018 - art. 40 (V)
+
 
 ###### Article A222
 
