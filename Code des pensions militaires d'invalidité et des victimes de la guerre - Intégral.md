@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1955-05-22
+Version Consolidée au 1955-05-22 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -11534,20 +11534,21 @@ d'aptitude professionnelle exigées.
 Tout candidat à un emploi réservé, occupant un poste d'auxiliaire à temps complet, s'il a postulé pour un emploi de même
 nature, doit se voir délivrer le certificat d'aptitude physique pour ledit emploi.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°55-690 1955-05-20 art. 1 JORF 22 mai 1955
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R432 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R406 (V)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L410
