@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1980-02-03
+Version Consolidée au 1980-03-28
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -48116,6 +48116,32 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+
+###### Article A134-6
+
+Les militaires des armées françaises et les membres des forces supplétives françaises ayant participé aux opérations
+effectuées en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 inclus, qui ne peuvent totaliser le temps de
+présence effectif exigé à l'article R. 224-D I (1°), sont admis à bénéficier :
+
+1° D'une bonification de dix jours pour citation individuelle portant attribution de la croix de la valeur militaire ;
+
+2° D'une bonification de dix jours en cas d'engagement, de rengagement ou de volontariat ayant conduit les intéressés à
+servir dans des unités stationnées en Afrique du Nord.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
 
 
 ###### Article A135
