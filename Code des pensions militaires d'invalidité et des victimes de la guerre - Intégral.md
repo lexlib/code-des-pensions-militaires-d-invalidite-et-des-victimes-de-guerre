@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1956-12-28
+Version Consolidée au 1957-01-24
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -42837,6 +42837,34 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A162 (V)
   - Code des pensions militaires d'invalidité et des v - art. A163 (V)
+
+
+###### Article A165-2
+
+Délégation est donnée aux directeurs interdépartementaux des anciens combattants et victimes de guerre pour attribuer dans
+les conditions prévues par les textes le titre de déporté politique ou d'interné politique, sur avis favorable des
+commissions départementales visées par les articles R. 342 et A. 343-1 et en dehors des cas où l'avis de la commission
+nationale visée aux articles R. 337 et R. 340 est expressément requis.
+
+Délégation leur est également donnée, dans les mêmes limites, pour délivrer la carte justifiant la qualité de déporté
+politique ou d'interné politique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Abrogé par_:
+
+  - Arrêté du 3 décembre 2018 - art. 40 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R337
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R340
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R342
 
 
 ###### Article A165-3
