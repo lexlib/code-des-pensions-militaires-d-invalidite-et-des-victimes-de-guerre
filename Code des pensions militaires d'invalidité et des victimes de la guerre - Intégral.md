@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1969-03-15
+Version Consolidée au 1970-07-07
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -521,7 +521,7 @@ Version Consolidée au 1969-03-15
             - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#518)
             - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A122)](#519)
             - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-2 et A123-3 à A123-5)](#520)
-            - [Paragraphe 3 bis : Marins du commerce. (art. A123-6 à A123-7)](#521)
+            - [Paragraphe 3 bis : Marins du commerce. (art. A123-6 à A123-9)](#521)
             - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A127)](#522)
             - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#523)
           - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#524)
@@ -45390,6 +45390,60 @@ _Modifié par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de la guerre annexe
+
+
+###### Article A123-8
+
+Sont considérés combattants les marins du commerce et de la pêche qui ont navigué pendant au moins quatre-vingt-dix jours,
+consécutifs ou non, soit au commerce, soit à la pêche, au titre des opérations effectuées entre le 2 septembre 1939 et le 8
+mai 1945 à bord des navires dont la liste est fixée par l'arrêté ministériel (marine) du 19 décembre 1952 modifié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Cite_:
+
+  - Arrêté 1952-12-19
+
+_Modifié par_:
+
+  - Arrêté 1964-06-11 JORF 21 juin 1964 rectificatif JORF 5 juillet 1964
+  - Arrêté 1970-06-01 art. 1 JORF 7 juillet 1970
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+
+###### Article A123-9
+
+Sont considérés combattants les marins du commerce et de la pêche qui ont navigué pendant au moins quatre-vingt-dix jours,
+consécutifs ou non, soit au commerce, soit à la pêche, au titre des opérations effectuées entre le 2 septembre 1939 et le 8
+mai 1945 à bord des navires ne figurant pas sur la liste fixée par l'arrêté ministériel (marine) du 19 décembre 1952 modifié
+et qui peuvent justifier que leur navire était présent dans les régions et à des époques où la navigation donne droit à la
+qualité de combattant au personnel de la marine militaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Cite_:
+
+  - Arrêté 1952-12-19
+
+_Modifié par_:
+
+  - Arrêté 1964-06-11 JORF 21 juin 1964 rectificatif JORF 5 juillet 1964
+  - Arrêté 1970-06-01 art. 1 JORF 7 juillet 1970
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
 ##### Paragraphe 4 : Cas d'exclusion ou d'opposition.<a id=522></a>
