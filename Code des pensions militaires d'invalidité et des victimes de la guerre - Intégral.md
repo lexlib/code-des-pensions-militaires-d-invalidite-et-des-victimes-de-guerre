@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1995-11-11
+Version Consolidée au 1996-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -50851,11 +50851,7 @@ _Cite_:
 
 ###### Article A38
 
-L'indemnité mensuelle allouée au médecin rapporteur de la Commission supérieure des soins gratuits est fixée à 636,30 F.
-
-**Nota:**
-
-
+L'indemnité mensuelle allouée au médecin rapporteur de la Commission supérieure des soins gratuits est fixée à 645,20 F.
 
 **Liens relatifs à cet article**
 
@@ -50865,7 +50861,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1995-05-05 art. 1 JORF 7 mai 1995 en vigueur le 1er janvier 1995
+  - Arrêté 1996-02-27 art. 1 JORF 20 mars 1996 en vigueur le 1er janvier 1996
 
 **Liens**:
 
@@ -50874,13 +50870,12 @@ _Modifié par_:
 
 ###### Article A39
 
-Il est alloué aux membres non fonctionnaires de la commission supérieure des soins gratuits une indemnité de 24,20 F de
-présence effective aux séances de la commission [*montant*].
+Il est alloué aux membres non fonctionnaires de la Commission supérieure des soins gratuits une indemnité de 24,50 F de
+présence effective aux séances de la commission.
 
 **Nota:**
 
-[*Nota : Code des pensions militaires d'invalidité et des victimes de la guerre A108 : Les dispositions de l'article A39 sont
-applicables aux requis civils et engagés au titre de la défense passive.*]
+
 
 **Liens relatifs à cet article**
 
@@ -50890,7 +50885,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1995-04-21 art. 1 JORF 7 mai 1995 en vigueur le 1er janvier 1995
+  - Arrêté 1996-02-27 art. 1 JORF 20 mars 1996 en vigueur le 1er janvier 1996
 
 **Liens**:
 
@@ -50900,34 +50895,29 @@ _Modifié par_:
 ###### Article A40
 
 L'indemnité mensuelle allouée aux médecins rapporteurs des commissions départementales des soins gratuits est fixée aux
-sommes indiquées ci-dessous :
+sommes indiquées ci-dessous [*montant*] :
 
-Indemnité de 98,20 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire de Belfort, Ariège, Lot, Creuse, Cantal,
+Indemnité de 99,60 F : Lozère, Hautes-Alpes, Alpes-de-Haute-Provence, territoire de Belfort, Ariège, Lot, Creuse, Cantal,
 Haute-Corse, Corse-du-Sud, Gers, Tarn-et-Garonne, Haute-Saône, Haute-Loire, Haute-Marne, Meuse, Hautes-Pyrénées, Jura,
 Corrèze, Mayenne et Nièvre ;
 
-Indemnité de 111,10 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes, Yonne, Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-
+Indemnité de 112,70 F : Indre, Ardèche, Loir-et-Cher, Aube, Landes, Yonne, Savoie, Aude, Pyrénées-Orientales, Orne, Lot-et-
 Garonne, Eure-et-Loir, Aveyron, Cher, Ardennes, Deux-Sèvres, Drôme, Vienne, Tarn, Vaucluse, Charente, Haute-Vienne, Ain,
 Haute-Savoie, Eure, Dordogne, Vosges, Allier, Côte-d'Or, Loiret, Vendée, Indre-et-Loire, Doubs et Manche ;
 
-Indemnité de 133,20 F : Sarthe, Marne, Gard, Charente-Maritime, Pyrénées-Atlantiques, Calvados, Somme, Côtes-d'Armor, Oise,
+Indemnité de 135,10 F : Sarthe, Marne, Gard, Charente-Maritime, Pyrénées-Atlantiques, Calvados, Somme, Côtes-d'Armor, Oise,
 Var, Aisne, Puy-de-Dôme, Morbihan, Saône-et-Loire, Val-d'Oise, Seine-et-Marne, Hérault, Haut-Rhin, Maine-et-Loire, Essonne,
 Ille-et-Vilaine, Haute-Garonne et Alpes-Maritimes ;
 
-Indemnité de 160,90 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère, Bas-Rhin, Loire-Atlantique, Gironde et
+Indemnité de 163,20 F : Meurthe-et-Moselle, Loire, Finistère, Yvelines, Isère, Bas-Rhin, Loire-Atlantique, Gironde et
 Moselle ;
 
-Indemnité de 189,50 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rhône, Pas-de-Calais, Bouches-du-Rhône et Hauts-de-
+Indemnité de 189,50 F : Seine-Maritime, Val-de-Marne, Seine-Saint-Denis, Rhône, Pas-de-Calais, Boûches-du-Rhône et Hauts-de-
 Seine ;
 
-Indemnité de 204,60 F : Nord ;
+Indemnité de 207,50 F : Nord ;
 
-Indemnité de 229,80 F : Paris.
-
-**Nota:**
-
-[*Nota : Code des pensions militaires d'invalidité et des victimes de la guerre A108 : Les dispositions de l'article A40 sont
-applicables aux requis civils et engagés au titre de la défense passive.*]
+Indemnité de 233,00 F : Paris.
 
 **Liens relatifs à cet article**
 
@@ -50937,7 +50927,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1995-04-21 art. 1 JORF 7 mai 1995 en vigueur le 1er janvier 1995
+  - Arrêté 1996-02-27 art. 1 JORF 20 mars 1996 en vigueur le 1er janvier 1996
 
 **Liens**:
 
@@ -50946,7 +50936,7 @@ _Modifié par_:
 
 ###### Article A41
 
-Il est alloué aux membres non fonctionnaires des commissions départementales des soins gratuits une indemnité de 24,20 F par
+Il est alloué aux membres non fonctionnaires des commissions départementales des soins gratuits une indemnité de 24,50 F par
 heure de présence effective aux séances des commissions [*montant*].
 
 **Nota:**
@@ -50962,7 +50952,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1995-04-21 art. 2 JORF 7 mai 1995 en vigueur le 1er janvier 1995
+  - Arrêté 1996-02-27 art. 2 JORF 20 mars 1996 en vigueur le 1er janvier 1996
 
 **Liens**:
 
