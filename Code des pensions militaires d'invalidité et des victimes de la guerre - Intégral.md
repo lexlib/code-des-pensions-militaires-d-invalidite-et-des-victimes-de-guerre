@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-08-17
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -14948,11 +14948,13 @@ _Codifié par_:
 Dans les administrations et établissements de l'Etat, des départements, des communes et des territoires d'outre-mer et dans
 les établissements privés visés aux articles L. 405 et L. 406 disposant d'emplois tenus par des mineurs, la priorité est
 réservée, pour le recrutement de ce personnel des deux sexes, aux orphelins de guerre qui réunissent les conditions
-d'aptitude physique exigées des autres candidats. 
+d'aptitude physique exigées des autres candidats. Cette priorité s'applique également, s'ils réunissent les conditions
+d'aptitude physique exigées des autres candidats, aux orphelins des sapeurs-pompiers professionnels ou volontaires décédés en
+opération de secours, cités à l'ordre de la Nation. 
 
-Toutefois, les orphelins de guerre candidats à des emplois de bureau, pourvus par voie de concours, sont astreints aux mêmes
-concours que les autres candidats, les notes qu'ils obtiennent à ce concours sont majorées dans la proportion d'un dixième du
-maximum des points. 
+Toutefois, les orphelins de guerre ou orphelins de sapeurs-pompiers candidats à des emplois de bureau, pourvus par voie de
+concours, sont astreints aux mêmes concours que les autres candidats, les notes qu'ils obtiennent à ce concours sont majorées
+dans la proportion d'un dixième du maximum des points. 
 
 Dans chaque département, l'office départemental des anciens combattants et victimes de guerre procède au classement
 périodique des demandes et veille à la nomination des orphelins de guerre aux emplois dont la priorité leur est réservée par
@@ -14960,13 +14962,20 @@ le présent paragraphe. Les conditions d'application du présent article sont fi
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2004-811 du 13 août 2004 - art. 69 () JORF 17 août 2004
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. A187 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. D315 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. D432 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L401 (M)
-  - Code des pensions militaires d'invalidité et de... - art. R440 (Ab)
   - Code du travail - art. L5212-13 (V)
 
 _Nouveaux textes_:
@@ -14975,8 +14984,9 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L405 (M)
-  - Code des pensions militaires d'invalidité et de... - art. L406 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L406 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R440 (V)
 
 _Codifié par_:
 
