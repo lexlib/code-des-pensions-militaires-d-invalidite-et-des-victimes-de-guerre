@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1953-08-29
+Version Consolidée au 1953-09-05
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -284,7 +284,7 @@ Version Consolidée au 1953-08-29
           - [Section 2 : Droits des déportés et internés résistants. (art. R298 à R304)](#281)
           - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R306 à R326)](#282)
             - [Paragraphe 1 : Commissions. (art. R306 à R315)](#283)
-            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R319 à R323)](#284)
+            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R317 à R323)](#284)
             - [Paragraphe 3 : Justification du titre de déporté et interné de la Résistance. (art. R326)](#285)
         - [Chapitre III : Statut des déportés et internés politiques. (art. R328 à R351)](#286)
           - [Section 1 : De la qualité de déporté et interné politique. (art. R328 à R334)](#287)
@@ -21007,6 +21007,30 @@ _Cite_:
 
 ##### Paragraphe 2 : Demande du titre de déporté et interné résistant.<a id=284></a>
 
+###### Article R317
+
+Toute personne arrêtée par l'ennemi au cours de la guerre 1914-1918 qui veut faire valoir ses droits au titre de déporté ou
+d'interné résistant doit adresser sa demande avant le 1er janvier 1954 au délégué interdépartemental du ministre des anciens
+combattants et victimes de guerre dans la circonscription duquel l'arrestation a eu lieu.
+
+En cas d'arrestation hors du territoire français, la demande doit être adressée directement au ministre des anciens
+combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R325 (V)
+
+_Modifié par_:
+
+  - Décret n°53-804 1953-09-04 art. 1 JORF 5 septembre 1953
+
+
 ###### Article R319
 
 Les demandes d'attribution du titre de déporté ou d'interné résistant doivent être accompagnées de pièces établissant :
@@ -22123,6 +22147,43 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L307 (M)
 
 
+###### Article R360
+
+Toute personne désirant obtenir le titre de réfractaire doit adresser sa demande avant le 1er janvier 1954 :
+
+1° Si elle est domiciliée en France métropolitaine, au préfet, président de l'office départemental des anciens combattants et
+victimes de guerre du département dans lequel elle est domiciliée ;
+
+2° Si elle est domiciliée dans un département ou dans un pays d'outre-mer ou à l'étranger :
+
+Au préfet, président de l'office départemental des anciens combattants et victimes de guerre du département où se sont
+produits les actes et les faits mentionnés aux articles R. 352 et R. 353, a et b ;
+
+Au préfet, président de l'office départemental des anciens combattants et victimes de guerre du département où a eu lieu
+l'incorporation de force dans les formations allemandes pour les bénéficiaires visés à l'article 353 c ;
+
+3° Si elle réside momentanément hors de France, au préfet, président de l'office départemental du lieu de son domicile.
+
+Dans le cas où le domicile ou le lieu de résidence se trouve à l'étranger, la demande est transmise par l'intermédiaire de
+l'autorité consulaire française compétente.
+
+En cas de décès ou de disparition, la demande doit être présentée, dans le même délai, par le conjoint, les descendants ou
+les ascendants du défunt ou du disparu. Elle doit être adressée à l'office départemental des anciens combattants et victimes
+de guerre du département où réside le demandeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R352 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R353 (V)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R352, R353, 353
+
+
 ###### Article R361
 
 Les demandes doivent être accompagnées des pièces susceptibles d'établir la qualité de réfractaire, à savoir notamment :
@@ -22639,6 +22700,48 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L317 (M)
+
+
+###### Article R377
+
+Toute personne désirant obtenir le bénéfice des dispositions du chapitre V du titre II du livre III doit adresser sa demande.
+
+1° Si elle est domiciliée en France métropolitaine ou en Algérie, au préfet, président de l'office départemental des anciens
+combattants et victimes de guerre du département dans lequel elle est domiciliée ;
+
+2° Si elle est domiciliée dans un département ou dans un pays d'outre-mer ou à l'étranger, au préfet, président de l'office
+départemental des anciens combattants et victimes de guerre du département où se sont produits les actes et les faits
+mentionnés à l'article R. 370 ;
+
+3° Si elle réside momentanément hors de France, au président de l'office départemental du lieu de son domicile.
+
+Dans le cas où le domicile ou le lieu de résidence se trouve à l'étranger, les demandes sont transmises par l'intermédiaire
+de l'autorité consulaire française compétente.
+
+Sans préjudice des droits reconnus aux intéressés en matière de pension, la demande doit être produite avant le 1er janvier
+1954.
+
+En cas de décès ou de disparition, la demande peut être présentée, dans le même délai, par le conjoint, les descendants ou
+les ascendants du défunt ou du disparu. Elle doit être adressée à l'office départemental des anciens combattants et victimes
+de guerre du département où réside le demandeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 16 octobre 2008 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R370 (V)
+
+_Modifié par_:
+
+  - Décret n°53-806 1953-09-04 art. 2 JORF 5 septembre 1953
 
 
 ###### Article R378
