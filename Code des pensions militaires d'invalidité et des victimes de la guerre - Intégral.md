@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-03-27
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -495,7 +495,7 @@ Version Consolidée au 2004-02-05
             - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D522 à D523)](#492)
             - [Paragraphe 5 : Contrôle financier. (art. D524)](#493)
             - [Paragraphe 6 : Mesures d'application. (art. D525)](#494)
-        - [Chapitre III : Ecoles de rééducation professionnelle (art. D526 à D554)](#495)
+        - [Chapitre III : Ecoles de reconversion professionnelle (art. D526 à D554)](#495)
           - [Section 1 : Attributions. (art. D526)](#496)
           - [Section 2 : Organisation. (art. D527 à D533)](#497)
           - [Section 3 : Fonctionnement. (art. D534 à D543)](#498)
@@ -598,7 +598,7 @@ Version Consolidée au 2004-02-05
             - [Paragraphe 3 : Ecritures et comptes de l'agent comptable. (art. A256 à A263)](#595)
           - [Section 2 : Dispositions diverses. (art. A264)](#596)
         - [Chapitre III : Etablissements attachés aux offices (art. A265 à A293)](#597)
-          - [Section 1 : Ecoles de rééducation professionnelle (art. A265 à A288)](#598)
+          - [Section 1 : Ecoles de reconversion professionnelle (art. A265 à A288)](#598)
             - [Paragraphe 1 : Fonctionnement. (art. A265)](#599)
             - [Paragraphe 2 : Régime financier. (art. A266 à A288)](#600)
           - [Section 2 : Foyers d'anciens combattants et de victimes de la guerre. (art. A289 à A293)](#601)
@@ -40568,7 +40568,7 @@ _Abrogé par_:
 
 La rééducation professionnelle est assurée dans les conditions fixées par le présent code, sous l'une des formes suivantes :
 
-1° Par les écoles de rééducation professionnelle (art. D. 526 à D. 533) ;
+1° Par les écoles de reconversion professionnelle (art. D. 526 à D. 533) ;
 
 2° Par le placement chez l'employeur sous la surveillance des offices départementaux des anciens combattants et victimes de
 guerre avec ou sans contrat d'apprentissage (art. A. 57 à A. 84) ;
@@ -40578,13 +40578,21 @@ se préparant à certaines carrières.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L133 (VT)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des victimes de la guerre D526 à D533, A57 à A84
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 _Codifié par_:
 
@@ -48328,13 +48336,13 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre III : Ecoles de rééducation professionnelle<a id=495></a>
+#### Chapitre III : Ecoles de reconversion professionnelle<a id=495></a>
 
 ##### Section 1 : Attributions.<a id=496></a>
 
 ###### Article D526
 
-Des écoles de rééducation professionnelle relevant de l'office national des anciens combattants et victimes de guerre ont
+Des écoles de reconversion professionnelle relevant de l'office national des anciens combattants et victimes de guerre ont
 pour objet d'assurer, par le travail, le reclassement social des personnes admises au bénéfice de la rééducation
 professionnelle par les lois et règlements en vigueur.
 
@@ -48343,10 +48351,10 @@ professionnelle par les lois et règlements en vigueur.
 _Cité par_:
 
   - Arrêté du 19 juin 1947 - art. 55 (V)
-  - Décret n°88-279 du 24 mars 1988 - art. 13 (Ab)
   - Code du travail - art. R323-34 (VT)
   - Code du travail - art. R5213-9 (VD)
   - Code du travail applicable à Mayotte. - art. R328-55 (V)
+  - Décret n°88-279 du 24 mars 1988 - art. 13 (Ab)
 
 _Nouveaux textes_:
 
@@ -48355,6 +48363,10 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ##### Section 2 : Organisation.<a id=497></a>
@@ -48387,13 +48399,17 @@ n'a séjourné dans aucun ;
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Décret n°2014-1283 du 23 octobre 2014 - art. (VD)
-
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Cité par_:
+
+  - Décret n°2014-1283 du 23 octobre 2014 - art. (VD)
 
 
 ###### Article D528
@@ -48412,6 +48428,10 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D529
 
@@ -48426,6 +48446,10 @@ journée, à faire un stage dans les écoles.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D530
@@ -48444,6 +48468,10 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D531
 
@@ -48455,6 +48483,10 @@ règlement intérieur de l'établissement.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D532
@@ -48473,6 +48505,10 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D533
 
@@ -48484,6 +48520,10 @@ l'office national.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ##### Section 3 : Fonctionnement.<a id=498></a>
@@ -48509,6 +48549,10 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D535
 
@@ -48520,6 +48564,10 @@ personnel administratif ou enseignant désigné, à cet effet, sur la propositio
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D536
@@ -48533,10 +48581,14 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D537
 
-Les statuts des différents personnels des écoles de rééducation professionnelle sont fixés par décrets, rendus sur
+Les statuts des différents personnels des écoles de reconversion professionnelle sont fixés par décrets, rendus sur
 proposition du ministre des anciens combattants et victimes de guerre et du ministre de l'économie et des finances, après
 avis de l'office national.
 
@@ -48545,6 +48597,10 @@ avis de l'office national.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D538
@@ -48557,6 +48613,10 @@ leur tâche d'organisation technique, par des chefs de travaux.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D539
@@ -48571,6 +48631,10 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 _Cite_:
 
   - Loi n°1919-07-27
@@ -48579,28 +48643,35 @@ _Cite_:
 
 ###### Article D540
 
-Chaque année [*périodicité*], dans le courant du mois d'octobre, les directeurs des écoles adressent à l'office national,
-sous le couvert des préfets, un horaire des classes et ateliers établi compte tenu des programmes des examens professionnels.
+Chaque année, dans le courant du mois d'octobre, les directeurs des écoles adressent à l'office national, sous le couvert des
+préfets, un horaire des classes et ateliers établi compte tenu des programmes des examens professionnels.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D541
 
-Le personnel enseignant se réunit en conseil au moins une fois par trimestre [*périodicité*] sous la présidence du directeur.
-Les élèves sont notés mensuellement et les notes et appréciations des professeur chefs de travaux, chefs d'ateliers et
-moniteurs, consignées sur un carnet spécial pour chaque élève, sont discutées à cette réunion qui fait l'objet d'un procès-
-verbal.
+Le personnel enseignant se réunit en conseil au moins une fois par trimestre sous la présidence du directeur. Les élèves sont
+notés mensuellement et les notes et appréciations des professeurs chefs de travaux, chefs d'ateliers et moniteurs, consignées
+sur un carnet spécial pour chaque élève, sont discutées à cette réunion qui fait l'objet d'un procès-verbal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article D542
@@ -48614,12 +48685,15 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D543
 
 Un rapport détaillé sur le fonctionnement annuel de l'école est préparé par le directeur, soumis à l'approbation de l'office
-départemental et du préfet, qui le transmet avec ses observations à l'office national avant le 1er avril de l'année suivante
-[*date limite*].
+départemental et du préfet, qui le transmet avec ses observations à l'office national avant le 1er avril de l'année suivante.
 
 **Liens relatifs à cet article**
 
@@ -48627,12 +48701,16 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ##### Section 4 : Régime financier.<a id=499></a>
 
 ###### Article D544
 
-Les écoles de rééducation professionnelle sont rattachées financièrement aux offices départementaux des anciens combattants
+Les écoles de reconversion professionnelle sont rattachées financièrement aux offices départementaux des anciens combattants
 et victimes de guerre dans le ressort desquels elles fonctionnent.
 
 **Liens relatifs à cet article**
@@ -48641,14 +48719,26 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article D545
 
 Les dispositions des articles D. 463, D. 502 à D. 506, D. 512, D. 513, D. 516, D. 518 à D. 524, relatives au régime financier
-de l'office national et des offices départementaux sont applicables aux écoles de rééducation professionnelle sous réserve
+de l'office national et des offices départementaux sont applicables aux écoles de reconversion professionnelle sous réserve
 des règles édictées aux articles ci-après.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
 
 _Cite_:
 
@@ -48703,6 +48793,14 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
+
 
 ###### Article D547
 
@@ -48711,6 +48809,14 @@ exercent leurs fonctions sous le contrôle et la responsabilité de l'agent comp
 rattachement.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
 
 _Cite_:
 
@@ -48740,10 +48846,18 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
+
 
 ###### Article D549
 
-Les recettes de l'école sont divisées en recettes ordinaires et en recettes extraordinaires [*ressources financières*].
+Les recettes de l'école sont divisées en recettes ordinaires et en recettes extraordinaires.
 
 Les recettes ordinaires en espèces comprennent :
 
@@ -48781,13 +48895,21 @@ Les autres ressources accidentelles.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et des v - art. D550 (Ab)
-
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D550 (Ab)
 
 
 ###### Article D550
@@ -48821,6 +48943,14 @@ extraordinaires énumérées à l'article D. 549.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
+
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. D549 (M)
@@ -48842,6 +48972,14 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
+
 
 ###### Article D552
 
@@ -48854,6 +48992,14 @@ _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
+
 
 ###### Article D553
 
@@ -48864,6 +49010,14 @@ Le compte de gestion matières du régisseur économe est annexé au compte de g
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
 
 
 ###### Article D554
@@ -48879,6 +49033,14 @@ fixées par arrêté.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1216 du 22 septembre 2005 - art. 5 () JORF 29 septembre 2005
 
 
 ### Titre II : Institution nationale des invalides.<a id=500></a>
@@ -50637,19 +50799,19 @@ _Codifié par_:
 
 ###### Article A58
 
-Lorsque les bénéficiaires définis à l'article A. 56 ne sont pas admis dans une école de rééducation professionnelle, ils
+Lorsque les bénéficiaires définis à l'article A. 56 ne sont pas admis dans une école de reconversion professionnelle, ils
 peuvent être placés chez l'employeur, en vue de leur rééducation, qui est assurée sous la surveillance des offices
 départementaux, conformément aux dispositions des articles D. 432 et D. 475.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 _Cite_:
 
@@ -50663,10 +50825,6 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. A60 (V)
   - Code des pensions militaires d'invalidité et des v - art. A65 (V)
   - Code des pensions militaires d'invalidité et des v - art. A72 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A73 (V)
 
 
 ###### Article A59
@@ -56911,13 +57069,13 @@ _Cite_:
 
 #### Chapitre III : Etablissements attachés aux offices<a id=597></a>
 
-##### Section 1 : Ecoles de rééducation professionnelle<a id=598></a>
+##### Section 1 : Ecoles de reconversion professionnelle<a id=598></a>
 
 ##### Paragraphe 1 : Fonctionnement.<a id=599></a>
 
 ###### Article A265
 
-Les directeurs des écoles de rééducation professionnelle sont, en cas d'absence momentanée ou d'empêchement, suppléés dans
+Les directeurs des écoles de reconversion professionnelle sont, en cas d'absence momentanée ou d'empêchement, suppléés dans
 leurs fonctions par les régisseurs économes de ces établissements.
 
 **Liens relatifs à cet article**
@@ -56926,13 +57084,17 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ##### Paragraphe 2 : Régime financier.<a id=600></a>
 
 ###### Article A266
 
-La tenue d'une comptabilité en deniers et en matière est obligatoire dans les écoles de rééducation professionnelle, dans les
-cottages sanitaires de Saint-Gobain et dans les foyers d'anciens combattants et victimes de guerre rattachés à un office
+La tenue d'une comptabilité en deniers et en matière est obligatoire dans les écoles de reconversion professionnelle, dans
+les cottages sanitaires de Saint-Gobain et dans les foyers d'anciens combattants et victimes de guerre rattachés à un office
 départemental.
 
 **Liens relatifs à cet article**
@@ -56941,10 +57103,14 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A267
 
-Les régisseurs économes des écoles de rééducation professionnelle, des cottages sanitaires de Saint-Gobain et des foyers de
+Les régisseurs économes des écoles de reconversion professionnelle, des cottages sanitaires de Saint-Gobain et des foyers de
 pensionnés de guerre et anciens combattants sont soumis, pour tout ce qui n'est pas prévu au présent chapitre, aux
 prescriptions concernant la comptabilité des régisseurs d'avances et des régisseurs de recettes.
 
@@ -56953,6 +57119,10 @@ prescriptions concernant la comptabilité des régisseurs d'avances et des régi
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A268
@@ -56968,16 +57138,19 @@ auquel l'établissement est financièrement rattaché.
 
 Le montant des avances ne peut dépasser :
 
-150 000 francs (1 500 F) en ce qui concerne les foyers de pensionnés de guerre et anciens combattants ;
+228,67 euros en ce qui concerne les foyers de pensionnés de guerre et anciens combattants ;
 
-250 000 francs (2 500 F) en ce qui concerne les écoles de rééducation professionnelle et les cottages sanitaires de Saint-
-Gobain.
+381,12 euros en ce qui concerne les écoles de reconversion professionnelle et les cottages sanitaires de Saint-Gobain.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 _Cité par_:
 
@@ -56996,6 +57169,10 @@ prévues à l'article A. 268 et leur transmission à ce comptable dans les condi
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 _Cite_:
 
@@ -57025,6 +57202,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A268 (M)
@@ -57037,13 +57218,17 @@ _Cité par_:
 ###### Article A271
 
 Le montant des encaissements réalisés par le régisseur économe doit être versé tous les quinze jours au comptable, contre
-récépissé ou quittance à souche. Leur versement immédiat est obligatoire, dès que leur montant atteint 50 000 francs (500 F).
+récépissé ou quittance à souche. Leur versement immédiat est obligatoire, dès que leur montant atteint 76,22 euros.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A272
@@ -57061,6 +57246,10 @@ comptabilité en deniers, les registres suivants :
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A273
@@ -57081,11 +57270,14 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A274
 
-Chaque année, le 31 décembre [*date, périodicité*], l'ordonnateur ou son délégué procède à l'arrêté général des comptes en
-deniers.
+Chaque année, le 31 décembre, l'ordonnateur ou son délégué procède à l'arrêté général des comptes en deniers.
 
 A la suite de la vérification, il est établi un procès-verbal de vérification de la caisse.
 
@@ -57100,6 +57292,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A275
 
@@ -57112,6 +57308,10 @@ nature.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A276
@@ -57131,6 +57331,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A277
 
@@ -57141,6 +57345,10 @@ En ce qui concerne la comptabilité en matière, le régisseur économe est resp
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A278
@@ -57153,6 +57361,10 @@ la constatation des recettes et des dépenses journalières.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A279
@@ -57173,6 +57385,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A280
 
@@ -57188,6 +57404,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. A286 (V)
@@ -57195,8 +57415,8 @@ _Cité par_:
 
 ###### Article A281
 
-Au 31 décembre de chaque année [*date, périodicité*], l'ordonnateur ou son délégué, assiste au directeur, procède à l'arrêté
-général des comptes en matières.
+Au 31 décembre de chaque année, l'ordonnateur ou son délégué, assiste au directeur, procède à l'arrêté général des comptes en
+matières.
 
 A la suite de la vérification, il est établi un procès-verbal de vérification du magasin, un inventaire détaillé de tous les
 approvisionnements en magasin et un inventaire du mobilier et du matériel, énumérant d'une façon descriptive et estimative
@@ -57213,6 +57433,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A282
 
@@ -57225,6 +57449,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A283
 
@@ -57235,6 +57463,10 @@ Le régisseur économe rend chaque année son compte de gestion matières.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A284
@@ -57260,6 +57492,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A285
 
@@ -57278,6 +57514,10 @@ par des états spéciaux.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ###### Article A286
@@ -57299,6 +57539,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A280 (M)
@@ -57314,6 +57558,10 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
+
 
 ###### Article A288
 
@@ -57326,6 +57574,10 @@ suivante au préfet.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2004-276 du 26 mars 2004 - art. 1 () JORF 27 mars 2004
 
 
 ##### Section 2 : Foyers d'anciens combattants et de victimes de la guerre.<a id=601></a>
