@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-02-04
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -530,7 +530,7 @@ Version Consolidée au 1989-01-01
         - [Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause. (art. A114-3)](#527)
     - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. A115 à A205)](#528)
       - [Titre Ier : Carte et retraite du combattant. (art. A115 à A157)](#529)
-        - [Chapitre Ier : Carte du combattant. (art. A115 à A143)](#530)
+        - [Chapitre Ier : Carte du combattant. (art. A115 à A142)](#530)
           - [Section 1 : De la qualité de combattant (art. A116 à A128)](#531)
             - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#532)
             - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A123-1)](#533)
@@ -538,10 +538,10 @@ Version Consolidée au 1989-01-01
             - [Paragraphe 3 bis : Marins du commerce. (art. A123-6 à A123-9)](#535)
             - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A127)](#536)
             - [Paragraphe 5 : Français - Ressortissants de l'Union française - Etrangers. (art. A128)](#537)
-          - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A143)](#538)
+          - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#538)
             - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A136)](#539)
             - [Paragraphe 2 : Demande et délivrance de la carte. (art. A137 à A141)](#540)
-            - [Paragraphe 3 : Demande et délivrance de la carte. (art. A140 à A143)](#541)
+            - [Paragraphe 3 : Demande et délivrance de la carte. (art. A140 à A142)](#541)
         - [Chapitre II : Retraite du combattant. (art. A144 à A157)](#542)
           - [Section 1 : Payement de la retraite du combattant. (art. A144 à A153)](#543)
           - [Section 2 : Algérie et pays d'outre-mer. (art. A154)](#544)
@@ -52193,30 +52193,6 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 2 novembre 1995 - art. 2 (V)
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
-
-
-###### Article A143
-
-A titre exceptionnel demeurent valables jusqu'au 31 décembre 1989 les cartes du combattant du modèle déterminé par l'article
-A. 142 et ayant plus de cinq ans de date.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1951-04-24 JORF 29 avril 1951
-
-_Abrogé par_:
-
-  - Arrêté 1989-01-27 art. 1 JORF 4 février 1989
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. A142 (M)
 
 
 #### Chapitre II : Retraite du combattant.<a id=542></a>
