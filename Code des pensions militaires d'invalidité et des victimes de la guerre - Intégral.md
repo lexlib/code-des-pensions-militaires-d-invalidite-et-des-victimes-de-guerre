@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1983-12-29
+Version Consolidée au 1984-01-04
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -265,7 +265,7 @@ Version Consolidée au 1983-12-29
             - [Paragraphe 2 : Ayants cause. (art. R182 à R187)](#262)
             - [Paragraphe 3 : Règles de liquidation. (art. R188 à R190)](#263)
             - [Paragraphe 4 : Recours. (art. R191 à R192)](#264)
-            - [Paragraphe 5 : Procédure applicable hors de la métropole. (art. R194 à R196)](#265)
+            - [Paragraphe 5 : Procédure applicable hors de la métropole. (art. R193 à R196)](#265)
             - [Paragraphe 6 : Allocations provisoires d'attente. (art. R197 à R201)](#266)
       - [Titre IV : Alsaciens et Lorrains. (art. R202 à R222)](#267)
         - [Chapitre II : Militaires ayant servi dans l'armée allemande. (art. R202 à R222)](#268)
@@ -21507,6 +21507,38 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
 
 
+###### Article R120
+
+Les fonctions de commissaire du Gouvernement sont remplies par un fonctionnaire du commissariat de l'armée et, à défaut, par
+un officier ou par un fonctionnaire choisi, de préférence, parmi les administrateurs de la France d'outre-mer, ou le
+personnel du cadre des bureaux des secrétaires généraux des territoires d'outre-mer, suivant le cas.
+
+Le greffier et, s'il y a lieu, les commis-greffiers de la juridiction sont ceux du tribunal ou du tribunal d'instance qui
+relève du président.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-1251 1983-12-29 art. 1 JORF 4 janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R123 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
+
+
 ###### Article R121
 
 Dans les territoires d'outre-mer où il n'existe pas d'associations de mutilés et réformés, le tribunal des pensions se
@@ -21690,6 +21722,33 @@ _Abrogé par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et de... - art. R125 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R129 (V)
+
+
+###### Article R127
+
+Les fonctions de commissaire du Gouvernement sont remplies par un fonctionnaire du commissariat de l'armée et, à défaut, par
+un officier ou par un fonctionnaire choisi de préférence parmi les administrateurs de la France d'outre-mer, ou le personnel
+du cadre général des secrétariats généraux des territoires d'outre-mer, suivant le cas.
+
+Le greffier et, s'il y a lieu, les commis-greffiers sont ceux de la cour ou du tribunal supérieur ou d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-1251 1983-12-29 art. 1 JORF 4 janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 **Liens**:
 
@@ -23502,6 +23561,40 @@ _Cite_:
 
 
 ##### Paragraphe 5 : Procédure applicable hors de la métropole.<a id=265></a>
+
+###### Article R193
+
+Lorsque l'intéressé réside hors de la France métropolitaine, dans un territoire ne possédant pas un service des pensions
+propre au ministère des anciens combattants et victimes de guerre, la demande est adressée au commissariat de l'armée chargé
+des pensions militaires dans le territoire ou au chef du service des pensions siégeant auprès d'un centre de réforme.
+
+Ce fonctionnaire fait procéder à l'enquête administrative prévue aux articles R. 175 et R. 176 :
+
+a) soit par le chef du pays d'outre-mer si le fait de guerre est survenu dans un pays d'outre-mer ;
+
+b) Soit par les autorités énumérées à l'article R. 176 dans tous les autres cas.
+
+Dans cette dernière hypothèse, la demande d'enquête est adressée au ministre des anciens combattants et victimes de guerre,
+qui fait procéder à cette mesure d'instruction dans les conditions prévues à l'article R. 176 (alinéas 2 et 3).
+
+L'examen médical de la victime a lieu dans les conditions et suivant la procédure qui sont fixées pour les militaires
+résidant dans les pays d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-1251 1983-12-29 art. 1 JORF 4 janvier 1984
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R175 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R176 (V)
+
 
 ###### Article R194
 
