@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1953-10-24
+Version Consolidée au 1954-01-04
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -17887,6 +17887,36 @@ tableaux annexés au livre Ier (première partie).
 _Codifié par_:
 
   - Décret n°51-470 du 24 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R201 (Ab)
+
+
+###### Article R200
+
+Les livrets d'allocation provisoire d'attente sont établis par la direction interdépartementale du ministère des anciens
+combattants et victimes de guerre suivant les règles en usage pour les pensions militaires.
+
+Les allocations provisoires d'attente sont payées aux victimes civiles de la guerre dans les mêmes conditions qu'aux
+bénéficiaires de ces allocations à titre militaire.
+
+Dans les pays d'outre-mer les allocations provisoires d'attente sont attribuées par les commissaires de l'armée chargés des
+pensions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 du 24 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-1251 1983-12-29 art. 1 JORF 4 janvier 1984
 
 _Abrogé par_:
 
