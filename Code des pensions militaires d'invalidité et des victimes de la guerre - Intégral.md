@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1957-09-26
+Version Consolidée au 1958-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 1957-09-26
         - [Chapitre V : Demandes de pension - Liquidation et concession. (art. L21 à L27)](#8)
         - [Chapitre VI : Révision pour aggravation. (art. L28 à L29)](#9)
       - [Titre II : Emoluments complémentaires. (art. L32 à L42-3)](#10)
-        - [Chapitre Ier : Allocations spéciales temporaires aux grands invalides. (art. L32 à L35)](#11)
+        - [Chapitre Ier : Allocations spéciales temporaires aux grands invalides. (art. L32 à L35 bis)](#11)
         - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. L36 à L40)](#12)
         - [Chapitre III : Indemnité de soins aux tuberculeux. (art. L42-1 à L42-3)](#13)
       - [Titre III : Droits à pension des conjoints survivants et des orphelins. (art. L49 à L56)](#14)
@@ -1702,6 +1702,36 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L35 bis
+
+Il est alloué une allocation spéciale aux pensionnés qui se trouvent dans l'impossibilité médicalement constatée d'exercer
+une activité professionnelle quand cette impossibilité a sa cause déterminante dans une ou plusieurs infirmités incurables
+indemnisées au titre du présent code, si le reclassement social du pensionné est impossible et si celui-ci ne dispose pas par
+ailleurs, sous la forme d'une hospitalisation ou tout autrement, de ressources suffisantes.
+
+Le reclassement social est réputé possible quand l'invalidité de l'intéressé ne met pas obstacle à sa rééducation
+professionnelle, éventuellement précédée de sa réadaptation fonctionnelle.
+
+Cette allocation a pour effet de porter le montant global des ressources de ces pensionnés à des taux dont le plus élevé ne
+pourra excéder celui de la pension à l'indice 1500.
+
+Un décret, pris dans la forme du règlement d'administration publique, fixera les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°53-1340 1953-12-31 art. 13 JORF 5 janvier 1954
+
+_Modifié par_:
+
+  - Décret n°57-1405 1957-12-31 art. 1 JORF 1er janvier 1958
 
 
 #### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=12></a>
