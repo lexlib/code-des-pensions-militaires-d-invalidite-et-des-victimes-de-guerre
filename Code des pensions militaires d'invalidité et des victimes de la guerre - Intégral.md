@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2000-09-22
+Version Consolidée au 2000-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -5874,16 +5874,16 @@ _Abrogé par_:
 
 Lorsque la pension d'invalidité, y compris ses majorations et les émoluments complémentaires de toute nature, à l'exception
 de l'allocation spéciale pour assistance d'une tierce personne, de l'indemnité de soins aux tuberculeux et des majorations
-pour enfants, servie en application du présent code, dépasse un indice correspondant à la somme annuelle de 360 000 F
-[*montant maximum*], aucune revalorisation de la valeur du point d'indice de pension ne lui est plus applicable sauf
-dispositions contraires prévues par la loi.
+pour enfants, servie en application du présent code, dépasse un indice correspondant à la somme annuelle de 360 000 F],
+aucune revalorisation de la valeur du point d'indice de pension ne lui est plus applicable sauf dispositions contraires
+prévues par la loi.
 
 Toutefois, les revalorisations du point d'indice de pension effectuées conformément à l'article L. 8 bis au titre des
 périodes postérieures au 1er janvier 1995 sont applicables à la pension d'invalidité visée au présent article.
 
 Le 1er janvier 2000, les pensions d'invalidité visées au premier alinéa du présent article sont revalorisées de 1,5 % dans la
 limite des émoluments qui résultent de l'application de la valeur du point de l'ensemble des autres pensions militaires
-d'invalidité.
+d'invalidité. Leur revalorisation, dans les mêmes conditions, au 1er janvier 2001, est de 3 %.
 
 **Liens relatifs à cet article**
 
@@ -5909,7 +5909,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 123 () JORF 31 décembre 1999
+  - Loi - art. 106 () JORF 31 décembre 2000
+
+_Abrogé par_:
+
+  - Loi - art. 129 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -10530,7 +10534,7 @@ périodes à prendre en considération pour les différents théâtres d'opérat
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
 Une durée des services en Algérie d'au moins douze mois est reconnue équivalente à la participation aux actions de feu et de
-combat exigée au deuxième alinéa ci-dessus.
+combat exigée au deuxième alinéa ci-dessus.  Pour les militaires rappelés en Algérie, cette durée est fixée à quatre mois.
 
 **Liens relatifs à cet article**
 
@@ -10551,7 +10555,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 120 () JORF 31 décembre 1999
+  - Loi - art. 105 () JORF 31 décembre 2000
 
 _Nouveaux textes_:
 
