@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-01-05
+Version Consolidée au 1954-03-12
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -123,7 +123,7 @@ Version Consolidée au 1954-01-05
           - [Section 3 : Réduction de tarif accordée à certaines veuves de guerre et aux orphelins de guerre. (art. L324 bis)](#120)
         - [Chapitre II : Prêts, secours et autres dispositions pécuniaires (art. L325 à L343)](#121)
           - [Section 1 : Prêts. (art. L325 à L332)](#122)
-          - [Section 2 : Secours. (art. L334)](#123)
+          - [Section 2 : Secours. (art. L333 à L334)](#123)
           - [Section 3 : Pécule et indemnisations diverses. (art. L334 bis à L342)](#124)
           - [Section 4 : Rentes mutualistes. (art. L343)](#125)
         - [Chapitre III : Décorations et insignes (art. L344 à L392)](#126)
@@ -8976,6 +8976,25 @@ _Codifié par_:
 
 
 ##### Section 2 : Secours.<a id=123></a>
+
+###### Article L333
+
+Les femmes ou, à défaut, les orphelins des militaires ou marins décédés ou disparus au cours des hostilités ont droit, sur
+leur demande, à un secours dit "d'urgence", dont le montant est fixé uniformément, quel que soit le grade, à 5,49 euros. Ce
+secours est majoré de 0,91 euros par enfant de moins de seize ans.
+
+A défaut de femmes ou d'orphelins, le même avantage est accordé aux ascendants ou ascendantes du premier degré.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R391-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L334
 
