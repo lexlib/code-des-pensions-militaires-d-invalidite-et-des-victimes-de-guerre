@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1982-12-01
+Version Consolidée au 1982-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -64,14 +64,14 @@ Version Consolidée au 1982-12-01
         - [Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance (art. L171 à L176)](#61)
           - [Section 1 : Membres des FFI et membres de la Résistance. (art. L171 à L175)](#62)
           - [Section 2 : Aveugles de la Résistance. (art. L176)](#63)
-        - [Chapitre II : Du droit à pension (art. L177 à L189)](#64)
+        - [Chapitre II : Du droit à pension (art. L177 à L189-1)](#64)
           - [Section 1 : Conditions du droit à pension. (art. L177 à L182)](#65)
           - [Section 2 : Taux des pensions. (art. L183)](#66)
           - [Section 3 : Majorations pour enfant. (art. L184)](#67)
           - [Section 4 : Ayants cause. (art. L185)](#68)
-          - [Section 5 : Bénéficiaires spéciaux (art. L186 à L189)](#69)
+          - [Section 5 : Bénéficiaires spéciaux (art. L186 à L189-1)](#69)
             - [Paragraphe 1 : FFI et membres de la Résistance. (art. L186 à L188)](#70)
-            - [Paragraphe 2 : Aveugles de la Résistance. (art. L189)](#71)
+            - [Paragraphe 2 : Aveugles de la Résistance. (art. L189 à L189-1)](#71)
         - [Chapitre III : Dispositions diverses. (art. L190 à L192)](#72)
       - [Titre III : Règles applicables aux victimes civiles (art. L193 à L224)](#73)
         - [Chapitre Ier : Victimes civiles de la guerre (art. L193 à L223)](#74)
@@ -7558,6 +7558,38 @@ _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. D135-1 (V)
   - Code des pensions militaires d'invalidité et de... - art. L135-2 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L189-1
+
+Une allocation spéciale est attribuée aux veuves des aveugles de la Résistance bénéficiaires des dispositions de l'article L.
+189 lorsqu'elles justifient d'une durée de mariage sans séparation de corps ou de fait d'au moins quinze ans et ne peuvent
+prétendre à pension de veuve au titre du présent code.
+
+Le montant de cette allocation est égal à celui de la majoration prévue au deuxième alinéa de l'article L. 52-2 en faveur des
+veuves de grands invalides relevant de l'article L. 18 et bénéficiaires de l'allocation spéciale n° 5 bis, b.
+
+Les veuves remariées ou vivant en état de concubinage notoire perdent leur droit à l'allocation spéciale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°82-1126 du 29 décembre 1982 - art. 80 () JORF 30 décembre 1982
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R168-1 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L189 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L52-2 (M)
 
 _Codifié par_:
 
