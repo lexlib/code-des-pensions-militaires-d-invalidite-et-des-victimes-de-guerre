@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-10-23
+Version Consolidée au 1955-02-08
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -374,7 +374,7 @@ Version Consolidée au 1954-10-23
             - [Paragraphe 1 : Règles générales. (art. D38 à D39)](#371)
             - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D40 à D44)](#372)
           - [Section 2 : Ayants cause des militaires ou marins. (art. D45 à D52)](#373)
-            - [Paragraphe 1 : Règles générales. (art. D45)](#374)
+            - [Paragraphe 1 : Règles générales. (art. D45 à D47)](#374)
             - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D48 à D52)](#375)
       - [Titre VII : Soins, traitement et rééducation. (art. D111 à D120 à D230)](#376)
         - [Chapitre Ier : Soins gratuits. (art. D111 à D120)](#377)
@@ -29562,6 +29562,30 @@ peuvent prétendre en exécution du présent code.
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D47
+
+L'allocation provisoire d'attente est décomptée à raison de trente jours par mois et payée à titre d'avance sur pension.
+
+En cas de rejet de la demande de pension, les sommes perçues sont définitivement acquises à l'ayant cause.
+
+Dans le cas contraire, ces sommes sont précomptées sur les arrérages de la pension accordée dans des conditions qui sont
+fixées par des instructions établies de concert entre le ministre des anciens combattants et victimes de guerre et le
+ministre de l'économie et des finances.
+
+Lorsque ce précompte n'a pu s'effectuer en totalité ou en partie à l'expiration des droits du pensionnaire, il y a lieu à
+remboursement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-217 1955-01-20 art. 1 et art. 2 JORF 8 février 1955
 
 
 ##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=375></a>
