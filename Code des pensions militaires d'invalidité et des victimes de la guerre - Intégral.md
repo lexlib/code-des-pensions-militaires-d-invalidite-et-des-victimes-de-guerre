@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1963-05-30
+Version Consolidée au 1963-09-18
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -35284,6 +35284,35 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D296
+
+La médaille de la France libérée est attribuée par arrêté du ministre des anciens combattants et victimes de la guerre, pris
+après avis d'une commission siégeant au ministère des anciens combattants et victimes de guerre et comprenant :
+
+Le ministre des anciens combattants et victimes de guerre ou son représentant, président ;
+
+Le grand chancelier de la Légion d'honneur ou son représentant ;
+
+Le grand chancelier de l'ordre de la Libération ou son représentant ;
+
+Un officier général désigné par le ministre d'Etat chargé de la défense nationale ;
+
+Un représentant du garde des sceaux, ministre de la justice ;
+
+Un représentant du ministre des affaires étrangères ;
+
+Un représentant du ministre de l'intérieur.
+
+Six représentants des associations d'anciens combattants et victimes de guerre, titulaires de la carte du combattant
+volontaire de la Résistance, désignés par le ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
 ###### Article D297
