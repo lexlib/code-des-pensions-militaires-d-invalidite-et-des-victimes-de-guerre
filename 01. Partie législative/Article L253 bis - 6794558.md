@@ -22,11 +22,10 @@ Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'
 périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ;
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
+Une durée des services en Algérie d'au moins dix-huit mois est reconnue équivalente à la participation aux actions de feu et
+de combat exigée au deuxième alinéa ci-dessus.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°93-7 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -41,6 +40,10 @@ _Cité par_:
 
   - TXT_SOURCE: Arrêté du 7 novembre 1996
   - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
+
+_Modifié par_:
+
+  - Loi - art. 108 () JORF 31 décembre 1997
 
 _Codifié par_:
 
