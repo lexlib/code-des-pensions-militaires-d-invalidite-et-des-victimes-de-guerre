@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1957-03-16
+Version Consolidée au 1957-06-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -30290,6 +30290,51 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°53-1038 1953-10-23 art. 2 JORF 24 octobre 1953
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D14
+
+Les bénéficiaires de l'indemnité de soins sont tenus de se soumettre périodiquement à l'examen des organismes antituberculeux
+ou des médecins désignés par le préfet.
+
+Une fois par an, l'organisme antituberculeux ou le médecin désigné par le préfet fait parvenir au médecin phtisiologue
+départemental le résumé de ses constatations accompagné des documents et renseignements de toutes natures qui ont pu être
+recueillis au cours de l'année écoulée, tant sur l'état de santé que sur le comportement de l'intéressé, eu égard aux
+prescriptions médicales qu'il a reçues. Le médecin phtisiologue départemental émet l'avis, après avoir, s'il le juge utile,
+prescrit la mise en observation du titulaire de l'indemnité dans un service hospitalier qualifié, au titre de l'article L.
+117.
+
+Qu'il y a lieu de continuer le service de l'indemnité.
+
+Qu'il y a lieu de considérer l'intéressé comme guéri au sens de l'article D. 9.
+
+Quand en cours d'année le dispensaire ou le médecin désigné par le préfet constate que le pensionné ne remplit plus les
+conditions posées par l'article D. 9, il saisit par un rapport le médecin phtisiologue départemental qui procède comme il est
+précisé à l'alinéa précédent.
+
+Suivant l'avis du médecin phtisiologue départemental et compte tenu des prescriptions incluses dans l'instruction générale
+d'application, le directeur interdépartemental ou départemental des anciens combattants et victimes de guerre prend une
+décision de maintien ou de suppression de l'indemnité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L117 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°53-1038 1953-10-23 art. 3 JORF 24 octobre 1953
+  - Décret n°57-685 1957-06-06 art. 1 JORF 9 juin 1957
 
 _Cité par_:
 
