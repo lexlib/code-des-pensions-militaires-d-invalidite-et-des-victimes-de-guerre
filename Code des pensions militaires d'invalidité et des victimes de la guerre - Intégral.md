@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-09-22
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -46238,7 +46238,13 @@ _Codifié par_:
 L'Office national des anciens combattants et victimes de guerre constitue un établissement public d'Etat doté de la
 personnalité civile et de l'autonomie financière.
 
+L'office national dispose de la faculté de transiger en matière de marchés.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2000-919 du 21 septembre 2000 - art. 1 () JORF 22 septembre 2000
 
 _Cité par_:
 
@@ -46868,6 +46874,9 @@ Il a sous ses ordres le personnel de l'office national et des services extérieu
 Le directeur général peut donner délégation à des fonctionnaires de catégorie A placés sous son autorité pour signer, en son
 nom, les actes, conventions et marchés pour les affaires relevant de leurs attributions.
 
+Le directeur général prépare les projets de transaction en matière de marchés et signe pour le compte de l'office national
+les transactions après approbation expresse des autorités de tutelle.
+
 En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions prévues par le décret n° 53-1227 du 10 décembre
 1953, relatif à la réglementation comptable des établissements publics nationaux à caractère administratif.
 
@@ -46881,9 +46890,9 @@ _Cite_:
 
   - Décret n°53-1227 1953-12-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-412 du 14 mai 1996 - art. 1 () JORF 18 mai 1996
+  - Décret n°2000-919 du 21 septembre 2000 - art. 2 () JORF 22 septembre 2000
 
 
 ###### Article D444
