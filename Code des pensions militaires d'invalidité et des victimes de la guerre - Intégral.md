@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1961-04-08
+Version Consolidée au 1961-12-21
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -453,7 +453,7 @@ Version Consolidée au 1961-04-08
           - [Section 1 : Caractère juridique. (art. D431)](#450)
           - [Section 2 : Attributions. (art. D432)](#451)
           - [Section 3 : Composition. (art. D435 à D439)](#452)
-          - [Section 4 : Organisation. (art. D442)](#453)
+          - [Section 4 : Organisation. (art. D440 à D442)](#453)
           - [Section 5 : Fonctionnement. (art. D443 à D446)](#454)
           - [Section 6 : Régime financier. (art. D447 à D471)](#455)
             - [Paragraphe 1 : Dispositions générales. (art. D447 à D457)](#456)
@@ -11975,6 +11975,46 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L408 (M)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L399
+
+Les militaires et marins qui remplissent les conditions pour obtenir les emplois réservés et qui ont quitté le service sans
+les avoir sollicités peuvent, néanmoins, dans les trois ans qui suivent leur libération, réclamer le bénéfice de la présente
+section sous réserve des dispositions transitoires fixées à l'article L. 473. 
+
+Ceux d'entre eux atteints d'une maladie à évolution lente contractée en service qui n'auraient pas sollicité un emploi
+réservé dans le délai précité pourront le faire pendant un nouveau délai de trois ans à compter de leur guérison définitive.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°61-1393 1961-12-20 art. 2 JORF 21 décembre 1961
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L401 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R397 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L408 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R396 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R473 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L473 (V)
 
 **Liens**:
 
@@ -37828,6 +37868,62 @@ _Codifié par_:
 
 ##### Section 4 : Organisation.<a id=453></a>
 
+###### Article D440
+
+Le conseil d'administration est chargé de définir la politique générale de l'office national.
+
+Il intervient dans toutes les matières où son autorisation est prévue par le décret n° 53-1227 du 10 décembre 1953 relatif à
+la réglementation comptable des établissements publics nationaux à caractère administratif.
+
+Il délibère sur les matières énumérées ci-après :
+
+1° Budget ;
+
+2° Compte financier de l'établissement ;
+
+3° Répartition aux associations des subventions destinées à l'action sociale ;
+
+4° Placement des capitaux et revenus provenant de libéralités faites à l'office national ;
+
+5° Fixation du prix de journée d'hébergement et de séjour des ressortissants de l'office national dans les établissements
+privés.
+
+Il statue, en appel, sur les recours formés contre les décisions rendues, à l'échelon départemental, en matière d'aide aux
+ressortissants. Il peut, à cet effet, donner délégation à certains de ses membres.
+
+D'une manière générale, il peut être appelé à donner son avis sur les affaires qui lui sont renvoyées soit par le ministre,
+soit par le directeur.
+
+Les délibérations et les décisions du conseil d'administration sont exécutoires si dans un délai de vingt jours le ministre
+n'y a pas fait opposition.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°53-1227 1953-12-10
+
+_Modifié par_:
+
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+  - Décret n°61-1395 1961-12-19 art. 1 JORF 21 décembre 1961 rectificatif JORF 18 janvier 1962
+
+_Cité par_:
+
+  - Arrêté du 21 mars 2014 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D436 bis (M)
+  - Code des pensions militaires d'invalidité et des v - art. D544 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-16 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R612-6 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
 ###### Article D442
 
 La commission permanente donne son avis sur les projets des budgets et les comptes financiers de l'office national, des
@@ -39205,6 +39301,42 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D490
+
+Le conseil départemental émet des voeux sous forme de délibérations soit sur la politique générale de l'office national, soit
+sur les modalités de l'action sociale de l'office dans le département.
+
+Ces délibérations sont communiquées dans le mois à l'office national et examinées par le conseil d'administration de cet
+office, après étude et rapport de la commission spécialisée.
+
+Le conseil départemental se prononce en premier ressort sur les demandes individuelles de prêts, subventions et aides
+diverses aux ressortissants de l'office national des anciens combattants et victimes de guerre.
+
+Dans les trente jours de leur notification, des recours peuvent être formés par tout intéressé contre les décisions du
+conseil devant l'office national par l'intermédiaire du préfet.
+
+Le préfet dispose d'un délai maximum d'un mois à dater de la réception du recours ainsi introduit pour le transmettre à
+l'office national, assorti d'un rapport établi par ses soins.
+
+L'office national statue sur ce recours par décision motivée, laquelle peut être attaquée devant la juridiction
+administrative compétente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+  - Décret n°61-1395 1961-12-19 art. 1 JORF 21 décembre 1961 rectificatif JORF 18 janvier 1962
+
+_Abrogé par_:
+
+  - Décret n°2006-662 du 7 juin 2006 - art. 8 () JORF 8 juin 2006
 
 
 ###### Article D491
