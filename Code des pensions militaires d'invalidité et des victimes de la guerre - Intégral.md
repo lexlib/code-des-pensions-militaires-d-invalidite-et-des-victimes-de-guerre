@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1986-12-09
+Version Consolidée au 1987-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -17998,6 +17998,39 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+
+
+###### Article R4
+
+En cas de variation du traitement brut d'activité afférent à l'indice du classement hiérarchique des grades et emplois de
+l'Etat qui est mentionné à l'article L. 8 bis des modifications correspondantes devront affecter, à partir de la date à
+laquelle cette variation prendra effet, le montant des pensions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°83-776 1983-08-30 art. 2 JORF 2 septembre 1983
+  - Décret n°85-1320 1985-12-10 art. 1 JORF 14 décembre 1985
+  - Décret n°86-800 1986-06-30 art. 1 JORF 4 juillet 1986 en vigueur octobre 1985
+  - Décret n°87-263 du 9 avril 1987 - art. 1 () JORF 15 avril 1987 en vigueur le 1er février 1987
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
+
+_Cité par_:
+
+  - Décret n°2005-596 du 27 mai 2005 - art. 1 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R5 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
 
 ###### Article R5
