@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-11
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -8,7 +8,7 @@ Version Consolidée au 1979-01-01
         - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L5)](#5)
         - [Chapitre II : Pensions définitives et pensions temporaires. (art. L7 à L8)](#6)
         - [Chapitre III : Taux des pensions. (art. L10 à L18)](#7)
-        - [Chapitre IV : Majorations pour enfants. (art. L20)](#8)
+        - [Chapitre IV : Majorations pour enfants. (art. L19 à L20)](#8)
         - [Chapitre V : Demandes de pension - Liquidation et concession. (art. L21 à L27)](#9)
         - [Chapitre VI : Révision pour aggravation. (art. L28 à L29)](#10)
       - [Titre II : Emoluments complémentaires. (art. L31 à L41)](#11)
@@ -1320,6 +1320,117 @@ _Nouveaux textes_:
 
 
 #### Chapitre IV : Majorations pour enfants.<a id=8></a>
+
+###### Article L19
+
+Des majorations de pensions égales au huitième de la pension au taux de soldat, telle quelle est fixée par application de
+l'article L. 9, sont accordées aux titulaires de pensions définitives ou temporaires d'un taux inférieur à 85 % par enfant
+légitime né ou à naître.
+
+Les mêmes majorations sont allouées pour chaque enfant naturel reconnu, sous les conditions fixées pour la reconnaissance à
+l'article L. 64.
+
+Elles sont également allouées aux enfants adoptés, sous réserve que l'acte d'adoption ait été passé à une époque où l'état de
+santé de l'adoptant ne pouvait laisser prévoir une issue fatale à brève échéance.
+
+Les majorations sont dues pour chaque enfant jusqu'à l'âge de dix-huit ans.
+
+Elles sont payables même après la mort du père, sous réserve de l'application des deux derniers alinéas de l'article L. 51 et
+des articles L. 54, L. 55 et L. 56.
+
+Les enfants atteints d'une infirmité incurable ne leur permettant pas de gagner un salaire dont le montant est fixé par
+décret conservent le bénéfice de ces majorations au-delà de dix-huit ans, sauf dans le cas où ils pourraient être
+hospitalisés aux frais de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 7 JORF 5 janvier 1954
+  - Loi n°55-356 1955-04-03 art. 6 II JORF 4 avril 1955
+  - Loi n°78-1239 du 29 décembre 1978 - art. 95 () JORF 30 décembre 1978
+  - Décret n°79-24 1979-01-09 art. 2 JORF 11 janvier 1979
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°86-1182 du 5 novembre 1986
+  - TXT_SOURCE: Décret n°86-1182 du 5 novembre 1986 - art. 1 (V)
+  - TXT_SOURCE: Décret n°88-182 du 18 février 1988
+  - TXT_SOURCE: Décret n°88-182 du 18 février 1988 - art. 1 (V)
+  - TXT_SOURCE: Décret n°88-689 du 6 mai 1988
+  - TXT_SOURCE: Décret n°88-689 du 6 mai 1988 - art. 1 (V)
+  - TXT_SOURCE: Décret n°91-456 du 14 mai 1991
+  - TXT_SOURCE: Décret n°91-456 du 14 mai 1991 - art. 1 (V)
+  - TXT_ASSOCIE: Décret n°92-99 du 24 janvier 1992
+  - TXT_ASSOCIE: Décret n°92-99 du 24 janvier 1992 - art. 1 (V)
+  - TXT_SOURCE: Décret n°94-11 du 5 janvier 1994
+  - TXT_SOURCE: Décret n°94-11 du 5 janvier 1994 - art. 1 (V)
+  - TXT_SOURCE: Décret n°95-194 du 20 février 1995
+  - TXT_SOURCE: Décret n°95-194 du 20 février 1995 - art. 1 (V)
+  - TXT_SOURCE: Décret n°96-172 du 5 mars 1996
+  - TXT_SOURCE: Décret n°96-172 du 5 mars 1996 - art. 1 (V)
+  - TXT_SOURCE: Décret n°96-1144 du 26 décembre 1996
+  - TXT_SOURCE: Décret n°96-1144 du 26 décembre 1996 - art. 1 (V)
+  - TXT_SOURCE: Décret n°98-73 du 4 février 1998
+  - TXT_SOURCE: Décret n°98-73 du 4 février 1998 - art. 1 (V)
+  - TXT_SOURCE: Décret n°99-48 du 22 janvier 1999
+  - TXT_SOURCE: Décret n°99-48 du 22 janvier 1999 - art. 1 (V)
+  - TXT_SOURCE: Décret n°89-245 du 13 avril 1989
+  - TXT_SOURCE: Décret n°89-245 du 13 avril 1989 - art. 1 (P)
+
+_Cité par_:
+
+  - Décret n°86-1182 du 5 novembre 1986 - art. 1 (V)
+  - Décret n°88-182 du 18 février 1988 - art. 1 (V)
+  - Décret n°88-689 du 6 mai 1988 - art. 1 (V)
+  - Décret n°91-456 du 14 mai 1991 - art. 1 (V)
+  - Décret n°92-99 du 24 janvier 1992 - art. 1 (V)
+  - Décret n°96-172 du 5 mars 1996 - art. 1 (V)
+  - Décret n°96-1144 du 26 décembre 1996 - art. 1 (V)
+  - Décret n°98-73 du 4 février 1998 - art. 1 (V)
+  - Décret n°99-48 du 22 janvier 1999 - art. 1 (V)
+  - Décret n°2000-1047 du 19 octobre 2000 - art. 1 (V)
+  - Décret n°2001-361 du 20 avril 2001 - art. 1 (V)
+  - Décret n°2008-1389 du 19 décembre 2008 (V)
+  - Décret n°2008-1389 du 19 décembre 2008 - art. 1 (V)
+  - Décret n°2009-1025 du 25 août 2009 - art. 1 (V)
+  - Décret n°2010-861 du 23 juillet 2010 - art. 1 (V)
+  - Décret n°2011-464 du 27 avril 2011 - art. 1 (V)
+  - Décret n°2012-535 du 20 avril 2012 - art. 1 (V)
+  - Décret n°2013-359 du 25 avril 2013 - art. 1 (V)
+  - Décret n°2014-343 du 14 mars 2014 (V)
+  - Décret n°2014-343 du 14 mars 2014 - art. 1 (V)
+  - Décret n°2015-428 du 15 avril 2015 - art. 1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A102 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. A86 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L12 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L145 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L147 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L20 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L218 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R190 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R37 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R41 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L46 (M)
+  - Décret n°89-245 du 13 avril 1989 - art. 1 (P)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L134-1 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L51 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L54 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L55 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L56 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L64 (M)
+  - Code des pensions militaires d'invalidité et des v - art. L9 (V)
+
 
 ###### Article L20
 
