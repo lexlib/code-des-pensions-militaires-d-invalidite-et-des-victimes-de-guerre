@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1958-11-06
+Version Consolidée au 1958-12-23
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -4001,6 +4001,29 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°59-328 1959-02-20 art. 7 JORF 25 février 1959
+
+
+###### Article L122
+
+Les contestations auxquelles donne lieu ce remboursement sont jugées en dernier ressort par le tribunal d'instance, si le
+montant des sommes réclamées par le pharmacien n'excède pas 225 euros. Si le montant des sommes réclamées excède cette
+limite, la décision du tribunal d'instance est susceptible d'appel devant la cour d'appel, tant de la part du créancier que
+du débiteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°55-356 1955-04-03 art. 11 III JORF 4 avril 1955
+  - Loi n°55-749 1955-06-02 art. 9 JORF 3 juin 1955
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L123
