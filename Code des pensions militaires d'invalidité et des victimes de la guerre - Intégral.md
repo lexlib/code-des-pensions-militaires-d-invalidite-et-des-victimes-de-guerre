@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-02-03
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -18932,6 +18932,55 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
 
 
+###### Article R58
+
+Le greffier doit aviser, conformément au deuxième alinéa de l'article L. 84, le commissaire du Gouvernement du dépôt de la
+requête qu'il adresse, après accomplissement de cette formalité, au président du tribunal des pensions.
+
+Communication de la requête est faite par ce magistrat au commissaire du Gouvernement.
+
+Les propositions du ministère compétent doivent être établies en trois exemplaires destinés, l'un à l'intéressé, les autres
+au commissaire du Gouvernement et au Président du tribunal des pensions.
+
+Dès leur réception, le greffier près le tribunal des pensions transmet au demandeur, par lettre recommandée, avec accusé de
+réception, le texte des propositions à lui destiné.
+
+Dans le délai de quinzaine à dater de la réception de cette notification, le demandeur doit faire connaître au greffier du
+tribunal des pensions, par lettre recommandée, s'il accepte ou non les propositions ministérielles.
+
+Dans le cas où le demandeur laisse expirer le délai de quinzaine sans répondre, il est réputé avoir refusé les propositions.
+
+La réponse est déposée au greffe du tribunal des pensions.
+
+En cas d'acceptation, le président du tribunal en donne acte par une ordonnance fixant à peine de nullité le chiffre de
+l'indemnité et le degré d'invalidité ayant servi de base à la pension allouée.
+
+En cas de non-acceptation et lorsqu'il est recouru à la conciliation, le greffier envoie les convocations nécessaires par
+lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°80-108 1980-01-28 art. 6 JORF 3 février 1980
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R194 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L84
+
+
 ###### Article R59
 
 La suspension de procédure prévue par le deuxième alinéa de l'article L. 83 s'oppose à tout règlement définitif du recours
@@ -18960,6 +19009,62 @@ _Abrogé par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R194 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R103 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+
+###### Article R60
+
+A l'audience de conciliation, le commissaire du Gouvernement donne lecture de tous les documents relatifs aux faits sur
+lesquels est fondé le refus de pension, notamment en ce qui concerne les présomptions relatives à l'origine des blessures,
+accidents ou maladies et à l'aggravation de ces dernières.
+
+Ces documents peuvent être communiqués sur place aux intéressés dans des conditions déterminées par le président.
+
+En cas de non-comparution lors de la tentative de conciliation, la communication sur place de ces documents est faite, si
+elle est demandée, soit à l'intéressé, soit aux personnes ayant qualité de le représenter.
+
+Si le président du tribunal estime, lors de la non-comparution du demandeur ou en cas de non-conciliation à la confrontation,
+qu'une expertise médicale est nécessaire, il doit désigner par voie d'ordonnance, pour y procéder, un médecin expert pris sur
+la liste dressée, conformément à l'article L. 87.
+
+Notification de cette ordonnance est faite, par les soins du greffier du tribunal des pensions, au médecin désigné ; en cas
+d'empêchement de ce dernier, il est pourvu à son remplacement par le magistrat présidant le tribunal des pensions.
+
+Dans le cas où la conciliation ne peut se faire, soit sur le résultat de cette expertise, soit sur le fonds, ou bien si le
+demandeur a renoncé à la tentative de conciliation, le greffier de la juridiction des pensions cite le demandeur devant le
+tribunal des pensions par lettre recommandée, avec accusé de réception, et ce à la date fixée par le président en observant
+au moins un délai de huit jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°80-108 1980-01-28 art. 7 JORF 3 février 1980
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R118 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R731-10 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R731-11 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R731-13 (VT)
 
 **Liens**:
 
