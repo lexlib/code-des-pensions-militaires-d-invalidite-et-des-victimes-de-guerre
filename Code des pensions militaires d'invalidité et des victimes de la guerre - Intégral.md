@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1961-12-22
+Version Consolidée au 1963-02-24
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -27,8 +27,8 @@ Version Consolidée au 1961-12-22
         - [Chapitre II : Voies de recours. (art. L79 à L104)](#24)
           - [Section 3 : Conseil d'Etat. (art. L95 à L103)](#25)
           - [Section 4 : Dispositions générales. (art. L104)](#26)
-      - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L106 à L114)](#27)
-        - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L106)](#28)
+      - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L105 à L114)](#27)
+        - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L105 à L106)](#28)
         - [Chapitre II : Suspension du droit à pension. (art. L107)](#29)
         - [Chapitre III : Prescriptions des arrérages. (art. L109)](#30)
         - [Chapitre IV : Payement des majorations pour enfants. (art. L110 à L111)](#31)
@@ -1087,6 +1087,92 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L13 (VT)
 
 
+###### Article L14
+
+Dans le cas d'infirmités multiples dont aucune n'entraîne l'invalidité absolue, le taux d'invalidité est considéré
+intégralement pour l'infirmité la plus grave et pour chacune des infirmités supplémentaires, proportionnellement à la
+validité restante.
+
+A cet effet, les infirmités sont classées par ordre décroissant de taux d'invalidité.
+
+Toutefois, quand l'infirmité principale est considérée comme entraînant une invalidité d'au moins 20 %, les degrés
+d'invalidité de chacune des infirmités supplémentaires sont élevés d'une, de deux ou de trois catégories, soit de 5, 10, 15
+%, et ainsi de suite, suivant qu'elles occupent les deuxième, troisième, quatrième rangs dans la série décroissante de leur
+gravité.
+
+Tous les calculs d'infirmités multiples prévus par le présent code, par les barèmes et textes d'application doivent être
+établis conformément aux dispositions de l'alinéa premier du présent article sauf dans les cas visés à l'article L. 15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°63-156 1963-02-23 art. 35 I, art. 35 II JORF 24 février 1963
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L125-8 (VD)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L15 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L16 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L17 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L34 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R34-1 (Ab)
+
+
+###### Article L15
+
+Par dérogation aux dispositions du quatrième alinéa de l'article L. 14, doivent s'ajouter arithmétiquement, au pourcentage
+d'invalidité des infirmités siégeant sur un membre, les troubles indemnisés sous forme de majoration au guide-barème visé par
+l'article L. 9.
+
+Lorsque les amputations d'un membre ne permettent aucunement le port d'un appareil de prothèse, elles ouvrent droit à une
+majoration de 5 % qui, de même, s'ajoute arithmétiquement au pourcentage d'invalidité correspondant à l'amputation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cité par_:
+
+  - Loi n°55-1074 du 6 août 1955 - art. 1 (Ab)
+  - Décret n°61-368 du 7 avril 1961 - art. 7 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
+  - Code de la défense. - art. L4123-4 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L17 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R162 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A93 (V)
+
+_Modifié par_:
+
+  - Loi n°63-156 1963-02-23 art. 35 II JORF 24 février 1963
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L125-9 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L14
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L9
+
+
 ###### Article L17
 
 Par dérogation aux dispositions des articles L. 14, L. 15 et L. 16, le taux d'invalidité des grands mutilés définis à
@@ -1618,6 +1704,76 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L31
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L32
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L33 bis
+
+Une allocation aux grands invalides, portant le n° 8, est attribuée, à compter du 1er janvier 1952, aux bénéficiaires de
+l'article L. 18, aveugles, paraplégiques, hémiplégiques, amputés ou impotents de deux membres, amputés des deux mains.
+
+Elle est attribuée également aux bénéficiaires de l'article L. 18 qui, bien que non atteints des infirmités ci-dessus
+désignées, totalisent une invalidité d'au moins 200 %, calculée par addition des divers taux d'invalidité afférents aux
+diverses infirmités dont ils sont atteints.
+
+Le taux de cette allocation est fixé à l'indice de pension 368 ; l'allocation se cumule avec les allocations aux grands
+invalides n° 5 bis, 6 et 7. Lorsqu'il s'agit de paraplégiques non bénéficiaires des allocations aux grands mutilés prévues
+aux articles L. 36 à L. 38 du code, le taux en est porté à l'indice 552 ; cette majoration ne se cumule pas avec l'allocation
+n° 7.
+
+Le montant de cette allocation est porté à l'indice 676 pour les aveugles, les amputés des deux membres supérieurs et les
+impotents des deux membres supérieurs ayant perdu au moins l'usage des deux mains, les amputés des deux membres inférieurs au
+niveau de la cuisse et les impotents totaux des deux membres inférieurs, les amputés d'un membre supérieur ayant perdu
+l'usage de l'autre main, les amputés d'un membre inférieur au niveau de la cuisse ayant totalement perdu l'usage de l'autre
+membre inférieur, lorsqu'ils sont bénéficiaires des allocations aux grands mutilés, prévues aux articles L. 38 et L. 38 bis,
+et à l'indice 800 si ces mêmes invalides ne bénéficient pas desdites allocations.
+
+Elle est portée à l'indice 476 pour les amputés de deux membres autres que ceux mentionnés ci-dessus, les impotents de deux
+membres ayant totalement perdu l'usage d'un membre inférieur et au moins l'usage d'une main, les amputés d'un membre
+supérieur ayant totalement perdu l'usage d'un membre inférieur, les amputés d'un membre inférieur ayant perdu au moins
+l'usage d'une main, les amputés d'un membre inférieur au-dessous du niveau de la cuisse ayant totalement perdu l'usage de
+l'autre membre inférieur lorsqu'ils sont bénéficiaires des allocations aux grands mutilés ; elle est portée à l'indice 600 si
+ces mêmes invalides ne bénéficient pas desdites allocations. Ces majorations de l'allocation ne se cumulent pas avec
+l'allocation n° 7.
+
+Les grands invalides qualifiés de paraplégiques ou d'hémiplégiques ayant droit au bénéfice des dispositions de l'article L.
+16 pour des troubles surajoutés siégeant hors des membres mais de même origine que l'atteinte motrice, pourront opter entre
+les émoluments résultant de l'application dudit article et l'une ou l'autre des majorations de l'allocation n° 8
+correspondant aux indices indiqués à l'alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 11 JORF 5 janvier 1954
+  - Loi n°60-1384 1960-12-23 art. 62 JORF 24 décembre 1960
+  - Loi n°63-156 1963-02-23 art. 33 JORF 24 février 1963
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L35 quater (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L35 ter (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R131-5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R131-6 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38 bis
 
 _Codifié par_:
 
@@ -2565,25 +2721,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-
-###### Article L52-1
-
-Abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°60-1384 1960-12-23 art. 61 JORF 24 décembre 1960
-
-_Abrogé par_:
-
-  - Loi n°63-156 1963-02-23 art. 31 II JORF 24 février 1963
 
 
 ###### Article L53
@@ -3782,6 +3919,48 @@ _Codifié par_:
 ### Titre VI : Dispositions diverses relatives au payement des pensions.<a id=27></a>
 
 #### Chapitre Ier : Incessibilité - Insaisissabilité.<a id=28></a>
+
+###### Article L105
+
+Les majorations de pensions définitives ou temporaires accordées aux enfants jusqu'à l'âge de dix-huit ans, l'indemnité de
+soins allouée aux pensionnés à 100 % pour tuberculose, l'indemnité de ménagement et l'indemnité de reclassement et de
+ménagement sont incessibles et insaisissables ainsi que l'allocation n° 5 bis allouée aux bénéficiaires de l'article L. 18.
+
+Les pensions attribuées au titre du présent code et leurs arrérages sont incessibles et insaisissables, excepté dans le cas
+de débet envers l'Etat, les services locaux des pays d'outre-mer ou pour les créanciers privilégiés aux termes de l'article
+2101 du code civil et dans les circonstances prévues par les articles 203, 205, 206, 207 et 214 du même code et sauf
+application des dispositions prévues par l'article 3 de la loi du 9 avril 1918.
+
+Les dispositions du précédent alinéa sont applicables à toutes les pensions prévues dans le présent code, aux pensions
+temporaires comme aux pensions définitives, ainsi qu'aux allocations aux grands invalides et à tous autres accessoires
+desdites pensions.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°63-156 1963-02-23 art. 37 JORF 24 février 1963
+
+_Cité par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L106 (VT)
+
+_Cite_:
+
+  - Code civil - art. 203 (V)
+  - Code civil - art. 205 (V)
+  - Code civil - art. 206 (V)
+  - Code civil - art. 207 (V)
+  - Code civil - art. 2101 (M)
+  - Code civil - art. 214 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
+  - Loi n°1918-04-09 art. 3
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L106
 
