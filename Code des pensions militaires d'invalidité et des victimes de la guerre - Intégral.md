@@ -1,11 +1,11 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1982-10-05
+Version Consolidée au 1982-12-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#3)
       - [Titre Ier : Droit à pension des invalides. (art. L2 à L30)](#4)
-        - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L5)](#5)
+        - [Chapitre Ier : Conditions du droit à pension. (art. L2 à L6)](#5)
         - [Chapitre II : Pensions définitives et pensions temporaires. (art. L7 à L8)](#6)
         - [Chapitre III : Taux des pensions. (art. L10 à L18)](#7)
         - [Chapitre IV : Majorations pour enfants. (art. L19 à L20)](#8)
@@ -856,6 +856,44 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et de... - art. L4 (VT)
+
+
+###### Article L6
+
+La pension prévue par le présent code est attribuée sur demande de l'intéressé après examen par une commission de réforme
+selon les modalités fixées par décret en Conseil d'Etat.
+
+L'entrée en jouissance est fixée à la date du dép<cb>t de la demande [*point de départ*].
+
+</cb>
+
+**Nota:**
+
+[*Nota - Loi 82-599 du 13 juillet 1982, article 31 : date d'entrée en vigueur différée*].
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°82-599 1982-07-13 art. 31
+
+_Modifié par_:
+
+  - Loi n°82-599 du 13 juillet 1982 - art. 25 () JORF 14 juillet 1982 en vigueur le 1er décembre 1982
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D37 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L28 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R14 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R27 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L8 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R14-1 (P)
+  - Code des pensions militaires d'invalidité et des v - art. R15 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 #### Chapitre II : Pensions définitives et pensions temporaires.<a id=6></a>
