@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1956-08-05
+Version Consolidée au 1956-08-26
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -42123,6 +42123,25 @@ _Codifié par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R280 (Ab)
+
+
+###### Article A159-2
+
+Abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Abrogé par_:
+
+  - Arrêté 1959-03-11 art. 2 JORF 13 mars 1959
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R260 (V)
 
 
 ###### Article A159-3
