@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1955-02-20
+Version Consolidée au 1955-04-04
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -105,9 +105,9 @@ Version Consolidée au 1955-02-20
           - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L273 à L277)](#102)
           - [Section 2 : Droits des déportés et internés résistants. (art. L278 à L284)](#103)
           - [Section 3 : Dispositions diverses. (art. L285)](#104)
-        - [Chapitre III : Statut des déportés et internés politiques (art. L287 à L295-1)](#105)
+        - [Chapitre III : Statut des déportés et internés politiques (art. L287 à L295-2)](#105)
           - [Section 1 : De la qualité de déporté et interné politique. (art. L287 à L294)](#106)
-          - [Section 2 : Droits des déportés et internés politiques. (art. L295-1)](#107)
+          - [Section 2 : Droits des déportés et internés politiques. (art. L295-1 à L295-2)](#107)
         - [Chapitre IV : Statut des réfractaires. (art. L297 à L306)](#108)
           - [Section 1 : De la qualité de réfractaire. (art. L300)](#109)
           - [Section 2 : Droits des réfractaires. (art. L301 à L304)](#110)
@@ -167,8 +167,8 @@ Version Consolidée au 1955-02-20
           - [Section 3 : Placement des pupilles. (art. L480 à L481)](#164)
           - [Section 4 : Avantages particuliers accordés aux pupilles de la nation. (art. L482 à L485)](#165)
         - [Chapitre III : Mesures d'application. (art. L486 à L487)](#166)
-    - [Livre IV : Etat civil et sépultures (art. L489 à L516)](#167)
-      - [Chapitre Ier : Mention "Mort pour la France". (art. L489 à L492 bis)](#168)
+    - [Livre IV : Etat civil et sépultures (art. L488 à L516)](#167)
+      - [Chapitre Ier : Mention "Mort pour la France". (art. L488 à L492 bis)](#168)
       - [Chapitre II : Transfert et restitution des corps. (art. L493 à L497)](#169)
       - [Chapitre III : Sépulture perpétuelle (art. L498 à L514)](#170)
         - [Section 1 : Droit à la sépulture perpétuelle. (art. L498)](#171)
@@ -656,6 +656,75 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L3
+
+Lorsqu'il n'est pas possible d'administrer ni la preuve que l'infirmité ou l'aggravation résulte d'une des causes prévues à
+l'article L. 2, ni la preuve contraire, la présomption d'imputabilité au service bénéficie à l'intéressé à condition :
+
+1° S'il s'agit de blessure, qu'elle ait été constatée avant le renvoi du militaire dans ses foyers ;
+
+2° S'il s'agit d'une maladie, qu'elle n'ait été constatée qu'après le quatre-vingt-dixième jour de service effectif et avant
+le trentième jour suivant le retour du militaire dans ses foyers [*délai*] ;
+
+3° En tout état de cause, que soit établie, médicalement, la filiation entre la blessure ou la maladie ayant fait l'objet de
+la constatation et l'infirmité invoquée.
+
+En cas d'interruption de service d'une durée supérieure à quatre-vingt-dix jours, la présomption ne joue qu'après le quatre-
+vingt-dixième jour suivant la reprise du service actif.
+
+La présomption définie au présent article s'applique exclusivement aux constatations faites, soit pendant le service accompli
+au cours de la guerre 1939-1945, soit au cours d'une expédition déclarée campagne de guerre, soit pendant le service accompli
+par les militaires pendant la durée légale, compte tenu des délais prévus aux précédents alinéas.
+
+Toutefois, la présomption bénéficie aux prisonniers de guerre et internés à l'étranger, à condition que leurs blessures ou
+maladies aient été régulièrement constatées :
+
+Soit dans les six mois suivant leur arrivée, s'il s'agit de prisonniers rentrés en France avant le 1er mars 1945, date de
+mise en application de l'ordonnance n° 45-802 du 20 avril 1945, instituant le contrôle médical des prisonniers, travailleurs
+et déportés ;
+
+Soit, au plus tard, lors de la deuxième visite médicale prévue par l'ordonnance n° 45-802 du 20 avril 1945, sans que ce délai
+puisse excéder sept mois après le retour en France, s'il s'agit de prisonniers rapatriés après le 28 février 1945.
+
+L'expiration du délai est reportée au 30 juin 1946 dans tous les cas où l'application des dispositions de l'alinéa précédent
+conduirait à la fixer à une date antérieure.
+
+Un dossier médical doit être constitué pour chaque recrue lors de son examen par le conseil de révision et lors de son
+incorporation dans les conditions déterminées par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Ordonnance 45-802 1945-04-20
+  - Code des pensions militaires d'invalidité et des v - art. L2 (M)
+
+_Cité par_:
+
+  - Décret n°54-1304 du 27 décembre 1954 - art. 5 (VT)
+  - Loi n°55-1074 du 6 août 1955 - art. 1 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
+  - Code de la défense. - art. L4123-4 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L145 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L179 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L213 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L244 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R214 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R382 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R383 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D245 (V)
+  - Code du service national - art. L72 (V)
+  - Code du service national - art. R*184 (M)
+
+_Modifié par_:
+
+  - Loi n°55-356 1955-04-03 art. 13 JORF 4 avril 1955
+
+
 ###### Article L4
 
 Les pensions sont établies d'après le degré d'invalidité.
@@ -976,6 +1045,35 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. L125-7 (VD)
+
+
+###### Article L13 bis
+
+Les victimes civiles de la guerre et les invalides militaires "hors guerre" bénéficient, comme les victimes militaires de
+guerre, du barème le plus avantageux prévu par les articles L. 12 et L. 13 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Créé par_:
+
+  - Loi n°53-1340 1953-12-31 art. 4 JORF 5 janvier 1954
+
+_Modifié par_:
+
+  - Loi n°55-356 1955-04-03 art. 14 JORF 4 avril 1955
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L12 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L13 (VT)
 
 
 ###### Article L17
@@ -1759,6 +1857,361 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L17 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L30 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L36 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L38
+
+Il attribue aux grands mutilés de guerre définis par l'article L. 36 et aux grands invalides définis par l'article L. 37 des
+allocations en sus de la pension et des majorations et allocations qu'ils perçoivent en vertu des dispositions du titre
+premier et du chapitre premier du présent titre, à l'exclusion des allocations 4 bis et 7 prévues aux articles L. 33 et L.
+34, et de l'indemnité temporaire prévue à l'article L. 41.
+
+Ces allocations ne se cumulent pas entre elles.
+
+Le montant en est fixé par référence à la nature de l'infirmité ou au degré d'invalidité. Les intéressés bénéficient, dans
+chaque cas particulier, du système le plus favorable.
+
+Le taux de ces allocations est fixé comme suit :
+
+NUMERO 1
+
+DIAGNOSTIC OU POURCENTAGE : Désarticulation tibio-tarsienne
+
+INDICE (Art. L. 8 bis) : 80,3
+
+NUMERO 2
+
+DIAGNOSTIC OU POURCENTAGE : Amputation de la jambe (1)
+
+INDICE (Art. L. 8 bis) : 150,2
+
+NUMERO 3
+
+DIAGNOSTIC OU POURCENTAGE : Désarticulation du genou
+
+INDICE (Art. L. 8 bis) : 405,2
+
+NUMERO 4
+
+DIAGNOSTIC OU POURCENTAGE : Amputation de la cuisse
+
+INDICE (Art. L. 8 bis) : 566,5
+
+NUMERO 5
+
+DIAGNOSTIC OU POURCENTAGE : Amputation sous-trochantérienne
+
+INDICE (Art. L. 8 bis) : 641,1
+
+NUMERO 6
+
+DIAGNOSTIC OU POURCENTAGE : Désarticulation de la hanche
+
+INDICE (Art. L. 8 bis) : 801,6
+
+NUMERO 7
+
+DIAGNOSTIC OU POURCENTAGE : Désarticulation du poignet
+
+INDICE (Art. L. 8 bis) : 160,5
+
+NUMERO 8
+
+DIAGNOSTIC OU POURCENTAGE : Amputation de l'avant-bras (1)
+
+INDICE (Art. L. 8 bis) : 230,4
+
+NUMERO 9
+
+DIAGNOSTIC OU POURCENTAGE : Désarticulation du coude
+
+INDICE (Art. L. 8 bis) : 405,2
+
+NUMERO 10
+
+DIAGNOSTIC OU POURCENTAGE : Amputation du bras
+
+INDICE (Art. L. 8 bis) : 556,5
+
+NUMERO 11
+
+DIAGNOSTIC OU POURCENTAGE : Amputation sous-tubérositaire
+
+INDICE (Art. L. 8 bis) : 641,1
+
+NUMERO 12
+
+DIAGNOSTIC OU POURCENTAGE : Désarticulation de l'épaule
+
+INDICE (Art. L. 8 bis) : 801,6
+
+NUMERO 13
+
+DIAGNOSTIC OU POURCENTAGE : Blessés crâniens avec crise suivant la nature et la fréquence des crises
+
+INDICE (Art. L. 8 bis) : 200,4
+
+NUMERO 14
+
+DIAGNOSTIC OU POURCENTAGE : Blessés crâniens avec crise suivant la nature et la fréquence des crises
+
+INDICE (Art. L. 8 bis) : 400,8
+
+NUMERO 15
+
+DIAGNOSTIC OU POURCENTAGE : Blessés crâniens avec crise suivant la nature et la fréquence des crises
+
+INDICE (Art. L. 8 bis) : 601,2
+
+NUMERO 16
+
+DIAGNOSTIC OU POURCENTAGE : Blessés crâniens avec crise suivant la nature et la fréquence des crises
+
+INDICE (Art. L. 8 bis) : 801,6
+
+NUMERO 17
+
+DIAGNOSTIC OU POURCENTAGE : 85 %
+
+INDICE (Art. L. 8 bis) : 200
+
+NUMERO 18
+
+DIAGNOSTIC OU POURCENTAGE : 90 %
+
+INDICE (Art. L. 8 bis) : 300
+
+NUMERO 19
+
+DIAGNOSTIC OU POURCENTAGE : 95 %
+
+INDICE (Art. L. 8 bis) : 400
+
+NUMERO 20
+
+DIAGNOSTIC OU POURCENTAGE : 100 %
+
+INDICE (Art. L. 8 bis) : 500
+
+NUMERO 21
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 1 degré
+
+INDICE (Art. L. 8 bis) : 211
+
+NUMERO 22
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 2 degrés
+
+INDICE (Art. L. 8 bis) : 233
+
+NUMERO 23
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 3 degrés
+
+INDICE (Art. L. 8 bis) : 255
+
+NUMERO 24
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 4 degrés
+
+INDICE (Art. L. 8 bis) : 277
+
+NUMERO 25
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 5 degrés
+
+INDICE (Art. L. 8 bis) : 300
+
+NUMERO 26
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 6 degrés
+
+INDICE (Art. L. 8 bis) : 321
+
+NUMERO 27
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 7 degrés
+
+INDICE (Art. L. 8 bis) : 343
+
+NUMERO 28
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 8 degrés
+
+INDICE (Art. L. 8 bis) : 365
+
+NUMERO 29
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 9 degrés
+
+INDICE (Art. L. 8 bis) : 387
+
+NUMERO 30
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 16, 10 degrés
+
+INDICE (Art. L. 8 bis) : 409
+
+DIAGNOSTIC OU POURCENTAGE : - par degrés en plus (article L. 38 bis)
+
+INDICE (Art. L. 8 bis) : 22 en sus
+
+NUMERO 31
+
+DIAGNOSTIC OU POURCENTAGE : 100 % article L. 18
+
+INDICE (Art. L. 8 bis) : 351
+
+NUMERO 32
+
+DIAGNOSTIC OU POURCENTAGE : Aveugles
+
+INDICE (Art. L. 8 bis) : 982
+
+NUMERO 33
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 1 degré
+
+INDICE (Art. L. 8 bis) : 381
+
+NUMERO 34
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 2 degrés
+
+INDICE (Art. L. 8 bis) : 391
+
+NUMERO 35
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 3 degrés
+
+INDICE (Art. L. 8 bis) : 401
+
+NUMERO 36
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 4 degrés
+
+INDICE (Art. L. 8 bis) : 411
+
+NUMERO 37
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 5 degrés
+
+INDICE (Art. L. 8 bis) : 421
+
+NUMERO 38
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 6 degrés
+
+INDICE (Art. L. 8 bis) : 431
+
+NUMERO 39
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 7 degrés
+
+INDICE (Art. L. 8 bis) : 441
+
+NUMERO 40
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 8 degrés
+
+INDICE (Art. L. 8 bis) : 451
+
+NUMERO 41
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 9 degrés
+
+INDICE (Art. L. 8 bis) : 461
+
+NUMERO 42
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + article L. 18 + art. L. 16, 10 degrés
+
+INDICE (Art. L. 8 bis) : 471
+
+DIAGNOSTIC OU POURCENTAGE : - par degrés en plus (article L. 38 bis)
+
+INDICE (Art. L. 8 bis) : 10 en sus
+
+NUMERO 43
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + double article L. 18 + art. L. 16, 9 degrés
+
+INDICE (Art. L. 8 bis) : 601
+
+NUMERO 44
+
+DIAGNOSTIC OU POURCENTAGE : 100 % + double article L. 18 + art. L. 16, 10 degrés
+
+INDICE (Art. L. 8 bis) : 601
+
+DIAGNOSTIC OU POURCENTAGE : - par degrés en plus (article L. 38 bis)
+
+INDICE (Art. L. 8 bis) : 10 en sus
+
+Les amputés d'un membre inférieur, quel que soit le niveau de l'amputation, et les impotents d'un membre inférieur
+bénéficiant à ce titre d'un taux d'invalidité à 100 %, qui sont dans l'obligation permanente médicalement constatée d'avoir
+recours à l'usage de béquilles ou de cannes de Schlitz pour se déplacer, reçoivent, lorsque toute possibilité de réadaptation
+fonctionnelle est exclue, l'allocation de grand mutilé afférente à la désarticulation de la hanche.
+
+(1) En vertu de l'article 97 de la loi de finances n° 56-780 du 4 août 1956, cette allocation est majorée d'office de 85
+points avec effet du 1er octobre 1956, lorsque l'articulation susjacente au moignon d'amputation est ankylosée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 14 I JORF 5 janvier 1954
+  - Loi n°55-356 1955-04-03 art. 15 JORF 4 avril 1955
+
+_Cité par_:
+
+  - Loi n°56-780 du 4 août 1956 - art. 97 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D242 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D4 bis (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L178 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L189 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L203 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L217 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L247 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L33 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L35 quater (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L35 ter (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L38 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L9 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R162 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R163 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R164 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R197 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R32 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R34-1 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R34-3 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R35 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R34-2 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L132-3 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R132-1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R132-2 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L33 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L34 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L37 (VT)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L41
 
 _Codifié par_:
 
@@ -8078,6 +8531,34 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L295-2
+
+En ce qui concerne les internés et déportés politiques, le temps passé en détention, internement ou déportation, dans les
+conditions prévues aux articles L. 286 à L. 289, est pris en considération dans le calcul de l'ancienneté de service exigée
+pour la retraite, ainsi que pour l'avancement lorsqu'il n'en a pas été tenu compte au titre d'autres dispositions.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°55-356 1955-04-03 art. 20 JORF 4 avril 1955
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L288 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L289 (VT)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L286
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L287
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
 #### Chapitre IV : Statut des réfractaires.<a id=108></a>
 
 ###### Article L297
@@ -12924,6 +13405,80 @@ _Codifié par_:
 ## Livre IV : Etat civil et sépultures<a id=167></a>
 
 ### Chapitre Ier : Mention "Mort pour la France".<a id=168></a>
+
+###### Article L488
+
+Doit, sur avis favorable de l'autorité visée ci-dessous, porter la mention "Mort pour la France" tout acte de décès :
+
+1° D'un militaire des armées de terre, de mer ou de l'air tué à l'ennemi ou mort de blessures de guerre ;
+
+2° D'un militaire mort de maladie contractée en service commandé en temps de guerre ;
+
+3° D'un militaire mort d'accident survenu en service, ou à l'occasion du service en temps de guerre ;
+
+4° D'un marin du commerce, victime d'événements de guerre ;
+
+5° De tout médecin, ministre du culte, infirmier ou infirmière des hôpitaux militaires et des formations sanitaires, ainsi
+que de toute personne ayant succombé à des maladies contractées au cours de soins donnés aux malades et blessés de l'armée en
+temps de guerre ;
+
+6° De toute personne décédée en combattant pour la libération de la France ou en accomplissant des actes de résistance ;
+
+7° De toute personne exécutée à la suite d'une condamnation résultant de mesures d'exception prises par l'autorité de fait se
+disant gouvernement de l'Etat français, notamment par application des actes dits lois des 24 avril 1941, 7 septembre 1941, 7
+août 1942, 8 septembre 1942, 5 juin 1943 et 20 janvier 1944, en raison de leur attitude pour la cause de la libération ;
+
+8° De tout otage, tout prisonnier de guerre, toute personne requise par l'ennemi, tout déporté, exécutés par l'ennemi ou
+décédés en pays ennemi ou occupé par l'ennemi des suites de blessures, de mauvais traitements, de maladies contractées ou
+aggravées ou d'accidents du travail survenus du fait de leur captivité ou de leur déportation ;
+
+9° De toute personne décédée à la suite d'actes de violence constituant une suite directe de faits de guerre ;
+
+10° De tout militaire décédé dans les conditions visées aux 1er, 2e et 3e alinéas après avoir été incorporé de force ou après
+s'être engagé sous l'empire de la contrainte ou la menace de représailles dans les armées ennemies ;
+
+11° De tout réfractaire décédé des suites d'accident, maladie ou blessure consécutifs à sa position hors la loi et pour le
+service du pays.
+
+L'autorité compétente pour donner l'avis favorable susvisé est, suivant le cas :
+
+Le ministre des anciens combattants et victimes de guerre ;
+
+Le ministre chargé de la marine marchande ;
+
+Le ministre d'Etat chargé de la défense nationale ;
+
+12° De tout membre des forces armées françaises, de la gendarmerie, de la garde mobile, des compagnies républicaines de
+sécurité, du service d'ordre, ou des éléments, engagés ou requis, tombé en service commandé à l'occasion des mesures de
+maintien de l'ordre sur les territoires de l'ancienne Union française situés hors de la métropole et dans les Etats
+anciennement protégés par la France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cité par_:
+
+  - Loi n°2012-273 du 28 février 2012 - art. 2 (VT)
+  - Décret n°2014-1283 du 23 octobre 2014 - art. (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L302 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R572-2 (Ab)
+
+_Cite_:
+
+  - Loi n°1941-04-24
+  - Loi n°1941-09-07
+  - Loi n°1942-08-07
+  - Loi n°1942-09-08
+  - Loi n°1943-06-05
+  - Loi n°1944-01-20
+
+_Modifié par_:
+
+  - Loi n°55-356 1955-04-03 art. 21 JORF 4 avril 1955
+
 
 ###### Article L489
 
