@@ -23,7 +23,7 @@ périodes à prendre en considération pour les différents théâtres d'opérat
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
 Une durée des services en Algérie d'au moins douze mois est reconnue équivalente à la participation aux actions de feu et de
-combat exigée au deuxième alinéa ci-dessus.
+combat exigée au deuxième alinéa ci-dessus.  Pour les militaires rappelés en Algérie, cette durée est fixée à quatre mois.
 
 **Liens relatifs à cet article**
 
@@ -44,7 +44,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 120 () JORF 31 décembre 1999
+  - Loi - art. 105 () JORF 31 décembre 2000
 
 _Nouveaux textes_:
 
