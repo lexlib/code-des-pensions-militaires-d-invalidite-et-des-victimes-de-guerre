@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1958-12-31
+Version Consolidée au 1959-01-10
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -447,9 +447,9 @@ Version Consolidée au 1958-12-31
           - [Section 2 : Attributions. (art. D432)](#444)
           - [Section 3 : Composition. (art. D435 à D439)](#445)
           - [Section 4 : Organisation. (art. D442)](#446)
-          - [Section 5 : Fonctionnement. (art. D444 à D446)](#447)
-          - [Section 6 : Régime financier. (art. D448 à D471)](#448)
-            - [Paragraphe 1 : Dispositions générales. (art. D448 à D457)](#449)
+          - [Section 5 : Fonctionnement. (art. D443 à D446)](#447)
+          - [Section 6 : Régime financier. (art. D447 à D471)](#448)
+            - [Paragraphe 1 : Dispositions générales. (art. D447 à D457)](#449)
             - [Paragraphe 2 : Des recettes et des dépenses. (art. D458 à D463)](#450)
             - [Paragraphe 3 : Du budget et des crédits. (art. D464 à D467)](#451)
             - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D468)](#452)
@@ -35740,6 +35740,32 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
+###### Article D436
+
+Deux commissions spécialisées fonctionnent auprès de l'office national :
+
+- la commission de la carte du combattant ;
+
+- le comité du souvenir et des manifestations nationales.
+
+Leur composition est fixée par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-1166 1955-08-29 art. 1 JORF 3 septembre 1955
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D435 (M)
+
+
 ###### Article D437
 
 Ne peuvent faire partie du conseil d'administration de l'office national :
@@ -35881,6 +35907,34 @@ _Codifié par_:
 
 ##### Section 5 : Fonctionnement.<a id=447></a>
 
+###### Article D443
+
+Le directeur général de l'office national est nommé par décret sur proposition du ministre des anciens combattants et
+victimes de guerre.
+
+Il est chargé d'assurer le fonctionnement des services et représente l'office en justice et dans tous les actes de la vie
+civile.
+
+Il a sous ses ordres le personnel de l'office national et des services extérieurs relevant dudit office.
+
+En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions prévues par le décret n° 53-1227 du 10 décembre
+1953, relatif à la réglementation comptable des établissements publics nationaux à caractère administratif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cite_:
+
+  - Décret n°53-1227 1953-12-10
+
+_Modifié par_:
+
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+
+
 ###### Article D444
 
 Le directeur général peut, sans intervention préalable de la commission permanente :
@@ -35944,6 +35998,30 @@ _Codifié par_:
 ##### Section 6 : Régime financier.<a id=448></a>
 
 ##### Paragraphe 1 : Dispositions générales.<a id=449></a>
+
+###### Article D447
+
+Les opérations relatives à la gestion financière de l'office national des anciens combattants et victimes de guerre sont
+effectuées conformément aux règles édictées par le décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation
+comptable des établissements publics nationaux à caractère administratif, rendue applicable à l'office national des anciens
+combattants et victimes de guerre par un arrêté du 6 janvier 1956 du ministre des anciens combattants et victimes de guerre
+et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1956-01-06
+  - Décret n°53-1227 1953-12-10
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+
 
 ###### Article D448
 
@@ -36150,6 +36228,37 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D456
+
+L'agent comptable central est nommé et, le cas échéant, remplacé ou révoqué par un arrêté contresigné du ministre des anciens
+combattants et victimes de guerre et du ministre de l'économie et des finances.
+
+Il est soumis aux vérifications du payeur-général du Trésor à Paris, de l'inspection générale des finances et il est
+justiciable de la Cour des comptes.
+
+Avant son installation, il prête serment devant la Cour des comptes et fournit en garantie de sa gestion un cautionnement
+dont le montant est fixé par arrêté du ministre des anciens combattants et victimes de guerre et du ministre de l'économie et
+des finances. Ce cautionnement peut être réalisé soit en numéraire, soit en rentes sur l'Etat, soit par affiliation à une
+association française de cautionnement mutuel.
+
+Dans le cas de décès, de démission, de remplacement ou de révocation de l'agent comptable, le ministre des anciens
+combattants et victimes de guerre, après avis du ministre des finances, nomme un gérant intérimaire qui en remplit les
+fonctions jusqu'au jour de l'installation du nouvel agent comptable. La gestion du gérant intérimaire est entièrement
+distincte de celle de l'ancien et du nouveau titulaire.
+
+Les fonctions d'administrateur et d'ordonnateur sont incompatibles avec celles de comptable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
 
 
 ###### Article D457
@@ -36558,6 +36667,37 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D472-1 et D472-2
+
+Il est institué dans chaque département un service départemental de l'office national des anciens combattants et victimes de
+guerre, placé sous l'autorité du préfet.
+
+Les dépenses et les recettes des services départementaux sont exécutées par le directeur général de l'Office national et par
+l'agent comptable central.
+
+Toutefois, certaines opérations de recettes et de dépenses dont la liste est fixée par arrêté du ministre des finances et des
+affaires économiques et du ministre des anciens combattants et victimes de guerre peuvent être exécutées par le préfet qui a
+qualité d'ordonnateur secondaire et par un comptable subordonné à l'agent comptable central. Le préfet peut déléguer ces
+fonctions au chef du service départemental.
+
+En outre, dans les services départementaux où il n'est pas institué de comptables subordonnés, le chef du service peut être
+chargé, en qualité de régisseur, d'exécuter certaines opérations de recettes et de dépenses dont la liste est fixée par
+arrêté du ministre de l'économie et des finances et du ministre des anciens combattants et victimes de guerre.
+
+Les comptables subordonnés visés au deuxième alinéa ci-dessus sont choisis parmi les fonctionnaires du Trésor en fonction
+dans le département. Ce choix doit être ratifié par le directeur de l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
 
 
 ###### Article D472-3
