@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-06-18
+Version Consolidée au 1954-07-04
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -480,8 +480,8 @@ Version Consolidée au 1954-06-18
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A3-1 à A84)](#477)
       - [Titre Ier : Droits à pension des invalides. (art. A3-1 à A3-3)](#478)
         - [Chapitre V : Demande de pension - Liquidation et concession. (art. A3-1 à A3-3)](#479)
-      - [Titre V : Révision et voies de recours. (art. A4 à A10)](#480)
-        - [Chapitre II : Voies de recours. (art. A4 à A10)](#481)
+      - [Titre V : Révision et voies de recours. (art. A4 à A11)](#480)
+        - [Chapitre II : Voies de recours. (art. A4 à A11)](#481)
       - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A14 à A84)](#482)
         - [Chapitre Ier : Soins gratuits. (art. A14 à A42 à A47)](#483)
           - [Section 2 : Règlement des soins aux parties prenantes. (art. A14)](#484)
@@ -37230,6 +37230,33 @@ _Codifié par_:
 _Abrogé par_:
 
   - Arrêté du 3 décembre 2018 - art. 40 (V)
+
+
+###### Article A11
+
+Dans la limite des crédits budgétaires ouverts à cet effet, il peut être alloué aux magistrats honoraires siégeant comme
+membres de la cour régionale des pensions de Paris, pour l'ensemble des actes constituant la vacation prévue par l'article L.
+92 (étude des dossiers, assistance aux débats et rédaction des arrêtés), une indemnité forfaitaire de 2,29 euros pour les
+magistrats appelés à présider les audiences et de 1,83 euros pour les assesseurs, sans que le montant maximum annuel de ces
+allocations puisse excéder respectivement 91,47 euros pour les premiers et 73,18 euros pour les seconds.
+
+Cette indemnité est payée sur simple taxe du président de la cour régionale des pensions de Paris, dans les conditions
+prévues par l'article 2 du décret du 14 juillet 1920 et complété par le décret du 12 juillet 1921.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Abrogé par_:
+
+  - Arrêté du 3 décembre 2018 - art. 40 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Décret n°1921-07-12
 
 
 ### Titre VII : Soins, traitement, rééducation, sécurité sociale.<a id=482></a>
