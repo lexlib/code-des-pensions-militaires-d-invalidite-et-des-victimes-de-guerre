@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1973-01-20
+Version Consolidée au 1973-06-29
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -537,7 +537,7 @@ Version Consolidée au 1973-01-20
         - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. A158 à A159-3)](#534)
         - [Chapitre II : Statut des déportés et internés de la Résistance. (art. A160 à A164)](#535)
         - [Chapitre III : Statut des déportés et internés politiques. (art. A165-1 à A165-3)](#536)
-        - [Chapitre IV : Statut des réfractaires. (art. A167)](#537)
+        - [Chapitre IV : Statut des réfractaires. (art. A166 à A167)](#537)
       - [Titre III : Droits et avantages accessoires. (art. A169 à A190-4)](#538)
         - [Chapitre Ier : Droits attachés à la qualité de pensionné. (art. A169 à A172-1)](#539)
           - [Section 1 : Réduction sur les chemins de fer. (art. A169)](#540)
@@ -47533,6 +47533,42 @@ _Cite_:
 
 
 #### Chapitre IV : Statut des réfractaires.<a id=537></a>
+
+###### Article A166
+
+Les organisations allemandes ci-dessous énumérées sont considérées comme formations paramilitaires pour l'application de
+l'article R. 353 :
+
+Le Reichsarbeitsdienst, RAD (service obligatoire du travail) et ses organismes annexes ;
+
+Luftwaffenhelfer et Luftwaffenhelferinnen ;
+
+Flakhelfer et Flakhelferinnen ;
+
+Wehrmachtshelferinnen ;
+
+Marinelferinnen ;
+
+Nachrichtenhelferinnen ;
+
+Le Volkssturm (milice territoriale) ;
+
+La Sicherheits et Hilfsdienst, SHD (service auxiliaire de sécurité) et la Luftschutzpolizei, LSP ;
+
+La Polizeireserve (police auxiliaire) ou Hilfspolizei.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Cité par_:
+
+  - Arrêté du 3 décembre 2018 - art. 41 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R287 ter (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R353 (Ab)
+
 
 ###### Article A167
 
