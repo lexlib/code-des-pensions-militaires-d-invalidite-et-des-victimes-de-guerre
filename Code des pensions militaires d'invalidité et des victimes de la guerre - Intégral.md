@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-02-03
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -549,11 +549,11 @@ Version Consolidée au 1993-01-05
           - [Section 1 : Payement de la retraite du combattant. (art. A144 à A153)](#546)
           - [Section 2 : Algérie et pays d'outre-mer. (art. A154)](#547)
           - [Section 3 : Dispositions diverses. (art. A155 à A157)](#548)
-      - [Titre II : Statut des résistants, déportés, internés et réfractaires. (art. A158 à A167)](#549)
+      - [Titre II : Statut des résistants, déportés, internés et réfractaires. (art. A158 à A168)](#549)
         - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. A158 à A159-3)](#550)
         - [Chapitre II : Statut des déportés et internés de la Résistance. (art. A160 à A164)](#551)
         - [Chapitre III : Statut des déportés et internés politiques. (art. A165-1 à A165-3)](#552)
-        - [Chapitre IV : Statut des réfractaires. (art. A166 à A167)](#553)
+        - [Chapitre IV : Statut des réfractaires. (art. A166 à A168)](#553)
       - [Titre III : Droits et avantages accessoires. (art. A169 à A190-4)](#554)
         - [Chapitre Ier : Droits attachés à la qualité de pensionné. (art. A169 à A172-1)](#555)
           - [Section 1 : Réduction sur les chemins de fer. (art. A169)](#556)
@@ -52989,12 +52989,20 @@ _Cite_:
 ###### Article A142
 
 Le modèle de la carte est conforme au type annexé au présent chapitre pour les cartes attribuées à partir du 1er août 1933.
+La carte du combattant comporte, au recto, la photographie du titulaire, l'indication de son état civil et de son domicile.
+Elle mentionne également la date à laquelle elle a été établie et le lieu de délivrance.
+
+Cette carte est imprimée sur papier cartonné de couleur chamois.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1993-01-05 art. 1 JORF 3 février 1993
 
 _Cité par_:
 
@@ -53387,7 +53395,9 @@ _Cite_:
 
 ###### Article A158
 
-La carte du combattant volontaire de la Résistance est établie conformément au modèle n° 1 annexé au présent titre.
+La carte du combattant volontaire de la Résistance est établie conformément au modèle n° 1 annexé au présent titre. Elle
+comporte, au recto, la photographie du titulaire, l'indication de son état civil et de son domicile. Elle mentionne également
+la date à laquelle elle a été établie et le lieu de délivrance.
 
 Elle est imprimée sur papier cartonné de couleur vert clair.
 
@@ -53396,6 +53406,10 @@ Elle est imprimée sur papier cartonné de couleur vert clair.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1993-01-05 art. 1 JORF 3 février 1993
 
 _Cité par_:
 
@@ -53406,14 +53420,20 @@ _Cité par_:
 
 ###### Article A159-1
 
-En cas de décès ou de disparition de la personne à qui la qualité de combattant volontaire de la Résistance a été reconnue,
-la carte délivrée à l'ayant cause est établie conformément au modèle n° 2 annexé au présent titre.
+Lorsque la carte de combattant volontaire de la Résistance est établie au nom d'une personne décédée ou disparue, la
+photographie du titulaire n'y est pas apposée.
+
+Mention est faite, au verso, des nom, prénoms, degré de parenté et adresse de l'ayant cause auquel la carte est délivrée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1993-01-05 art. 3 JORF 3 février 1993
 
 _Cité par_:
 
@@ -53684,6 +53704,35 @@ _Codifié par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R353 (Ab)
+
+
+###### Article A168
+
+La carte de réfractaire est établie conformément au modèle annexé au présent chapitre.
+
+Elle comporte, au recto, la photographie du titulaire, l'indication de son état civil et de son domicile. Elle mentionne
+également la date à laquelle elle a été établie et le lieu de délivrance.
+
+Elle comporte, au verso, l'indication de la durée pendant laquelle le titulaire a été réfractaire.
+
+Lorsque cette carte est établie au nom d'une personne décédée ou disparue, la photographie du titulaire n'y est pas apposée.
+Mention est faite, au verso, des nom, prénoms, degré de parenté et adresse de l'ayant cause auquel la carte est délivrée.
+
+La carte de réfractaire est imprimée sur papier cartonné de couleur grise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Créé par_:
+
+  - Arrêté 1993-01-05 art. 1 JORF 3 février 1993
+
+_Cité par_:
+
+  - Arrêté du 5 janvier 1993 - art. 2 (V)
 
 
 ### Titre III : Droits et avantages accessoires.<a id=554></a>
