@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-04-02
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -479,7 +479,7 @@ Version Consolidée au 1988-03-02
         - [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux. (art. D472 à D525)](#476)
           - [Section 1 : Caractère juridique. (art. D472 à D474)](#477)
           - [Section 2 : Attributions. (art. D475)](#478)
-          - [Section 3 : Composition. (art. D477 à D484)](#479)
+          - [Section 3 : Composition. (art. D476 à D484)](#479)
           - [Section 4 : Organisation et administration. (art. D485 à D494)](#480)
             - [Paragraphe 1 : Conseil d'administration. (art. D485 à D488)](#481)
             - [Paragraphe 2 : Commission permanente et sous-commissions. (art. D489 à D492)](#482)
@@ -43849,6 +43849,147 @@ _Modifié par_:
   - Décret n°72-1091 1972-11-30 art. 1 JORF 9 décembre 1972
 
 
+###### Article D434
+
+Présidé par le secrétaire d'Etat aux anciens combattants ou son représentant, le conseil d'administration comprend soixante-
+cinq membres.
+
+Sont nommés pour quatre ans, par le secrétaire d'Etat aux anciens combattants, dans les conditions ci-après :
+
+1° Dix-huit membres proposés par les assemblées, administrations ou organisations dont ils relèvent :
+
+Un membre de l'Assemblée nationale ;
+
+Un membre du Sénat ;
+
+Un membre du Conseil économique et social ;
+
+Un membre du Conseil d'Etat ;
+
+Un membre de la Cour des comptes ;
+
+Un représentant du garde des sceaux ministre de la justice ;
+
+Un représentant du ministre de la défense ;
+
+Un représentant du ministre des affaires étrangères ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ministre chargé du budget ;
+
+Un représentant du ministre de l'éducation nationale ;
+
+Un représentant du ministre chargé des affaires sociales ;
+
+Un représentant du ministre chargé des départements et territoires d'outre-mer ;
+
+Un représentant du ministre chargé de l'emploi ;
+
+Un représentant du ministre chargé de la santé et de la famille ;
+
+Un représentant du ministre chargé des personnes âgées ;
+
+Un représentant du ministre chargé de la formation professionnelle ;
+
+Un représentant du ministre chargé des anciens combattants.
+
+2° Dix membres, ressortissants de l'office national, choisis par le secrétaire d'Etat aux anciens combattants titulaires ;
+
+un de la Légion d'honneur ;
+
+un de la Croix de la Libération ;
+
+un de la médaille militaire ;
+
+un de l'ordre national du Mérite ;
+
+un de la Croix de guerre ;
+
+un de la Croix de la Valeur militaire ;
+
+un de la médaille de la Résistance.
+
+un de la croix du combattant volontaire de la Résistance ;
+
+un de la médaille des évadés.
+
+3° Quarante-sept membres regroupés comme suit :
+
+Huit représentants des parents d'anciens combattants choisis parmi les :
+
+pupilles de la nation et orphelins de guerre ;
+
+veuves pensionnées ;
+
+ascendants de militaires ou de civils morts pour la France ;
+
+Six représentants des pensionnés choisis parmi les :
+
+mutilés et réformés de guerre ;
+
+victimes civiles.
+
+Trente-trois représentants des anciens combattants et victimes de guerre choisis parmi les :
+
+titulaires de la carte du combattant ;
+
+représentants des prisonniers de guerre ;
+
+titulaires de la carte de déporté et interné de la Résistance ;
+
+titulaires de la carte de déporté et interné politique ;
+
+titulaires de la carte de combattant volontaire de la Résistance ;
+
+titulaire du titre de réfractaire ;
+
+titulaires du titre de patriote résistant à l'occupation des départements du Rhin et de la Moselle incarcérés en camps
+spéciaux ;
+
+titulaires du titre de patriote réfractaire à l'annexion de fait ;
+
+titulaires du titre de reconnaissance de la nation ;
+
+représentants des anciens combattants et victimes de guerre résidant hors de France ;
+
+titulaires du titre de personne contrainte au travail en pays ennemi.
+
+Les associations nationales, y compris celles regroupant les membres des forces supplétives françaises et leurs ayants droit
+proposent au ministre chargé des anciens combattants deux candidatures pour chaque catégorie qu'elles groupent
+statutairement.
+
+4° Lors du décès ou de la démission de membres du conseil, le ministre chargé des anciens combattants peut pourvoir à leur
+remplacement. Pour ce qui est des représentants des anciens combattants et victimes de guerre, il choisit les remplaçants
+parmi les candidats proposés par les associations en application du paragraphe 3° ci-dessus. Les administrateurs ainsi
+désignés siègent pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°55-1166 1955-08-29 art. 1 JORF 3 septembre 1955
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+  - Décret n°61-1395 1961-12-19 art. 1 JORF 21 décembre 1961 rectificatif JORF 18 janvier 1962
+  - Décret n°79-381 1979-05-10 art. 1 JORF 13 mai 1979
+  - Décret n°88-311 1988-03-28 art. 1 JORF 2 avril 1988
+
+_Cité par_:
+
+  - Arrêté du 17 décembre 2015 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R575 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D435 (M)
+  - Code des pensions militaires d'invalidité et des v - art. D476 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre annexe
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
 ###### Article D435
 
 Présidée par le ministre des anciens combattants et victimes de guerre, ou son représentant, ou l'un des deux vice-présidents
@@ -43934,6 +44075,43 @@ _Modifié par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. D435 (M)
+
+
+###### Article D436 bis
+
+Le conseil d'administration élit en son sein deux commissions de dix-sept membres : la commission des affaires générales et
+des finances, appelée à étudier les questions concernant les ressortissants, le budget, les comptes de l'office national ; la
+commission d'action sociale, appelée à étudier toutes les questions intéressant les demandes de subventions, l'hébergement,
+le reclassement, les pupilles de la nation et les orphelins de guerre. Ces commissions peuvent faire appel à des personnes
+qualifiées en raison de leurs fonctions ou de leurs compétences particulières pour étudier et exposer certains problèmes.
+
+Le directeur général de l'Office national des anciens combattants et victimes de guerre, les vice-présidents du conseil
+d'administration, les présidents et rapporteurs de la commission des affaires générales et des finances et de la commission
+d'action sociale se concertent périodiquement, à l'initiative du directeur général, sur les affaires visées à l'article D.
+440 ci-après.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°61-1395 1961-12-19 art. 1 JORF 21 décembre 1961 rectificatif JORF 18 janvier 1962
+
+_Modifié par_:
+
+  - Décret n°88-311 1988-03-28 art. 2 JORF 2 avril 1988
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D434 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D435 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D440 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
 ###### Article D437
@@ -44066,6 +44244,45 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D441
+
+Le conseil d'administration élit en son sein deux vice-présidents qui sont appelés à présider les réunions en cas d'absence
+du ministre chargé des anciens combattants ou de son représentant. Le conseil d'administration tient chaque année deux
+sessions ordinaires. Il se réunit en outre, sur convocation du président, chaque fois que l'exige le fonctionnement de
+l'office national.
+
+La commission des affaires générales et des finances et la commission d'action sociale se réunissent, au moins une fois par
+trimestre et toutes les fois que les besoins du service l'exigent, sur convocation du directeur général de l'office national.
+Leur réunion doit précéder d'un mois au moins la réunion du conseil d'administration.
+
+La convocation du conseil d'administration et des commissions spécialisées doit comporter un ordre du jour détaillé auquel
+sont joints toutes pièces et documents concernant les matières y figurant.
+
+Pour être valables, les délibérations du conseil d'administration doivent être prises à la majorité absolue des membres
+composant le conseil. Si la réunion ne peut se tenir valablement, les membres du conseil sont convoqués par lettre
+recommandée pour une nouvelle réunion dans un délai qui ne peut être inférieur à quinze jours. Les délibérations sont alors
+valables quel que soit le nombre des membres présents.
+
+En cas de partage des voix, la voix du président est prépondérante.
+
+Les procès-verbaux sont signés du président et du secrétaire. Ils font mention des membres présents.
+
+Le directeur général, les directeurs adjoints et sous-directeurs de l'office, les inspecteurs généraux, les chefs de bureau
+intéressés, l'agent comptable et le contrôleur financier ont entrée avec voix consultative au conseil d'administration et aux
+commissions spécialisées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°61-1395 1961-12-19 art. 1 JORF 21 décembre 1961 rectificatif JORF 18 janvier 1962
+  - Décret n°88-311 1988-03-28 art. 3 JORF 2 avril 1988
 
 
 ###### Article D442
@@ -45016,6 +45233,77 @@ _Codifié par_:
 
 
 ##### Section 3 : Composition.<a id=479></a>
+
+###### Article D476
+
+Le conseil départemental constitué pour quatre ans par arrêté préfectoral comprend :
+
+le préfet, commissaire de la République, président. En cas d'empêchement ou d'absence, il est suppléé par un membre du corps
+préfectoral en poste dans le département ;
+
+le président du conseil général ou son représentant ;
+
+les maires des villes chefs-lieux de département et des villes de plus de 100000 habitants ou leur représentant ;
+
+le procureur de la République ou son substitut ;
+
+le trésorier-payeur général ou son fondé de pouvoir ;
+
+l'officier commandant la subdivision militaire ou son adjoint ;
+
+l'inspecteur d'académie ou son adjoint ;
+
+le directeur départemental du travail ou son adjoint ;
+
+les directeurs des services de l'Etat et du département chargés des affaires sanitaires et sociales ou leur adjoint ;
+
+le responsable départemental de l'Agence nationale pour l'emploi ;    quarante-sept membres appartenant aux catégories
+énumérées au 3° de l'article D434 ci-dessus et avec la même répartition des postes.
+
+Les associations départementales d'anciens combattants et victimes de guerre proposent au préfet deux candidatures pour
+chaque catégorie qu'elles représentent statutairement.
+
+Le préfet peut, en tant que de besoin, adjoindre au conseil, pour une séance déterminée un ou plusieurs représentants des
+administrations intéressées. De même, il peut inviter à siéger les personnes que qualifient leur formation, leurs fonctions
+ou leurs travaux personnels. Les fonctionnaires et personnes qualifiées visées au présent alinéa ne prennent pas part aux
+votes.
+
+Les sièges devenus vacants en cours de mandat sont renouvelés à la diligence du préfet pour la durée restant à courir dans
+les conditions indiquées au dernier paragraphe de l'article D434.    Le conseil départemental désigne pour la durée de son
+mandat deux vice-présidents choisis parmi les représentants des anciens combattants et victimes de guerre et, sur proposition
+du préfet, constitue la commission d'action sociale et les commissions qu'il estime utiles eu égard aux circonstances
+locales.
+
+Le directeur départemental de l'office national des anciens combattants et victimes de guerre et les directeurs des
+établissement de l'office implantés dans le département assistent de plein droit aux réunions du conseil sans prendre part
+aux votes.
+
+Le directeur départemental de l'Office national des anciens combattants et victimes de guerre soumet au préfet les rapports
+présentés au conseil départemental et exécute les délibérations de cette assemblée ; en outre, il assure le secrétariat des
+séances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-1166 1955-08-20 art. 1 JORF 3 septembre 1955
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+  - Décret n°61-1395 1961-12-19 art. 1 JORF 21 décembre 1961 rectificatif JORF 18 janvier 1962
+  - Décret n°79-381 1979-05-10 art. 1 JORF 13 mai 1979
+  - Décret n°88-311 1988-03-28 art. 4 JORF 2 avril 1988
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D485 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D434 (M)
+
 
 ###### Article D477
 
