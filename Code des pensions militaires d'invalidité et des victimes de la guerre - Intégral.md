@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1978-12-30
+Version Consolidée au 1979-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -8024,13 +8024,30 @@ constatations servent de base, s'il y a lieu, à une nouvelle liquidation de pen
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°78-1239 du 29 décembre 1978 - art. 97 (P) JORF 30 décembre 1978 en vigueur le 1er janvier 1979
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L124-19 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L143-4 (VD)
+
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L203 (VT)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L51
 
 
 ###### Article L216
