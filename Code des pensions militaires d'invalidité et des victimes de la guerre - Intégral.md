@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1954-03-12
+Version Consolidée au 1954-05-27
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -39535,6 +39535,36 @@ _Cite_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
+###### Article A130
+
+Pour le calcul des trois mois, requis à l'article R. 224 C (III, 2°), une bonification de vingt-cinq jours est accordée au
+personnel présent à bord d'un navire ayant participé aux opérations d'évacuation de Dunkerque, ou à des opérations
+d'évacuation analogues déterminées par arrêtés conjoints du ministre des anciens combattants et victimes de guerre et du
+ministre chargé de la marine marchande.
+
+Ce personnel bénéficie en outre des bonifications accordées aux militaires pendant la durée de leur séjour dans lesdites
+zones d'opérations, conformément aux dispositions de l'article A. 134-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1954-05-24 art. 1 JORF 27 mai 1954
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A134-1 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+
+
 ###### Article A131
 
 Des bonifications peuvent également être accordées au personnel d'un navire ayant participé à des opérations destinées à
@@ -39578,6 +39608,49 @@ vue de l'attribution de la carte du combattant, selon les termes des différents
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+
+###### Article A134-1
+
+Les militaires de la guerre 1939-1945 qui ne peuvent totaliser le temps de présence effectif exigé à l'article A. 117 sont
+admis à bénéficier :
+
+1° D'une bonification de dix jours en cas d'engagement volontaire au cours des opérations de guerre ;
+
+2° D'une bonification de dix jours par citation individuelle ;
+
+3° S'ils apportent la preuve de leur participation à des opérations de combats limitativement désignées, de bonifications qui
+font l'objet des articles A. 134-2 à 134-4.
+
+La liste de ces combats et bonifications est établie par un arrêté conjoint du ministre de la défense nationale et du
+ministre des anciens combattants et victimes de guerre, après avis de l'office nationale des anciens combattants et victimes
+de guerre et de la commission créée à cet effet et prévue par l'article A. 135.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1954-05-24 art. 2 JORF 27 mai 1954
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A130 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A135 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A117 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A134-2 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A134-3 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A134-4 (V)
 
 **Liens**:
 
@@ -39677,6 +39750,36 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A134-2 (V)
+
+
+###### Article A134-5
+
+Les membres de la résistance qui ne peuvent totaliser le temps de présence effectif exigé aux articles A. 119 ou A. 123-1,
+s'ils apportent la preuve de leur participation à des opérations de combat limitativement désignées, sont admis à faire
+valoir leur droit en se conformant à la procédure prévue à l'article R. 227.
+
+La liste de ces combats et bonifications est établie par un arrêté conjoint du ministre de la défense nationale et du
+ministre des anciens combattants et victimes de guerre et de la commission créée à l'article A. 119.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Arrêté 1954-05-24 art. 3 JORF 27 mai 1954
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A119 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A123-1 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R227 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
 ###### Article A135
