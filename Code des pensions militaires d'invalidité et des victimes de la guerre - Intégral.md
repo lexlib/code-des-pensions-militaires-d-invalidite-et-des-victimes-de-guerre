@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1953-08-27
+Version Consolidée au 1953-08-27 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -10490,24 +10490,34 @@ _Codifié par_:
 ###### Article L412
 
 La priorité, en ce qui concerne le classement des candidats visés à l'article L. 393 pensionnés pour blessures ou maladies,
-est accordée :
+est accordée : 
 
-1° A la qualité d'ancien combattant telle qu'elle est définie aux articles R. 224 à R. 228 ;
+1° A la qualité d'ancien combattant telle qu'elle est définie aux articles R. 224 à R. 228 ; 
 
 2° Au degré d'invalidité ; pour tenir compte des charges de famille le degré d'invalidité est, s'il y a lieu, augmenté de
-cinq points pour chaque enfant mineur ou infirme à charge ;
+cinq points pour chaque enfant mineur ou infirme à charge ; 
 
 3° A l'ancienneté de la demande.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R224 (V)
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L413
@@ -10611,15 +10621,15 @@ _Abrogé par_:
 ###### Article L419
 
 Le contrôle des déclarations de vacances des emplois réservés est opéré par le ministre des anciens combattants et victimes
-de guerre.
+de guerre. 
 
 La commission de contrôle des déclarations de vacances des emplois réservés, dont la composition est fixée à l'article R.
-450, peut demander tous renseignements utiles aux différentes administrations tenues à réserver des emplois.
+450, peut demander tous renseignements utiles aux différentes administrations tenues à réserver des emplois. 
 
-La réponse à ces demandes de renseignements doit parvenir au président de ladite commission dans le délai d'un mois.
+La réponse à ces demandes de renseignements doit parvenir au président de ladite commission dans le délai d'un mois. 
 
 Les administrations doivent fournir tous les renseignements demandés et donner aux représentants du ministre des anciens
-combattants toutes facilités pour leur permettre d'accomplir leur mission sans difficulté.
+combattants toutes facilités pour leur permettre d'accomplir leur mission sans difficulté. 
 
 Ceux qui, dans l'exercice de leurs fonctions, ne se seront pas conformés aux prescriptions ci-dessus, sont signalés par le
 ministre des anciens combattants et victimes de guerre au ministre intéressé. Celui-ci doit, après enquête, les traduire
@@ -10627,17 +10637,20 @@ devant le conseil de discipline prévu par les statuts applicables au cadre dont
 comité en tenant lieu et aviser le ministre des anciens combattants des sanctions appliquées. Les peines encourues sont
 celles qui résultent de ces statuts et notamment, en cas de récidive grave, la révocation.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L402 (V)
-  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L405 (V)
-  - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L406 (V)
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Code des pensions militaires d'invalidité et de... - art. R450 (V)
 
 
 ###### Article L420
@@ -10879,41 +10892,50 @@ _Abrogé par_:
 Lorsqu'une vacance vient à se produire, la recette est attribuée au candidat classé qui l'a spécialement postulée. Au cas où
 plusieurs candidats sont classés pour une même recette, celui qui est le mieux placé sur la liste est nommé. Ceux qui
 n'arrivent pas en rang utile peuvent à ce moment, porter leur choix sur d'autres recettes. Tout candidat qui n'accepte pas un
-poste qui lui revient est rayé de la liste de classement.
+poste qui lui revient est rayé de la liste de classement. 
 
 Lorsque aucun candidat classé n'a postulé spécialement la recette qui devient vacante, cette dernière est attribuée au
 premier des candidats inscrits sur la liste qui ont exprimé le désir d'être nommés dans le département où elle est située ou,
 à défaut, à l'un des candidats qui n'ont pas manifesté de préférence. Tout candidat nommé dans ces conditions qui refuse le
-poste auquel il est appelé perd le bénéfice de son classement.
+poste auquel il est appelé perd le bénéfice de son classement. 
 
 Si la recette buraliste vacante ne peut être attribuée dans les conditions qui précèdent, le ministre de l'économie et des
 finances en informe sans délai le préfet. Ce dernier donne immédiatement avis de la vacance à l'office départemental des
 anciens combattants et victimes de guerre, aux associations de mutilés qui ont leur siège dans le département et aux maires
 des communes du département ; ceux-ci doivent publier et afficher l'avis du préfet au jour qui leur est indiqué par le
-préfet.
+préfet. 
 
 Dans un délai d'un mois à partir de cette publication et de cet affichage, les invalides de guerre domiciliés dans le
 département, classés pour un emploi quelconque de 3e catégorie, peuvent poser leur candidature à la recette buraliste
-vacante. A cet effet, ils adressent leur demande avec les pièces justificatives à l'office départemental des anciens
+vacante.A cet effet, ils adressent leur demande avec les pièces justificatives à l'office départemental des anciens
 combattants et victimes de guerre qui, dans le délai de quinze jours au plus à partir de l'expiration du délai ci-dessus,
 procède au classement d'après l'ordre indiqué à l'article L. 396. Ce classement est aussitôt porté à la connaissance de
 chaque candidat par les soins du préfet. Le candidat classé avec le numéro 1 est immédiatement désigné par le préfet du
-département au ministre de l'économie et des finances et il est procédé, sans autre délai, à sa nomination.
+département au ministre de l'économie et des finances et il est procédé, sans autre délai, à sa nomination. 
 
 Si, dans les délais fixés au présent article, l'office départemental n'a eu à classer aucun candidat à la recette buraliste
 vacante, le préfet en informe le ministre de l'économie et des finances qui peut procéder à la nomination à titre temporaire.
 Cette nomination ne devient définitive que si, dans les six mois à partir de la date de sa publication au Journal officiel,
 aucun candidat n'est inscrit sur la liste de classement comme postulant spécialement la recette vacante ou si, dans le même
 délai, aucun candidat invalide de guerre classé pour un emploi de 3e catégorie et habitant le département n'a posé sa
-candidature à ce poste auprès de l'office départemental des anciens combattants et victimes de guerre. L'office départemental
+candidature à ce poste auprès de l'office départemental des anciens combattants et victimes de guerre.L'office départemental
 instruit les candidatures qui peuvent ainsi survenir et la désignation du candidat à nommer est faite, le cas échéant, dans
 les conditions ci-dessus.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L396 (VT)
 
 
 ##### Paragraphe 6 : Publication des nominations - Recours.<a id=149></a>
@@ -11150,28 +11172,33 @@ civil réservé dans une administration de l'Etat, des départements, des commun
 subventionné par l'Etat, les départements ou les communes, et dont les services militaires ne sont pas déjà rémunérés par une
 pension proportionnelle ou d'ancienneté, est compté pour un cinquième de sa durée dans le calcul de l'ancienneté des services
 civils donnant droit à un avancement ou augmentation de traitement à l'ancienneté, mais sans que la bonification en résultant
-puisse excéder un total égal à la durée du service actif obligatoire.
+puisse excéder un total égal à la durée du service actif obligatoire. 
 
 Ce temps est compté, pour chaque avancement ou augmentation de traitement, par fraction de trois mois au maximum jusqu'à
 épuisement des droits acquis, l'excédent entrant en ligne de compte pour l'avancement suivant ; il est indépendant de toute
 bonification d'ancienneté à laquelle l'intéressé pourrait prétendre par application des statuts particuliers au service où il
-est employé.
+est employé. 
 
 Le bénéfice de cette disposition se cumule, le cas échéant, avec celui concédé par l'article 7 de la loi du 31 mars 1928,
 lequel s'entend du temps passé obligatoirement sous les drapeaux par application, en particulier, des articles 2, 40, 49 et
-52 de ladite loi.
+52 de ladite loi. 
 
 Les conditions d'application du présent article sont fixées à l'article R. 452.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et de... - art. R452 (Ab)
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Code des pensions militaires d'invalidité et de... - art. R452 (V)
 
 
 ##### Paragraphe 8 : Dispositions diverses.<a id=151></a>
@@ -11218,11 +11245,20 @@ octobre 1945 relative à la formation, au recrutement et au statut de certaines 
 pris pour son application, qui doivent, toutefois, comporter des mesures spéciales en faveur des invalides, veuves et
 orphelins de guerre en ce qui touche, notamment, les bonifications de points et, s'il y a lieu, d'âge.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Ordonnance n°45-2283 du 9 octobre 1945 (V)
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
 
 
 ###### Article L438
@@ -11231,11 +11267,21 @@ Les conditions d'application des dispositions du présent chapitre, dans les dé
 Moselle, et notamment celles concernant l'obtention du certificat d'aptitude professionnelle, ainsi que les règles
 d'inscription sur les listes de reclassement, sont fixées aux articles R. 445 et R. 449.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R445 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R449 (V)
 
 
 ###### Article L439
@@ -11357,11 +11403,20 @@ L'administration ou service instruit la demande dans les trois mois de la récep
 vérification des droits du candidat au bénéfice de la présente section, ainsi que des titres qu'il fait valoir et de la
 réalisation des conditions prévues à l'article L. 443.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L443 (VT)
 
 
 ###### Article L445
@@ -11375,11 +11430,20 @@ A la même époque, les mêmes collectivités adressent au secrétariat de la co
 candidatures qu'elles ont instruites dans le courant de l'année précédente, complétés par l'indication de leur avis favorable
 ou défavorable à la candidature. Si l'avis est défavorable, il doit être motivé.
 
+**Nota:**
+
+Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
+d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L447 (VT)
 
 
 ###### Article L446
