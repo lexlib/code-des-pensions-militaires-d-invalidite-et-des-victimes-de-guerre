@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1974-12-10
+Version Consolidée au 1974-12-15
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -193,7 +193,7 @@ Version Consolidée au 1974-12-10
           - [Section 1 : Militaires présents sous les drapeaux. (art. R6)](#190)
           - [Section 2 : Militaires renvoyés dans leurs foyers. (art. R8 à R9)](#191)
           - [Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins. (art. R19)](#192)
-          - [Section 4 : Anciens militaires résidant à l'étranger. (art. R20 à R21)](#193)
+          - [Section 4 : Anciens militaires résidant à l'étranger. (art. R20 à R22)](#193)
           - [Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24. (art. R23 à R27)](#194)
         - [Chapitre VI : Révision pour aggravation. (art. R28)](#195)
       - [Titre II : Emoluments complémentaires. (art. R29 à R35)](#196)
@@ -16532,6 +16532,26 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R151-21 (V)
+
+
+###### Article R22
+
+L'instruction des demandes présentées par les militaires et marins résidant à l'étranger est assurée par un ou plusieurs
+centres de réforme désignés à cet effet par un arrêté du ministre chargé des armées et du ministre chargé des anciens
+combattants et victimes de guerre qui fixe, le cas échéant, la compétence respective des centres ainsi désignés.
+
+Les commissions de réforme appelées à connaître desdites demandes sont celles qui fonctionnent auprès du centre de réforme
+chargé de leur instruction.
+
+Si le médecin chef du centre estime qu'une contre-visite est nécessaire, il y est procédé par un ou deux médecins désignés
+par le ministre des affaires étrangères sur la demande du ministre des anciens combattants et victimes de guerre ; cette
+contre-visite est faite dans les mêmes formes que la première visite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
 
 ##### Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24.<a id=194></a>
