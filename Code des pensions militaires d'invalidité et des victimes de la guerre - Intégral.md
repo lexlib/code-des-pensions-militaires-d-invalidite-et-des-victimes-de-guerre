@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-18
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -108,12 +108,12 @@ Version Consolidée au 1986-01-01
         - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L262 à L268)](#105)
           - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L262 à L265)](#106)
           - [Section 2 : Droits des combattants volontaires de la Résistance. (art. L266 à L268)](#107)
-        - [Chapitre II : Statut des déportés et internés de la Résistance (art. L273 à L285)](#108)
-          - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L273 à L277)](#109)
+        - [Chapitre II : Statut des déportés et internés de la Résistance (art. L272 à L285)](#108)
+          - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L272 à L277)](#109)
           - [Section 2 : Droits des déportés et internés résistants. (art. L278 à L284)](#110)
           - [Section 3 : Dispositions diverses. (art. L285)](#111)
-        - [Chapitre III : Statut des déportés et internés politiques (art. L287 à L295-2)](#112)
-          - [Section 1 : De la qualité de déporté et interné politique. (art. L287 à L294)](#113)
+        - [Chapitre III : Statut des déportés et internés politiques (art. L286 à L295-2)](#112)
+          - [Section 1 : De la qualité de déporté et interné politique. (art. L286 à L294)](#113)
           - [Section 2 : Droits des déportés et internés politiques. (art. L295-1 à L295-2)](#114)
         - [Chapitre IV : Statut des réfractaires. (art. L296 à L307)](#115)
           - [Section 1 : De la qualité de réfractaire. (art. L298 à L300)](#116)
@@ -10497,6 +10497,65 @@ _Codifié par_:
 
 ##### Section 1 : De la qualité de déporté et interné de la Résistance.<a id=109></a>
 
+###### Article L272
+
+Le titre de déporté résistant est attribué à toute personne qui, pour acte qualifié de résistance à l'ennemi, a été ;
+
+1° Soit transférée par l'ennemi hors du territoire national, puis incarcérée ou internée dans une prison ou un camp de
+concentration ;
+
+2° Soit incarcérée ou internée par l'ennemi dans les camps et prisons du Bas-Rhin, du Haut-Rhin et de la Moselle ;
+
+3° Soit incarcérée ou internée par l'ennemi dans tous autres territoires exclusivement administrés par lui, notamment en
+Indochine, et sous réserve que ladite incarcération ou ledit internement réponde aux conditions qui sont fixées aux articles
+R. 286 à R. 297 ;
+
+4° Soit emmenée par l'ennemi dans un convoi de déportés, vers une prison ou un camp de concentration visés aux 1°, 2° et 3°
+du présent article, puis, au cours de ce trajet, est décédée ou s'est évadée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 19 () JORF 18 janvier 1986
+
+_Cité par_:
+
+  - Décret n°2004-751 du 27 juillet 2004 - art. 1 (V)
+  - Décret n°2014-1284 du 23 octobre 2014 - art. (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L273 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L280 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L281 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L319 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L378 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R224 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R287 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R388-7 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R574 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R578 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L285 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L342-1 (VD)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L276 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
 ###### Article L273
 
 Le titre d'interné résistant est attribué à toute personne qui a subi, quel que soit le lieu, sauf les cas prévus à l'article
@@ -10950,6 +11009,74 @@ _Codifié par_:
 
 ##### Section 1 : De la qualité de déporté et interné politique.<a id=113></a>
 
+###### Article L286
+
+Le titre de déporté politique est attribué aux Français ou ressortissants français qui pour tout autre motif qu'une
+infraction de droit commun, ne bénéficiant pas de l'ordonnance du 6 juillet 1943, ont été :
+
+1° Soit transférés par l'ennemi hors du territoire national puis incarcérés ou internés dans une prison ou un camp de
+concentration ;
+
+2° Soit incarcérés ou internés par l'ennemi dans les camps ou prisons du Bas-Rhin, du Haut-Rhin et de la Moselle ;
+
+3° Soit incarcérés ou internés par l'ennemi dans tous autres territoires exclusivement administrés par l'ennemi, notamment
+l'Indochine, sous réserve que ladite incarcération ou ledit internement répondent aux conditions qui sont fixées aux articles
+R. 327 à R. 334 ;
+
+4° Soit emmenés par l'ennemi dans un convoi de déportés, vers des prisons ou des camps de concentration visés aux 1°, 2° et
+3° du présent article, puis, au cours de ce trajet, sont décédés ou se sont évadés.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 19 () JORF 18 janvier 1986
+
+_Cité par_:
+
+  - Décret n°2004-751 du 27 juillet 2004 - art. 1 (V)
+  - Décret n°2014-1284 du 23 octobre 2014 - art. (VD)
+  - Code des pensions civiles et militaires de retrait - art. R24 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L287 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L292 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L295-2 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L319 bis (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L338 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R388-7 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R574 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R578 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L343-1 (VD)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L287 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L292 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L293 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R327
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R328
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R329
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R330
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R331
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R332
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R333
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R334
+  - Ordonnance 1943-07-06
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
 ###### Article L287
 
 Sont exclues du bénéfice de l'article L. 286 les personnes visées aux alinéas 2 et 3 dudit article, qui n'ont pas été
@@ -11190,6 +11317,38 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L384 (V)
   - Code des pensions militaires d'invalidité et des v - art. L385 (V)
   - Code des pensions militaires d'invalidité et des victimes de la guerre L286 à L291, L336, L384, L385
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+
+###### Article L293 bis
+
+Les étrangers victimes de la déportation pour un motif d'ordre politique ou racial, qui ne résidaient pas en France avant le
+1er septembre 1939, peuvent obtenir le titre de déporté politique s'ils ont depuis lors acquis la nationalité française.
+
+Les dispositions des articles L. 336, L. 384 et L. 385 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 20 () JORF 18 janvier 1986
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L343-8 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L336
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L384
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L385
 
 _Codifié par_:
 
