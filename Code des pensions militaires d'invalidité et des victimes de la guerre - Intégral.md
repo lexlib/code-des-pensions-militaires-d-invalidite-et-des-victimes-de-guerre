@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1965-09-29
+Version Consolidée au 1965-11-30
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -17,7 +17,7 @@ Version Consolidée au 1965-09-29
       - [Titre III : Droits à pension des conjoints survivants et des orphelins. (art. L49 à L56)](#14)
         - [Chapitre II : Fixation de la pension. (art. L49 à L56)](#15)
       - [Titre III : Droits à pension des veuves et des orphelins (art. L43 à L66 bis)](#16)
-        - [Chapitre Ier : Des droits à la pension. (art. L43 à L47)](#17)
+        - [Chapitre Ier : Des droits à la pension. (art. L43 à L48)](#17)
         - [Chapitre III : Déchéance spéciale du droit à pension. (art. L58 à L62)](#18)
         - [Chapitre IV : Des enfants naturels reconnus. (art. L63 à L65)](#19)
         - [Chapitre V : Droits des ayants cause des personnes disparues. (art. L66 à L66 bis)](#20)
@@ -30,7 +30,7 @@ Version Consolidée au 1965-09-29
       - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L105 à L114)](#27)
         - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L105 à L106)](#28)
         - [Chapitre II : Suspension du droit à pension. (art. L107)](#29)
-        - [Chapitre III : Prescriptions des arrérages. (art. L109)](#30)
+        - [Chapitre III : Prescriptions des arrérages. (art. L108 à L109)](#30)
         - [Chapitre IV : Payement des majorations pour enfants. (art. L110 à L111)](#31)
         - [Chapitre V : Règles générales de cumul. (art. L112 à L114)](#32)
       - [Titre VII : Soins, traitements, rééducation, sécurité sociale. (art. L115 à L136)](#33)
@@ -3087,6 +3087,50 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
+###### Article L48
+
+Les veuves qui contractent un nouveau mariage ou vivent en état de concubinage notoire perdent leur droit à pension.
+
+Les droits qui leur appartiennent ou qui leur auraient appartenu passent aux enfants âgés de moins de vingt et un ans du
+défunt selon les règles établies par les lois en vigueur en matière de pension.
+
+Ces dispositions ne sont applicables qu'aux mariages ou concubinages postérieurs à la date d'entrée en vigueur de la loi du 9
+septembre 1941.
+
+Les veuves remariées redevenues veuves, ou divorcées, ou séparées de corps, ainsi que les veuves qui cessent de vivre en état
+de concubinage notoire peuvent, si elles le désirent, recouvrer leur droit à pension et demander qu'il soit mis fin à
+l'application qui a pu être faite des dispositions du deuxième alinéa ci-dessus.
+
+Au cas où le nouveau mariage ouvrirait un droit à pension de réversion au titre du présent code, les intéressés pourront
+choisir la pension la plus avantageuse dans un délai d'un an à compter de la date du décès pour l'avenir, et de la date
+d'effet du présent article pour le passé.
+
+Les enfants du premier lit d'une veuve remariée avant l'entrée en vigueur de l'acte dit "loi du 9 septembre 1941" ont droit à
+une pension différentielle égale à la pension de veuve diminuée du montant de la pension perçue par la mère.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A172-10 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D271-6 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Cite_:
+
+  - Loi n°1941-09-09
+
+_Modifié par_:
+
+  - Loi n°53-1340 1953-12-31 art. 18 et 21 JORF 5 janvier 1954
+  - Loi n°55-356 1955-04-03 art. 16 JORF 4 avril 1955
+  - Loi n°60-1384 1960-02-23 art. 63 I JORF 24 décembre 1960
+  - Loi n°65-997 1965-11-29 art. 61 I JORF 30 novembre 1965
+
+
 #### Chapitre III : Déchéance spéciale du droit à pension.<a id=18></a>
 
 ###### Article L58
@@ -4100,6 +4144,40 @@ _Modifié par_:
 
 
 #### Chapitre III : Prescriptions des arrérages.<a id=30></a>
+
+###### Article L108
+
+Lorsque, par suite du fait personnel du pensionné, la demande de liquidation ou de révision de la pension est déposée
+postérieurement à l'expiration de la troisième année qui suit celle de l'entrée en jouissance normale de la pension, le
+titulaire ne peut prétendre qu'aux arrérages, afférents à l'année au cours de laquelle la demande a été déposée et aux trois
+années antérieures.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°63-1241 1963-12-19 art. 54 JORF 25 décembre 1963
+  - Loi n°65-997 1965-11-29 art. 60 I JORF 30 novembre 1965
+
+_Cité par_:
+
+  - Loi - art. 68 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. D46 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L44 (VT)
+  - Code des pensions militaires d'invalidité et des v - art. R168 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L151-3 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
 
 ###### Article L109
 
