@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-08-06
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -198,9 +198,9 @@ Version Consolidée au 2003-07-22
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R572)](#195)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R1 à R145)](#196)
       - [Titre Ier : Droits à pension des invalides. (art. R1 à R28)](#197)
-        - [Chapitre III : Rapport constant entre les pensions et les traitements bruts de la fonction publique de l'Etat. (art. R1 à R6)](#198)
-        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. R7 à R27)](#199)
-          - [Section 1 : Militaires présents sous les drapeaux. (art. R7)](#200)
+        - [Chapitre III : Rapport constant entre les pensions et les traitements bruts de la fonction publique de l'Etat. (art. R1 à R5-1)](#198)
+        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. R6 à R27)](#199)
+          - [Section 1 : Militaires présents sous les drapeaux. (art. R6 à R7)](#200)
           - [Section 2 : Militaires renvoyés dans leurs foyers. (art. R8 à R9)](#201)
           - [Section 3 : Règles générales pour l'instruction des demandes de pension. (art. R10 à R19)](#202)
           - [Section 4 : Anciens militaires résidant à l'étranger. (art. R20 à R22)](#203)
@@ -19136,12 +19136,22 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et des v - art. R6 (M)
 
 
+#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=199></a>
+
+##### Section 1 : Militaires présents sous les drapeaux.<a id=200></a>
+
 ###### Article R6
 
-L'avis de la commission ainsi que, le cas échéant, les résultats du vote sont annexés au rapport de présentation du projet de
-décret modifiant la valeur du point de pension en application du 3° du B de l'article L. 8 bis.
+Les militaires ou marins qui, avant de quitter le service veulent faire valoir leurs droits à une pension pour cause de
+blessures reçues ou d'infirmités ou maladies contractées ou aggravées en service doivent, s'ils n'ont pas été proposés
+d'office, adresser leur demande par la voie hiérarchique au commandant de formation administrative dont ils relèvent.
 
-Un procès-verbal de la séance est adressé aux membres de la commission dans un délai de deux mois.
+En prévision d'une telle demande, tout commandant de formation administrative ou de détachement, tout chef de service est
+tenu, dès que se produit un fait de nature à ouvrir droit à pension, de faire constater, par tous les moyens mis à sa
+disposition, l'origine des blessures reçues, des maladies ou infirmités contractées ou aggravées dont sont atteints les
+militaires ou marins placés sous ses ordres. Des certificats sont établis, énonçant les faits constatés et les éléments qui
+peuvent déterminer la relation de ces faits avec le service. Pour établir cette relation, il peut être dressé tout procès-
+verbal ou fait toute enquête qu'il appartiendra.
 
 **Liens relatifs à cet article**
 
@@ -19149,36 +19159,29 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Créé par_:
-
-  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
-
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
   - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
-_Transféré par_:
+_Modifié par_:
 
-  - Décret n°95-734 1995-05-09 art. 12 1° JORF 13 mai 1995
+  - Décret n°2003-746 du 1 août 2003 - art. 1 () JORF 6 août 2003
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R111 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. R7 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+  - Code des pensions militaires d'invalidité et de... - art. R7 (Ab)
 
 _Nouveaux textes_:
 
+  - Code des pensions militaires d'invalidité et de... - art. R151-1 (V)
   - Code des pensions militaires d'invalidité et des v - art. R5-1 (Ab)
 
-
-#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=199></a>
-
-##### Section 1 : Militaires présents sous les drapeaux.<a id=200></a>
 
 ###### Article R7
 
@@ -32980,7 +32983,8 @@ _Cité par_:
 
 Le candidat remet sa demande d'emploi réservé :
 
-a) A son chef de corps ou de service s'il s'agit d'un militaire présent sous les drapeaux ;
+a) Au commandant de formation administrative ou au chef de service dont il relève s'il s'agit d'un militaire présent sous les
+drapeaux ;
 
 b) Au maire de sa résidence dans tous les autres cas.
 
@@ -32988,15 +32992,15 @@ Un arrêté conjoint du ministre chargé de la fonction publique, du ministre de
 du ministre d'Etat chargé de la défense nationale, dont les dispositions font l'objet de l'article A. 190-1, fixe la liste
 des pièces qui doivent constituer les dossiers de demandes d'emplois réservés.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2003-746 du 1 août 2003 - art. 1 () JORF 6 août 2003
 
 _Cité par_:
 
@@ -33006,20 +33010,13 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A190-1 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
-
 
 ###### Article R402
 
 Les dossiers des militaires et marins en activité, y compris ceux des candidats bénéficiaires de l'article L. 393, sont
-transmis par le chef de corps ou de service au directeur interdépartemental des anciens combattants et victimes de guerre
-dans les dix-huit mois [*délai*]  qui précèdent la date de la cessation du service des intéressés.
-
-**Nota:**
-
-
+transmis par le commandant de formation administrative ou chef de service dont ils relèvent au directeur interdépartemental
+des anciens combattants et victimes de guerre dans les dix-huit mois qui précèdent la date de la cessation du service des
+intéressés.
 
 **Liens relatifs à cet article**
 
@@ -33027,13 +33024,13 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
+_Modifié par_:
+
+  - Décret n°2003-746 du 1 août 2003 - art. 1 () JORF 6 août 2003
+
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. L393 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
 
 
 ###### Article R403
@@ -35337,8 +35334,9 @@ _Cité par_:
 
 Les demandes d'emplois réservés dans les territoires d'outre-mer ou les territoires associés sont adressées :
 
-1° Si le candidat réside dans un pays d'outre-mer, soit au chef de corps ou de service si le candidat est présent sous les
-drapeaux, soit au chef de circonscription territoriale du lieu de résidence dans tous les autres cas ;
+1° Si le candidat réside dans un pays d'outre-mer, soit au commandant de formation administrative ou chef de service dont il
+relève si le candidat est présent sous les drapeaux, soit au chef de circonscription territoriale du lieu de résidence dans
+tous les autres cas ;
 
 2° Si le candidat réside dans la métropole, dans un département d'outre-mer, aux autorités visées à l'article R. 401.
 
@@ -35348,13 +35346,21 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Cite_:
+_Modifié par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R401 (M)
+  - Décret n°2003-746 du 1 août 2003 - art. 1 () JORF 6 août 2003
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. R470 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R401
 
 
 ###### Article R457
