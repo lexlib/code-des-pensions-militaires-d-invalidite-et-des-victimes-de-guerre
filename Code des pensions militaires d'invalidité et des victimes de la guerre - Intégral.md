@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1961-03-29
+Version Consolidée au 1961-04-07
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -378,7 +378,7 @@ Version Consolidée au 1961-03-29
             - [Paragraphe 1 : Règles générales. (art. D45 à D47)](#375)
             - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D48 à D52)](#376)
       - [Titre VII : Soins, traitement et rééducation. (art. D53 à D230)](#377)
-        - [Chapitre Ier : Soins gratuits. (art. D53 à D109)](#378)
+        - [Chapitre Ier : Soins gratuits. (art. D53 à D110)](#378)
           - [Section 1 : Admission aux soins gratuits. (art. D53 à D57)](#379)
           - [Section 2 : Soins externes. (art. D58 à D64)](#380)
           - [Section 3 : Hospitalisations. (art. D65 à D79)](#381)
@@ -388,9 +388,9 @@ Version Consolidée au 1961-03-29
             - [Paragraphe 1 : Direction interdépartementale des anciens combattants et victimes de guerre. (art. D81)](#385)
             - [Paragraphe 2 : Commission départementale des soins gratuits. (art. D82 à D89)](#386)
             - [Paragraphe 3 : Commission supérieure des soins gratuits. (art. D90 à D96)](#387)
-          - [Section 5 : Dispositions générales. (art. D97 à D109)](#388)
+          - [Section 5 : Dispositions générales. (art. D97 à D110)](#388)
             - [Paragraphe 1 : Règlement des frais occasionnés par les soins gratuits. (art. D97 à D103)](#389)
-            - [Paragraphe 2 : Procédure et voies de recours. (art. D104 à D109)](#390)
+            - [Paragraphe 2 : Procédure et voies de recours. (art. D104 à D110)](#390)
         - [Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française. (art. D121 à D224)](#391)
         - [Chapitre V : Rééducation professionnelle. (art. D226 à D230)](#392)
     - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. D231 à D257)](#393)
@@ -33178,6 +33178,36 @@ _Cite_:
 _Abrogé par_:
 
   - Décret n°2009-1757 du 30 décembre 2009 - art. 2
+
+
+###### Article D110
+
+Les dispositions de l'article L. 115 du Code des pensions militaires d'invalidité et des victimes de la guerre pourront, en
+ce qui concerne les pensionnés résidant hors de la métropole, faire l'objet de modalités particulières d'application
+déterminées par instruction du ministre des anciens combattants et victimes de guerre en accord avec les ministres
+intéressés.
+
+Les tarifs de remboursement des soins dispensés aux pensionnés résidant au Maroc et en Tunisie seront fixés par arrêtés
+conjoints du ministre des anciens combattants et victimes de guerre, du ministre des affaires étrangères et du ministre de
+l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+
+_Modifié par_:
+
+  - Décret n°61-334 1961-03-24 art. 1 JORF 7 avril 1961
 
 
 #### Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française.<a id=391></a>
