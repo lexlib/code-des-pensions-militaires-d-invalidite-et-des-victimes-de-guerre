@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -14260,6 +14260,76 @@ _Cité par_:
 _Abrogé par_:
 
   - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+
+###### Article L394
+
+Peuvent, sans conditions d'âge, obtenir les emplois réservés de l'Etat, des établissements publics, des départements, des
+communes et des territoires d'outre-mer : 
+
+Les veuves de guerre non remariées ; 
+
+Les veuves de guerre remariées ayant un ou plusieurs enfants mineurs ou infirmes à leur charge, issus de leur mariage avec un
+militaire mort pour la France ; 
+
+Les veuves remariées et redevenues veuves ou divorcées à leur profit ; 
+
+Les conjoints de militaires, policiers, douaniers, décédés en service et les conjoints de personnes qui, soumises à un statut
+législatif ou réglementaire et appelées à participer, à titre habituel ou occasionnel, à des missions d'assistance à personne
+en danger, sont décédées au cours d'une telle mission ; 
+
+Les mères non mariées ayant un ou plusieurs enfants mineurs à leur charge, enfants reconnus d'un militaire mort pour la
+France ; 
+
+Les femmes d'aliénés internés depuis plus de quatre ans dont la pension donne lieu à l'application de l'article L. 124 ; 
+
+Les femmes de disparus bénéficiaires de la pension provisoire prévue à l'article L. 66.
+
+En ce qui concerne les bénéficiaires des emplois réservés visés au cinquième alinéa du présent article, un délai de dix ans
+court à dater de l'avis officiel de décès.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°67-1173 1967-12-22 art. 8 JORF 29 décembre 1967
+  - Loi n°83-452 1983-06-07 art. 3 JORF 8 juin 1983 rectificatif JORF 9 juin 1983
+
+_Cité par_:
+
+  - Décret n°85-1229 du 20 novembre 1985 - art. 3 (VT)
+  - Loi n°95-73 du 21 janvier 1995 - art. 21 (V)
+  - Arrêté du 18 mars 2010 - art. 2 (V)
+  - Arrêté du 5 août 2011 - art. 2 (V)
+  - Arrêté du 28 novembre 2012 - art. 1 (V)
+  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 8 (V)
+  - Décret n°2015-1011 du 18 août 2015 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A187 (V)
+  - Code des pensions militaires d'invalidité et de... - art. A190-4 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D432 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L396 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L397 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L404 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R403 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R429 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R430 (Ab)
+  - Code du travail - art. L5212-13 (V)
+
+_Abrogé par_:
+
+  - Loi n°2008-492 du 26 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L124 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L66 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L395
