@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1951-04-27
+Version Consolidée au 1951-04-28
 ## Contenu: 
   - [Partie législative (art. L2 à L528)](#1)
     - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L2 à L137 bis)](#2)
@@ -272,13 +272,130 @@ Version Consolidée au 1951-04-27
       - [Chapitre III : Sépultures perpétuelles. (art. R565 à R569-1)](#269)
         - [Section 1 : Dispositions communes aux victimes civiles et militaires. (art. R565 à R569-1)](#270)
       - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. R570 à R571)](#271)
-  - [Annexes (art. Annexe 1, art. 1 à Annexe 4)](#272)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 4)](#273)
-      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 4)](#274)
-        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#275)
-        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#276)
-        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#277)
-        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#278)
+  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#272)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. D1 à D230)](#273)
+      - [Titre Ier : Droit à pension des invalides. (art. D1 à D4)](#274)
+        - [Chapitre Ier : Conditions du droit à pension. (art. D1)](#275)
+        - [Chapitre V : Demandes de pensions - Liquidation et concession. (art. D4)](#276)
+      - [Titre II : Emoluments complémentaires. (art. D8 à D19)](#277)
+        - [Chapitre III : Indemnités de soins aux tuberculeux. (art. D8 à D19)](#278)
+      - [Titre V : Révision et voies de recours. (art. D22 à D31)](#279)
+        - [Chapitre II : Voies de recours. (art. D22 à D31)](#280)
+          - [Section 1 : Désignation des commissaires du Gouvernement. (art. D22 à D24)](#281)
+          - [Section 2 : Dispositions concernant les départements d'outre-mer. (art. D25 à D28)](#282)
+          - [Section 3 : Dispositions diverses. (art. D29 à D31)](#283)
+      - [Titre VI : Dispositions diverses relatives au paiement des pensions. (art. D38 à D52)](#284)
+        - [Chapitre VI : Allocations provisoires d'attente. (art. D38 à D52)](#285)
+          - [Section 1 : Militaires et marins. (art. D38 à D44)](#286)
+            - [Paragraphe 1 : Règles générales. (art. D38 à D39)](#287)
+            - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D40 à D44)](#288)
+          - [Section 2 : Ayants cause des militaires ou marins. (art. D45 à D52)](#289)
+            - [Paragraphe 1 : Règles générales. (art. D45)](#290)
+            - [Paragraphe 2 : Payement des allocations provisoires d'attente. (art. D48 à D52)](#291)
+      - [Titre VII : Soins, traitement et rééducation. (art. D111 à D120 à D230)](#292)
+        - [Chapitre Ier : Soins gratuits. (art. D111 à D120)](#293)
+          - [Section 5 : Dispositions générales. (art. D111 à D120)](#294)
+            - [Paragraphe 2 : Procédure et voies de recours. (art. D111 à D120)](#295)
+        - [Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française. (art. D121 à D224)](#296)
+        - [Chapitre V : Rééducation professionnelle. (art. D226 à D230)](#297)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. D232 à D257)](#298)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. D232 à D240)](#299)
+        - [Chapitre VII : Chantiers de la jeunesse. (art. D232 à D240)](#300)
+      - [Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer. (art. D241 à D257)](#301)
+        - [Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause. (art. D241 à D242)](#302)
+        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. D243 à D251)](#303)
+        - [Chapitre III : Allocations provisoires d'attente. (art. D252 à D257)](#304)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. D258 à D401)](#305)
+      - [Titre Ier : Carte et retraite du combattant (art. D258 à D266)](#306)
+        - [Chapitre Ier : Carte du combattant (art. D258 à D263)](#307)
+          - [Section 1 : Algérie. (art. D258)](#308)
+          - [Section 2 : Pays d'outre-mer. (art. D259 à D263)](#309)
+        - [Chapitre II : Retraite du combattant (art. D264 à D266)](#310)
+          - [Section 1 : Attribution et paiement de la retraite. (art. D264 à D265)](#311)
+          - [Section 2 : Citoyens français n'ayant pas servi dans l'armée française. (art. D266)](#312)
+      - [Titre III : Droits et avantages accessoires. (art. D267 à D310)](#313)
+        - [Chapitre Ier : Carte d'invalidité et droits y afférents (art. D267 à D271)](#314)
+          - [Section 1 : Réduction sur les transports ferroviaires. (art. D267)](#315)
+          - [Section 2 : Réduction sur les transports routiers. (art. D268 à D270)](#316)
+          - [Section 3 : Droit de priorité. (art. D271)](#317)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. D271-8 à D271-14)](#318)
+        - [Chapitre III : Décorations et insignes. (art. D272 à D310)](#319)
+          - [Section 1 : Légion d'honneur et médaille militaire. (art. D272 à D274)](#320)
+          - [Section 2 : Croix du combattant volontaire de la guerre 1914-1918. (art. D275 à D276)](#321)
+          - [Section 3 : Croix du combattant. (art. D277 à D280)](#322)
+          - [Section 4 : Médaille de prisonniers civils, déportés et otages de la grande guerre. (art. D281 à D284)](#323)
+          - [Section 5 : Médaille commémorative française de la guerre 1939-1945. (art. D285 à D294)](#324)
+          - [Section 6 : Médaille de la France libérée. (art. D295 à D299)](#325)
+          - [Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France". (art. D300 à D305)](#326)
+          - [Section 8 : Insigne des victimes civiles. (art. D306 à D310)](#327)
+      - [Titre IV : Pupilles de la Nation. (art. D361 à D401)](#328)
+        - [Chapitre II : Protection et aide de l'Etat. (art. D361 à D383)](#329)
+          - [Section 1 : Manutention des deniers pupillaires. (art. D361 à D381)](#330)
+          - [Section 2 : Bourses et subventions. (art. D382 à D383)](#331)
+        - [Chapitre III : Dispositions particulières. (art. D384 à D401)](#332)
+          - [Section 1 : Enfants de militaires ou d'attachés aux armées victimes d'un fait de guerre sur un théâtre d'opérations situé hors de France. (art. D384)](#333)
+          - [Section 2 : Algérie. (art. D385 à D386)](#334)
+          - [Section 3 : Territoires d'outre-mer. (art. D387 à D389)](#335)
+          - [Section 4 : Pupilles résidant à l'étranger. (art. D390 à D401)](#336)
+            - [Paragraphe 1 : Reconnaissance du droit au titre de pupille de la nation. (art. D390 à D395)](#337)
+            - [Paragraphe 2 : Protection et aide. (art. D396 à D401)](#338)
+    - [Livre IV : Etat civil et sépultures. (art. D402 à D430)](#339)
+      - [Chapitre II : Transferts et restitutions de corps. (art. D402 à D420)](#340)
+      - [Chapitre III : Sépultures perpétuelles. (art. D421 à D430)](#341)
+        - [Section 1 : Lieux de sépultures. (art. D421 à D422)](#342)
+        - [Section 2 : Entretien des cimetières. (art. D423 à D427)](#343)
+        - [Section 3 : Dispositions particulières. (art. D429 à D430)](#344)
+    - [Livre V : Institutions. (art. D431 à D569)](#345)
+      - [Titre Ier : Offices des anciens combattants et victimes de guerre. (art. D431 à D554)](#346)
+        - [Chapitre Ier : Office national. (art. D431 à D471)](#347)
+          - [Section 1 : Caractère juridique. (art. D431)](#348)
+          - [Section 3 : Composition. (art. D437 à D439)](#349)
+          - [Section 4 : Organisation. (art. D442)](#350)
+          - [Section 5 : Fonctionnement. (art. D444 à D446)](#351)
+          - [Section 6 : Régime financier. (art. D448 à D471)](#352)
+            - [Paragraphe 1 : Dispositions générales. (art. D448 à D457)](#353)
+            - [Paragraphe 2 : Des recettes et des dépenses. (art. D458 à D463)](#354)
+            - [Paragraphe 3 : Du budget et des crédits. (art. D464 à D467)](#355)
+            - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D468)](#356)
+            - [Paragraphe 5 : Contrôle financier. (art. D469 à D470)](#357)
+            - [Paragraphe 6 : Mesures d'application. (art. D471)](#358)
+        - [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux. (art. D472 à D525)](#359)
+          - [Section 1 : Caractère juridique. (art. D472 à D474)](#360)
+          - [Section 2 : Attributions. (art. D475)](#361)
+          - [Section 3 : Composition. (art. D480 à D484)](#362)
+          - [Section 4 : Organisation et administration. (art. D486 à D494)](#363)
+            - [Paragraphe 1 : Conseil d'administration. (art. D486 à D488)](#364)
+            - [Paragraphe 2 : Commission permanente et sous-commissions. (art. D492)](#365)
+            - [Paragraphe 3 : Questions diverses. (art. D494)](#366)
+          - [Section 5 : Fonctionnement. (art. D495 à D501)](#367)
+          - [Section 6 : Régime financier. (art. D502 à D525)](#368)
+            - [Paragraphe 1 : Dispositions générales. (art. D502 à D511)](#369)
+            - [Paragraphe 2 : Des recettes et des dépenses. (art. D512 à D517)](#370)
+            - [Paragraphe 3 : Du budget et des crédits. (art. D518 à D521)](#371)
+            - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D522 à D523)](#372)
+            - [Paragraphe 5 : Contrôle financier. (art. D524)](#373)
+            - [Paragraphe 6 : Mesures d'application. (art. D525)](#374)
+        - [Chapitre III : Ecoles de rééducation professionnelle (art. D526 à D554)](#375)
+          - [Section 1 : Attributions. (art. D526)](#376)
+          - [Section 2 : Organisation. (art. D527 à D533)](#377)
+          - [Section 3 : Fonctionnement. (art. D534 à D543)](#378)
+          - [Section 4 : Régime financier. (art. D544 à D554)](#379)
+      - [Titre II : Institution nationale des invalides. (art. D555 à D569)](#380)
+        - [Chapitre Ier : Régime des pensionnaires. (art. D555 à D566)](#381)
+        - [Chapitre II : Régime des hébergés. (art. D568)](#382)
+        - [Chapitre III : Organisation administrative. (art. D569)](#383)
+  - [Partie réglementaire - Arrêtés (art. A42 à A47)](#384)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. A42 à A47)](#385)
+      - [Titre VII : Soins, traitement, rééducation, sécurité sociale. (art. A42 à A47)](#386)
+        - [Chapitre Ier : Soins gratuits. (art. A42 à A47)](#387)
+          - [Section 9 : Indemnités diverses. (art. A42 à A47)](#388)
+  - [Annexes (art. Annexe 1, art. 1 à Annexe 4)](#389)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 4)](#390)
+      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 4)](#391)
+        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#392)
+        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#393)
+        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#394)
+        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#395)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=2></a>
@@ -18086,13 +18203,7279 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L515
 
 
-# Annexes<a id=272></a>
+# Partie réglementaire - Décrets simples<a id=272></a>
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=273></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=273></a>
 
-### Titre VI : Etrangers.<a id=274></a>
+### Titre Ier : Droit à pension des invalides.<a id=274></a>
 
-#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=275></a>
+#### Chapitre Ier : Conditions du droit à pension.<a id=275></a>
+
+###### Article D1
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°79-393 du 16 mai 1979, v. init.
+
+_Cité par_:
+
+  - Arrêté du 25 novembre 2015 - art. 1 (V)
+  - Arrêté du 25 novembre 2015 - art. 3 (V)
+  - Décret n°2015-1535 du 25 novembre 2015 - art. 3 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=276></a>
+
+###### Article D4
+
+Toute notification de l'arrêté concédant une pension d'invalidité doit contenir les mentions relatives à la nature et à la
+description de l'infirmité qui a donné lieu à pension.
+
+A cette notification est annexée une copie certifiée conforme des mentions énoncées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R151-19 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre annexe
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+### Titre II : Emoluments complémentaires.<a id=277></a>
+
+#### Chapitre III : Indemnités de soins aux tuberculeux.<a id=278></a>
+
+###### Article D8
+
+Tout invalide titulaire d'un titre de pension ou d'un titre d'allocation provisoire d'attente de 100 % pour tuberculose a
+droit, s'il remplit les conditions spécifiées aux articles D. 9 à D. 19, à une indemnité de soins dont le montant annuel est
+déterminé par l'indice de pension 916.
+
+Les militaires, les fonctionnaires de l'Etat, des départements, des communes, des établissements publics, des pays d'outre-
+mer ainsi que les agents appartenant à d'autres organismes, mais dont le traitement ou le salaire reste à la charge d'une des
+collectivités ci-dessus énumérées, lorsqu'ils bénéficient de tout ou partie de leur traitement, salaire ou solde, peuvent
+recevoir, le cas échéant, une indemnité différentielle destinée à porter au taux annuel de l'indice de pension 916 le montant
+total des émoluments qu'ils perçoivent, abstraction faite des seules indemnités pour charges de famille.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D9
+
+L'indemnité prévue à l'article D. 8 est servie à l'intéressé jusqu'à sa guérison à condition :
+
+1° Qu'il ne soit pas hospitalisé gratuitement dans un sanatorium ou dans un hôpital pour une maladie ou une infirmité
+quelconque au titre des lois des 7 août 1851, 15 juillet 1893, 14 juillet 1905, 7 septembre 1919, 30 juin 1938 ou de
+l'article L. 115 ;
+
+2° Qu'il ne se livre à aucun travail lucratif ;
+
+3° Qu'il se soigne sous la surveillance des organismes antituberculeux et se conforme à leurs prescriptions, notamment à
+celles qui tendent, en application de l'article L. 42-1 au placement des enfants de moins de seize ans.
+
+Pour l'application du présent chapitre, il y a lieu d'entendre par guérison, non la disparition des lésions, mais la
+disparition durable des signes et des symptômes d'activité et d'évolution lésionnelles.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D14 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D15 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D18 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R34-3 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R34-4 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D10 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R34-2 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D8 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre D8, L115, L42-1
+  - Loi n°1851-08-07
+  - Loi n°1893-07-15
+  - Loi n°1905-07-14
+  - Loi n°1919-09-07
+  - Loi n°1938-06-30
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D10
+
+Les organismes antituberculeux visés à l'article D. 9 sont les dispensaires d'hygiène sociale, constitués conformément aux
+dispositions de l'ordonnance n° 45-2575 du 31 octobre 1945.
+
+La zone d'action de chaque dispensaire antituberculeux, concernant la surveillance prévue par l'article L. 41 est déterminée
+dans chaque département par arrêté préfectoral, pris après avis du conseil départemental d'hygiène.
+
+Le préfet, après avis du conseil départemental d'hygiène, désigne les médecins chargés d'assurer la surveillance des
+pensionnés qui ne pourraient se présenter au dispensaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cite_:
+
+  - Ordonnance 45-2575 1945-10-31
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L41 (V)
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D16
+
+Les bénéficiaires de l'indemnité de soins sont soumis sur place au contrôle administratif et médico-social du ministère de la
+santé publique et de la population.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D18
+
+En attendant la décision à intervenir conformément aux dispositions de l'article D. 11, tous les pensionnés à 100 % pour
+tuberculose qui en font la demande à la direction interdépartementale dont ils relèvent reçoivent un livret provisoire
+d'indemnité de soins, payable mensuellement par douzièmes sur le taux annuel de l'indice de pension 916. La demande doit être
+accompagnée d'une attestation de l'intéressé certifiant qu'il remplit les conditions n° 1 et 2 de l'article D. 9.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D11 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D9 (V)
+
+
+###### Article D19
+
+L'allocation, dans les conditions prévues par l'article 93 de la loi du 19 octobre 1946, du traitement ou du demi-traitement
+aux fonctionnaires atteints de tuberculose ouverte, est exclusive de l'indemnité de soins prévue à l'article L. 41.
+
+Les prestations à recevoir par les militaires titulaires des congés prévus par la loi du 18 avril 1931, en faveur de tout
+officier, fonctionnaire militaire et assimilé de l'armée active atteint de tuberculose ouverte, sont également exclusives de
+l'indemnité de soins prévue à l'article L. 41 précité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L41 (V)
+  - Loi n°1931-04-18
+  - Loi n°1946-10-19 art. 93
+
+
+### Titre V : Révision et voies de recours.<a id=279></a>
+
+#### Chapitre II : Voies de recours.<a id=280></a>
+
+##### Section 1 : Désignation des commissaires du Gouvernement.<a id=281></a>
+
+###### Article D22
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, art. 7 v. init.
+
+
+###### Article D23
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, v. init.
+
+
+###### Article D24
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, art. 7 v. init.
+
+
+##### Section 2 : Dispositions concernant les départements d'outre-mer.<a id=282></a>
+
+###### Article D25
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, v. init.
+
+
+###### Article D26
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, v. init.
+
+
+###### Article D27
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, v. init.
+
+
+###### Article D28
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°63-1064 du 21 octobre 1963, v. init.
+
+
+##### Section 3 : Dispositions diverses.<a id=283></a>
+
+###### Article D29
+
+Les indemnités fixées en faveur des réformés en instance de pension par l'article R. 61 et les indemnités dues aux témoins,
+par l'application de l'article R. 46, sont avancées sans retenues par le greffier de la juridiction compétente, qui en
+obtient le remboursement par l'administration de l'enregistrement contre remise des taxes revêtues de l'acquit des parties
+prenantes.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R46
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R61
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D30
+
+Les frais de procédure devant les juridictions des pensions sont payés au titre de frais de justice d'après les règles fixées
+devant les juridictions de droit commun dans les procédures pénales ou les procédures assimilées, sous réserve des
+dispositions de l'article D. 31.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D711-9 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D31
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D31
+
+Ces frais sont acquittés sur simple taxe du président du tribunal ou du président de la cour régionale, apposée sur les
+réquisitions, copies de convocations ou de citations, états ou mémoires des parties. Ces dispositions s'appliquent au
+payement des indemnités fixées, en faveur du médecin et du pensionné membres titulaires ou suppléants du tribunal
+départemental des pensions, par les deux premiers alinéas de l'article R. 46.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D30 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R46
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+### Titre VI : Dispositions diverses relatives au paiement des pensions.<a id=284></a>
+
+#### Chapitre VI : Allocations provisoires d'attente.<a id=285></a>
+
+##### Section 1 : Militaires et marins.<a id=286></a>
+
+##### Paragraphe 1 : Règles générales.<a id=287></a>
+
+###### Article D38
+
+Les allocations provisoires d'attente sont payables à raison de trente jours par mois à titre d'avance sur pension.
+
+En cas de rejet de la demande de pension les sommes perçues sont définitivement acquises aux militaires.
+
+Dans le cas contraire, ces sommes sont déduites des arrérages dus de la pension accordée, dans les conditions qui sont
+provisoirement fixées par l'instruction du 24 février 1920, complétée par celle du 27 janvier 1923.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Instruction 1920-02-24
+
+
+###### Article D39
+
+En ce qui concerne les marins, les ayants droit à l'allocation provisoire d'attente prévue à l'article D. 37 adressent leur
+demande au médecin chef du centre maritime compétent pour instruire leur demande de pension et désigné à l'alinéa 1er de
+l'article R. 18.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R18
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=288></a>
+
+###### Article D40
+
+En ce qui concerne les militaires, le délégué interdépartemental chargé du service des pensions délivre aux ayants droit à
+l'allocation provisoire d'attente, prévue par l'article D. 37, et autant que possible le jour même de leur comparution devant
+la commission de réforme, un titre de payement d'un modèle analogue au modèle P annexé au décret du 20 octobre 1919.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°1919-10-20 annexe
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D37
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D41
+
+Les ayants droit à l'allocation provisoire d'attente, ressortissants des départements de la marine militaire et de la marine
+marchande, qu'il s'agisse d'une demande initiale de pension d'invalidité, d'un renouvellement triennal ou d'une visite subie,
+pour aggravation, sont mis en possession de leur titre modèle P par les soins du chef de bureau spécial des pensions de la
+marine, agissant par délégation du chef de service de la solde du port d'immatriculation comptable de l'intéressé.
+
+Si le postulant à pension ou à augmentation ou à renouvellement de pension comparaît devant la commission de réforme du port
+d'immatriculation, la délivrance du titre de payement modèle P est effectuée le jour même de la comparution devant la
+commission de réforme.
+
+Si le postulant est présenté devant une commission de réforme de l'armée de terre ou de la marine siégeant dans une localité
+autre que le port d'immatriculation, le dossier médical comportant les procès-verbaux d'expertises et de la séance de la
+commission de réforme est adressé directement, dans la huitaine de ladite séance, au chef du bureau spécial des pensions de
+la marine du port d'immatriculation, lequel est chargé de la délivrance du titre de payement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D42
+
+Les bons de payement de ce titre sont à échéances trimestrielles, en sorte que le premier est perçu trois mois après le point
+de départ de l'allocation provisoire d'attente.
+
+Les titres de payement d'un modèle analogue au modèle P sont remis par les intéressés au délégué interdépartemental ou
+renvoyés au chef du service de la solde du port chef-lieu d'immatriculation ou du port d'attache en échange de leur titre de
+pension définitif dans les conditions qui sont provisoirement fixées par l'instruction du 24 février 1920 modifiée par celle
+du 27 janvier 1923.
+
+Le directeur interdépartemental ou le chef du service de la solde adresse, le jour même, au trésorier-payeur général auprès
+duquel lui-même ou son service est accrédité des avis d'émission des titres de payement délivrés par lui.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D43 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cite_:
+
+  - Instruction 1920-02-24
+  - Instruction 1923-01-27
+
+
+###### Article D43
+
+Le payement des bons est effectué aux bénéficiaires eux-mêmes par le percepteur de la réunion dont fait partie la commune,
+soit de leur domicile, soit de leur résidence, sur présentation de leur titre et des bons adhérant à ce titre. Ces bons de
+payement dûment acquittés sont détachés du titre par le percepteur et conservés par lui.
+
+Si un bénéficiaire est dans l'impossibilité constatée de se rendre au lieu désigné pour le payement, ce dernier est effectué
+dans les conditions indiquées ci-dessus, entre les mains de la personne désignée par l'ayant droit et munie d'une procuration
+modèle C annexée à l'instruction du 18 juin 1919.
+
+Les payements sont effectués pour le compte du trésorier-payeur général visé à l'article D. 42.
+
+Les bons de payement ne peuvent être perçus six mois après leur échéance.
+
+Tous les bons, après payement, donnent lieu mensuellement à remboursement par voie d'ordonnancement définitif au nom du
+trésorier-payeur général pour le compte duquel ils ont été payés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D42 (V)
+  - Instruction 1919-06-18
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D44
+
+Le directeur interdépartemental et le chef du service de la solde tiennent un contrôle nominatif des bénéficiaires de
+l'allocation provisoire d'attente prévue à l'article D. 37.
+
+Les remises ou envois de titres ainsi que les payements ou les annulations de bons y sont mentionnés.
+
+Les dépenses résultant de ces payements font l'objet d'états de liquidation établis annuellement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D37 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D50 (Ab)
+
+
+##### Section 2 : Ayants cause des militaires ou marins.<a id=289></a>
+
+##### Paragraphe 1 : Règles générales.<a id=290></a>
+
+###### Article D45
+
+Les veuves, orphelins ou ascendants des militaires, ou des marins, ou assimilés, agents et autres de la marine, décédés ou
+disparus, ayant droit aux pensions prévues par le présent code reçoivent, en attendant la remise de leur titre définitif de
+pension, une allocation provisoire d'attente payable par trimestre échu.
+
+Le montant de cette allocation provisoire d'attente est déterminé d'après le taux de la pension à laquelle les ayants droit
+peuvent prétendre en exécution du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 2 : Payement des allocations provisoires d'attente.<a id=291></a>
+
+###### Article D48
+
+Il n'est pas établi de demande spéciale pour obtenir l'allocation provisoire d'attente.
+
+L'autorité compétente pour recevoir la demande de pension, dès qu'elle est en possession d'une demande de pension accompagnée
+des pièces justificatives et que le bien-fondé en a été reconnu, établit un titre de payement, modèle P, en faveur des
+requérants.
+
+Le premier bon de payement du titre modèle P correspond à la période comprise entre le point de départ de l'allocation
+provisoire d'attente et le dernier jour de la quinzaine pendant laquelle le titre est établi ; il est payable à partir du
+premier jour de la quinzaine suivante. Les autres bons sont à échéance trimestrielle.
+
+L'autorité compétente visée au deuxième alinéa fait parvenir sans délai aux intéressés les titres de payement ainsi établis
+et adresse, le jour même de l'envoi, un avis d'émission au trésorier-payeur général auprès duquel lui-même, le service de
+l'intendance maritime ou le directeur de l'établissement est accrédité.
+
+Lorsque tous les bons d'un titre de payement modèle P ont été perçus, l'autorité compétente délivre, si cela est nécessaire,
+un titre de même nature contre remise, par le bénéficiaire, du titre précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D49
+
+Le payement des bons est effectué dans les conditions fixées à l'article D. 43.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D43 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D50
+
+Le contrôle nominatif des bénéficiaires prévu à l'article D. 44 est distinct :
+
+1° Pour les veuves ;
+
+2° Pour les orphelins ;
+
+3° Pour les ascendants.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D44 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D51
+
+Lorsqu'il se produit, dans la situation des intéressés, un changement de nature à modifier le montant ou le caractère de la
+pension, le titre de payement qu'ils détiennent doit immédiatement être annulé.
+
+Les bénéficiaires l'adressent, à cet effet, accompagné des pièces justificatives et d'une lettre explicative, au directeur
+interdépartemental ou au chef du service de la solde, qui délivre en échange un nouveau titre de payement.
+
+Le premier bon du nouveau titre comprend les sommes restant dues au dernier jour de la quinzaine pendant laquelle il est
+établi compte tenu des sommes déjà perçues et des modifications survenues dans la situation des ayants droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D52
+
+En cas de décision rejetant une demande de pension, les bons du titre de payement modèle P non encaissés cessent d'être
+payables.
+
+Lorsque la pension est accordée, peuvent seuls être perçus le bon correspondant au trimestre en cours lors de la réception
+par le directeur interdépartemental ou le chef du service de la solde du titre définitif de pension et les bons échus
+antérieurement.
+
+Ce fonctionnaire ou cet officier doit faire immédiatement opposition, auprès du trésorier-payeur général, au payement des
+bons non payables et aviser les intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+### Titre VII : Soins, traitement et rééducation.<a id=292></a>
+
+#### Chapitre Ier : Soins gratuits.<a id=293></a>
+
+##### Section 5 : Dispositions générales.<a id=294></a>
+
+##### Paragraphe 2 : Procédure et voies de recours.<a id=295></a>
+
+###### Article D111 à D120
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°59-1362 du 20 novembre 1959
+
+
+#### Chapitre II : Organisation, contrôle et tarifs des soins gratuits dans les Etats associés d'Indochine et les territoires de l'Union française.<a id=296></a>
+
+###### Article D121 à D224
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°61-334 du 24 mars 1961 art. 2
+
+
+#### Chapitre V : Rééducation professionnelle.<a id=297></a>
+
+###### Article D226
+
+La rééducation professionnelle a pour but de permettre aux personnes admises à en bénéficier par les lois et règlements de se
+réadapter à leur ancien métier, d'en apprendre un nouveau compatible avec leurs infirmités, grâce à des méthodes et, le cas
+échéant, à un appareillage approprié ou d'acquérir une formation professionnelle en rapport avec leurs aptitudes.
+
+En aucun cas elle n'entraîne la diminution de la pension ou de la rente d'invalidité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L133 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D227
+
+La rééducation professionnelle est assurée dans les conditions fixées par le présent code, sous l'une des formes suivantes :
+
+1° Par les écoles de rééducation professionnelle (art. D. 526 à D. 533) ;
+
+2° Par le placement chez l'employeur sous la surveillance des offices départementaux des anciens combattants et victimes de
+guerre avec ou sans contrat d'apprentissage (art. A. 57 à A. 84) ;
+
+3° Par voie de subventions ou de bourses d'études allouées à des pensionnés de guerre poursuivant des études supérieures ou
+se préparant à certaines carrières.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L133 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre D526 à D533, A57 à A84
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D228
+
+Les dispositions des articles L. 132 à L. 136 concernant la rééducation professionnelle et l'office national des anciens
+combattants et victimes de guerre sont applicables aux pays d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L133 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L132 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L133 (VT)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L134 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L135 (VT)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L136 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L132
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L134
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L135
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L136
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D229
+
+Les veuves pensionnées au titre du présent code peuvent demander leur rééducation professionnelle.
+
+La demande est adressée à l'office départemental des anciens combattants et victimes de guerre du département de la résidence
+de l'intéressée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L133 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D230
+
+Les militaires ou anciens militaires visés à l'article L. 132 qui désirent être admis aux avantages prévus au 1er alinéa de
+l'article L. 134 doivent en faire la demande par une lettre adressée à l'office départemental des anciens combattants et
+victimes de guerre du département où ils résident.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L132
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L134
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=298></a>
+
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=299></a>
+
+#### Chapitre VII : Chantiers de la jeunesse.<a id=300></a>
+
+###### Article D232
+
+Les jeunes Français, atteints d'infirmités contractées ou aggravées par le fait ou à l'occasion du service pendant
+l'accomplissement de leur stage obligatoire dans les chantiers de la jeunesse peuvent, s'ils n'ont pas été proposés d'office,
+faire valoir leurs droits à pension d'invalidité dans les conditions ci-dessous définies :
+
+a) Les jeunes des chantiers de la jeunesse font parvenir au médecin chef du centre de réforme de leur résidence, sous pli
+recommandé, une demande accompagnée des pièces justificatives en leur possession ainsi qu'un certificat médical attestant la
+réalité de l'infirmité invoquée ;
+
+b) Les jeunes des chantiers de la jeunesse de la marine résidant dans un département comprenant un port militaire, adressent
+leur dossier au médecin chef du centre de réforme de la région maritime.
+
+S'ils ne résident pas dans un département comprenant un port militaire, ils adressent leur dossier au médecin chef du centre
+de réforme de leur résidence, qui suit la même procédure que pour les marins du corps des équipages.
+
+La demande doit comporter : les nom, prénoms et adresse de l'intéressé, l'indication du ou des groupements, unités ou
+services auxquels il a été successivement affecté. Elle doit également indiquer si l'état de santé de l'intéressé lui rend
+impossible tout déplacement ; dans ce cas, mention de cette impossibilité doit figurer sur le certificat médical joint à la
+demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D233
+
+Sont applicables aux jeunes Français visés à l'article D. 232 les dispositions du livre Ier (première partie), relatives à
+l'ouverture du droit à pension temporaire ou définitive, à l'appréciation du degré d'invalidité, à la fixation du taux des
+pensions et à la révision desdites pensions.
+
+Le pourcentage d'invalidité servant de base à l'attribution de la pension est apprécié conformément aux dispositions du
+barème annexé au décret du 29 mai 1919.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D232 (Ab)
+  - Décret n°1919-05-29 annexe
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D234
+
+Les demandes sont instruites, les expertises médicales sont effectuées et les dossiers sont constitués conformément aux
+dispositions du livre Ier (deuxième partie).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D235
+
+Les bénéficiaires des dispositions du présent chapitre (première partie) ont droit en matière de soins, d'appareillage et de
+rééducation professionnelle, aux prestations accordées aux pensionnés par les articles L. 115 à L. 123 et L. 128 à L. 136.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D236
+
+Les droits des veuves, orphelins et ascendants sont ceux reconnus par les articles L. 43 à L. 77.
+
+Les demandes de ces ayants droit sont présentées et instruites conformément aux dispositions des titres III et IV du livre
+Ier (deuxième partie).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D237
+
+Les demandes formulées par les jeunes Français résidant à l'étranger sont instruites conformément aux dispositions des
+articles R. 20 et R. 21.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R20
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R21
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D238
+
+Les bureaux spéciaux des pensions de la marine administrent les jeunes des chantiers de jeunesse de la marine titulaires
+d'une pension d'invalidité ou leurs ayants cause, et suivant l'instruction des demandes des ayants droit résidant à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D239
+
+Les postulants à pension peuvent obtenir, sur les crédits du budget du ministère des anciens combattants et victimes de
+guerre, des avances dans les conditions prévues au chapitre VI du titre VI du livre Ier (troisième partie).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D240
+
+La décision du ministre des anciens combattants et victimes de guerre, qui assume la liquidation des pensions, peut être
+contestée dans les conditions prévues par le titre V du livre Ier (première partie).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+### Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer.<a id=301></a>
+
+#### Chapitre Ier : Droit à pension des militaires autochtones et de leurs ayants cause.<a id=302></a>
+
+###### Article D241
+
+Les taux des pensions et de leurs accessoires fixés par le présent code et les tableaux y annexés sont applicables aux
+autochtones des pays d'outre-mer et à leurs ayants cause.
+
+Toutefois, en ce qui concerne les ayants cause, leurs droits à pension sont appréciés suivant les règles fixées au 1° et au
+premier alinéa du 2° de l'article L. 241.
+
+Les pièces à fournir pour établir les preuves du mariage, de la paternité et de la filiation et, d'une manière générale, les
+documents concernant l'état civil des militaires autochtones des pays d'outre-mer et de leurs ayants cause sont déterminés
+par arrêté du ministre chargé de la France d'outre-mer dont les dispositions font l'objet de l'article A. 114-3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre annexe, L241, A114-1
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D242
+
+En application de l'article L. 240, le droit aux allocations ou indemnités visées aux articles L. 31 à L. 34, L. 36 à L. 38
+et L. 41 est ouvert au autochtones des pays d'outre-mer titulaires d'une pension d'invalidité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L240
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L31
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L32
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L33
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L34
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L41
+
+
+#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=303></a>
+
+###### Article D243
+
+Les bénéficiaires des articles L. 248 à L. 250 sont les travailleurs indochinois, engagés ou requis et encadrés dans les
+conditions fixées par l'instruction générale du 24 juillet 1934.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L248 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L249 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L250 (V)
+  - Instruction 1934-07-24
+
+
+###### Article D244
+
+Toutes les dispositions non contraires à celles du présent chapitre prévues par les articles R. 103 à R. 128 et R. 137 à R.
+145 sont applicables aux travailleurs indochinois.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R103 à R128, R137 à R145
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D246
+
+Pour faire la preuve de l'imputabilité au service des infirmités ou du décès résultant d'un accident survenu ou d'une maladie
+contractée par le fait ou à l'occasion du service conformément à l'article L. 249, le dossier doit comporter :
+
+1° Une justification des services effectués ;
+
+2° Un extrait des constatations médicales faites lors de l'embarquement ou du débarquement du demandeur ;
+
+3° Un procès-verbal sur les circonstances de l'accident ou de la maladie établi par le chef de l'unité ;
+
+4° Eventuellement, un document médical de la formation sanitaire où l'intéressé a été soigné en premier lieu, établissant
+l'origine des infirmités ;
+
+5° Eventuellement, toutes pièces médicales établissant la filiation entre les infirmités invoquées par le demandeur et celles
+constatées pendant le service.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L249 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D247
+
+Le taux de la pension est celui de soldat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D248
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°53-772 du 13 août 1953 art. 8
+
+
+###### Article D249
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°53-772 du 13 août 1953 art. 8
+
+
+###### Article D251
+
+article abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°53-772 du 13 août 1953 art. 8
+
+
+#### Chapitre III : Allocations provisoires d'attente.<a id=304></a>
+
+###### Article D252
+
+Les dispositions relatives aux titres d'allocations provisoires d'attente fixées par les articles D. 37 à D. 52 sont
+applicables aux militaires autochtones et à leurs ayants cause dans les conditions définies aux articles D. 253 à D. 257.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D253
+
+Le titre d'allocation provisoire d'attente est établi, qu'il s'agisse des militaires ou marins eux-mêmes ou de leurs ayants
+cause :
+
+1° En ce qui concerne les militaires, par les soins des fonctionnaires de l'intendance chargés de l'instruction des demandes
+de pension désignés aux articles R. 110 à R. 114 ;
+
+2° En ce qui concerne les marins par les soins des autorités ci-après :
+
+a) Directeur de l'intendance maritime de Saïgon pour les ressortissants des Etats associés d'Indochine ou leurs ayants
+cause ;
+
+b) Chef du service de l'intendance maritime, à Dakar, pour les marins autochtones de l'Afrique occidentale française et de
+l'Afrique équatoriale française et leurs ayants cause ;
+
+c) Intendant militaire de Diégo-Suarez, pour les marins autochtones de Madagascar et dépendances et leurs ayants cause.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D254 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D256 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D254
+
+Le paiement des bons est effectué aux bénéficiaires eux-mêmes, en France, par le percepteur, dans les pays d'outre-mer par le
+trésorier-payeur ou, pour son compte, par le trésorier particulier, le préposé au Trésor ou l'agent spécial le plus rapproché
+de leur résidence, sur présentation du titre de paiement et des bons adhérents à ce titre. Ces bons dûment acquittés sont
+détachés du titre par le payeur et conservés par lui.
+
+Tous les bons de paiement perçus sont remboursés mensuellement au trésorier général, au trésorier-payeur pour le compte
+duquel ils ont été payés, en France par ordonnancement direct, dans les pays d'outre-mer au moyen d'ordre de paiement émis au
+titre du budget des pensions par les fonctionnaires et autorités énumérés à l'article D. 253.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D253 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D255
+
+Les titres d'allocation provisoire d'attente arrivés à expiration sont remis par les titulaires à l'autorité qui les a
+établis et remplacés par des titres nouveaux d'égale durée. Toutefois, lorsqu'il s'agit de pension à jouissance limitée,
+cette durée de validité est réduite en conséquence.
+
+Tout titre d'allocation provisoire d'attente en cours de paiement est retiré des mains du titulaire préalablement à la remise
+du titre de la pension concédée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D256
+
+Les opérations d'annulation et, s'il y a lieu, l'échange, sont effectuées d'office par le fonctionnaire de l'intendance ou
+les autorités visés à l'article D. 253 lorsque, au cours de la période de validité d'un titre d'allocation provisoire
+d'attente délivré à un militaire ou à un marin proposé pour une pension d'invalidité, une nouvelle commission de réforme a
+conclu au non-renouvellement du droit à pension ou modifié le degré d'invalidité primitivement reconnu.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D253
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D257
+
+Les militaires ou marins autochtones des pays d'outre-mer et leurs ayants cause bénéficiaires de l'allocation provisoire
+d'attente sont inscrits, dans un chapitre spécial, sur le contrôle dont la tenue est prescrite par l'article D. 44 pour les
+militaires et marins de la métropole et par l'article D. 50 pour leurs ayants cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=305></a>
+
+### Titre Ier : Carte et retraite du combattant<a id=306></a>
+
+#### Chapitre Ier : Carte du combattant<a id=307></a>
+
+##### Section 1 : Algérie.<a id=308></a>
+
+###### Article D258
+
+Les dispositions des articles R. 223 à R. 235 et des tableaux I et II y annexés sont applicables à l'Algérie.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R223 à R235
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 2 : Pays d'outre-mer.<a id=309></a>
+
+###### Article D259
+
+Les dispositions des articles R. 223 à R. 229 et des tableaux I et II y annexés sont applicables aux anciens combattants
+originaires des pays d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R223 à R229
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D260
+
+La carte du combattant est délivrée par le président de l'office d'outre-mer de la résidence de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D261
+
+Sous réserve des modifications nécessitées par les contingences locales, le modèle de carte est conforme à celui déterminé
+par l'article R. 231.
+
+L'apposition de la photographie peut, en ce qui concerne les autochtones, être rendue facultative par arrêté de l'autorité
+française définie à l'article R. 104 et remplacée par l'apposition des empreintes digitales des intéressés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R104 (M)
+  - Code des pensions militaires d'invalidité et des v - art. R231 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D262
+
+Les attributions prévues en faveur des offices départementaux sont exercées par les offices d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D263
+
+Des arrêtés de l'autorité française définie à l'article R. 104 déterminent les modalités d'application de la présente
+section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R104 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre II : Retraite du combattant<a id=310></a>
+
+##### Section 1 : Attribution et paiement de la retraite.<a id=311></a>
+
+###### Article D264
+
+Les dispositions des articles R. 236 à R. 241 sont applicables aux titulaires de la carte du combattant résidant dans les
+pays d'outre-mer, sous les réserves ci-après :
+
+1° L'organe auquel les titulaires de la carte du combattant doivent adresser leur demande de retraite du combattant est
+l'office départemental ou l'office d'outre-mer qui a établi la carte du combattant ;
+
+2° Le fonctionnaire qualifié prévu aux articles R. 237 à R. 240 est le fonctionnaire chargé du service des pensions
+militaires dans la circonscription où se trouve le domicile du demandeur ;
+
+3° La remise des livrets aux intéressés prévue à l'article R. 240 est effectuée :
+
+Dans les pays d'outre-mer, par les représentants de l'autorité française telle qu'elle a été définie à l'article R. 104.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D265 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A154 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D266 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. R104 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R236 à R241, R237 à R240, R104
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D265
+
+Les articles R. 242 à R. 245 sont applicables dans les pays [*d'outre mer, DOM TOM*] visés à l'article 264. Toutefois, dans
+les territoires d'outre-mer, les paiements des coupons sont effectués au titre du compte "Avances pour divers services des
+ministères à régulariser ultérieurement".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D264 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R242 à R245, D264
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D266 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 2 : Citoyens français n'ayant pas servi dans l'armée française.<a id=312></a>
+
+###### Article D266
+
+Les dispositions des articles R. 246 à R. 251 sont applicables aux citoyens français titulaires de la carte du combattant,
+n'ayant pas servi dans l'armée française et qui résident dans les pays d'outre-mer. L'instruction des demandes, la remise des
+livrets de retraite, le paiement des retraites et la régularisation des paiements sont effectués selon les règles fixées par
+les articles D. 264 et D. 265.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L261 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D264 (M)
+  - Code des pensions militaires d'invalidité et des v - art. D265 (M)
+  - Code des pensions militaires d'invalidité et des victimes de la guerre R246 à R251, D264, D265
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+### Titre III : Droits et avantages accessoires.<a id=313></a>
+
+#### Chapitre Ier : Carte d'invalidité et droits y afférents<a id=314></a>
+
+##### Section 1 : Réduction sur les transports ferroviaires.<a id=315></a>
+
+###### Article D267
+
+Les aveugles de la résistance bénéficient des avantages qui sont accordés aux aveugles de guerre sur les transports par
+chemin de fer.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D251-5 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 2 : Réduction sur les transports routiers.<a id=316></a>
+
+###### Article D268
+
+Les mutilés et réformés de guerre bénéficiaires de l'article L. 320 ont droit à une réduction sur les tarifs :
+
+1° Des entreprises routières de remplacement de trains de la Société nationale des chemins de fer français ;
+
+2° Des entreprises routières libres qui délivrent, sur tous les services maintenus en parallèle, des billets d'aller et
+retour à un prix inférieur au double du prix du billet simple de la dernière classe, soit du tarif général du chemin de fer,
+soit du tarif spécial qui, sur une relation, s'y substitue d'une manière permanente.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L320
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D269
+
+Cette réduction est de 50 % sur le prix du billet simple.
+
+Elle est toutefois portée à 75 % pour les mutilés et réformés de guerre qui bénéficient d'une réduction de 75 % sur les
+chemins de fer, et pour le guide accompagnant le pensionné au taux de 100 %, bénéficiaire des dispositions de l'article L.
+18.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D270
+
+Ces réductions ne peuvent être imposées aux services de remplacement de trains des chemins de fer d'intérêt local que dans la
+limite où leur cahier des charges le permet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 3 : Droit de priorité.<a id=317></a>
+
+###### Article D271
+
+Implicitement abrogé
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=318></a>
+
+###### Article D271-8
+
+Les conditions dans lesquelles les demandes sont établies et instruites sont fixées par instruction du ministre des anciens
+combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D271-9
+
+Tout retrait de carte de déporté ou d'interné politique effectué dans les conditions fixées à l'article L. 319 bis entraîne
+le remboursement du pécule perçu en application des articles D. 271-3 à D. 271-9.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L319 bis
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D271-10
+
+Les étrangers ou leurs ayants cause résidant actuellement en France et y étant entrés avant le 1er septembre 1939 bénéficient
+des dispositions des articles D. 271-3 à D. 271-9.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D271-11
+
+Les dispositions des articles D. 271-3 à D. 271-10 ne sont pas applicables en cas d'option pour le statut des déportés et
+internés de la Résistance dans les conditions prévues à l'article L. 291.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D271-3 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D271-4 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D271-5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L291
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D271-12
+
+Délégation est donnée aux directeurs interdépartementaux des anciens combattants et victimes de guerre à l'effet de signer,
+au nom du ministre, les décisions portant rejet des demandes d'attribution du pécule présentées soit par les déportés et
+internés politiques, soit par leurs ayants cause.
+
+La même délégation est donnée au fonctionnaire de la préfecture de Paris actuellement chargé de la direction des services de
+la direction interdépartementale de Paris.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D271-14 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D271-13
+
+Délégation est également donnée aux directeurs interdépartementaux des anciens combattants et victimes de guerre, ainsi qu'au
+fonctionnaire de la préfecture de Paris susvisé, pour statuer, au nom du ministre, sur les recours gracieux formulés par les
+postulants dont les demandes ont été rejetées.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D271-14 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D271-14
+
+En cas d'absence ou d'empêchement des directeurs interdépartementaux ou du fonctionnaire de la préfecture de Paris visé aux
+articles D. 271-12 et D. 271-13, délégation est donnée aux délégués adjoints chargés de l'intérim des services
+interdépartementaux susvisés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D271-12 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D271-13 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre III : Décorations et insignes.<a id=319></a>
+
+##### Section 1 : Légion d'honneur et médaille militaire.<a id=320></a>
+
+###### Article D272
+
+Le contingent spécial de distinctions dans l'ordre de la Légion d'honneur, prévu à l'article L. 350, est destiné à
+récompenser les volontaires de la Résistance, y compris les déportés et internés résistants, en possession d'un grade
+d'officier (active ou réserve) ou d'un grade d'officier d'assimilation homologué ou ayant rendu des services particulièrement
+importants à la Résistance.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D273 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. A177 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R351-10 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L350
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D273
+
+Le contingent de médailles militaires prévu à l'article L. 350 est destiné à récompenser les résistants visés à l'article D.
+272 qui ne remplissent pas les conditions pour concourir pour la Légion d'honneur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D272 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L350
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A178 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D274
+
+Ces décorations comportent l'attribution de la croix de guerre avec palme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 2 : Croix du combattant volontaire de la guerre 1914-1918.<a id=321></a>
+
+###### Article D275
+
+La croix du combattant volontaire de la guerre 1914-1918 est en bronze, du module d'environ 36 millimètres.
+
+Elle porte l'inscription "République française" et les mots "Croix du combattant volontaire".
+
+Elle est suspendue à un ruban par un anneau sans bélière.
+
+Le ruban, d'une largeur de 36 millimètres, est du vert de la croix de guerre avec, au milieu, une bande rouge de huit
+millimètres et à un millimètre de chaque bord, une bande jaune de quatre millimètres.
+
+Les ayants droit se procurent la croix à leurs frais.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D276
+
+La croix du combattant volontaire est portée après la croix de guerre et avant la croix du combattant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 3 : Croix du combattant.<a id=322></a>
+
+###### Article D277
+
+La croix du combattant est en bronze du module d'environ 36 millimètres.
+
+Elle porte l'inscription "République française" et les mots "Croix du combattant".
+
+Elle est suspendue à un ruban par un simple anneau sans bélière.
+
+Le ruban, d'une largeur de 36 millimètres, est bleu horizon et coupé dans le sens de la longueur de sept raies de couleur
+rouge garance, d'une largeur uniforme de un millimètre et demi.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D280 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D353-3 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D278
+
+Sont seuls autorisés à porter la croix du combattant les titulaires de la carte du combattant.
+
+Les intéressés doivent pouvoir justifier leur droit au port de la croix par la production de ladite carte qui leur tient lieu
+de brevet.
+
+Ils se procurent la croix à leurs frais.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 5 janvier 1993 - art. Annexe (V)
+  - Code des pensions militaires d'invalidité et de... - art. D280 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. L355 (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D353-4 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D279
+
+La croix du combattant est portée immédiatement après la croix du combattant volontaire 1914-1918 et avant la médaille des
+évadés.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D353-5 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D280
+
+Les articles L. 354 et L. 355, D. 277 et D. 278 sont applicables dans les pays d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D277 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D278 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L354
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L355
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 4 : Médaille de prisonniers civils, déportés et otages de la grande guerre.<a id=323></a>
+
+###### Article D281
+
+La médaille des prisonniers civils, déportés et otages de la grande guerre est frappée en bronze, par l'Administration des
+Monnaies et Médailles.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L374 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D282
+
+Les demandes des candidats à l'attribution de la médaille sont formulées sur papier libre. Elles doivent être reçues par les
+préfets des départements atteints par les événements de guerre, où habitaient les ayants droit au moment où ils ont subi
+leurs épreuves.
+
+Ces demandes sont reçues et instruites par le comité départemental prévu à l'article L. 376.
+
+Le préfet prend un arrêté nommant les membres élus ou désignés pour faire partie de ce comité. Le même arrêté fixe les
+modalités de fonctionnement du comité.
+
+Les fonctions conférées à ces membres sont exclusives de toute indemnité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D287 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L376
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D283
+
+Les conditions de fonctionnement du comité central prévu par l'article L. 377 sont fixées par les articles A. 181 à A. 185.
+Les fonctions conférées aux membres de ce comité sont exclusives de toute indemnité autre que le remboursement des frais.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L377
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D284
+
+La médaille des prisonniers civils, déportés et otages de la grande guerre est portée après la médaille de la Victoire et
+avant les décorations des ordres coloniaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 5 : Médaille commémorative française de la guerre 1939-1945.<a id=324></a>
+
+###### Article D285
+
+Il est créé une médaille dite médaille commémorative française de la guerre 1939-1945.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D286
+
+Cette médaille, avec la ou les barrettes correspondantes définies à l'article D. 292, est accordée à tout militaire, marin,
+aviateur, affecté à des formations subordonnées, soit à une autorité française, soit à un gouvernement français, en état de
+guerre avec les nations de l'Axe, ou présent à bord des bâtiments armés par ces gouvernement et autorité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D289 (V)
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D292 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D287
+
+Peuvent également obtenir la médaille commémorative, avec la ou les barrettes, définies à l'article D. 282, les
+ressortissants français civils ou militaires qui ont lutté contre les forces de l'Axe ou leurs représentants.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D289 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D282 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D288
+
+La médaille commémorative peut être accordée aux personnes de la défense passive qui ont participé à celle-ci à l'occasion
+d'un bombardement ou d'un combat ou qui sont titulaires d'une pension d'invalidité au titre de la défense passive.
+
+La barrette porte l'inscription "Défense passive".
+
+Une autorisation individuelle de port de la médaille est délivrée aux ayants droit.
+
+Une instruction fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D289
+
+La médaille commémorative de la guerre 1939-1945 peut être accordée, dans les conditions de l'article D. 292, aux étrangers
+remplissant par ailleurs les conditions des articles D. 286 et D. 287, sous réserve qu'ils produisent à l'appui de leur
+demande l'autorisation de leur gouvernement respectif. Dans ce cas, une autorisation de port est délivrée aux intéressés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D286 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D287 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D292 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D290
+
+Nul ne peut prétendre au port de la médaille s'il a été l'objet d'une condamnation à une peine afflictive et infamante pour
+des faits accomplis pendant la période des hostilités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D291
+
+L'insigne, dont le modèle est déposé à l'Administration des Monnaies et Médailles, est de bronze. L'avers représente un coq,
+ailes déployées, se détachant de trois quarts à droite sur une croix de Lorraine, et dressé sur une chaîne brisée. Au revers
+sont inscrits les mots "République française" et, au-dessous, "Guerre 1939-1945".
+
+La médaille est suspendue à un ruban par une bélière également en bronze.
+
+Le ruban est formé, dans le sens de la longueur, d'une bande médiane bleu clair de 24 millimètres encadrée verticalement de
+deux bandes rouges de un millimètre chacune et d'une bande verte de quatre millimètres disposées de telle sorte que deux des
+bandes rouges bordent ledit ruban.
+
+De plus, la bande médiane bleu clair est coupée en son milieu et dans le sens vertical par des V superposés de couleur rouge
+dont les branches ont quatre millimètres de long sur 0,33 millimètres de large et un écart de trois millimètres, les pointes
+des V étant séparées les unes des autres par une distance de trois millimètres environ.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D292
+
+Ce ruban est orné de barrettes en métal blanc portant l'indication des diverses phases de la campagne à commémorer, savoir :
+
+Barrette "France", pour les opérations du 3 septembre 1939 au 25 juin 1940 ;
+
+Barrette "Norvège", pour les opérations du 12 avril 1940 au 17 juin 1940 ;
+
+Barrette "Afrique", pour les opérations du 25 juin 1940 au 13 mai 1943 ;
+
+Barrette "Italie", pour les opérations (celles de l'île d'Elbe comprise) du 1er décembre 1943 au 25 juillet 1944 ;
+
+Barrette "Libération", pour les opérations de France (celles de Corse comprises) du 25 juin 1940 au 8 mai 1945 ;
+
+Barrette "Allemagne", pour les opérations du 14 septembre 1944 au 8 mai 1945 ;
+
+Barrette "Extrême-Orient", pour les opérations du 7 décembre 1941 au 15 août 1945 et pour les opérations maritimes et
+terrestres effectuées dans l'océan Indien et dans l'océan Pacifique ;
+
+Barrette "Grande-Bretagne", pour les opérations aériennes effectuées de ce territoire du 25 juin 1940 au 8 mai 1945 ;
+
+Barrette "U. R. S. S.", pour les opérations aériennes effectuées de ce territoire du 28 novembre 1942 au 8 mai 1945 ;
+
+Barrette "Atlantique", pour les opérations maritimes effectuées dans cet océan ;
+
+Barrette "Méditerranée", pour les opérations maritimes effectuées dans cette mer ;
+
+Barrette "Manche", pour les opérations maritimes effectuées dans cette mer ;
+
+Barrette "Mer du Nord", pour les opérations maritimes effectuées dans cette mer ;
+
+Barrette portant le millésime de l'année au cours de laquelle les faits à commémorer ont été accomplis en dehors des dates et
+des lieux ci-dessus désignés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D286 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D289 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D293
+
+Il n'est pas délivré de diplôme, les intéressés doivent pouvoir justifier de leur droit au port de ladite médaille par une
+pièce d'identité faisant ressortir leurs titres, notamment le livret militaire, extrait de citation, lettres de
+félicitations, titre de pension, ordre de service ou de mission, attestation, etc.
+
+Toutefois, en ce qui concerne l'octroi de la barrette avec millésime, les ayants droit doivent en demander le bénéfice avec
+pièces justificatives à l'appui. Dans ce cas, une autorisation de port est délivrée.
+
+Les bénéficiaires se procurent l'insigne à leurs frais.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+###### Article D294
+
+La médaille commémorative de la guerre 1939-1945 est portée immédiatement après la médaille commémorative de la guerre
+1914-1918.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+
+
+##### Section 6 : Médaille de la France libérée.<a id=325></a>
+
+###### Article D295
+
+Il est créé une médaille dite médaille de la France libérée, destinée à commémorer la libération de la France. Elle peut être
+attribuée aux ressortissants français ou alliés qui démontrent avoir, par des actes individuels, apporté une contribution
+effective à cette libération.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D298
+
+La médaille de la France libérée est ronde et du module de 35 millimètres. L'avers représente une carte de la France
+ceinturée d'une chaîne rompue au Nord-Ouest et au Sud-Est par deux éclatements, au centre de la carte (1944).
+
+Au revers figurent les armes de la République française, le faisceau de licteur coiffé du bonnet phrygien et les initiales
+R.F., avec en exergue l'inscription "La France à ses libérateurs".
+
+La médaille est frappée en bronze et suspendue à un ruban aux couleurs de l'arc-en-ciel (violet au centre et rouge sur les
+bords).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D299
+
+Les titulaires reçoivent un diplôme indiquant les motifs de la distinction dont ils sont l'objet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France".<a id=326></a>
+
+###### Article D300
+
+L'insigne créé par l'article L. 387 pour les pères, mères, veuves et veufs des "Morts pour la France" du module de 23
+millimètres, frappé en bronze patiné, représente la flamme du souvenir s'élevant sur une carte de France encadrée d'une palme
+et d'une branche d'olivier. Il est porté sans ruban.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D355-13 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L390 (VT)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L387
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D301
+
+Les dispositions des articles L. 387 à L. 390 sont applicables aux territoires d'outre-mer et aux territoires associés dans
+les conditions précisées aux articles D. 302 à D. 304.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D305 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D302
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D303
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D304
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D302
+
+Ont droit au port de cet insigne, les mères, les veuves et les veufs dont l'enfant, l'époux ou l'épouse figurent sur les
+listes des "Morts pour la France" établies d'après les avis de décès reçus du ministre des anciens combattants (direction de
+l'état civil et des recherches) et tenues à jour par l'autorité administrative compétente.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D301 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D303
+
+Cet insigne est solennellement remis le jour d'une fête publique, aux mères, veuves ou veufs, par les autorités
+administratives après enquête.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D301 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D305 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D304
+
+Les autorités administratives tiennent un registre des insignes remis et adressent une fiche de contrôle au comité local des
+combattants du territoire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D301 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D305 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D305
+
+Les modalités d'application des articles D. 301 à D. 304 sont fixées par arrêtés des chefs du territoire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D301 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D302 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D303 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D304 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 8 : Insigne des victimes civiles.<a id=327></a>
+
+###### Article D306
+
+Il est créé un insigne spécial destiné, sans distinction d'âge ni de sexe, aux civils blessés ou mutilés du fait de la guerre
+1914-1918, attribué par arrêté du ministre de l'intérieur, après avis d'une commission.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D309 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R573 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D307
+
+Cet insigne est attribué aux victimes de la guerre 1939-1945 par arrêté du ministre des anciens combattants et victimes de
+guerre après avis d'une commission siégeant au chef-lieu du département où réside l'intéressé, et composé ainsi qu'il suit :
+
+Un représentant du préfet (secrétaire général de la préfecture ou président du tribunal administratif), président ;
+
+Un magistrat du tribunal de grande instance du chef-lieu du département désigné par le président du tribunal ;
+
+Un médecin nommé par le préfet ;
+
+Le médecin chef du centre de réforme ou son représentant ;
+
+Le délégué interdépartemental du ministère des anciens combattants et victimes de guerre ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D309 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R573 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D308
+
+L'insigne est constitué par un ruban composé d'une bande jaune de neuf millimètres de largeur avec étoile blanche de métal à
+cinq branches et encadrée de deux bandes bleues de même dimension avec liseré bleu et jaune à chaque bord.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D355-20 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D309
+
+L'insigne prévu à l'article D. 306, mais sans l'étoile blanche de métal à cinq branches, est attribué d'office à toute
+victime civile pensionnée au titre du présent code (livre II) en qualité de victime directe, sans distinction d'âge ni de
+sexe, qui ne peut se prévaloir des dispositions des articles D. 306 et D. 307.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D310 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D355-21 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D306
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D307
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D310
+
+Le droit au port de l'insigne prévu à l'article D. 309 est constaté par la lettre de notification de concession de la pension
+dont l'intéressé est titulaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D309 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D355-22 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+### Titre IV : Pupilles de la Nation.<a id=328></a>
+
+#### Chapitre II : Protection et aide de l'Etat.<a id=329></a>
+
+##### Section 1 : Manutention des deniers pupillaires.<a id=330></a>
+
+###### Article D361
+
+La manutention des deniers appartenant aux pupilles de la nation placés sous la tutelle ou sous la garde d'un office
+départemental incombe exclusivement à l'agent comptable dudit office.
+
+Elle s'exécute par gestion et il est rendu compte de la même manière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-9 (V)
+
+
+###### Article D362
+
+L'expression "biens mobiliers" employée dans la présente section et aux articles A. 191 à A. 201 s'entend des titres de
+créance et de propriété, valeurs, livrets de pension, livrets de caisse d'épargne ou autres livrets, bijoux et objets divers.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A192 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D363
+
+L'agent comptable a la garde des biens mobiliers appartenant aux pupilles de la nation, au moment où ils sont placés sous la
+tutelle ou sous la garde de l'office départemental et de ceux qui leur adviennent au cours de leur minorité.
+
+Un état descriptif en est joint à son compte annuel.
+
+L'agent comptable ne peut se dessaisir des biens mobiliers qui lui sont confiés qu'après la cessation de la tutelle ou de la
+garde et dans les conditions fixées à l'article D. 371.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-10 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D371
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D364
+
+Les dispositions des articles D. 457 (2e alinéa), D. 463 et D. 506 sont applicables aux pupilles en ce qui concerne la
+manutention des deniers leur appartenant.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D457
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D463
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D506
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D365
+
+Le jour où un pupille de la nation est placé sous la tutelle ou la garde de l'office départemental, le président fait dresser
+par un représentant de l'office, contradictoirement avec la personne qui a présenté l'enfant, un procès-verbal contenant
+l'inventaire des sommes et des biens appartenant au pupille ou remis en son nom.
+
+Dans le délai de quinze jours à compter de l'ouverture de la tutelle ou de la prise en garde, le président assure la
+transmission à l'agent comptable des sommes et des biens mobiliers appartenant au pupille ou remis en son nom.
+
+Une expédition du procès-verbal visé au premier alinéa est remise à l'agent comptable et au tuteur délégué.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-11 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D366
+
+Le président remet à l'agent comptable les actes ou documents établissant ou concernant les droits et revenus des pupilles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-12 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D367
+
+La constatation des recettes et la liquidation des dépenses concernant les pupilles incombent au président du conseil
+d'administration dudit office.
+
+Les recettes donnent lieu à la délivrance d'un titre de recette et les dépenses à l'établissement d'un ordre de paiement
+signés par le président de l'office départemental ou son délégué.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-13 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D368
+
+Les états de liquidation des sommes dues aux pupilles, établis par le président, sont transmis à l'agent comptable à l'appui
+des titres de recette. A ces titres sont annexées des expéditions certifiées conformes des actes en vertu desquels sont
+constatés les droits du pupille.
+
+Un bulletin individuel indiquant la somme à verser pour chaque enfant est envoyé aux débiteurs dans un délai de dix jours à
+partir de la transmission à l'agent comptable des titres exécutoires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D370 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-14 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre annexe
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D369
+
+Dans les départements où l'office n'est pas pourvu d'un agent comptable spécial, les receveurs particuliers des finances et
+les percepteurs des contributions directes, participent sous la direction et la responsabilité du trésorier-payeur général,
+aux opérations concernant le service des deniers des pupilles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D370
+
+Les comptables subordonnés désignés à l'article D. 369 doivent aviser immédiatement l'agent comptable des versements qui
+seraient faits à leur caisse avant l'émission des titres prévus à l'article D. 368.
+
+L'agent comptable notifie la recette au président qui émet immédiatement un titre de recette pour justifier l'encaissement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D368 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D369 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D371
+
+Lors de la remise d'un nouveau compte de tutelle et à l'expiration du mois qui suit le versement des recettes à sa caisse,
+l'agent comptable doit, sur décision du président, prise après avis du tuteur délégué, déposer à une caisse d'épargne, au nom
+du pupille, la partie jugée disponible des sommes en numéraire perçues pour le compte de celui-ci. Si ces sommes excèdent le
+chiffre du dépôt maximum prévu par les règlements, l'agent comptable doit employer le surplus à l'achat de valeurs d'Etat
+immatriculées au nom du pupille, conformément à la décision qui est prise à cet effet par le président, après avis du tuteur
+délégué.
+
+En cours de gestion et à la fin de chaque semestre, les sommes jugées disponibles doivent faire l'objet de placement dans les
+conditions indiquées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D363 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D372 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D373 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-15 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D372
+
+L'aliénation des valeurs autres que les valeurs de l'Etat comprises dans le patrimoine des pupilles le jour de l'ouverture de
+la tutelle ou de la prise en garde ou qui adviennent aux intéressés au cours de leur minorité est ordonnée par le président.
+
+Cette aliénation est effectuée par l'agent comptable, sauf décision contraire du président, après avis du tuteur délégué.
+
+Le produit de l'aliénation est placé dans les conditions prévues à l'article D. 371.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D371
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D373
+
+Les aliénations de biens mobiliers et immobiliers des pupilles de la nation sont ordonnées par le président, après avis de la
+commission permanente de l'office départemental.
+
+Le produit des aliénations est placé dans les conditions prévues à l'article D. 371.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D371 (Ab)
+
+
+###### Article D374
+
+Les subventions attribuées aux pupilles après mandatement sur les crédits du budget de l'office départemental sont portées
+par l'agent comptable à leurs comptes.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-16 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D375
+
+Le payement des menues dépenses d'entretien des pupilles (vêtements, chaussures, frais médicaux et autres dépenses courantes)
+peut être effectué au moyen de fonds avancés par l'agent comptable aux tuteurs délégués dans la limite d'un maximum fixé dans
+chaque cas par le président.
+
+Les tuteurs délégués doivent, dans le délai de deux mois, adresser au président qui, après vérification, les transmet
+immédiatement à l'agent comptable, les acquits des créanciers et les pièces justificatives des dépenses.
+
+Aucune nouvelle avance ne peut, dans la limite prévue ci-dessus, être faite qu'autant que les acquits et les pièces
+justificatives de l'avance précédente ont été produits, ou que la portion de cette avance dont il reste à justifier a moins
+de deux mois de date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D376
+
+Lorsqu'il y a lieu, dans l'intérêt des pupilles soit d'engager des procédures ou des poursuites, soit de régler des dépenses
+urgentes (réparations d'immeubles, amendes, etc.) et que l'actif des intéressés n'est pas suffisant pour permettre le
+payement aux époques voulues, les fonds nécessaires peuvent être, sur décision du président, après avis de la commission
+permanente, soit prélevés sur l'avoir du pupille, soit couverts par subventions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D377
+
+Les diverses opérations relatives à la gestion des deniers des pupilles sont constatées à un compte d'opérations hors budget
+prévu aux articles A. 192 à A. 194.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-17 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A192
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A193
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A194
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D378
+
+Lorsque prend fin la tutelle d'un pupille, un compte de tutelle visé par le président est soumis à l'approbation de la
+commission permanente de l'office départemental. Il fait ressortir le reliquat en numéraire, les biens mobiliers que l'agent
+comptable doit remettre à l'intéressé ou éventuellement à ses ayants droit.
+
+La remise des biens mobiliers est effectuée entre les mains du pupille devenu majeur sur la production d'une expédition du
+compte de tutelle acquitté par la partie prenante, accompagnée d'une ampliation de la délibération prise par la commission
+permanente de l'office départemental. En cas d'émancipation cette remise a lieu entre les mains du pupille assisté d'un
+curateur nommé par l'office.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-18 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D379
+
+Lorsqu'un pupille devenu majeur ou émancipé disparaît ou décède sans laisser d'héritier connu, le président prescrit, après
+délibération de la commission permanente de l'office départemental le retrait des fonds figurant au livret de caisse
+d'épargne, la vente des bijoux et objets divers et le dépôt à la caisse des dépôts et consignations des deniers, titres de
+rentes et valeurs revenant à l'intéressé.
+
+Une expédition du compte de tutelle et une ampliation de l'arrêté du président sont jointes à la déclaration de consignation.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R422-19 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D380
+
+Un arrêté conjoint du ministre des anciens combattants et victimes de guerre et du ministre de l'économie et des finances,
+dont les dispositions font l'objet de l'article A. 201, règle la tenue des livres et des écritures du président de l'office
+départemental et de l'agent comptable et fixe la nomenclature des pièces justificatives de recettes et de dépenses.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A201 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D381
+
+Des décrets déterminent les conditions d'application de la présente section aux pays d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 2 : Bourses et subventions.<a id=331></a>
+
+###### Article D382
+
+Des bourses nationales peuvent être accordées aux pupilles de la nation dans les établissements des divers degrés de
+l'enseignement public suivant une procédure spéciale déterminée par arrêté du ministre de l'éducation nationale pris après
+avis de l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R421-1 (V)
+
+
+###### Article D383
+
+Les offices départementaux doivent subordonner tout renouvellement d'une subvention d'études à l'octroi d'une bourse au
+pupille. Il ne peut être dérogé à cette règle que sur autorisation de l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+#### Chapitre III : Dispositions particulières.<a id=332></a>
+
+##### Section 1 : Enfants de militaires ou d'attachés aux armées victimes d'un fait de guerre sur un théâtre d'opérations situé hors de France.<a id=333></a>
+
+###### Article D384
+
+Le bénéfice du titre IV du livre III (première partie) est étendu aux enfants dont le père ou le soutien de famille,
+incorporé dans les armées en opérations hors de France, ou attaché à un titre quelconque à ces armées, a été victime d'un
+fait se rapportant à la guerre, après la date de cessation légale des hostilités, et jusqu'à la ratification des traités de
+paix qui sont conclus avec chacune des puissances intéressées par lesdites opérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 2 : Algérie.<a id=334></a>
+
+###### Article D385
+
+dispositions périmées
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L487 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D386
+
+dispositions périmées
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L487 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 3 : Territoires d'outre-mer.<a id=335></a>
+
+###### Article D387
+
+Le territoire d'outre-mer est substitué au département pour l'application des dispositions du titre IV du livre III (première
+partie).
+
+Les pouvoirs concédés par la loi au ministre des anciens combattants et victimes de guerre sont exercés par le ministre de la
+France d'outre-mer et les attributions dévolues aux préfets sont remplies dans les territoires d'outre-mer par le haut
+commissaire, le gouverneur général ou gouverneur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L487 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D388
+
+Les dispositions des articles R. 496 à R. 499, R. 503 et R. 504 sont applicables dans les territoires d'outre-mer. Toutefois,
+des arrêtés des hauts commissaires, des gouverneurs généraux ou des gouverneurs, pris en conseil du gouvernement, en conseil
+privé ou en conseil d'administration, suivant le cas, peuvent y apporter les dérogations nécessaires pour les mettre en
+harmonie avec l'organisation politique et administrative locale.
+
+Des arrêtés pris dans les mêmes formes déterminent les mesures juridiques de protection en faveur des pupilles. Ils règlent
+toutes les questions touchant l'instruction des demandes, les établissements publics ou privés, ainsi que les associations ou
+groupements susceptibles de recueillir des pupilles, et, d'une manière générale, toutes les dispositions se rapportant à
+l'exécution de la législation concernant les pupilles de la nation, rendue applicable dans les territoires d'outre-mer.
+
+Copie de ces arrêtés doit être envoyée au ministre de la France d'outre-mer dans le mois qui suit la promulgation. Un
+exemplaire en est transmis à l'office national.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L487 (VT)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R441-3 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R496 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R497 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R498 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R499 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R503 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R504 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R503
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R504
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D389
+
+Les pupilles, fils ou filles de citoyens français et d'étrangers d'origine européenne, doivent bénéficier dans les
+territoires d'outre-mer d'un régime analogue à celui des pupilles entretenus dans la métropole.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L487 (VT)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 4 : Pupilles résidant à l'étranger.<a id=336></a>
+
+##### Paragraphe 1 : Reconnaissance du droit au titre de pupille de la nation.<a id=337></a>
+
+###### Article D390
+
+Les enfants réunissant les conditions exigées par la loi pour être dits pupilles de la nation, qui résident à l'étranger avec
+leur représentant légal, peuvent, sur la demande de ce dernier, être déclarés tels par le tribunal de la circonscription
+duquel leur père, leur mère ou leur soutien de famille a résidé en dernier lieu ou par le tribunal de grande instance de
+Paris si leur père, mère ou leur soutien n'a jamais résidé en territoire français.
+
+Le représentant légal autre que le père, la mère ou un ascendant doit être autorisé par le conseil de famille à présenter
+cette demande.
+
+Le requérant peut faire élection de domicile soit au siège de l'office des anciens combattants et victimes de guerre du
+département où est situé le tribunal compétent, soit au siège d'un établissement reconnu d'utilité publique désigné à cet
+effet par le ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D391
+
+La demande par laquelle le représentant légal de l'enfant réclame en sa faveur la reconnaissance du droit au titre de pupille
+de la nation est introduite, par voie de simple requête dispensée d'enregistrement et du timbre, auprès du tribunal de grande
+instance compétent. Elle contient les indications exigées par l'article R. 497.
+
+La procédure se poursuit conformément à la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-2 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R497
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D392
+
+A défaut de demande de son représentant légal, l'enfant résidant à l'étranger peut, à la diligence du consul de France, être
+déclaré pupille de la nation par le tribunal de grande instance de Paris.
+
+Lorsque la requête est ainsi introduite par le consul de France, celui-ci en avise aussitôt et sans frais le représentant
+légal de l'enfant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-3 (V)
+
+
+###### Article D393
+
+Le tribunal, en chambre du conseil, procède, s'il le juge utile, à une instruction complémentaire de l'affaire dans la forme
+qu'il détermine.
+
+Le représentant légal de l'enfant, lorsqu'il est appelé, par application des dispositions de l'article D. 467, à donner ses
+explications, a la faculté de présenter ses observations au consul de France, qui les transmet ensuite au tribunal.
+
+Au cas où le tribunal estime nécessaire de faire procéder à une expertise médicale pour lui permettre d'apprécier le
+caractère permanent de l'invalidité de la victime du fait de la guerre ou le degré de son invalidité, il en avise le consul,
+qui désigne à cet effet un médecin expert.
+
+Le médecin procède à ces constatations à la diligence du consul et rédige son rapport sur papier libre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D467
+
+
+###### Article D394
+
+Les frais d'expertise sont réglés conformément aux instructions fixant les conditions d'application à l'étranger des
+prescriptions du livre Ier (première partie) sur l'attribution des soins médicaux gratuits aux blessés et invalides de
+guerre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-5 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D395
+
+Le greffe du tribunal notifie par lettre recommandée et sans frais à l'office du département où est situé ledit tribunal le
+jugement d'adoption du pupille, qui est aussitôt inscrit sur les contrôles de cet établissement public.
+
+L'office départemental fait alors connaître au représentant légal du pupille et au consul de France la décision prise à
+l'égard de l'enfant.
+
+Sur la demande du représentant légal, justifiée par des raisons de famille, le dossier peut être transmis à un autre office
+départemental désigné par lui. En cas de désaccord entre les offices départementaux intéressés, la commission permanente de
+l'office national désigne celui des offices départementaux auquel le pupille est rattaché.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-6 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 2 : Protection et aide.<a id=338></a>
+
+###### Article D396
+
+L'office départemental choisit, pour seconder son action et assurer son contrôle à l'étranger sur le pupille, soit le consul
+de France, soit un représentant agréé par le ministre des anciens combattants et victimes de guerre, sur la proposition du
+consul de France, soit un établissement reconnu d'utilité publique désigné par le ministre des anciens combattants et
+victimes de guerre, après entente avec le ministre des affaires étrangères.
+
+Le consul peut se faire assister dans l'accomplissement de sa mission par un comité local composé de membres du territoire
+désignés par lui.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D397 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D397
+
+Les obligations qui, d'après l'article L. 473 et L. 476, incombent au Ministère public et au juge du tribunal d'instance en
+ce qui concerne l'organisation et le fonctionnement de la tutelle des pupilles de la nation sont remplies par le consul de
+France ou son représentant à l'égard des pupilles résidant à l'étranger.
+
+L'office départemental, lorsqu'il a, pour un pupille résidant à l'étranger, soit à déléguer la tutelle qui lui a été confiée
+par le conseil de famille, soit à nommer un conseiller de tutelle, dans les conditions prévues par l'article L. 476, doit
+désigner de préférence une personne de nationalité française proposée à son choix par le consul de France ou par
+l'établissement visé à l'article D. 396.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-8 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D396
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L473
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L476
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D398
+
+L'office départemental ne peut assurer le placement, hors de France, dans les conditions de l'article L. 480, d'un pupille
+résidant à l'étranger que dans un établissement ayant fait l'objet d'une proposition motivée d'agrément du consul de France
+et présentant, en outre, des garanties analogues à celles qui sont exigées aux articles R. 515 et R. 516 pour les
+particuliers, fondations, associations, groupements demandant en France à recevoir des pupilles de la nation.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-9 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L480
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R515
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R516
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D399
+
+Les prescriptions de l'article R. 533 ne s'appliquent pas aux subventions pour études demandées en faveur des pupilles de la
+nation résidant à l'étranger. Mais l'office départemental, avant de statuer sur les demandes, doit, par l'intermédiaire du
+consul de France ou du représentant ou de l'établissement visés à l'article D. 396, prendre tous renseignements lui
+permettant d'apprécier l'aptitude de l'enfant aux études.
+
+Une subvention pour études poursuivies dans des établissements situés hors de France ne peut être accordée par l'office
+départemental à un pupille résidant à l'étranger que si l'établissement dont il suit les cours a fait l'objet d'un avis
+favorable du consul de France, sauf recours à l'office national.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D396 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R533
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-10 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D400
+
+Sont applicables au pupille qui quitte le territoire français pour aller résider à l'étranger les dispositions des articles
+D. 396 à D. 399, s'il est accompagné de son représentant légal, dans le cas contraire seulement, celles des articles D. 396,
+D. 398 et du second alinéa de l'article D. 399.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R431-11 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D401
+
+Les prescriptions de la présente section concernent, lorsqu'ils résident hors de France ou des territoires d'outre-mer, les
+enfants assimilés par l'article L. 464 aux jeunes Français, réserve faite des règles relatives à l'organisation de la
+tutelle, qui ne leur sont applicables que dans les limites compatibles avec leur statut personnel.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L464
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+## Livre IV : Etat civil et sépultures.<a id=339></a>
+
+### Chapitre II : Transferts et restitutions de corps.<a id=340></a>
+
+###### Article D402
+
+Ont droit à la restitution du corps aux frais de l'Etat les familles des anciens combattants et victimes de guerre
+appartenant à l'une des catégories énumérées ci-dessous et décédés hors de leur résidence habituelle entre le 2 septembre
+1939 et la date légale de cessation des hostilités :
+
+a) Militaires et assimilés des armées de terre, de mer et de l'air ;
+
+b) Militaires prisonniers de guerre décédés, soit à l'étranger, soit en France, avant leur démobilisation ;
+
+c) Déportés et internés politiques et raciaux décédés dans les circonstances prévues par les articles L. 172 (4°) ou L. 199
+(1° ou 2°) ;
+
+d) Victimes de bombardements et de faits de guerre décédés en dehors de leur résidence habituelle dans les circonstances
+prévues par les titres II et III du livre II (première partie) ;
+
+e) Personnes civiles décédées en dehors de leur résidence habituelle à la suite d'une mesure d'expulsion ou d'éloignement
+prise par les autorités françaises ou par l'ennemi ;
+
+f) Personnes civiles ayant rallié ou tenté de rallier des forces françaises de résistance en dehors du territoire
+métropolitain, dans les circonstances prévues par les articles L. 172 (2°) et R. 157 (2°) ;
+
+g) Français incorporés de force dans l'armée allemande et décédés dans les circonstances prévues par le titre IV du livre II
+(première partie) ;
+
+h) Requis par l'ennemi ayant travaillé au profit de l'ennemi ou d'un organisme placé sous son contrôle dans des conditions
+exclusives de toute intention réelle de participer à l'effort de guerre ennemi.
+
+Sont présumés volontaires et exclus des dispositions du présent chapitre, sauf preuve contraire qui peut être faite par tous
+moyens, les travailleurs de sexe masculin immatriculés ou incorporés avant le 19 juin 1942 et les travailleurs de sexe
+féminin à quelque date que ce soit.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R521-1 (V)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A206 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L172
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L199
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R157
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D403
+
+Le droit à restitution du corps est étendu aux familles des ressortissants étrangers dont le décès ouvre droit à pension à la
+charge de l'Etat français :
+
+Soit au titre du livre Ier (première partie) pour les militaires étrangers ayant servi dans les forces françaises de terre,
+de mer ou de l'air ;
+
+Soit en vertu du titre II du livre II (première partie) pour les étrangers ayant servi dans les forces françaises de
+l'intérieur ou ayant participé à la résistance française ;
+
+Soit au titre des conventions conclues avec la Pologne et la Tchécoslovaquie, pour les militaires des armées polonaise et
+tchécoslovaque créées en France (livre Ier, première partie, titre VI, annexes II et III) ;
+
+Soit au titre des accords de réciprocité conclus avec l'Etat dont ils sont ressortissants, pour les étrangers victimes
+civiles de la guerre (livre II, première partie, titre VI, annexes I, II, III, IV).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A206 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D405
+
+Le conjoint remarié peut demander la restitution du corps, à défaut des personnes énumérées à l'article L. 494.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L494
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D406
+
+Les familles des anciens combattants et victimes de guerre dont les corps ne sont pas encore identifiés doivent produire leur
+demande dans un délai de trois mois à compter du jour où elles ont reçu notification de l'identification. Ce délai est porté
+à six mois s'il s'agit d'un corps identifié à l'étranger ou dans un territoire d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R521-2 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D407
+
+Les frais engagés dans les conditions fixées par l'article L. 495 par les familles pour les exhumations et des transferts ne
+peuvent, en aucun cas, leur être remboursés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L495
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D408
+
+Les corps restitués aux familles à titre gratuit ou à titre onéreux ne peuvent être réinhumés ni dans les cimetières
+nationaux, ni dans les carrés militaires des cimetières communaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R521-3 (V)
+
+
+###### Article D409
+
+Le transfert aux frais de l'Etat des corps des anciens combattants et victimes de guerre comporte les opérations suivantes :
+
+1° L'exhumation et la mise en bière ;
+
+2° Le transport par voie ferrée, routière, maritime ou aérienne du lieu d'exhumation au cimetière désigné par la famille, le
+transport dans un territoire d'outre-mer ou dans un territoire étranger autre que celui du lieu d'exhumation n'étant accordé
+que si le décédé avait sa résidence habituelle dans ce territoire ;
+
+3° La réinhumation dans le cimetière désigné.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R521-4 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D410
+
+Les départements, les pays d'outre-mer et les pays étrangers sont répartis en zones administratives pour les besoins de
+l'exécution des programmes de regroupement initial et de dispersion finale des cercueils contenant les corps transférés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D411
+
+Les familles sont représentées aux exhumations par les délégués accrédités dans chaque zone par le ministre des anciens
+combattants et victimes de guerre, sur proposition des associations qualifiées.
+
+Le maire ou son représentant assiste aux opérations d'exhumation dans sa commune.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D412
+
+Le maire de la commune dans le cimetière de laquelle doit avoir lieu l'inhumation définitive est informé par lettre ou par
+télégramme, au moins quarante-huit heures à l'avance :
+
+1° De la date et de l'heure prévues pour l'arrivée des cercueils dans la commune ;
+
+2° Des noms des décédés dont les restes sont compris dans le convoi.
+
+Dès réception de ces renseignements, le maire avise les familles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R521-6 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D414
+
+Par dérogation aux dispositions du décret validité du 31 décembre 1941 :
+
+1° Les exhumations et transferts de corps sont ordonnés par les représentants du ministre des anciens combattants et victimes
+de guerre, sans qu'il y ait lieu de provoquer les autorisations prévues par le décret précité ;
+
+2° L'absence d'un parent ou d'un mandataire de la famille ne fait pas obstacle aux exhumations ;
+
+3° Les opérations funéraires de toute nature prévues par le présent chapitre n'exigent pas la présence d'un commissaire de
+police ;
+
+4° L'obligation d'utiliser un cercueil hermétique et de le garnir d'un mélange désinfectant est laissée à l'appréciation du
+représentant du ministère des anciens combattants et victimes de guerre chargé de diriger sur place les opérations
+d'exhumation.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A208 (V)
+
+_Cite_:
+
+  - Décret n°1941-12-31 (abrogé)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D415
+
+Les municipalités doivent accorder, à toute famille qui en fait la demande, un emplacement gratuit de tombes, dans les
+conditions fixées par l'alinéa 1er de l'article 10 du décret du 27 avril 1889.
+
+En outre, à titre d'hommage public, les communes peuvent accorder, par simple décision du conseil municipal, non soumise à
+approbation, une concession de longue durée gratuite et, le cas échéant, renouvelable. Ces concessions doivent être situées
+en dehors des carrés militaires, et l'entretien des tombes incombe exclusivement aux municipalités ou aux familles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R521-9 (V)
+
+_Cite_:
+
+  - Décret n°1889-04-27 art. 10
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D416
+
+Les rapatriements des corps actuellement inhumés dans les départements et pays d'outre-mer ou à inhumer dans ces territoires
+sont effectués dans les conditions fixées par un arrêté pris en commun par le ministre des anciens combattants et victimes de
+guerre et le ministre chargé de la France d'outre-mer. Ces dispositions font l'objet des articles A. 206 à A. 215.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A206 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A207 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A208 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A209 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A210 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A211 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A212 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A213 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A214 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A215 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D417
+
+Des conventions particulières conclues avec les gouvernements alliés peuvent régler les rapatriements des corps des
+ressortissants de ces gouvernements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D418
+
+Les délégués accrédités pour représenter les familles ont droit à des indemnités de vacation dont le montant est fixé par
+arrêté du ministre des anciens combattants et victimes de guerre et du ministre de l'économie et des finances. Cette
+disposition fait l'objet des articles A. 216 à A. 218.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A216 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A217 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A218 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D419
+
+Les effectifs et la rémunération des catégories de personnel nécessaires à l'exécution des opérations de transfert et de
+restitution des corps ainsi que le montant des indemnités de déplacement allouées aux agents appelés hors de leur résidence
+pour le service sont fixés, dans la limite des crédits budgétaires, par arrêté du ministre des anciens combattants et
+victimes de guerre et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D420
+
+Un arrêté du ministre des anciens combattants et victimes de guerre détermine les modalités d'application du présent chapitre
+et notamment les attributions et le fonctionnement des différents organismes appelés à concourir aux opérations de
+restitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+### Chapitre III : Sépultures perpétuelles.<a id=341></a>
+
+#### Section 1 : Lieux de sépultures.<a id=342></a>
+
+###### Article D421
+
+Une sépulture perpétuelle est assurée, aux frais de la nation, dans le lieu où ils ont été inhumés au moment de leur décès ou
+dans celui où ils ont été ou seront transférés par les soins du service de l'état civil, à tous les militaires et marins des
+armées françaises, morts pour la France.
+
+Ces sépultures sont réparties entre les cimetières de guerre créés ou à créer dans les terrains acquis par l'Etat hors des
+cimetières existants en vertu du chapitre III du livre IV (première partie) et les cimetières communaux dans lesquels les
+inhumations ont été faites durant la campagne.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-3 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D422
+
+Les cimetières de guerre de l'ancienne zone des armées de la guerre 1914-1918 sont installés de façon que les militaires et
+marins qui y sont inhumés reposent, autant que possible, à proximité de la région dans laquelle ils sont tombés pour la
+patrie.
+
+Une sépulture particulière est attribuée à tout militaire ou marin dont le corps a été identifié.
+
+Des ossuaires, aménagés dans les cimetières où leur création a été nécessaire, reçoivent les restes qui n'ont pu être
+identifiés.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-4 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Section 2 : Entretien des cimetières.<a id=343></a>
+
+###### Article D423
+
+Les cimetières de guerre déclarés propriété nationale par l'article L. 498 doivent être gardés et entretenus aux frais de la
+nation.
+
+Cette garde et cet entretien sont, en principe, assurés directement par l'Etat, sauf conventions spéciales qui peuvent
+intervenir dans les conditions prévues par l'article L. 503.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-5 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L498
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L503
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D424
+
+L'aménagement et l'ornementation des tombes dans les cimetières de guerre sont assurés par l'Etat.
+
+Chaque sépulture particulière comporte un monument individuel d'un modèle uniforme, dont les inscriptions rappellent les nom,
+prénom, grade et affectation militaire du défunt, le lieu et la date de son décès, ainsi que la mention "Mort pour la
+France".
+
+Le monument peut recevoir, en outre, un emblème confessionnel, suivant les indications données par les familles.
+
+L'aménagement des sépultures est conçu de manière à permettre aux familles d'y déposer tous objets destinés à honorer la
+mémoire des morts.
+
+Dans chaque cimetière de guerre, un emplacement est réservé pour l'édification d'un monument commémoratif.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-6 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D425
+
+La garde et l'entretien des cimetières militaires nationaux sont assurés par des auxiliaires de service, gardiens et gardiens
+chefs.
+
+Ces agents sont recrutés par le directeur de l'administration générale.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D426
+
+Les règles de recrutement, d'avancement et de discipline, le régime des congés, l'horaire des travaux suivant les saisons, la
+répartition des gardiens et gardiens chefs entre les cimetières sont fixés par une instruction du ministre des anciens
+combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 5
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+
+###### Article D427
+
+Lorsque le nombre des tombes d'un cimetière militaire n'est pas suffisant pour justifier la désignation d'un gardien,
+l'entretien et la garde de ce cimetière peuvent être confiés à une personne qualifiée, qui reçoit une indemnité forfaitaire
+fixée d'après l'importance des travaux à exécuter et payable par trimestre et à terme échu.
+
+Les contrats passés en pareil cas sont signés par le directeur de l'administration générale.
+
+Ils peuvent être dénoncés à toute époque par l'une ou l'autre partie, moyennant un préavis de trois mois. En cas de
+négligence dans la garde et l'entretien du cimetière, le directeur de l'administration générale peut prononcer la résiliation
+immédiate du contrat sans indemnité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Section 3 : Dispositions particulières.<a id=344></a>
+
+###### Article D429
+
+Les dispositions du présent chapitre sont applicables aux sépultures des militaires et marins des armées alliées, sauf
+stipulations contraires résultant des conventions ou accords passés entre le gouvernement français et les gouvernements
+alliés.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R522-12 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D421 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D422 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D423 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D424 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D425 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D426 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D427 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D428 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D430
+
+Les dispositions du présent chapitre sont applicables aux cimetières de guerre constitués par les tombes des soldats des
+armées ennemies.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D421 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D422 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D423 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D424 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D425 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D426 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D427 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D428 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+## Livre V : Institutions.<a id=345></a>
+
+### Titre Ier : Offices des anciens combattants et victimes de guerre.<a id=346></a>
+
+#### Chapitre Ier : Office national.<a id=347></a>
+
+##### Section 1 : Caractère juridique.<a id=348></a>
+
+###### Article D431
+
+L'Office national des anciens combattants et victimes de guerre constitue un établissement public d'Etat doté de la
+personnalité civile et de l'autonomie financière.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 2 janvier 2015 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 3 : Composition.<a id=349></a>
+
+###### Article D437
+
+Ne peuvent faire partie du conseil d'administration de l'office national :
+
+a) Les personnes ayant occupé, à quelque date que ce soit, un poste de direction ou de responsabilité à la légion française
+des combattants ;
+
+b) Les membres des groupements antinationaux visés par l'ordonnance du 21 décembre 1943 ;
+
+c) Les individus entrant dans l'un des cas d'indignité prévus par l'article 18 de l'ordonnance du 21 avril 1944 portant
+organisation des pouvoirs publics en France après la libération ;
+
+d) Les individus condamnés par application de l'ordonnance du 28 novembre 1944 relative à la répression des faits de
+collaboration ;
+
+e) Les individus reconnus coupables d'indignité nationale par application de l'ordonnance du 26 décembre 1944 ;
+
+f) Les fonctionnaires et agents publics visés par l'ordonnance du 27 juin 1944 et les textes subséquents relatifs à
+l'épuration administrative sur le territoire métropolitain.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D478 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D480 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cite_:
+
+  - Ordonnance 1943-12-21
+  - Ordonnance 1944-04-21 art. 18
+  - Ordonnance 1944-06-27
+  - Ordonnance 1944-11-28
+  - Ordonnance 1944-12-26
+
+
+###### Article D438
+
+Cessent de plein droit de faire partie du conseil d'administration les membres qui ont perdu les qualités au titre desquelles
+ils avaient été désignés.
+
+Sont considérés comme démissionnaires et peuvent être remplacés par le ministre des anciens combattants et victimes de
+guerre, les membres du comité qui ont manqué à trois réunions consécutives à moins que leur excuse n'ait été reconnue valable
+par le comité d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D439
+
+Les fonctions des membres du conseil d'administration sont gratuites.
+
+Toutefois, sont remboursés à tous les membres du comité, les frais de séjour et de déplacement exposés par eux à l'occasion
+de missions spéciales ou pour assister aux séances du comité d'administration et de la commission permanente.
+
+Ces frais sont décomptés suivant les tarifs fixés par arrêté conjoint du ministre des anciens combattants et victimes de
+guerre et du ministre de l'économie et des finances dont les dispositions font l'objet des articles A. 244 et A. 245.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A244 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A245 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 4 : Organisation.<a id=350></a>
+
+###### Article D442
+
+La commission permanente donne son avis sur les projets des budgets et les comptes financiers de l'office national, des
+offices départementaux et des établissements y rattachés.
+
+Elle accepte ou refuse les dons et legs faits à l'office. Toutefois, lorsqu'ils sont grevés de charges, conditions ou
+affectations immobilières, l'autorisation d'accepter ou de refuser et, lorsqu'ils donnent lieu à des réclamations des
+familles, l'autorisation d'accepter est donnée par décret rendu en Conseil d'Etat.
+
+Elle statue :
+
+Sur les recours formés contre les décisions des offices départementaux ;
+
+Sur l'aliénation des biens et valeurs dans la limite des recettes prévues au budget ;
+
+Sur le placement des sommes provenant de libéralités faites à l'office national ;
+
+Sur les adjudications et marchés à traiter lorsque l'importance de chacun d'eux dépasse 762,25 euros ;
+
+Sur l'acceptation des baux et locations d'immeubles lorsque l'importance annuelle de chacun de ces contrats dépasse 152,45
+euros et que leur durée dépasse neuf ans ;
+
+Sur l'attribution des secours au personnel ;
+
+Sur l'attribution des subventions aux oeuvres sociales instituées à l'intention des agents des services publics ou de leurs
+familles ;
+
+Sur l'attribution des subventions aux offices départementaux et aux établissements y rattachés ;
+
+Sur la fixation du prix de journée d'hébergement et de séjour des ressortissants de l'office national dans les établissements
+privés ;
+
+Sur les demandes de bourses et de secours d'études, subventions ou d'avances formulées par des particuliers pour les
+institutions de toutes sortes, oeuvres, associations, etc., qui prêtent leur concours sous quelque forme que ce soit, pour
+l'amélioration du sort des ressortissants de l'office national ou la sauvegarde de leurs intérêts matériels et moraux ;
+
+Sur l'emploi des revenus et intérêts des valeurs, des capitaux et sommes provenant des dons et legs et des libéralités au
+bénéfice des ressortissants de l'office national et des collectivités.
+
+La commission permanente peut, en outre, être saisie par l'un de ses membres de toutes les questions de principe ayant trait
+au fonctionnement administratif et financier de l'office national, des offices départementaux et des établissements qui
+relèvent de l'office national.
+
+**Nota:**
+
+Deuxième et huitième alinéas maintenus, par dérogation aux dispositions du Décret n° 53-1227 du 10 décembre 1953, article 2.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D440 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 5 : Fonctionnement.<a id=351></a>
+
+###### Article D444
+
+Le directeur général peut, sans intervention préalable de la commission permanente :
+
+1° Passer les marchés et traités en exécution des programmes arrêtés par le comité, lorsque l'importance de chacun d'eux ne
+dépasse pas 762,25 euros ; les baux et locations d'immeubles lorsque l'importance annuelle de chacun de ces contrats ne
+dépasse pas 152,45 euros et que leur durée ne dépasse pas neuf ans ;
+
+2° Réaliser les achats et ventes de meubles et procéder à la réforme des objets mobiliers hors d'usage ou impropres au
+service auquel ils sont destinés, lorsque la valeur des meubles ou objets ne dépasse pas 76,22 euros ;
+
+3° Approuver les décomptes définitifs d'entreprises inférieurs à 762,25 euros.
+
+Au-delà de ces chiffres, le directeur général ne peut traiter qu'avec l'autorisation ou par délégation spéciale de la
+commission permanente.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-10 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D445
+
+Le directeur général de l'office peut, sans autorisation préalable, accepter provisoirement, ou à titre conservatoire, les
+dons et legs qui sont faits à l'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D446
+
+En cas d'absence momentanée ou d'empêchement, le directeur général est suppléé dans ses fonctions par le directeur adjoint ou
+à défaut, par le fonctionnaire désigné à cet effet, sur sa proposition, par le ministre des anciens combattants et victimes
+de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 6 : Régime financier.<a id=352></a>
+
+##### Paragraphe 1 : Dispositions générales.<a id=353></a>
+
+###### Article D448
+
+Les droits acquis et les services faits du 1er janvier au 31 décembre de l'année qui donne son nom à un budget sont seuls
+considérés comme appartenant à l'exercice de ce budget.
+
+Les périodes d'exécution des services du budget embrassent outre l'année même à laquelle il s'applique, des délais
+complémentaires qui s'étendent pendant l'année suivante jusqu'au 10 février pour la liquidation et l'ordonnancement des
+sommes dues aux créanciers et jusqu'au dernier jour de février pour la liquidation et le recouvrement des droits acquis à
+l'office et le payement des dépenses.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D449
+
+Les deniers de l'office sont insaisissables. Aucune opposition ne peut être pratiquée sur les sommes dues à cet
+établissement. Toutefois les créanciers porteurs de titres exécutoires peuvent, à défaut de décision du directeur général de
+nature à leur assurer payement, saisir le ministre des anciens combattants et victimes de guerre. Il est procédé
+éventuellement au mandatement d'office après, le cas échéant, inscription au budget du crédit nécessaire, par décret rendu
+sur la proposition concertée du ministre des anciens combattants et victimes de guerre et du ministre de l'économie et des
+finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D450
+
+Le directeur général engage seul des dépenses de l'office dans la limite des crédits régulièrement ouverts au budget.
+
+Les dépenses qui ont fait l'objet d'une délibération du comité d'administration, ne peuvent être engagées que conformément
+aux délibérations de ce comité.
+
+Le directeur général est chargé de la liquidation et de l'ordonnancement des dépenses ainsi que de l'établissement des titres
+de recettes.
+
+Il passe, dans les conditions fixées à l'article D. 443, les marchés et traités et procède aux adjudications suivant les
+règlements en vigueur pour les marchés de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D443 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D451
+
+Les opérations de recettes sont effectuées par un agent comptable chargé seul, et sous sa responsabilité personnelle :
+
+De faire toutes diligences pour assurer la rentrée des revenus et créances, legs, donations et autres ressources de
+l'office ;
+
+De faire procéder contre les débiteurs en retard, aux exploits, significations, poursuites et commandements nécessaires ;
+
+D'avertir le directeur général de l'expiration des baux ;
+
+D'empêcher les prescriptions ;
+
+De veiller à la conservation des domaines, droits, privilèges et hypothèques,
+
+Et de requérir l'inscription hypothécaire de tous titres qui en sont susceptibles.
+
+Néanmoins quand il est nécessaire d'exercer des poursuites, l'agent comptable doit, avant de les commencer, en référer au
+directeur général qui ne peut y surseoir que par ordre écrit.
+
+L'agent comptable est chargé d'acquitter les dépenses régulièrement mandatées par le directeur général.
+
+Il a seul qualité pour opérer tout maniement de fonds ou de valeurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D452
+
+L'agent comptable perçoit au compte de l'office national les arrérages des pensions et accessoires de pensions servis par
+l'Etat, des retraites du combattant, des traitements de la Légion d'honneur et de la médaille militaire, dont l'abandon a été
+consenti au profit de cet organisme.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions civiles et militaires de retr... - art. D57 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D454 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D507 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-18 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D453
+
+Il est tenu de justifier une fois par an de l'existence de bénéficiaires de pensions, accessoires de pension, retraites du
+combattant, traitements de la Légion d'honneur et de la médaille militaire qui ont fait abandon de leurs arrérages pour une
+période supérieure à un an.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D454 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D507 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D507 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D454
+
+Par dérogation aux dispositions de l'article D. 453, des conventions passées entre le ministre de l'économie et des finances
+et le président de l'organisme susvisé fixent les modalités suivant lesquelles sont versés les arrérages de pensions,
+accessoires, retraites ou traitements visés à l'article D. 452, dont l'abandon a été consenti à titre définitif, lorsque le
+nombre de ces abandons excède mille.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D453 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D452
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D507 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D507 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D455
+
+En cas de payements indus, les sommes perçues en trop sont reversées.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D507 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D507 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D457
+
+Une hypothèque légale sur les biens de l'agent comptable est attribuée aux droits et créances de l'office par application de
+l'article 2121 du Code civil.
+
+Toute personne autre que l'agent comptable qui, sans autorisation légale, se serait ingérée dans le maniement des deniers de
+l'office est, par ce seul fait, constituée comptable sans préjudice des poursuites prévues par l'article 258 du Code pénal
+(1) comme s'étant immiscée sans titre dans des fonctions publiques.
+
+**Nota:**
+
+NOTA : Code des pensions militaires d'invalidité et des victimes de la guerre D509 : Les dispositions de l'article D457 sont
+applicables à l'agent comptable de l'office départemental.
+
+NOTA (1) : article abrogé par la loi n° 92-1336 du 16 décembre 1992 (art. 372).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code pénal 258
+  - Code civil - art. 2121 (T)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D364 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D509 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D509 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 2 : Des recettes et des dépenses.<a id=354></a>
+
+###### Article D458
+
+Les recettes de l'office sont divisées en recettes ordinaires et en recettes extraordinaires.
+
+Les recettes ordinaires comprennent :
+
+1° Les revenus des biens, fonds et valeurs appartenant à l'établissement ;
+
+2° Les revenus des dons et legs faits au profit de l'office ;
+
+3° Les subventions annuelles de l'Etat et des autres collectivités ;
+
+4° Le montant des remboursements de prêts de toutes espèces ;
+
+5° Les autres ressources d'un caractère annuel et permanent.
+
+Les recettes extraordinaires comprennent :
+
+1° Le capital provenant de l'aliénation des biens et valeurs ;
+
+2° Le capital provenant des dons et legs ;
+
+3° Le montant des souscriptions et des subventions accidentelles ;
+
+4° Les autres ressources accidentelles, notamment les prélèvements sur le fonds de réserve.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D459 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D459
+
+Les dépenses de l'office sont divisées en dépenses ordinaires et en dépenses extraordinaires.
+
+Les dépenses ordinaires comprennent :
+
+1° L'emploi des revenus des biens, fonds et valeurs grevés d'affectations spéciales ;
+
+2° L'emploi des revenus des dons et legs grevés d'affectations spéciales ;
+
+3° Les subventions de toute nature accordées aux offices départementaux et offices des territoires d'outre-mer des anciens
+combattants et victimes de guerre ;
+
+4° Les subventions et avances aux collectivités ou oeuvres diverses s'occupant de ses ressortissants ;
+
+5° Les dépenses concernant la rééducation professionnelle et l'hébergement desdits ressortissants, ainsi que les avances de
+toutes catégories qui leur sont consenties ;
+
+6° Les traitements, salaires et allocations du personnel de l'office national ;
+
+7° Les dépenses administratives de l'établissement autres que celles prévues à l'alinéa 6° ci-dessus (location et entretien
+des bâtiments et du mobilier, chauffage, éclairage, téléphone, impressions, fournitures de bureau, etc.) ;
+
+8° Les autres dépenses d'un caractère annuel et permanent.
+
+Il peut être ouvert au budget un crédit pour dépenses imprévues. Les dépenses imputables sur ce crédit sont engagées par le
+directeur général, sans délibération du comité d'administration, dans les limites fixées par ce comité.
+
+Les dépenses extraordinaires comprennent les dépenses temporaires ou accidentelles imputables sur les recettes
+extraordinaires énumérées à l'article D. 458 ou sur l'excédent des recettes ordinaires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2014-1698 du 29 décembre 2014 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D458 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D460
+
+Des agents spéciaux délégués par le directeur général peuvent être chargés, à titre de receveur auxiliaire, de procéder à
+l'encaissement de certaines catégories de recettes.
+
+La délégation qui institue les agents spéciaux reste valable jusqu'à révocation expresse.
+
+Les receveurs auxiliaires sont tenus d'opérer dans les cinq premiers jours de chaque mois, à la caisse de l'agent comptable,
+le versement de la totalité des recettes par eux effectuées au cours du mois précédent, sous réserve des versements partiels
+qui peuvent être effectués périodiquement en conformité des décisions du directeur général.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D517 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D517 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D461
+
+Des agents spéciaux, désignés par le directeur général, peuvent être chargés, à titre de régisseurs et à charge de rapporter
+dans le délai d'un mois à l'agent comptable, les acquits des créanciers réels et les pièces justificatives, de payer au moyen
+d'avances mises à leur disposition les salaires des ouvriers, les secours et allocations diverses ainsi que les menues
+dépenses de l'office. Le montant de ces avances est fixé par arrêté du ministre des anciens combattants et victimes de guerre
+et du ministre de l'économie et des finances.
+
+Le directeur général pourvoit au remplacement des régisseurs qui, soit par convenance personnelle, soit pour tout autre
+motif, ne sauraient continuer leur service de régie.
+
+Des avances dont le montant est fixé par la commission permanente peuvent être faites également aux personnes chargées de
+mission. Ces personnes doivent justifier au comptable, au plus tard dans le délai d'un mois après leur retour de mission, de
+l'emploi ou du reversement de ces avances.
+
+Aucune nouvelle avance ne peut, dans les limites prévues par le présent article, être faite par l'agent comptable qu'autant
+que les acquits et les pièces justificatives de l'avance précédente lui ont été fournis ou que la portion de cette avance,
+dont il reste à justifier, a moins d'un mois de date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D462
+
+Les receveurs auxiliaires et les régisseurs peuvent être appelés, dans les conditions qui sont fixées par la commission
+permanente, à fournir un cautionnement en garantie de leur gestion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D463
+
+Toutes saisies-arrêts ou oppositions sur les sommes dues par l'office, toutes significations de cessions ou de transports
+desdites sommes et toutes autres significations ayant pour objet d'en arrêter le payement doivent être faites entre les mains
+de l'agent comptable.
+
+Sont considérées comme nulles et non avenues toutes significations ou oppositions faites à d'autres personnes que l'agent
+comptable.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D364 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D517 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 3 : Du budget et des crédits.<a id=355></a>
+
+###### Article D464
+
+Le budget est, pour chaque exercice, préparé par le directeur général qui le présente à la commission permanente et au comité
+d'administration.
+
+Il est soumis avant le 15 octobre de l'année précédant celle pour laquelle il est établi, au ministre des anciens combattants
+et victimes de guerre et au ministre de l'économie et des finances qui procèdent à son règlement par voie d'arrêté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D465
+
+Un budget supplémentaire est établi chaque année avant le 1er juillet. Ce budget comprend par chapitres et par articles
+l'excédent de recettes de l'exercice clos ainsi que les restes à recouvrer et les restes à payer du même exercice.
+
+Sont également compris dans le budget supplémentaire les crédits destinés à faire face aux dépenses supplémentaires reconnues
+nécessaires et les ressources affectées au payement de ces dépenses.
+
+Le budget supplémentaire, les crédits supplémentaires reconnus nécessaires en cours d'exercice et les ressources nouvelles,
+ainsi que les virements de crédits de chapitre à chapitre sont proposés et approuvés dans les mêmes formes que le budget
+primitif.
+
+En aucun cas, les virements de crédits ne peuvent avoir lieu entre les crédits pour dépenses ordinaires et les crédits pour
+dépenses extraordinaires, ni modifier l'emploi des ressources ayant une affectation spéciale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D519 (Ab)
+
+
+###### Article D466
+
+Les fonds libres de l'office sont versés en compte courant au Trésor, sans intérêts, sous réserve des sommes figurant au
+crédit du compte courant postal ouvert au nom de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D467
+
+La partie des excédents de recettes sur les dépenses qui, à la clôture d'un exercice, dépasse les besoins prévus pour
+l'exercice courant, doit être affectée à la constitution d'un fonds de réserve et employée au moins jusqu'à concurrence des
+deux tiers, soit en rentes sur l'Etat, soit en valeurs assimilées par le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D393 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable.<a id=356></a>
+
+###### Article D468
+
+Le compte administratif du directeur général et le compte de gestion de l'agent comptable sont soumis, avant le 15 mai de la
+deuxième année de l'exercice, au comité d'administration.
+
+Celui-ci donne son avis sur le compte du directeur général et prend une délibération spéciale sur les résultats du compte de
+gestion du comptable.
+
+Le directeur général se retire au moment du vote sur son compte.
+
+Le compte administratif du directeur général, accompagné éventuellement des observations de la commission permanente et du
+comité d'administration, est soumis, avant le 30 juin de la même année, à l'approbation du ministre des anciens combattants
+et victimes de guerre et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 5 : Contrôle financier.<a id=357></a>
+
+###### Article D469
+
+L'office national est soumis au contrôle financier de l'Etat prévu par les décrets des 25 octobre 1935 et 26 septembre 1949
+et par l'arrêté du 4 décembre 1937.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1937-12-04
+  - Décret n°1935-10-25
+  - Décret n°1949-09-26
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D470
+
+L'inspection générale des finances peut examiner la gestion financière de l'office et se faire représenter, pour l'exercice
+de son contrôle, tous registres et documents intéressant cette gestion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 6 : Mesures d'application.<a id=358></a>
+
+###### Article D471
+
+La forme des budgets et des comptes de l'office, la tenue des livres et des écritures du directeur général et de l'agent
+comptable et la nomenclature des pièces justificatives des recettes et des dépenses sont fixées par des arrêtés, pris de
+concert par le ministre des anciens combattants et victimes de guerre, et le ministre de l'économie et des finances, qui font
+l'objet des articles A. 224 et A. 243.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A224 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A243 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux.<a id=359></a>
+
+##### Section 1 : Caractère juridique.<a id=360></a>
+
+###### Article D472
+
+L'office départemental des anciens combattants et victimes de guerre qui a son siège au chef-lieu de chaque département,
+constitue un établissement public d'Etat.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions civiles et militaires de retr... - art. D57 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D473
+
+Des décrets contresignés par le ministre de la France d'outre-mer et le ministre des anciens combattants et victimes de
+guerre, peuvent instituer, dans chaque groupe de territoires, ou territoire relevant du ministère chargé de la France
+d'outre-mer, un office des anciens combattants et victimes de guerre.
+
+Cet office constitue un établissement public d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D474
+
+Dans les territoires groupés en gouvernement général, il peut être institué, sur proposition du conseil d'administration de
+l'office intéressé par arrêté du gouvernement général, un comité local délégué de l'office au chef-lieu de chacun des
+territoires.
+
+Si l'importance numérique de leurs ressortissants le justifie, les comités locaux peuvent être constitués en établissements
+publics d'Etat par décret contresigné par le ministre des anciens combattants et victimes de guerre et par le ministre chargé
+de la France d'outre-mer.
+
+L'étendue de la circonscription des comités locaux est fixée par les arrêtés ou décrets susvisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 2 : Attributions.<a id=361></a>
+
+###### Article D475
+
+L'office départemental et l'office d'outre-mer ont pour mission d'assurer, dans le cadre du département ou du territoire, les
+fonctions dévolues à l'office national par le présent titre.
+
+Les attributions des comités locaux agissant par délégation de l'office d'outre-mer sont fixées par arrêté du gouverneur
+général.
+
+Les attributions des comités locaux érigés en établissements publics d'Etat sont fixées par décret contresigné par le
+ministre des anciens combattants et victimes de guerre et par le ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A58 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 3 : Composition.<a id=362></a>
+
+###### Article D480
+
+Ne peuvent faire partie du conseil d'administration, les personnes visées à l'article D. 437 (a, b, c, d, e) ainsi que les
+fonctionnaires et agents publics visés par l'ordonnance du 27 juin 1944 modifiée par l'ordonnance du 11 décembre 1944,
+relative à l'épuration administrative sur le territoire métropolitain, et les textes subséquents promulgués dans les
+territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D478 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D437
+  - Ordonnance 1944-12-11
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D481
+
+Toutes les contestations relatives aux opérations prévues aux articles D. 477, D. 478, D. 479, doivent être portées, dans les
+quinze jours de la publication des désignations, par lettre recommandée et par l'intermédiaire du ministre chargé de la
+France d'outre-mer, le cas échéant, devant le ministre des anciens combattants et victimes de la guerre, qui statue
+définitivement après avis du comité d'administration de l'office national ou de la commission permanente.
+
+Les recours ne sont pas suspensifs.
+
+Pour le surplus, ils doivent être déposés par les intéressés et examinés par l'office national et le ministre des anciens
+combattants et victimes de guerre, dans les délais et les formes prévus au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D477 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D478 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D479 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D482
+
+Le remplacement des membres est effectué, à la diligence du préfet, du gouverneur général ou du chef du territoire, selon les
+modalités prévues pour leur désignation, en cas de décès, démission, révocation de mandat, cessation des fonctions qui les
+avaient fait désigner, absence à trois séances consécutives du conseil d'administration ou de la commission permanente, sauf
+excuse reconnue valable par le conseil ou la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D483
+
+Les fonctions de membres du conseil d'administration de l'office sont gratuites.
+
+Toutefois, les membres peuvent demander le remboursement des frais de déplacement et de séjour exposés par eux pour assister
+aux séances du conseil d'administration, de la commission permanente et des sous-commissions ou à l'occasion de missions
+spéciales.
+
+Ces frais sont décomptés suivant les tarifs fixés par arrêté conjoint du ministre des anciens combattants et victimes de
+guerre et du ministre de l'économie et des finances ou par arrêté du gouverneur général ou du chef du territoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D484
+
+L'office peut faire appel à des conseillers techniques, qui ont entrée aux séances avec voix consultative.
+
+Ils sont nommés par le préfet, le gouverneur général ou le chef du territoire, suivant le cas, après avis du conseil
+d'administration de l'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 4 : Organisation et administration.<a id=363></a>
+
+##### Paragraphe 1 : Conseil d'administration.<a id=364></a>
+
+###### Article D486
+
+Le conseil d'administration délibère sur :
+
+1° Les projets du budget primitif et supplémentaire ou rectificatif ;
+
+2° L'acceptation ou le refus des dons et legs ;
+
+3° Les comptes administratifs et de gestion ;
+
+4° Le mode d'administration des biens ;
+
+5° Les marchés, traités, baux et locations d'immeubles ;
+
+6° L'acquisition, l'aliénation et l'échange d'immeubles et de valeurs mobilières ;
+
+7° L'achat et la vente de meubles ;
+
+8° Les projets de travaux et de fournitures ainsi que l'approbation des comptes d'entreprises ;
+
+9° Les transactions ;
+
+10° Toutes les questions qui lui sont soumises par le ministre des anciens combattants et victimes de guerre ou le ministre
+chargé de la France d'outre-mer et par l'office national ou par son président, la commission permanente, le secrétaire
+général ou le secrétaire administratif.
+
+Les délibérations prévues aux numéros 1°, 2°, 3°, 5° et 6° pour les offices départementaux et 1°, 2°, 3° et 6° pour les
+offices d'outre-mer ne sont exécutoires qu'après avis de l'office national et approbation du ministre des anciens combattants
+et victimes de guerre, sauf en ce qui concerne les marchés de fournitures et travaux passés pour les besoins courants des
+offices départementaux, dans la limite des crédits budgétaires.
+
+Les délibérations du conseil d'administration des offices d'outre-mer relatives aux marchés, traités, baux et locations
+d'immeubles sont exécutoires après approbation par le gouverneur général ou le chef du territoire.
+
+Les autres délibérations sont exécutoires si, dans le délai de quinze jours, le préfet, le gouverneur général ou le chef du
+territoire n'a pas demandé qu'elles soient soumises à l'approbation du ministre.
+
+Toutefois, lorsque les dons et legs faits à l'office sont grevés de charges, conditions et affectations immobilières,
+l'autorisation de les accepter ou de les refuser et, lorsqu'ils donnent lieu à des réclamations des familles, l'autorisation
+de les accepter, est donnée par décret rendu en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D487
+
+Le conseil d'administration se réunit au moins deux fois par an et toutes les fois qu'il est convoqué par son président ou
+sur la demande écrite d'un tiers de ses membres.
+
+Les délibérations du conseil d'administration sont prises à la majorité des membres présents.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Les délibérations ne sont valables que si la moitié plus un au moins des membres en exercice assistent à la séance.
+
+Lorsque le nombre des membres présents n'atteint pas le quorum, les délibérations sont renvoyées à la séance suivante, pour
+laquelle les convocations sont envoyées par lettre recommandée. Elles sont alors valables, quel que soit le nombre des
+présents.
+
+Les procès-verbaux sont signés par le président et par le secrétaire. Ils font mention des membres présents.
+
+Dans les huit jours qui suivent la séance, une copie des délibérations du conseil d'administration est envoyée au préfet ou
+au gouverneur général ou au chef du territoire.
+
+Celui-ci peut, dans un délai de douze jours à dater de la réception, soumettre ces délibérations à l'approbation de l'office
+national.
+
+Dans ce cas, l'exécution de la délibération est suspendue jusqu'à la décision de l'office national, qui doit intervenir dans
+le délai de deux mois à dater de la réception de ladite délibération.
+
+Passé ce délai, la délibération est exécutoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D488
+
+Les membres du conseil d'administration doivent être choisis parmi les personnes présentant toutes garanties de compétence et
+de dévouement, de telle sorte que soit assurée, dans toute la mesure du possible, la représentation des diverses catégories
+sociales et des divers secteurs du département ou du territoire. Cependant, ces indications ne doivent, en aucun cas, gêner
+la libre désignation de leurs représentants par les groupements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 2 : Commission permanente et sous-commissions.<a id=365></a>
+
+###### Article D492
+
+La commission permanente des offices d'outre-mer peut choisir dans son sein un délégué permanent autochtone auprès du
+secrétaire général ou secrétaire administratif de l'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 3 : Questions diverses.<a id=366></a>
+
+###### Article D494
+
+Le conseil d'administration des offices départementaux peut s'assurer le concours de correspondants locaux bénévoles chargés
+de le renseigner sur la situation et les besoins des ressortissants, dans chaque canton.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 5 : Fonctionnement.<a id=367></a>
+
+###### Article D495
+
+Le secrétaire général ou le secrétaire administratif assure, sous l'autorité du président, le fonctionnement de l'office dans
+les conditions prévues au présent chapitre.
+
+Il prend toutes mesures utiles au fonctionnement de l'office, soit en vertu des pouvoirs qui lui sont reconnus par le présent
+chapitre, soit en vertu des délibérations du conseil d'administration ou de la commission permanente.
+
+Il représente l'office en justice et dans tous les actes de la vie civile.
+
+Il a sous ses ordres le personnel de l'office.
+
+Il a entrée avec voix consultative au conseil d'administration, à la commission permanente et aux sous-commissions.
+
+Le service administratif du comité local est assuré, sous l'autorité du président, par un chef de service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D496
+
+Le secrétaire général de l'office départemental est nommé par arrêté du ministre des anciens combattants et victimes de
+guerre sur proposition du directeur de l'office national.
+
+Le secrétaire général ou le secrétaire administratif de l'office d'outre-mer est nommé par arrêté contresigné par le ministre
+chargé de la France d'outre-mer et par le ministre des anciens combattants et victimes de guerre.
+
+Le chef de service du comité local est désigné par le gouverneur général sur proposition du gouverneur, chef du territoire,
+de la province ou de la circonscription autonome, qui fixe, après avis du conseil d'administration de l'office et avis
+conforme du comité d'administration de l'office national, la rémunération allouée à cet agent et au personnel qui lui est
+éventuellement adjoint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D497
+
+Pour les offices d'outre-mer, les fonctions de secrétaire général sont confiées à un fonctionnaire, titulaire de la carte de
+combattant, appartenant à un cadre général du ministère chargé de la France d'outre-mer, du ministère des anciens combattants
+et victimes de guerre ou de l'office national ou à un officier supérieur.
+
+Ce fonctionnaire doit être :
+
+Pour les offices des territoires non constitués en gouvernement général, au moins du grade d'administrateur adjoint de la
+France d'outre-mer s'il relève du ministère chargé de la France d'outre-mer et du grade d'administrateur civil de troisième
+classe s'il relève du ministère des anciens combattants et victimes de guerre ou de l'office national.
+
+Exceptionnellement, dans les territoires où le petit nombre de ressortissants de l'office ne justifierait pas, soit
+l'affectation d'un administrateur adjoint de la France d'outre-mer ou d'un fonctionnaire de grade équivalent, soit
+l'affectation permanente d'un fonctionnaire, les fonctions de secrétaire administratif de l'office peuvent être confiées à un
+agent du cadre de l'administration générale de la France d'outre-mer ou, à défaut, à un agent d'un cadre local, sur rapport
+du chef du territoire, après avis du conseil d'administration de l'office.
+
+Si ce fonctionnaire n'exerce ses fonctions qu'en sus de son activité normale, il peut lui être alloué une indemnité sur le
+budget de l'office dans les conditions prévues à l'article D. 498.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D498
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D498
+
+En cas d'absence momentanée ou d'empêchement, le secrétaire général ou le secrétaire administratif est suppléé dans ses
+fonctions par le secrétaire adjoint ou, si l'office ne comporte pas d'emploi de secrétaire adjoint, par le fonctionnaire
+désigné à cet effet, sur la proposition du secrétaire général ou du secrétaire administratif, soit par le ministre des
+anciens combattants et victimes de guerre s'il s'agit d'un office départemental, soit par le président de l'office, s'il
+s'agit d'un office d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D497 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D499
+
+Le statut du personnel administratif de l'office départemental est fixé dans les conditions prévues par l'article 2 de la loi
+n° 46-2294 du 19 octobre 1946 relative au statut général des fonctionnaires.
+
+Le statut, l'effectif et la rémunération du personnel adjoint au secrétaire général ou au secrétaire administratif de
+l'office d'outre-mer sont fixés par arrêté du gouverneur général ou du chef du territoire après avis du conseil
+d'administration de l'office d'outre-mer et avis conforme du comité d'administration de l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Loi n°46-2294 1946-10-19 art. 2
+
+
+###### Article D500
+
+Le président de l'office peut, sans autorisation préalable, accepter provisoirement ou à titre conservatoire les dons et legs
+faits à l'office.
+
+Il est spécialement habilité pour :
+
+1° Signer les actes relatifs à la réalisation des prêts consentis sur avis de l'office national ;
+
+2° Procéder à l'accomplissement des formalités de mainlevées concernant les inscriptions hypothécaires, de privilèges, de
+nantissement ou de toutes autres garanties réelles, qu'il s'agisse de mainlevées avec ou sans constatation de paiement.
+
+Il peut déléguer ses pouvoirs au secrétaire général de l'office départemental.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D501
+
+Un rapport détaillé sur le fonctionnement de l'office est préparé, chaque année, par le président. Il est soumis à
+l'approbation du conseil d'administration qui le transmet, avec ses observations, à l'office national et, s'il s'agit d'un
+office d'outre-mer, au ministre chargé de la France d'outre-mer.
+
+A la fin de chaque exercice le président du comité local adresse au président de l'office dont il relève un rapport sur les
+résultats du fonctionnement du comité local.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Section 6 : Régime financier.<a id=368></a>
+
+##### Paragraphe 1 : Dispositions générales.<a id=369></a>
+
+###### Article D502
+
+Les services financiers de l'office départemental s'exécutent par gestion et par exercice et il en est rendu compte de la
+même manière.
+
+Il est opéré de même pour les services financiers de l'office d'outre-mer, conformément aux dispositions du décret du 31
+décembre 1912.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Cite_:
+
+  - Décret n°1912-12-31
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D503
+
+En ce qui concerne l'office départemental, les droits acquis et les services faits du 1er janvier au 31 décembre de l'année
+qui donne son nom à un budget sont seuls considérés comme appartenant à l'exercice de ce budget.
+
+La période d'exécution des services du budget embrasse outre l'année même à laquelle il s'applique, des délais
+complémentaires qui s'étendent pendant l'année suivante, jusqu'au 31 janvier pour la liquidation et l'ordonnancement des
+sommes dues aux créanciers, et jusqu'au dernier jour de février, pour la liquidation et le recouvrement des droits acquis à
+l'office départemental et le paiement des dépenses. Toutefois, pour l'office départemental de Paris ces limites sont
+respectivement fixées au 10 février et au dernier jour de février.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D504
+
+Les deniers de l'office départemental sont insaisissables. Aucune opposition ne peut être pratiquée sur les sommes dues à cet
+établissement. Toutefois les créanciers porteurs de titres exécutoires peuvent, à défaut de décision du président de nature à
+leur assurer le paiement, demander au ministre des anciens combattants et victimes de guerre de procéder, s'il y a lieu, au
+mandatement d'office après, le cas échéant, inscription au budget du crédit nécessaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D505
+
+Le président engage seul les dépenses des offices et des comités locaux dans la limite des crédits régulièrement inscrits au
+budget.
+
+Les dépenses qui ont fait l'objet d'une délibération de la commission permanente ne peuvent être engagées que conformément à
+cette délibération.
+
+Le président est chargé de la liquidation et de l'ordonnancement des dépenses, ainsi que de l'établissement des titres de
+recettes et de leur transmission à l'agent comptable.
+
+Dans les départements, le président peut déléguer ses fonctions d'ordonnateur au secrétaire général de l'office
+départemental.
+
+Il passe les marchés et traités et procède aux adjudications suivant les règles en vigueur pour les marchés de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D506
+
+Les opérations de recettes sont effectuées par un agent comptable chargé seul et sous sa responsabilité personnelle de faire
+toutes diligences pour assurer la rentrée des revenus et des créances, legs, donations et autres ressources des offices et
+comités locaux, de faire procéder contre les débiteurs en retard aux exploits, significations, poursuites et commandements
+nécessaires à la requête du président et d'acquitter les dépenses régulièrement mandatées par celui-ci.
+
+L'agent comptable est chargé, en outre, d'avertir le président de l'expiration des baux, d'empêcher les prescriptions, de
+veiller à la conservation des domaines, droits, privilèges et hypothèques et de requérir l'inscription hypothécaire de tous
+titres qui en sont susceptibles.
+
+Néanmoins, quand il est nécessaire d'exercer des poursuites, l'agent comptable doit, avant de les commencer, en référer au
+président qui ne peut y faire surseoir que par un ordre écrit.
+
+Il a seul qualité pour opérer tout maniement de fonds ou valeurs.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D364 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D507
+
+Les articles D. 452 à D. 455 sont applicables aux offices départementaux.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D452 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D454 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D455 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D453
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D453 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D454 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D455 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D508
+
+Les fonctions d'agent comptable sont remplies :
+
+Soit par un comptable du Trésor, désigné par le président en accord avec le trésorier général ou le trésorier-payeur du
+territoire considéré, lorsqu'il s'agit d'un office d'outre-mer ou d'un comité local ;
+
+Soit par le trésorier-payeur général, lorsqu'il s'agit d'un office départemental et, à Paris, par un agent comptable spécial.
+
+A titre exceptionnel, lorsque les opérations d'un office départemental ont une importance particulière, il peut également,
+après avis de cet office et sur proposition du comité d'administration de l'office national, être procédé à la nomination
+d'un agent comptable spécial.
+
+Celui-ci est nommé, et, le cas échéant, remplacé ou révoqué par décret conjoint du ministre des anciens combattants et
+victimes de guerre et du ministre de l'économie et des finances. Ses émoluments sont fixés dans les mêmes formes.
+
+Dans le cas de décès, de démission, de remplacement ou de révocation d'un agent comptable spécial, le ministre des anciens
+combattants et victimes de guerre, après avis du ministre de l'économie et des finances, peut nommer un gérant intérimaire
+qui en remplit les fonctions jusqu'au jour de l'installation du nouvel agent comptable.
+
+La gestion du gérant intérimaire est entièrement distincte de celle de l'ancien et du nouveau titulaire.
+
+Les fonctions d'administrateur et d'ordonnateur sont incompatibles avec celles de comptable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D509
+
+L'agent comptable spécial de l'office départemental et l'agent comptable de l'office d'outre-mer ou des comités locaux sont
+justiciables de la Cour des comptes et soumis, suivant le cas, aux vérifications de l'inspection générale des finances ou de
+l'inspection du ministère chargé de la France d'outre-mer, ainsi que du trésorier-payeur général dans les départements et du
+payeur général du Trésor à Paris.
+
+Avant son installation, l'agent comptable de l'office départemental prête serment devant le préfet du département et fournit,
+en garantie de sa gestion, un cautionnement dont le montant est fixé par arrêté conjoint du ministre des anciens combattants
+et victimes de guerre et du ministre des finances. Ce cautionnement peut être réalisé, soit en numéraire, soit en rentes sur
+l'Etat, soit par affiliation à une association française de cautionnement mutuel.
+
+Quand les fonctions d'agent comptable sont confiées à un comptable du Trésor en exercice, ce dernier n'est pas astreint à une
+nouvelle prestation de serment et le cautionnement qu'il a fourni au Trésor est affecté solidairement à la garantie de sa
+gestion comme comptable de l'office.
+
+Les dispositions de l'article D. 457 sont applicables à l'agent comptable de l'office départemental.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D457 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D457 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D510
+
+Dans les départements, les dépenses occasionnées par l'application du présent chapitre aux trésoriers-payeurs généraux et aux
+comptables subordonnés agissant pour le compte de leurs chefs de service leur sont remboursées dans les conditions qui sont
+déterminées par un décret contresigné par le ministre de l'économie et des finances, après avis du ministre des anciens
+combattants et victimes de guerre.
+
+La rémunération qu'il peut être reconnu nécessaire de leur allouer est fixée dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D511
+
+En cas de suppression d'un office d'outre-mer ou d'un comité local, les valeurs provenant de dons ou legs ou libéralités
+faits à ces établissements avec affectation spéciale aux anciens combattants et victimes de guerre du territoire, sont
+attribuées, par arrêté du gouverneur général ou du chef du territoire, à des établissements publics ou reconnus d'utilité
+publique de ce territoire, susceptibles d'exécuter les intentions des donateurs.
+
+Les fonds provenant des subventions de l'office national sont reversés à cet établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 2 : Des recettes et des dépenses.<a id=370></a>
+
+###### Article D512
+
+Les ressources de l'office départemental comprennent :
+
+1° Les subventions du département ou des communes, des personnes ou des associations privées ;
+
+2° Le produit des dons et legs faits directement à l'office départemental et dont il a la libre disposition en capital et
+intérêts ;
+
+3° La quote-part qui lui est attribuée par l'office national sur les crédits alloués par le Parlement pour les offices
+départementaux ;
+
+4° Les attributions de toute autre nature qui lui sont faites par l'office national.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D513
+
+Les recettes de l'office départemental sont divisées en recettes ordinaires et recettes extraordinaires.
+
+Les recettes ordinaires comprennent :
+
+1° Les revenus des biens, fonds et valeurs appartenant à l'établissement ;
+
+2° Les revenus des dons et legs faits au profit de l'office, qui en a la libre disposition ;
+
+3° Les subventions annuelles des collectivités locales, des personnes ou des associations privées ;
+
+4° Les subventions et avances de l'office national ;
+
+5° Le montant des remboursements des secours remboursables et des prêts consentis par l'office ;
+
+6° Les recettes des écoles de rééducation, foyers et établissements rattachés à l'office ;
+
+7° Les autres ressources d'un caractère annuel et permanent.
+
+Le capital et le revenu des dons et legs, les souscriptions ou subventions des collectivités et associations ou personnes
+privées ne peuvent être utilisés que conformément à la volonté de leurs auteurs. 
+
+Les recettes extraordinaires comprennent :
+
+1° Le capital provenant de l'aliénation des biens et valeurs ;
+
+2° Le capital provenant des dons et legs ;
+
+3° Le montant des souscriptions et des subventions accidentelles ;
+
+4° Les autres ressources accidentelles.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D516 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D514
+
+Les ressources de l'office d'outre-mer comprennent :
+
+1° Les subventions de l'office national, des collectivités et établissements publics locaux, des personnes ou associations
+privées ;
+
+2° Le produit des dons et legs faits à l'office dans les conditions prescrites par l'article 4 de la loi du 4 février 1901
+sur la tutelle administrative en matière de dons et legs.
+
+Toutefois, les dons et legs faits sans charge, condition ni affectation immobilière et qui ne donnent pas lieu à réclamation,
+peuvent être acceptés ou refusés par le président en séance du conseil d'administration de l'office, après autorisation du
+gouverneur général ou du chef du territoire ;
+
+3° Toutes autres ressources qui pourraient être affectées à l'office.
+
+Les ressources des comités locaux comprennent :
+
+1° Les subventions des collectivités et établissements publics locaux, des personnes ou associations privées ;
+
+2° Le produit des dons et legs faits directement au comité local et dont il a la libre disposition en capital et intérêts.
+
+L'acceptation de ces libéralités est soumise aux conditions fixées au 2° de l'alinéa ci-dessus ;
+
+3° La quote-part qui peut lui être attribuée par l'office dont il relève sur les ressources de cet office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Loi n°1901-02-04 art. 4
+
+
+###### Article D515
+
+Les dons, legs et libéralités de toute nature faits à l'office d'outre-mer ou aux comités locaux sont exempts de tous droits
+de mutation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D516
+
+Les dépenses de l'office départemental sont divisées en dépenses ordinaires et dépenses extraordinaires.
+
+Les dépenses ordinaires comprennent :
+
+1° L'emploi des revenus des biens, fonds et valeurs grevés d'affectations spéciales ;
+
+2° L'emploi des revenus des dons et legs grevés d'affectations spéciales ;
+
+3° Les dépenses relatives à la rééducation professionnelle, à l'aide sociale et aux institutions de crédit dont l'office a la
+charge ;
+
+4° L'emploi du montant des remboursements des secours remboursables et des prêts par lui consentis ;
+
+5° Les traitements, salaires et allocations du personnel de l'office ;
+
+6° Les dépenses d'administration de l'établissement autres que celles visées au 5° ci-dessus (location et entretien des
+bâtiments et du mobilier, chauffage, éclairage, téléphone, impressions, fournitures de bureau, etc.) ;
+
+7° Les dépenses des écoles de rééducation, foyers et établissements rattachés à l'office ;
+
+8° Les autres dépenses d'un caractère annuel et permanent.
+
+Il peut être ouvert au budget un crédit pour dépenses imprévues. Les dépenses imputables sur ce crédit sont engagées par le
+président sans délibération de la commission permanente dans les limites fixées par cette assemblée.
+
+Les dépenses extraordinaires comprennent les dépenses temporaires ou accidentelles imputables sur les recettes
+extraordinaires énumérées à l'article D. 513.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D513 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D517
+
+Les articles D. 460 et D. 463 sont applicables aux offices départementaux.
+
+Toutefois, les receveurs auxiliaires et les régisseurs d'avances sont désignés par le président de l'office départemental.
+
+Le montant des avances faites aux personnes chargées de mission et les conditions dans lesquelles les agents spéciaux sont
+appelés à fournir un cautionnement sont fixés par la commission permanente de l'office départemental.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D460 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D463 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D460 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D463 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 3 : Du budget et des crédits.<a id=371></a>
+
+###### Article D518
+
+Le budget est, pour chaque exercice, préparé par le président qui le présente au conseil d'administration.
+
+Le budget, délibéré par ce conseil, est approuvé par le ministre des anciens combattants et victimes de guerre, après avis du
+comité d'administration de l'office national et modification s'il y a lieu.
+
+Le budget des offices départementaux est soumis à l'office national avant le 15 octobre de l'année précédant celle pour
+laquelle il est établi.
+
+En cas d'urgence, le budget des offices d'outre-mer peut être rendu provisoirement exécutoire par le gouverneur général ou le
+chef du territoire, suivant le cas, à la condition, toutefois, que la subvention de l'office national n'y soit mentionnée que
+pour mémoire. Le projet de budget rendu provisoirement exécutoire est approuvé par le ministre des anciens combattants et
+victimes de guerre, après avis du comité d'administration de l'office national et modification s'il y a lieu.
+
+Le budget des comités locaux est préparé par le président et délibéré par le conseil d'administration du comité local. Il est
+approuvé par le président de l'office dont il relève après avis du conseil d'administration de cet office.
+
+Sous réserve des dispositions du présent chapitre, l'établissement et l'exécution des budgets des offices d'outre-mer ou des
+comités locaux sont soumis aux prescriptions concernant la comptabilité des services locaux.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D519
+
+Le budget supplémentaire des offices départementaux est établi, chaque année, avant le 1er mai, dans les conditions prévues à
+l'article D. 465.
+
+Toutefois, les virements de crédits de chapitre à chapitre ou d'article à article sont proposés, délibérés et approuvés dans
+les mêmes formes que le budget primitif.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D465 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D520
+
+Les fonds libres des offices et des comités sont versés en compte courant au Trésor, sans intérêts, sous réserve des sommes
+figurant au crédit du compte courant postal ouvert au nom de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D521
+
+La partie des excédents de recettes sur les dépenses qui, à la clôture d'un exercice, dépassent les besoins prévus pour
+l'exercice courant, peut, par délibération du conseil d'administration de l'office départemental, être affectée à la
+constitution d'un fonds de réserve et employée, soit en rentes sur l'Etat, soit en valeurs assimilées.
+
+Le placement dans les mêmes conditions des sommes provenant des libéralités faites à l'office départemental peut être décidé
+en cours d'exercice par le conseil d'administration.
+
+Le placement en valeurs d'Etat des fonds excédant les besoins prévus est décidé, en ce qui concerne les offices d'outre-mer
+et les comités locaux, par leur conseil d'administration sous réserve de l'approbation de leur président.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+##### Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable.<a id=372></a>
+
+###### Article D522
+
+Le compte administratif du président et le compte de gestion de l'agent comptable sont soumis, suivant le cas, avant le 1er
+mai de la deuxième année de l'exercice au conseil d'administration de l'office départemental, ou avant le 31 août de chaque
+année au conseil d'administration de l'office d'outre-mer ou du comité local.
+
+Le conseil d'administration donne son avis sur le compte du président et sur le compte de gestion du comptable.
+
+Le président se retire au moment du vote de son compte.
+
+Les délibérations et observations de l'office départemental sur les comptes administratifs présentés à son examen sont
+communiquées à l'office national.
+
+Le compte administratif de l'office d'outre-mer ou du comité local est approuvé par le ministre des anciens combattants et
+victimes de guerre, après avis du comité d'administration de l'office national.
+
+Le compte provisoirement arrêté par les offices départementaux intéressés est envoyé à l'office national accompagné d'un
+rapport administratif et est approuvé par le ministre des anciens combattants et victimes de guerre.
+
+Le compte de l'agent comptable de l'office d'outre-mer ou du comité local doit être déposé au greffe de la Cour des comptes
+dans le courant du mois de novembre qui suit la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D523
+
+Le comptable du Trésor chargé des fonctions d'agent comptable de l'office départemental établit un compte spécial des
+opérations qu'il effectue en cette qualité.
+
+Le compte de gestion de ce comptable ou de l'agent comptable spécial est remis à l'office avant l'établissement du compte
+administratif.
+
+Le comptable tient ses pièces de comptabilité à la disposition de l'office sans toutefois s'en dessaisir.
+
+Le conseil d'administration prend une délibération spéciale sur le résultat du compte de gestion.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 5 : Contrôle financier.<a id=373></a>
+
+###### Article D524
+
+L'inspection générale des finances peut examiner la gestion financière de l'office départemental et se faire représenter,
+pour l'exercice de son contrôle, tous registres et documents intéressant cette gestion.
+
+L'office départemental de Paris est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25
+octobre 1935 et l'arrêté du 4 décembre 1937.
+
+Celui-ci est assuré par le contrôleur financier de l'office national.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1937-12-04
+  - Décret n°1935-10-25
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Paragraphe 6 : Mesures d'application.<a id=374></a>
+
+###### Article D525
+
+La forme du budget et des comptes, la tenue des livres et des écritures ainsi que la nomenclature des pièces justificatives
+de recettes et de dépenses sont déterminées, suivant le cas, par arrêté pris de concert par le ministre des anciens
+combattants et victimes de guerre et le ministre de l'économie et des finances ou par arrêté du gouverneur général ou du chef
+du territoire pris après avis du trésorier général ou du trésorier-payeur du territoire.
+
+Un arrêté du ministre des anciens combattants et victimes de guerre règle la tenue de la comptabilité matière de l'office
+départemental.
+
+Ces arrêtés font l'objet, en ce qui concerne les offices départementaux, des articles A. 250 à A. 263.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A250 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A251 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A252 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A253 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A254 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A255 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A256 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A257 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A258 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A259 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A260 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A261 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A262 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A263 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre III : Ecoles de rééducation professionnelle<a id=375></a>
+
+##### Section 1 : Attributions.<a id=376></a>
+
+###### Article D526
+
+Des écoles de rééducation professionnelle relevant de l'office national des anciens combattants et victimes de guerre ont
+pour objet d'assurer, par le travail, le reclassement social des personnes admises au bénéfice de la rééducation
+professionnelle par les lois et règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°88-279 du 24 mars 1988 - art. 13 (Ab)
+  - Code du travail - art. R323-34 (VT)
+  - Code du travail - art. R5213-9 (VD)
+  - Code du travail applicable à Mayotte. - art. R328-55 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 2 : Organisation.<a id=377></a>
+
+###### Article D527
+
+L'admission des élèves dans les écoles est prononcée par le directeur général de l'office national des anciens combattants et
+victimes de guerre, sur le vu d'un dossier constitué par le préfet, président de l'office départemental des anciens
+combattants et victimes de guerre dans le ressort duquel le postulant est domicilié et comportant l'avis motivé de celui-ci
+et l'avis de praticiens qualifiés.
+
+La demande d'admission doit faire connaître :
+
+1° Les nom, prénoms et adresse de l'intéressé ;
+
+2° Le lieu (commune et département) de sa résidence avant le fait dommageable ;
+
+3° Sa situation militaire ;
+
+4° En ce qui concerne les invalides, la nature et l'origine des infirmités constitutives de cette invalidité ;
+
+5° Sa profession antérieure ;
+
+6° La profession dans laquelle il voudrait être rééduqué ;
+
+7° L'indication des établissements de rééducation dans lesquels il aurait été admis antérieurement ou la déclaration qu'il
+n'a séjourné dans aucun ;
+
+8° La région où il voudrait se placer après rééducation.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2014-1283 du 23 octobre 2014 - art. (VD)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D528
+
+Dès l'admission de l'élève dans une école de rééducation, le directeur doit aviser l'office national et le préfet du
+département où l'invalide a son domicile. Le préfet avise à son tour l'office départemental et le maire de la commune du
+domicile du jour du début de la rééducation.
+
+Lors de la fin de la période fixée pour la rééducation ou lors du départ, pour quelque motif que ce soit, de l'élève en
+rééducation, le directeur de l'école avise immédiatement de ce départ l'office national et le préfet intéressé, qui, à son
+tour, avise le maire de la commune du domicile de l'invalide et l'office départemental.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D529
+
+La rééducation professionnelle est gratuite pour les personnes admises à en bénéficier par les textes législatifs et
+réglementaires.
+
+Toutefois, d'autres personnes peuvent, dans la limite des places disponibles, être autorisées, contre paiement du prix de
+journée, à faire un stage dans les écoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D530
+
+Le régime des écoles de rééducation est l'internat. Les élèves internes sont logés, nourris et blanchis gratuitement.
+
+Toutefois, les élèves qui peuvent faire valoir des motifs reconnus justifiés sont admis en qualité d'externes. Dans ce cas,
+ils prennent leurs repas à l'école et reçoivent des indemnités compensatrices de logement à des taux fixés par l'office
+national.
+
+Exceptionnellement, les élèves admis à l'externat reçoivent des indemnités compensatrices de nourriture et de logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D531
+
+Un arrêté du préfet, pris sur la proposition du directeur de l'école après approbation de l'office national, fixe le
+règlement intérieur de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D532
+
+Les élèves des écoles de rééducation peuvent, le cas échéant, être munis gratuitement d'appareils spéciaux de prothèse de
+travail. Des vêtements de travail sont mis à leur disposition.
+
+Leurs frais de voyage exposés pour entrer à l'école leur sont remboursés. En outre, si leur situation le justifie, ils
+peuvent recevoir des allocations pour charges de famille pour les membres de leur famille n'ouvrant pas droit aux allocations
+familiales, dans les conditions fixées par l'office national. Enfin, une prime dite "de fin de rééducation" peut leur être
+attribuée à l'issue du stage, dans la limite d'un taux maximum déterminé par l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D533
+
+Le régime de congé des élèves est fixé chaque année dans le courant du mois de janvier par décision du directeur général de
+l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 3 : Fonctionnement.<a id=378></a>
+
+###### Article D534
+
+Sous l'autorité du préfet, président de l'office départemental, le directeur de l'école assure le fonctionnement de
+l'établissement.
+
+Il est nommé par arrêté du ministre des anciens combattants et victimes de guerre, sur la proposition du directeur général de
+l'office national.
+
+Il prend toutes mesures utiles au fonctionnement de l'école en vertu des décisions de l'office national.
+
+Il a sous ses ordres le personnel de l'école.
+
+Il a entrée, avec voix consultative, au conseil d'administration, à la commission permanente et, éventuellement, aux sous-
+commissions de l'office départemental.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D535
+
+En cas d'absence momentanée ou d'empêchement, le directeur de l'école est suppléé dans ses fonctions par un membre du
+personnel administratif ou enseignant désigné, à cet effet, sur la proposition du préfet par le ministre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D536
+
+Sous l'autorité du directeur de l'école, le régisseur économe assure la gestion de l'établissement, organise et contrôle les
+activités du personnel professionnel et de service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D537
+
+Les statuts des différents personnels des écoles de rééducation professionnelle sont fixés par décrets, rendus sur
+proposition du ministre des anciens combattants et victimes de guerre et du ministre de l'économie et des finances, après
+avis de l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D538
+
+Les cours des écoles de rééducation sont donnés sous la responsabilité des directeurs qui sont secondés, le cas échéant, dans
+leur tâche d'organisation technique, par des chefs de travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D539
+
+Des examens professionnels spéciaux sanctionnent les cours donnés dans les écoles de rééducation dont les programmes
+d'enseignement sont mis en harmonie avec les épreuves desdits examens, ceux-ci étant assimilés aux certificats d'aptitude
+professionnelle institués par la loi du 27 juillet 1919 modifiée par la loi du 18 août 1941.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Cite_:
+
+  - Loi n°1919-07-27
+  - Loi n°1941-08-18
+
+
+###### Article D540
+
+Chaque année [*périodicité*], dans le courant du mois d'octobre, les directeurs des écoles adressent à l'office national,
+sous le couvert des préfets, un horaire des classes et ateliers établi compte tenu des programmes des examens professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D541
+
+Le personnel enseignant se réunit en conseil au moins une fois par trimestre [*périodicité*] sous la présidence du directeur.
+Les élèves sont notés mensuellement et les notes et appréciations des professeur chefs de travaux, chefs d'ateliers et
+moniteurs, consignées sur un carnet spécial pour chaque élève, sont discutées à cette réunion qui fait l'objet d'un procès-
+verbal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D542
+
+Les résultats obtenus aux examens par les élèves ainsi que les suggestions des directeurs des écoles sont communiqués par
+ceux-ci à l'office national par l'intermédiaire des préfets, présidents des offices départementaux de rattachement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D543
+
+Un rapport détaillé sur le fonctionnement annuel de l'école est préparé par le directeur, soumis à l'approbation de l'office
+départemental et du préfet, qui le transmet avec ses observations à l'office national avant le 1er avril de l'année suivante
+[*date limite*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+##### Section 4 : Régime financier.<a id=379></a>
+
+###### Article D544
+
+Les écoles de rééducation professionnelle sont rattachées financièrement aux offices départementaux des anciens combattants
+et victimes de guerre dans le ressort desquels elles fonctionnent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D545
+
+Les dispositions des articles D. 463, D. 502 à D. 506, D. 512, D. 513, D. 516, D. 518 à D. 524, relatives au régime financier
+de l'office national et des offices départementaux sont applicables aux écoles de rééducation professionnelle sous réserve
+des règles édictées aux articles ci-après.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D463 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D502 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D503 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D504 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D505 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D506 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D513 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D516 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D518 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D519 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D520 (M)
+  - Code des pensions militaires d'invalidité et des v - art. D521 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D522 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D523 (V)
+  - Code des pensions militaires d'invalidité et des v - art. D524 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D463 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D502 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D503 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D504 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D505 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D506 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D512 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D513 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D516 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D518 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D519 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D520 (M)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D521 (Ab)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D522 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D523 (V)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D524 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D546
+
+Les opérations de recettes et de dépenses de l'école sont effectuées par l'agent comptable de l'office départemental de
+rattachement, dans les conditions prescrites par les textes réglementaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D547
+
+Les régisseurs économes des écoles, dont les attributions et les obligations sont définies par les articles A. 267 à A. 288
+exercent leurs fonctions sous le contrôle et la responsabilité de l'agent comptable de l'office départemental de
+rattachement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre A267 à A288
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D548
+
+Les ressources de l'école comprennent :
+
+Les subventions dont elles bénéficient de la part des départements, communes, personnes ou associations privées ;
+
+Le produit des dons manuels et souscriptions diverses avec ou sans affectation spéciale ;
+
+La quote-part qui lui est attribuée par l'office national sur les crédits alloués par l'Etat pour la rééducation
+professionnelle ;
+
+Les attributions de toute autre nature qui lui sont faites par l'office national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D549
+
+Les recettes de l'école sont divisées en recettes ordinaires et en recettes extraordinaires [*ressources financières*].
+
+Les recettes ordinaires en espèces comprennent :
+
+Les subventions des collectivités locales, des personnes ou des associations privées ;
+
+Le produit des dons manuels et souscriptions diverses ;
+
+Les subventions et avances de l'office national ;
+
+Le montant des remboursements, des frais d'hébergement et de rééducation de certains élèves ;
+
+Le montant du remboursement, par le personnel, de la nourriture, du logement et de denrées ou produits cédés à titre
+remboursable ;
+
+Les produits des ateliers de l'école ;
+
+Le montant de la vente des produits de culture et d'élevage ;
+
+Les autres ressources d'un caractère annuel et permanent.
+
+Les recettes en nature comprennent :
+
+Le montant des produits de culture et d'élevage consommés dans l'établissement ;
+
+La valeur des travaux exécutés par les ateliers de l'école pour elle-même.
+
+Les dons manuels et souscriptions diverses avec affectations spéciales ne peuvent être utilisés que conformément à la volonté
+de leurs auteurs.
+
+Les recettes extraordinaires comprennent :
+
+Les subventions accidentelles de l'office national ;
+
+Les autres ressources accidentelles.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D550 (Ab)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D550
+
+Les dépenses de l'école sont divisées en dépenses ordinaires et en dépenses extraordinaires.
+
+Les dépenses ordinaires de l'école comprennent :
+
+1° Les dépenses en espèces, savoir :
+
+a) Frais de personnel ;
+
+b) Achat, entretien et réparation du matériel et du mobilier ;
+
+c) Entretien des locaux et exploitation du domaine ;
+
+d) Frais de rééducation ;
+
+e) Emploi des dons manuels et souscriptions diverses avec affectations spéciales ;
+
+f) Dépenses diverses ;
+
+2° Les dépenses en nature, savoir :
+
+a) Le montant des produits récoltés ou de l'élevage consommés dans l'établissement ;
+
+b) Le montant des travaux exécutés par les ateliers de l'école pour elle-même.
+
+Les dépenses extraordinaires comprennent les dépenses temporaires ou accidentelles imputables sur les recettes
+extraordinaires énumérées à l'article D. 549.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D549 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D551
+
+Le budget est préparé par le directeur de l'école. Il est présenté au conseil d'administration de l'office départemental de
+rattachement, soumis à l'office national et approuvé par le ministre des anciens combattants et victimes de guerre dans les
+mêmes formes que le budget de l'office départemental.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D552
+
+La commission permanente de l'office départemental fixe le montant des sommes figurant au crédit du compte courant postal
+ouvert au nom de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D553
+
+Le compte de gestion matières du régisseur économe est annexé au compte de gestion de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D554
+
+Le contrôle du fonctionnement administratif des écoles est exercé par les inspecteurs administratifs du ministère des anciens
+combattants et victimes de guerre.
+
+Le contrôle de l'organisation et du fonctionnement technique des cours et ateliers est exercé dans les conditions qui sont
+fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+### Titre II : Institution nationale des invalides.<a id=380></a>
+
+#### Chapitre Ier : Régime des pensionnaires.<a id=381></a>
+
+###### Article D555
+
+Peuvent être admis à l'institution nationale des invalides, dans la limite des crédits budgétaires ouverts à cet effet :
+
+1° A titre permanent, comme pensionnaires invalides :
+
+a) Des mutilés, blessés ou malades de tous grades des armées de terre, de mer et de l'air pensionnés par l'Etat français et
+atteints d'une invalidité égale au moins à 80 % ;
+
+b) D'anciens militaires, retraités pour ancienneté de services ou retraités proportionnels ayant au moins soixante ans d'âge.
+
+Ces anciens militaires des catégories a et b doivent n'avoir d'autres ressources que leur pension ;
+
+2° A titre temporaire :
+
+Des mutilés qui, pour des raisons se rapportant à leur invalidité (rééducation, appareillage, recherche d'un emploi, etc.),
+désirent obtenir un hébergement de courte durée ;
+
+3° A titre exceptionnel :
+
+Des candidats en instance d'admission à l'institution nationale des invalides comme pensionnaires.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 2 janvier 2015 (V)
+  - Code des pensions militaires d'invalidité et des v - art. L528 (M)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D556
+
+L'admission provisoire des pensionnaires est prononcée par le ministre des anciens combattants et victimes de guerre après
+enquête administrative.
+
+Après un stage de trois mois, l'admission définitive est prononcée s'il y a lieu, par le ministre, sur le rapport du général
+commandant l'institution nationale des invalides.
+
+Les pensionnaires invalides bénéficiaires de pension temporaire ne sont admis définitivement que lorsqu'ils ont acquis des
+droits à pension définitive.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. A297 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D557
+
+Tout pensionnaire dont la pension est supprimée ou dont le taux d'invalidité est abaissé au-dessous de 80 % par suite de
+révision de pension, peut être maintenu à l'institution nationale des invalides jusqu'à l'expiration des délais impartis pour
+exercer les voies de recours qui lui sont ouvertes pour obtenir l'annulation ou la modification de la décision ou jusqu'à
+l'épuisement des voies de recours.
+
+Pendant la durée de son maintien, il doit verser à l'institution, pour frais d'entretien, une somme égale à la retenue qu'il
+supportait antérieurement sur sa pension.
+
+Lorsque la décision de suppression, ou de diminution de la pension au-dessous de 80 %, est devenue définitive, le ministre,
+sur la proposition du général commandant l'institution nationale des invalides, prononce la radiation du pensionnaire. Le
+pensionnaire rayé doit quitter l'établissement dans le délai d'un mois à dater de la notification qui lui est faite de la
+décision prise à son égard.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D558
+
+Les pensionnaires peuvent démissionner, mais seulement sur demande écrite, répétée à quinze jours d'intervalle. La démission
+est acceptée par décision du ministre sur le rapport du général commandant l'institution nationale des invalides.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D559
+
+Les pensionnaires invalides payent à l'Etat une somme proportionnelle à leur pension dans les conditions fixées par l'article
+D. 561.
+
+Cette somme est représentative de leurs frais d'entretien ; les soins médicaux, chirurgicaux et pharmaceutiques dus en vertu
+de l'article L. 115 restent à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D561
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D560
+
+Les pensionnés invalides doivent remettre, contre récépissé, leur titre de pension et une procuration pour percevoir les
+arrérages de ladite pension à l'agent comptable de l'institution, lequel est chargé d'en assurer le paiement aux intéressés
+après déduction des retenues légales.
+
+Ils remettent également à l'agent comptable leur carnet de soins gratuits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D562
+
+Les infractions légères à la discipline sont justiciables d'avertissements verbaux, de privation de sortie ou de permission
+suivant leur gravité. Les fautes plus graves comportent des avertissements écrits. Ces deux catégories de sanctions sont
+prononcées par le général commandant l'institution nationale des invalides.
+
+L'indiscipline, la mauvaise conduite habituelle, les faits scandaleux portant atteinte à la considération de l'institution,
+l'ivresse en cas de récidive, peuvent donner lieu à l'exclusion du pensionnaire. Celle-ci est prononcée par le ministre après
+avis du conseil de discipline constitué comme suit :
+
+1° Le général commandant l'institution nationale des invalides, président, ou son représentant ;
+
+2° Le médecin chef ou son représentant ;
+
+3° Le médecin traitant de l'institution ;
+
+4° L'agent comptable ;
+
+5° Un délégué du ministre ;
+
+6° Un invalide pensionnaire du grade de l'inculpé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D563
+
+Lorsqu'un pensionnaire doit être déféré au conseil de discipline, celui-ci se réunit sur décision du général commandant
+l'institution nationale des invalides. Le conseil prend connaissance du rapport présenté par un de ses membres désigné par le
+général commandant l'institution nationale des invalides ; il entend les explications de l'inculpé et celles des témoins et
+émet un avis qui est transmis par le général commandant l'institution nationale des invalides au ministre pour décision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D564
+
+La durée totale des permissions autres que celles de quarante-huit heures ne peut dépasser trois mois par an.
+
+Toutefois, des permissions supplémentaires peuvent être accordées au-delà de cette durée pour raison de santé impérieuse et
+aux pensionnaires invalides mariés pour raison de famille.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D565
+
+En cas d'hospitalisation dans un établissement autre que l'institution nationale des invalides, le payement des frais
+d'entretien est suspendu pendant la durée de l'hospitalisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+###### Article D566
+
+Les pensionnaires autres que les officiers dont l'état de santé est reconnu suffisant par le médecin chef peuvent, sur leur
+demande et avec l'autorisation du général commandant l'institution nationale des invalides, être employés comme gardiens,
+plantons ou surveillants au musée de l'armée et dans les autres services installés dans l'hôtel des invalides.
+
+Le général commandant l'institution nationale des invalides et les services employeurs fixent, d'un commun accord et d'après
+les tarifs envisagés dans chacun des services, l'indemnité que ces derniers doivent payer aux invalides.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+
+#### Chapitre II : Régime des hébergés.<a id=382></a>
+
+###### Article D568
+
+Les mutilés hébergés temporairement sont logés dans des locaux distincts de ceux des pensionnaires.
+
+Pour être admis ils ne doivent pas être atteints de tuberculose ni d'autre maladie contagieuse. Leur séjour ne peut excéder,
+en principe, une durée de huit jours, renouvelable s'il y a lieu.
+
+Les conditions dans lesquelles fonctionne cet hébergement sont fixées par un arrêté du ministre des anciens combattants et
+victimes de guerre, pris après avis du général commandant l'institution nationale des invalides, dont les dispositions font
+l'objet des articles A. 325 à A. 329.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. A325 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A326 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A327 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A328 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A329 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+#### Chapitre III : Organisation administrative.<a id=383></a>
+
+###### Article D569
+
+L'institution nationale des invalides est placée sous le commandement d'un officier général de la deuxième section du cadre
+de l'état-major général de l'armée, invalide de guerre, désigné par le ministre des anciens combattants et victimes de
+guerre.
+
+Un médecin retraité du service de santé militaire ou un médecin civil du cadre de réserve, ancien combattant, de préférence
+invalide de guerre, recruté sur titre et désigné par le ministre, dirige le service médical et seconde le général commandant.
+
+Ce dernier peut déléguer ses pouvoirs au médecin chef de l'établissement après y avoir été autorisé par le ministre des
+anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+# Partie réglementaire - Arrêtés<a id=384></a>
+
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=385></a>
+
+### Titre VII : Soins, traitement, rééducation, sécurité sociale.<a id=386></a>
+
+#### Chapitre Ier : Soins gratuits.<a id=387></a>
+
+##### Section 9 : Indemnités diverses.<a id=388></a>
+
+###### Article A42 à A47
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arreté du 24 mars 1960 art. 1
+
+
+# Annexes<a id=389></a>
+
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=390></a>
+
+### Titre VI : Etrangers.<a id=391></a>
+
+#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=392></a>
 
 ###### Article Annexe 1, art. 1
 
@@ -18156,7 +25539,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=276></a>
+#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=393></a>
 
 ###### Article Annexe 2, art. 1
 
@@ -18325,7 +25708,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=277></a>
+#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=394></a>
 
 ###### Article Annexe 3, art. 1
 
@@ -18482,7 +25865,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=278></a>
+#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=395></a>
 
 ###### Article Annexe 4
 
