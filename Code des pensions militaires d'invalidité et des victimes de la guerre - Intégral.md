@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1971-09-16
+Version Consolidée au 1972-12-09
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -453,7 +453,7 @@ Version Consolidée au 1971-09-16
         - [Chapitre Ier : Office national. (art. D431 à D471)](#450)
           - [Section 1 : Caractère juridique. (art. D431)](#451)
           - [Section 2 : Attributions. (art. D432)](#452)
-          - [Section 3 : Composition. (art. D435 à D439)](#453)
+          - [Section 3 : Composition. (art. D433 à D439)](#453)
           - [Section 4 : Organisation. (art. D440 à D442)](#454)
           - [Section 5 : Fonctionnement. (art. D443 à D446)](#455)
           - [Section 6 : Régime financier. (art. D447 à D471)](#456)
@@ -39264,6 +39264,24 @@ _Codifié par_:
 
 
 ##### Section 3 : Composition.<a id=453></a>
+
+###### Article D433
+
+L'office national est administré, sous l'autorité du ministre des anciens combattants et victimes de guerre, par un conseil
+d'administration et par un directeur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°55-1166 1955-08-29 art. 1 JORF 3 septembre 1955
+  - Décret n°59-166 1959-01-07 art. 1 JORF 10 janvier 1959
+  - Décret n°72-1091 1972-11-30 art. 1 JORF 9 décembre 1972
+
 
 ###### Article D435
 
