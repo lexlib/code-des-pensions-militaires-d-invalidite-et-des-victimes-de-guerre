@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1996-06-15
+Version Consolidée au 1996-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -3616,16 +3616,16 @@ _Codifié par_:
 ###### Article L51
 
 Le montant des pensions allouées dans les conditions fixées à l'article L. 50 est fixé aux quatre tiers de la pension au taux
-normal pour les veuves non remariées dont les revenus imposables à l'imp<cb>t unique sur le revenu des personnes physiques
-n'excède pas une somme égale, par part de revenu au sens de l'article 194 et 195 du Code général des imp<cb>ts, à celle en
-deçà de laquelle aucune cotisation n'est perçue en ce qui concerne les bénéficiaires des revenus du travail salarié et qui se
+normal pour les veuves non remariées dont les revenus imposables à l'impôt unique sur le revenu des personnes physiques
+n'excède pas une somme égale, par part de revenu au sens des articles 194 et 195 du Code général des impôts, à celle en deçà
+de laquelle aucune cotisation n'est perçue en ce qui concerne les bénéficiaires des revenus du travail salarié et qui se
 trouvent dans l'une des situations suivantes :
 
-1° Soit âgées de plus de cinquante-sept ans ;
+1° Soit âgées de cinquante ans et plus ;
 
 2° Soit infirmes ou atteintes d'une maladie incurable ou entraînant une incapacité permanente de travail.
 
-Si les revenus imposables à l'imp<cb>t unique sur le revenu des personnes physiques sont supérieurs à la somme ci-dessus
+Si les revenus imposables à l'impôt unique sur le revenu des personnes physiques sont supérieurs à la somme ci-dessus
 définie, la partie de la pension prévue à l'alinéa précédent excédant selon le cas le taux normal ou le taux de réversion est
 réduite à concurrence de la portion du revenu dépassant ladite somme.
 
@@ -3647,10 +3647,8 @@ Les dispositions du présent article sont applicables jusqu'à leur majorité au
 sont décédés.
 
 Un décret contresigné par le ministre des anciens combattants et victimes de guerre et le ministre de l'économie et des
-finances déterminera, pour l'application de l'article L. 50 et du présent article, les indices correspondants aux taux de
+finances déterminera, pour l'application de l'article L. 50 et du présent article, les indices correspondant aux taux de
 pensions allouées aux veuves non remariées, en fonction du grade détenu par leur mari.
-
-</cb></cb></cb>
 
 **Liens relatifs à cet article**
 
@@ -3659,18 +3657,6 @@ _Cite_:
   - CGI 194, 195
   - Code des pensions militaires d'invalidité et des v - art. L50 (M)
   - Code des pensions militaires d'invalidité et des v - art. L54 (M)
-
-_Modifié par_:
-
-  - Loi n°53-1340 1953-12-31 art. 22 JORF 5 janvier 1954
-  - Loi n°56-780 1956-08-04 art. 98 JORF 7 août 1956
-  - Loi n°60-1384 1960-12-23 art. 63 II JORF 24 décembre 1960
-  - Loi n°67-1114 1967-12-21 art. 76 JORF 22 décembre 1967
-  - Loi n°73-1150 1973-12-27 art. 71 I JORF 28 décembre 1973
-  - Loi n°77-1467 1977-12-30 art. 100 I a et b JORF 31 décembre 1977
-  - Loi n°78-753 du 17 juillet 1978 - art. 17 (M) JORF 18 juillet 1978
-  - Loi n°80-30 1980-01-18 art. 92 2° JORF 19 janvier 1980
-  - Loi n°80-1094 1980-12-30 art. 67 JORF 31 décembre 1980, en vigueur le 1er janvier 1981
 
 _Cité par_:
 
@@ -3692,6 +3678,10 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R170 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R184 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. L56 (M)
+
+_Modifié par_:
+
+  - Loi - art. 103 (V) JORF 31 décembre 1995 en vigueur le 1er juillet 1996
 
 _Nouveaux textes_:
 
