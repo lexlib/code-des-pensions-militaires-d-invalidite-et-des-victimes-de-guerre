@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-03-02
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -21210,14 +21210,22 @@ _Cité par_:
 
 ###### Article R104
 
-Dans le présent titre, l'expression "autorité française" s'entend, suivant les cas, du haut commissaire, du commissaire de la
-République, du président, du gouverneur général, du gouverneur ou de l'administrateur.
+Dans le présent titre, l'expression "autorité française" s'entend, suivant les cas, du haut commissaire, du préfet, du
+résident, du gouverneur général, du gouverneur ou de l'administrateur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
@@ -21227,9 +21235,13 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R105 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R106 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R110 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R122 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R141 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R142 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. R122 (M)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R155-2 (V)
 
 **Liens**:
 
@@ -25189,9 +25201,9 @@ _Cite_:
 
 ###### Article R227 quater
 
-La décision sur la demande d'attribution de la carte du combattant est prise par le commissaire de la République après avis
-de la commission départementale prévue à l'article R. 230, dans les cas où le nombre d'actions de feu ou de combat détermine
-la décision, conformément aux directives définies par la commission d'experts instituée par l'article L. 253 bis.
+La décision sur la demande d'attribution de la carte du combattant est prise par le préfet après avis de la commission
+départementale prévue à l'article R. 230, dans les cas où le nombre d'actions de feu ou de combat détermine la décision,
+conformément aux directives définies par la commission d'experts instituée par l'article L. 253 bis.
 
 Les personnes ayant pris part aux opérations ou aux actions définies à l'article L. 253 bis et qui ne remplissent pas les
 conditions mentionnées à l'alinéa précédent peuvent individuellement demander à bénéficier de la qualité de combattant
@@ -25207,9 +25219,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-622 1983-07-08 art. 2 JORF 10 juillet 1983
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 _Cite_:
 
@@ -32137,14 +32149,9 @@ _Abrogé par_:
 ###### Article R418
 
 Les présidents et les membres des commissions prévues à l'article R. 417 du Code des pensions militaires d'invalidité et des
-victimes de guerre sont nommés par arrêté du préfet, commissaire de la République, sur proposition des administrations
-intéressées. Les invalides de guerre sont nommés sur proposition de l'office national des anciens combattants et victimes de
-guerre. Les officiers sont nommés sur désignation du ministre de la défense ou de l'autorité militaire ayant reçu délégation
-à cet effet.
-
-**Nota:**
-
-
+victimes de guerre sont nommés par arrêté du préfet, sur proposition des administrations intéressées. Les invalides de guerre
+sont nommés sur proposition de l'office national des anciens combattants et victimes de guerre. Les officiers sont nommés sur
+désignation du ministre de la défense ou de l'autorité militaire ayant reçu délégation à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -32154,19 +32161,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°86-1251 1986-12-04 art. 5 JORF 9 décembre 1986
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Abrogé par_:
+
+  - Décret n°2009-629 du 5 juin 2009 - art. 1
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R451 (Ab)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. R417 (V)
-
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. R454 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R417
 
 
 ###### Article R419
@@ -50999,7 +51010,7 @@ offices.
 
 Les dossiers des personnes visées à l'article A. 119 doivent comporter l'attestation délivrée aux demandeurs par les soins de
 l'autorité militaire compétente. Les agents qui ne sont pas, lors du dépôt de leur demande, en possession de cette
-attestation, sont soumis à la procédure instituée à l'article A. 123.
+attestation, sont soumis à la procédure instituée à l'article A. 123-1.
 
 Les demandes des personnes visées aux alinéas 1° et 2° de l'article R. 224 C, doivent être accompagnées d'une copie certifiée
 conforme, soit de la carte de déporté ou d'interné de la Résistance, soit de la carte de combattant volontaire de la
@@ -51009,7 +51020,7 @@ Les dossiers sont soumis dans tous les cas à la commission départementale des 
 ne peut valablement siéger qu'avec la participation de la majorité des membres non fonctionnaires.
 
 Lorsque les demandes ont fait l'objet d'un avis unanime de tous les membres présents de cette commission, la décision est
-prise par le commissaire de la République.
+prise par le préfet (1).
 
 Toutefois, lorsque la décision d'octroi ou de rejet est conditionnée par l'appréciation de services non homologués par
 l'autorité militaire, mais ayant donné lieu à des témoignages non validés par un liquidateur national de mouvement ou de
@@ -51017,27 +51028,27 @@ réseau, les dossiers sont obligatoirement envoyés à l'Office national des anc
 l'avis de la commission départementale a été rendu à l'unanimité. Ces dossiers sont ensuite soumis à la décision du ministre
 des anciens combattants, après avis de la commission prévue à l'article A. 119, mais dont le président est alors désigné par
 le ministre des anciens combattants. En outre, il est adjoint à cette commission trois membres pris dans le sein de la
-commission instituée pour l'application de l'article R. 227.
+commission instituée pour l'application de l'article R. 227 (1).
 
 Cette dernière procédure est également applicable chaque fois que les demandes n'ont pas fait l'objet d'un avis unanime de la
-commission départementale.
+commission départementale (1).
 
 Pour juger des cas individuels de la résistance extramétropolitaine, la commission est complétée comme prévu à l'article A.
 119.
 
 **Nota:**
 
-[*Nota : Code des pensions militaires d'invalidité et des victimes de la guerre A128 : définition des français et des
-étrangers pouvant bénéficier des dispositions du présent chapitre.*]
-
-[*Nota : La décision 50826 et 50884 du Conseil d'Etat du 13 février 1987 annule les 5°, 6° et 7° alinéas du présent
-article.*]
+(1) La décision 50826 et 50884 du Conseil d'Etat du 13 février 1987 annule les 5°,6° et 7° alinéas du présent article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 _Cité par_:
 
@@ -51046,9 +51057,9 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. A119 (V)
+  - Code des pensions militaires d'invalidité et des v - art. A123-1 (V)
   - Code des pensions militaires d'invalidité et des v - art. R224 (M)
   - Code des pensions militaires d'invalidité et des v - art. R227 (M)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre A119, A123, R224, R227
 
 **Liens**:
 
@@ -51118,15 +51129,18 @@ _Cite_:
 
 ###### Article A141
 
-Le haut commissaire de la République française, le résident général, le gouverneur, l'administrateur, exercent, en qualité de
-président de l'Office d'outre-mer des anciens combattants et victimes de guerre, les attributions dévolues au préfet par
-l'article A. 140.
+Le haut préfet, le résident général, le gouverneur, l'administrateur, exercent, en qualité de président de l'Office d'outre-
+mer des anciens combattants et victimes de guerre, les attributions dévolues au préfet par l'article A. 140.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 **Liens**:
 
