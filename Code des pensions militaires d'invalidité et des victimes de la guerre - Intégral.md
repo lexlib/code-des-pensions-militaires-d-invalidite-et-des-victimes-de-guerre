@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1991-09-01
+Version Consolidée au 1991-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -2146,9 +2146,8 @@ d'une ou plusieurs infirmités en raison desquelles cette pension a été accord
 
 Cette demande est recevable sans condition de délai.
 
-La pension ayant fait l'objet de la demande est révisée, à un taux supérieur ou inférieur au taux primitif, lorsque le degré
-d'invalidité résultant de l'infirmité ou de l'ensemble des infirmités est reconnu, après examen médical, différer de 10 % au
-moins du pourcentage antérieur, après avis d'une commission constituée par décret.
+La pension ayant fait l'objet de la demande est révisée lorsque le degré d'invalidité résultant de l'infirmité ou de
+l'ensemble des infirmités est reconnu supérieur de 10 % au moins du pourcentage antérieur.
 
 Toutefois, l'aggravation ne peut être prise en considération que si le supplément d'invalidité est exclusivement imputable
 aux blessures et aux maladies constitutives des infirmités pour lesquelles la pension a été accordée.
@@ -2159,7 +2158,7 @@ La pension définitive révisée est concédée à titre définitif.
 
 _Modifié par_:
 
-  - Loi - art. 120 () JORF 30 décembre 1990
+  - Loi - art. 124 (V) JORF 31 décembre 1991
 
 _Cité par_:
 
@@ -2169,6 +2168,10 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R210 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R28 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R30 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Nouveaux textes_:
 
