@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-11-04
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -32600,7 +32600,7 @@ Le secrétaire général de l'office départemental des anciens combattants et v
 Soit le président de la chambre de commerce siégeant au chef-lieu du département ou, à défaut de chambre de commerce au chef-
 lieu, le président d'une chambre de commerce désignée par le préfet ;
 
-Soit, lorsque le demandeur est un artisan, le président de la chambre des métiers ;
+Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers et de l'artisanat ;
 
 En cas d'empêchement, le président de la chambre compétente peut se faire représenter par un membre de ladite chambre ;
 
@@ -32635,7 +32635,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
+  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 _Anciens textes_:
 
@@ -32667,7 +32667,8 @@ novembre 1944 ;
 Un combattant volontaire de la Résistance désigné par la commission départementale prévue à l'article R. 260, de préférence
 parmi les membres de la commission qualifiée du conseil d'administration de l'office départemental ;
 
-Si la demande de prêt est déposée par un artisan rural, le président de la chambre de métiers ou son représentant ;
+Si la demande de prêt est déposée par un artisan rural, le président de la chambre de métiers et de l'artisanat ou son
+représentant ;
 
 Si la demande de prêt est présentée par un agriculteur sinistré, le délégué départemental du ministère de la construction et
 de l'urbanisme ou son représentant ;
@@ -32688,9 +32689,9 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-908 du 19 octobre 1994 - art. 1 () JORF 20 octobre 1994
+  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 _Anciens textes_:
 
