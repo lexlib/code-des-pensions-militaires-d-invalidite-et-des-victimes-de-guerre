@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1966-11-19
+Version Consolidée au 1966-11-20
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -24130,24 +24130,6 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des v - art. R222-1 (Ab)
-
-
-###### Article R311
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°66-851 du 14 novembre 1966, art. 14 v. init.
-
-
-###### Article R312
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°66-851 du 14 novembre 1966, art. 14 v. init.
 
 
 ###### Article R314
