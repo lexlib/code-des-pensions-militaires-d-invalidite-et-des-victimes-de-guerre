@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1956-04-04
+Version Consolidée au 1956-06-08
 ## Contenu: 
   - [Partie législative (art. L1 à L528)](#1)
     - [Première partie (art. L1)](#2)
@@ -31914,21 +31914,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-
-###### Article D271-7
-
-article abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Abrogé par_:
-
-  - Décret n°56-547 du 5 juin 1956, v. init.
 
 
 ###### Article D271-8
