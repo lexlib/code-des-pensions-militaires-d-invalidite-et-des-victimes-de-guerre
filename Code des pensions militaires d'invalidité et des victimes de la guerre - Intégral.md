@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 1999-10-20 00:00:01 +0200
+Version Consolidée au 1999-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -5841,15 +5841,15 @@ dispositions contraires prévues par la loi.
 Toutefois, les revalorisations du point d'indice de pension effectuées conformément à l'article L. 8 bis au titre des
 périodes postérieures au 1er janvier 1995 sont applicables à la pension d'invalidité visée au présent article.
 
+Le 1er janvier 2000, les pensions d'invalidité visées au premier alinéa du présent article sont revalorisées de 1,5 % dans la
+limite des émoluments qui résultent de l'application de la valeur du point de l'ensemble des autres pensions militaires
+d'invalidité.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi n°94-1162 du 29 décembre 1994 - art. 78 () JORF 30 décembre 1994
 
 _Cité par_:
 
@@ -5866,6 +5866,10 @@ _Cité par_:
   - Décret n°2001-787 du 30 août 2001 - art. 2 (V)
   - Décret n°2001-1259 du 21 décembre 2001 - art. 3 (V)
   - Décret n°2001-1259 du 21 décembre 2001 - art. 5 (V)
+
+_Modifié par_:
+
+  - Loi - art. 123 () JORF 31 décembre 1999
 
 _Cite_:
 
@@ -10481,7 +10485,7 @@ Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'
 périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ;
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
-Une durée des services en Algérie d'au moins quinze mois est reconnue équivalente à la participation aux actions de feu et de
+Une durée des services en Algérie d'au moins douze mois est reconnue équivalente à la participation aux actions de feu et de
 combat exigée au deuxième alinéa ci-dessus.
 
 **Liens relatifs à cet article**
@@ -10502,7 +10506,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-882 du 18 octobre 1999 - art. 3 () JORF 20 octobre 1999
+  - Loi - art. 120 () JORF 31 décembre 1999
 
 _Codifié par_:
 
@@ -12019,9 +12023,23 @@ _Codifié par_:
 ###### Article L293
 
 Les dispositions des articles L. 286 à L. 291, L. 336, L. 384 et L. 385 sont applicables aux étrangers résidant en France
-avant le 1er septembre 1939 et internés ou déportés dans les conditions prévues par ces articles.
+avant le 1er septembre 1939 et internés ou déportés dans les conditions prévues par ces articles. Les dispositions de
+l'article L. 288 sont applicables aux étrangers résidant en France pendant la Seconde Guerre mondiale et internés ou déportés
+dans les conditions prévues par cet article.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 112 () JORF 31 décembre 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L343-7 (VD)
 
 **Liens**:
 
@@ -12034,13 +12052,15 @@ avant le 1er septembre 1939 et internés ou déportés dans les conditions prév
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L336 (V)
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L383 (VT)
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L384 (VT)
+  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L385 (VT)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L336 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L384 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L385 (V)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre L286 à L291, L336, L384, L385
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L288
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L336
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L384
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L385
 
 _Codifié par_:
 
