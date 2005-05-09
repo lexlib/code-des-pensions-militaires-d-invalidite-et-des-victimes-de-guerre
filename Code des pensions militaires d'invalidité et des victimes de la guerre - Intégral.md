@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2004-12-31
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -45878,8 +45878,9 @@ En cas de partage des voix, la voix du président de séance est prépondérante
 Les procès-verbaux sont signés du président de séance et de l'un au moins des vice-présidents du conseil d'administration.
 Ils font mention des membres présents.
 
-Le directeur général, le directeur général adjoint, les responsables des services intéressés, l'agent comptable et le
-contrôleur financier de l'office assistent au conseil d'administration, à la commission permanente et aux commissions.
+Le directeur général, le directeur général adjoint, les responsables des services intéressés, l'agent comptable et le membre
+du corps du contrôle général économique et financier de l'office assistent au conseil d'administration, à la commission
+permanente et aux commissions.
 
 Le secrétariat des séances du conseil d'administration, de la commission permanente et des commissions est assuré par un
 fonctionnaire de l'office désigné par le directeur général.
@@ -45892,7 +45893,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-1270 du 21 décembre 2001 - art. 4 () JORF 28 décembre 2001
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article D442
@@ -48467,7 +48468,7 @@ pour l'exercice de son contrôle, tous registres et documents intéressant cette
 L'office départemental de Paris est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25
 octobre 1935 et l'arrêté du 4 décembre 1937.
 
-Celui-ci est assuré par le contrôleur financier de l'office national.
+Celui-ci est assuré par le membre du corps du contrôle général économique et financier de l'office national.
 
 **Liens relatifs à cet article**
 
@@ -48475,6 +48476,10 @@ _Cite_:
 
   - Arrêté 1937-12-04
   - Décret n°1935-10-25
+
+_Modifié par_:
+
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 _Cité par_:
 
