@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2005-05-29
+Version Consolidée au 2005-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 bis)](#2)
@@ -690,7 +690,11 @@ l'occasion du service ;
 
 2° Les infirmités résultant de maladies contractées par le fait ou à l'occasion du service ;
 
-3° L'aggravation par le fait ou à l'occasion du service d'infirmités étrangères au service.
+3° L'aggravation par le fait ou à l'occasion du service d'infirmités étrangères au service ;
+
+4° Les infirmités résultant de blessures reçues par suite d'accidents éprouvés entre le début et la fin d'une mission
+opérationnelle, y compris les opérations d'expertise ou d'essai, ou d'entraînement ou en escale, sauf faute de la victime
+détachable du service.
 
 **Liens relatifs à cet article**
 
@@ -704,7 +708,19 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D1 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L25 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L3 (VT)
-  - Code des pensions militaires d'invalidité et des v - art. L45 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L45 (VT)
+
+_Modifié par_:
+
+  - Loi n°2005-270 2005-03-24 art. 97 1° JORF 26 mars 2005 en vigueur le 1er juillet 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L121-1 (VD)
 
 _Codifié par_:
 
@@ -719,7 +735,7 @@ l'article L. 2, ni la preuve contraire, la présomption d'imputabilité au servi
 1° S'il s'agit de blessure, qu'elle ait été constatée avant le renvoi du militaire dans ses foyers ;
 
 2° S'il s'agit d'une maladie, qu'elle n'ait été constatée qu'après le quatre-vingt-dixième jour de service effectif et avant
-le trentième jour suivant le retour du militaire dans ses foyers [*délai*] ;
+le soixantième jour suivant le retour du militaire dans ses foyers ;
 
 3° En tout état de cause, que soit établie, médicalement, la filiation entre la blessure ou la maladie ayant fait l'objet de
 la constatation et l'infirmité invoquée.
@@ -749,14 +765,10 @@ incorporation dans les conditions déterminées par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
 _Cite_:
 
-  - Ordonnance 45-802 1945-04-20
-  - Code des pensions militaires d'invalidité et des v - art. L2 (M)
+  - Ordonnance n°45-802 du 20 avril 1945
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L2
 
 _Cité par_:
 
@@ -764,6 +776,7 @@ _Cité par_:
   - Loi n°55-1074 du 6 août 1955 - art. 1 (Ab)
   - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
   - Code de la défense. - art. L4123-4 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L12 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L145 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L179 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L213 (VT)
@@ -777,7 +790,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°55-356 1955-04-03 art. 13 JORF 4 avril 1955
+  - Loi n°2005-270 2005-03-24 art. 97 2° JORF 26 mars 2005 en vigueur le 1er juillet 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L121-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L121-3 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R121-2 (V)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L4
@@ -6412,7 +6439,8 @@ _Codifié par_:
 ###### Article L142
 
 Dans le cas de blessures reçues ou d'infirmités contractées pour cause imputable à leur service dans l'armée, les
-fonctionnaires du service de la trésorerie aux armées et les fonctionnaires du service de la poste aux armées ont droit à
+fonctionnaires du service de la trésorerie aux armées, les fonctionnaires du service de la poste aux armées et les magistrats
+du corps judiciaire détachés auprès du ministre de la défense pour exercer des fonctions judiciaires militaires ont droit à
 pension militaire dans les mêmes conditions que les militaires auxquels ils sont assimilés.
 
 Les ayants droit de ces fonctionnaires peuvent prétendre à pension militaire dans les mêmes conditions que les ayants droit
@@ -6423,6 +6451,10 @@ des militaires de grade assimilé.
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°2005-270 2005-03-24 art. 97 3° JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 
 ###### Article L143
