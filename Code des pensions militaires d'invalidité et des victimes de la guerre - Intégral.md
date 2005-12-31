@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -40311,38 +40311,31 @@ _Abrogé par_:
 ###### Article D86
 
 Il est alloué aux membres des commissions, à l'exclusion des membres fonctionnaires, une indemnité par heure de présence
-effective aux séances de la commission.
+effective aux séances de la commission. 
 
 En métropole, les membres de la commission qui résident hors de la commune du siège de celle-ci ont droit au remboursement de
-leurs frais de déplacement selon les dispositions de l'article 3 du décret du 28 mai 1990 susvisé.
+leurs frais de déplacement selon les dispositions du décret n° 2006-781 du 3 juillet 2006. 
 
 Dans les régions d'outre-mer, les membres de la commission qui résident hors de la commune du siège de celle-ci ont droit au
-remboursement de leurs frais de déplacement selon les dispositions de l'article 3 du décret du 12 avril 1989 susvisé.
+remboursement de leurs frais de déplacement selon les dispositions du décret n° 2006-781 du 3 juillet 2006. 
 
 Dans les territoires d'outre-mer, les membres de la commission qui résident hors de la commune du siège de celle-ci ont droit
 au remboursement de leurs frais de déplacement selon les dispositions prévues par le décret du 13 juin 1912 modifié.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Décret n°1912-06-13
-  - Décret n°89-271 du 12 avril 1989 - art. 3 (M)
-  - Décret n°90-437 1990-05-28 art. 3
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Décret n°2006-781 du 3 juillet 2006
 
 _Modifié par_:
 
-  - Décret n°95-960 du 25 août 1995 - art. 5 () JORF 29 août 1995
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 
 ###### Article D87
