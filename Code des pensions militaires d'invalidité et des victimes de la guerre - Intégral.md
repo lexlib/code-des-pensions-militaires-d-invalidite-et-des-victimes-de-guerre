@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-03-24
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -5622,7 +5622,7 @@ ménagement sont incessibles et insaisissables ainsi que l'allocation n° 5 bis 
 
 Les pensions attribuées au titre du présent code et leurs arrérages sont incessibles et insaisissables, excepté dans le cas
 de débet envers l'Etat, les services locaux des pays d'outre-mer ou pour les créanciers privilégiés aux termes de l'article
-2101 du code civil et dans les circonstances prévues par les articles 203, 205, 206, 207 et 214 du même code et sauf
+2331 du code civil et dans les circonstances prévues par les articles 203, 205, 206, 207 et 214 du même code et sauf
 application des dispositions prévues par l'article 3 de la loi du 9 avril 1918.
 
 Les dispositions du précédent alinéa sont applicables à toutes les pensions prévues dans le présent code, aux pensions
@@ -5633,7 +5633,7 @@ desdites pensions.
 
 _Modifié par_:
 
-  - Loi n°63-156 1963-02-23 art. 37 JORF 24 février 1963
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 _Cité par_:
 
@@ -5646,10 +5646,14 @@ _Cite_:
   - Code civil - art. 205 (V)
   - Code civil - art. 206 (V)
   - Code civil - art. 207 (V)
-  - Code civil - art. 2101 (M)
   - Code civil - art. 214 (V)
+  - Code civil - art. 2331 (V)
   - Code des pensions militaires d'invalidité et des v - art. L18 (M)
   - Loi n°1918-04-09 art. 3
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L163-1 (VD)
 
 _Codifié par_:
 
@@ -17887,22 +17891,26 @@ S'il n'existe ni ascendants, ni tuteur testamentaire, ou si ceux-ci sont excusé
 conseil de famille peut décider que la tutelle soit confiée à l'office départemental, qui la délègue ensuite, sous son
 contrôle, soit à un de ses membres, soit à toute autre personne de l'un ou l'autre sexe, agréée par lui. En ce cas, il n'est
 pas institué de subrogée tutelle, et les biens du tuteur délégué ne sont pas soumis à l'hypothèque légale instituée par
-l'article 2121 du Code civil.
+l'article 2400 du Code civil.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
 _Cite_:
 
-  - Code civil - art. 2121 (T)
+  - Code civil - art. 2400 (V)
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L479 (VT)
   - Code des pensions militaires d'invalidité et des v - art. L111 (V)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L475
@@ -46902,30 +46910,35 @@ _Modifié par_:
 ###### Article D457
 
 Une hypothèque légale sur les biens de l'agent comptable est attribuée aux droits et créances de l'office par application de
-l'article 2121 du Code civil.
+l'article 2400 du code civil.
 
 Toute personne autre que l'agent comptable qui, sans autorisation légale, se serait ingérée dans le maniement des deniers de
-l'office est, par ce seul fait, constituée comptable sans préjudice des poursuites prévues par l'article 258 du Code pénal
-(1) comme s'étant immiscée sans titre dans des fonctions publiques.
-
-**Nota:**
-
-NOTA : Code des pensions militaires d'invalidité et des victimes de la guerre D509 : Les dispositions de l'article D457 sont
-applicables à l'agent comptable de l'office départemental.
-
-NOTA (1) : article abrogé par la loi n° 92-1336 du 16 décembre 1992 (art. 372).
+l'office est, par ce seul fait, constituée comptable sans préjudice des poursuites prévues par l'article 258 du code pénal
+comme s'étant immiscée sans titre dans des fonctions publiques.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cite_:
 
-  - Code pénal 258
-  - Code civil - art. 2121 (T)
+  - Code pénal
+  - Code civil - art. 2400
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D364 (Ab)
-  - Code des pensions militaires d'invalidité et de... - art. D509 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D509 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-19 (V)
 
 **Liens**:
 
