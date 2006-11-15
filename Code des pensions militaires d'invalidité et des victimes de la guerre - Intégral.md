@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2006-11-01
+Version Consolidée au 2006-11-16
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -19565,8 +19565,8 @@ _Codifié par_:
 
 ###### Article R1
 
-La valeur du point de pension est fixée par décret pris sur le rapport du ministre chargé des anciens combattants et des
-victimes de guerre et du ministre chargé du budget.
+La valeur du point de pension est fixée par arrêté conjoint du ministre chargé des anciens combattants et du ministre chargé
+du budget.
 
 **Liens relatifs à cet article**
 
@@ -19574,18 +19574,26 @@ _Codifié par_:
 
   - Décret n°51-470 1951-04-24 JORF 27 avril 1951
 
-_Modifié par_:
-
-  - Décret n°90-755 du 23 août 1990 - art. 1 () JORF 25 août 1990
-
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-755 du 23 août 1990
   - TXT_SOURCE: Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
 
+_Modifié par_:
+
+  - Décret n°2006-1383 du 14 novembre 2006 - art. 1 () JORF 16 novembre 2006
+
 _Cité par_:
 
   - Arrêté du 21 octobre 2008 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R125-1 (V)
 
 
 #### Chapitre V : Demandes de pensions - Liquidation et concession.<a id=197></a>
