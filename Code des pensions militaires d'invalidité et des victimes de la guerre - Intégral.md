@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2006-11-16
+Version Consolidée au 2006-12-27
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -11054,7 +11054,7 @@ _Abrogé par_:
 La retraite prévue à l'article qui précède est attribuée à partir de l'âge de soixante ans à tout titulaire de la carte du
 combattant bénéficiaire du livre IX du Code de la sécurité sociale.
 
-Son montant est déterminé par l'application de l'indice de pension 35 tel qu'il est défini à l'article L. 8 bis.
+Son montant est déterminé par l'application de l'indice de pension 37 tel qu'il est défini à l'article L. 8 bis.
 
 Les anciens combattants ne remplissant pas les conditions prévues au premier alinéa ci-dessus mais qui, antérieurement à la
 date de la promulgation de la loi n° 53-1340 du 31 décembre 1953, étaient titulaires de la retraite du combattant ou avaient
@@ -11064,10 +11064,10 @@ dispositions du livre IX du Code de la sécurité sociale ou qu'ils soient titul
 paragraphe A de l'article R. 224 du présent code.
 
 Les titulaires de la carte du combattant au titre des dispositions du paragraphe A de l'article R. 224 du code, âgés de 65
-ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 35.
+ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 37.
 
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux alinéas précédents, bénéficient de la
-retraite au taux déterminé par application de l'indice de pension 35.
+retraite au taux déterminé par application de l'indice de pension 37.
 
 Les bénéficiaires d'une pension d'invalidité au titre du présent code, indemnisant une ou plusieurs infirmités imputables à
 des services accomplis au cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de l'ordre hors
@@ -11084,7 +11084,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 125 (V) JORF 31 décembre 2005 en vigueur le 1er juillet 2006
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 99 (V) JORF 27 décembre 2006
 
 _Cité par_:
 
