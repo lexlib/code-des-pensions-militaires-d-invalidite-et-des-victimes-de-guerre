@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2007-02-28
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -42950,18 +42950,26 @@ _Codifié par_:
 
 ###### Article D281
 
-La médaille des prisonniers civils, déportés et otages de la grande guerre est frappée en bronze, par l'Administration des
-Monnaies et Médailles.
+La médaille des prisonniers civils, déportés et otages de la grande guerre est frappée en bronze, par l'établissement public
+La Monnaie de Paris.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L374 (VT)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L374 (VT)
 
 
 ###### Article D282
@@ -43156,7 +43164,7 @@ _Abrogé par_:
 
 ###### Article D291
 
-L'insigne, dont le modèle est déposé à l'Administration des Monnaies et Médailles, est de bronze. L'avers représente un coq,
+L'insigne, dont le modèle est déposé à l'établissement public La Monnaie de Paris, est de bronze. L'avers représente un coq,
 ailes déployées, se détachant de trois quarts à droite sur une croix de Lorraine, et dressé sur une chaîne brisée. Au revers
 sont inscrits les mots "République française" et, au-dessous, "Guerre 1939-1945".
 
@@ -43175,6 +43183,10 @@ des V étant séparées les unes des autres par une distance de trois millimètr
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 _Cité par_:
 
@@ -55666,7 +55678,7 @@ _Abrogé par_:
 ###### Article A180
 
 La médaille des prisonniers civils, déportés et otages de la guerre 1914-1918 est conforme au modèle établi pour le compte de
-l'administration des monnaies et médailles qui assure la fabrication de l'insigne.
+l'établissement public la Monnaie de Paris qui assure la fabrication de l'insigne.
 
 Son modèle est de 32 millimètres.
 
@@ -55681,6 +55693,14 @@ de 2 millimètres de largeur chacune.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
+
+_Abrogé par_:
+
+  - Arrêté du 3 décembre 2018 - art. 40 (V)
 
 
 ###### Article A181
@@ -55813,8 +55833,8 @@ _Abrogé par_:
 
 ###### Article A186-2
 
-La médaille de la déportation et de l'internement pour faits de résistance est frappée par l'administration des monnaies et
-médailles. Elle est en bronze, de forme pentagonale, ayant une hauteur de 34 millimètres sans la bélière. Elle porte à
+La médaille de la déportation et de l'internement pour faits de résistance est frappée par l'établissement public la Monnaie
+de Paris. Elle est en bronze, de forme pentagonale, ayant une hauteur de 34 millimètres sans la bélière. Elle porte à
 l'envers le motif "mains levées liées par une chaîne sur un fonds de flamme", et au revers l'inscription "République
 française, Médaille de la déportation et de l'internement pour faits de résistance" avec, en exergue, une croix de Lorraine.
 
@@ -55835,6 +55855,10 @@ l'inscription 1914-1918.
 _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 _Cité par_:
 
