@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2007-03-10
+Version Consolidée au 2007-03-30
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -6849,9 +6849,9 @@ _Cite_:
 ###### Article L142
 
 Dans le cas de blessures reçues ou d'infirmités contractées pour cause imputable à leur service dans l'armée, les
-fonctionnaires du service de la trésorerie aux armées, les fonctionnaires du service de la poste aux armées et les magistrats
-du corps judiciaire détachés auprès du ministre de la défense pour exercer des fonctions judiciaires militaires ont droit à
-pension militaire dans les mêmes conditions que les militaires auxquels ils sont assimilés.
+fonctionnaires du service de la trésorerie aux armées, les fonctionnaires du service de la poste interarmées et les
+magistrats du corps judiciaire détachés auprès du ministre de la défense pour exercer des fonctions judiciaires militaires
+ont droit à pension militaire dans les mêmes conditions que les militaires auxquels ils sont assimilés.
 
 Les ayants droit de ces fonctionnaires peuvent prétendre à pension militaire dans les mêmes conditions que les ayants droit
 des militaires de grade assimilé.
@@ -6864,7 +6864,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-270 2005-03-24 art. 97 3° JORF 26 mars 2005 en vigueur le 1er juillet 2005
+  - Ordonnance n°2007-465 du 29 mars 2007 - art. 5 () JORF 30 mars 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L143
