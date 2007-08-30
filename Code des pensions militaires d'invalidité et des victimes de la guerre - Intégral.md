@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-08-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -47191,14 +47191,21 @@ _Cité par_:
 
 ###### Article D466
 
-Les fonds libres de l'office sont versés en compte courant au Trésor, sans intérêts, sous réserve des sommes figurant au
-crédit du compte courant postal ouvert au nom de l'agent comptable.
+Les fonds libres de l'office sont versés en compte courant au Trésor, sans intérêts.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2006-1116 du 5 septembre 2006 - art. 2 () JORF 7 septembre 2006 en vigueur le 31 août 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
 
 
 ###### Article D467
@@ -48791,8 +48798,7 @@ _Abrogé par_:
 
 ###### Article D520
 
-Les fonds libres des offices et des comités sont versés en compte courant au Trésor, sans intérêts, sous réserve des sommes
-figurant au crédit du compte courant postal ouvert au nom de l'agent comptable.
+Les fonds libres des offices et des comités sont versés en compte courant au Trésor, sans intérêts.
 
 **Liens relatifs à cet article**
 
@@ -48800,13 +48806,17 @@ _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
-
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2006-1116 du 5 septembre 2006 - art. 2 () JORF 7 septembre 2006 en vigueur le 31 août 2007
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D521
