@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2008-01-05
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -20076,36 +20076,22 @@ _Nouveaux textes_:
 
 ###### Article R14
 
-La composition de la commission de réforme mentionnée à l'article L. 6 est fixée comme suit :
+Lorsque l'instruction médicale est achevée, le médecin-chef du centre de réforme adresse le dossier, accompagné de son avis
+sur le droit à pension d'invalidité du demandeur, au chef du service dont il dépend. 
 
-1° Un médecin-chef des services ou un médecin en chef, président de la commission, nommé par le ministre de la défense ;
+Celui-ci soumet le dossier pour avis à la commission consultative médicale dans les cas où cet avis est obligatoire ou
+lorsqu'il l'estime lui-même utile ou à la demande du service des pensions relevant du ministre chargé du budget. Il procède
+ensuite au constat provisoire des droits à pension et en notifie le résultat à l'intéressé. 
 
-2° Un commissaire de l'armée de terre ou un commissaire de la marine ou un commissaire de l'air ;
-
-3° Un officier supérieur ou, à défaut, un capitaine ou un officier de grade correspondant, en service dans une unité ;
-
-4° Un médecin des armées, en service dans une unité.
-
-Les membres autres que le président sont désignés par le commandant de circonscription militaire de défense, le commandant
-d'arrondissement maritime ou le commandant de région aérienne sur le territoire desquels est situé le centre de réforme, dans
-les conditions fixées par instruction ministérielle.
-
-Les membres de la commission, y compris le président, sont choisis parmi les officiers de carrière en position d'activité.
-Toutefois, à défaut de commissaire d'active, un officier de réserve rattaché au corps des commissaires de l'armée de terre,
-de la marine ou de l'air pourra être désigné.
-
-En cas d'absence ou d'empêchement, les membres de la commission peuvent être remplacés par un suppléant désigné suivant les
-mêmes règles.
+La notification du constat provisoire est effectuée par lettre recommandée avec demande d'avis de réception. Elle mentionne
+la faculté qu'a le demandeur de saisir la commission de réforme mentionnée à l'article L. 6 et d'être entendu par elle, ainsi
+que les voies et délais de cette saisine.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
 _Modifié par_:
 
-  - Décret n°95-734 1995-05-09 art. 2 2°, art. 12 2° JORF 13 mai 1995
+  - Décret n°2008-8 du 2 janvier 2008 - art. 1
 
 _Cité par_:
 
@@ -20115,69 +20101,61 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L6 (M)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L6
 
 
 ###### Article R15
 
-Lorsque l'instruction médicale est achevée, le médecin-chef du centre de réforme adresse le dossier, accompagné de son avis
-sur le droit à pension d'invalidité du demandeur, au directeur régional des services déconcentrés du ministère des anciens
-combattants et victimes de guerre dont il dépend.
+Dans un délai maximum de quinze jours après la notification du constat provisoire des droits à pension, l'intéressé peut
+demander l'examen de son dossier par la commission de réforme. Il est alors convoqué quinze jours au moins à l'avance par
+lettre simple.S'il ne se rend pas à cette convocation, il est convoqué à nouveau avec le même délai par lettre recommandée.
+S'il ne défère pas à cette seconde convocation, sans motif valable, la commission statue sur pièces. 
 
-Le directeur régional soumet le dossier pour avis à la commission consultative médicale dans le cas où cet avis est
-obligatoire ou lorsqu'il l'estime lui-même utile. Il procède ensuite au constat provisoire des droits à pension et en notifie
-le résultat à l'intéressé.
-
-Dans le délai d'un mois suivant cette notification, l'intéressé peut demander que son dossier soit examiné par la commission
-de réforme mentionnée à l'article L. 6 ; il peut également demander à se présenter devant elle, accompagné, s'il le souhaite,
-de son médecin traitant.
-
-La notification du constat provisoire est effectuée par lettre recommandée avec demande d'avis de réception. Elle mentionne
-la faculté qu'a l'intéressé de saisir la commission de réforme et d'être entendu par elle, ainsi que les voies et délais de
-cette saisine.
+La date de convocation des militaires en mission opérationnelle tient compte de leur retour effectif dans leur unité de
+rattachement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
 _Modifié par_:
 
-  - Décret n°95-734 1995-05-09 art. 2 2°, art. 12 2° JORF 13 mai 1995
+  - Décret n°2008-8 du 2 janvier 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
+  - Code des pensions militaires d'invalidité et de... - art. R112 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R34-3 (V)
   - Code des pensions militaires d'invalidité et de... - art. R34-4 (V)
-  - Code des pensions militaires d'invalidité et des v - art. R112 (M)
   - Code des pensions militaires d'invalidité et des v - art. R178 (V)
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L6 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R151-13 (V)
 
 
 ###### Article R16
 
-Le président de la commission de réforme fixe la date à laquelle il sera statué par la commission.
+La composition de la commission de réforme est fixée comme suit : 
 
-Sauf urgence, les membres de la commission reçoivent, cinq jours au moins avant la date de leur réunion, une convocation
-écrite comportant la liste des dossiers soumis à leur délibération.
+1° Un médecin-chef des services ou un médecin en chef, président de la commission, nommé par le ministre de la défense ; 
 
-S'il en a fait la demande, l'intéressé est convoqué quinze jours au moins à l'avance par une lettre simple. Dans le cas où il
-ne se rend pas à la convocation qui lui est adressée, il est convoqué à nouveau par lettre recommandée. En cas de non-
-comparution après la seconde convocation sans motif valable, il est dressé procès-verbal et la commission statue sur pièces.
+2° Deux officiers dont un officier supérieur et un capitaine ou un officier de grade équivalent, désignés par le commandant
+de région terre, ou le commandant de région maritime ou le commandant de région aérienne sur le territoire desquels est situé
+le centre de réforme. 
+
+Les membres de la commission sont choisis parmi les officiers de carrière ou sous contrat en position d'activité. 
+
+En cas d'absence ou d'empêchement, les membres de la commission peuvent être remplacés par un suppléant désigné suivant les
+mêmes règles.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
 _Modifié par_:
 
-  - Décret n°95-734 1995-05-09 art. 2 2°, art. 12 2° JORF 13 mai 1995
+  - Décret n°2008-8 du 2 janvier 2008 - art. 1
 
 _Cité par_:
 
@@ -20186,56 +20164,84 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R178 (V)
 
 
-###### Article R17
+###### Article R16-1
 
-La commission de réforme ne délibère valablement que si tous ses membres sont présents.
+Le président de la commission de réforme fixe la date à laquelle statue la commission. 
 
-Elle entend, le cas échéant, les observations que peut avoir à présenter l'intéressé ou son médecin traitant. Elle ordonne,
-si besoin est, toute nouvelle mesure d'instruction ou toute nouvelle visite. Elle formule des propositions sur l'imputabilité
-au service, le degré d'invalidité et le caractère permanent ou non des affections et, le cas échéant, sur l'admission au
-bénéfice des avantages accessoires à la pension.
-
-En cas de partage de voix, celle du président est prépondérante.
+Les conditions de réunion et de fonctionnement de la commission sont fixées par le décret n° 2006-672 du 8 juin 2006 relatif
+à la création, à la composition et au fonctionnement de commissions à caractère consultatif.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°2006-672 du 8 juin 2006 (V)
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°95-734 1995-05-09 art. 2 2°, art. 12 2° JORF 13 mai 1995
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et des v - art. R112 (M)
-  - Code des pensions militaires d'invalidité et des v - art. R178 (V)
-  - Code des pensions militaires d'invalidité et des v - art. R27 (V)
+  - Décret n°2008-8 du 2 janvier 2008 - art. 1
 
 
-###### Article R18
+###### Article R17
 
-Pour chaque dossier, la délibération de la commission est consignée sur un procès-verbal qui indique le nom et la qualité des
-participants, les références du dossier et les propositions de la commission.
+La commission de réforme ne délibère valablement que si son président ou son suppléant et un autre membre sont présents. 
+
+Elle entend les observations que peut avoir à présenter le demandeur ou son médecin traitant. 
+
+Elle ordonne, si besoin est, toute nouvelle mesure d'instruction ou toute nouvelle visite. 
+
+En cas de partage des voix, celle du président est prépondérante. 
 
 Mention est faite du désaccord que pourrait exprimer tout membre de la commission avec la majorité. Ces observations sont
 signées par l'officier qui exprime ce désaccord.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°2008-8 du 2 janvier 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R112 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. R178 (V)
+  - Code des pensions militaires d'invalidité et des v - art. R27 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R151-16 (V)
+
+
+###### Article R18
+
+La commission de réforme émet un avis sur l'imputabilité au service, le degré d'invalidité, le caractère permanent des
+affections et sur l'admission au bénéfice des avantages accessoires à la pension. 
+
+L'avis de la commission est communiqué au demandeur.
+
+**Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°95-734 1995-05-09 art. 2 2°, art. 12 2° JORF 13 mai 1995
+  - Décret n°2008-8 du 2 janvier 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D39 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. R112 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R178 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R151-17 (V)
 
 
 ###### Article R19
