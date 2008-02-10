@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2008-01-05
+Version Consolidée au 2008-02-11
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -478,7 +478,7 @@ Version Consolidée au 2008-01-05
             - [Paragraphe 6 : Mesures d'application. (art. D471)](#475)
         - [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux. (art. D472 à D525)](#476)
           - [Section 1 : Caractère juridique. (art. D472 à D474)](#477)
-          - [Section 2 : Attributions. (art. D475)](#478)
+          - [Section 2 : Attributions. (art. D475 à D475-1)](#478)
           - [Section 3 : Composition. (art. D476 bis à D484)](#479)
           - [Section 4 : Organisation et administration. (art. D485 à D494)](#480)
             - [Paragraphe 1 : Conseil d'administration. (art. D485 à D488)](#481)
@@ -47367,6 +47367,27 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
+###### Article D472-5
+
+Il est institué en Nouvelle-Calédonie et en Polynésie française un service de l'Office national des anciens combattants et
+victimes de guerre, placé sous l'autorité du directeur général de l'office national et dont les dépenses et les recettes sont
+exécutées par le directeur général de l'office national et par l'agent comptable central de l'office national.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-122 du 7 février 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R613-14 (V)
+
+
 ###### Article D473
 
 Des décrets contresignés par le ministre de la France d'outre-mer et le ministre des anciens combattants et victimes de
@@ -47427,6 +47448,23 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D475-1
+
+Les services de l'Office national des anciens combattants et victimes de guerre en Nouvelle-Calédonie et ceux de l'Office
+national des anciens combattants et victimes de guerre en Polynésie française ont pour mission d'assurer localement les
+fonctions dévolues à l'office national par le présent titre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-122 du 7 février 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ##### Section 3 : Composition.<a id=479></a>
