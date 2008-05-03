@@ -1,18 +1,24 @@
 # Article R224 bis
 
-Peuvent également prétendre à la carte du combattant les personnes qui ont fait l'objet d'une citation individuelle. Cette
-citation doit avoir été homologuée si elle a été obtenue au titre de la guerre de 1939-1945.
+Peuvent également prétendre à la carte du combattant les personnes qui ont fait l'objet d'une citation individuelle avec
+croix, délivrée au titre de l'une des opérations mentionnées à l'article R. 224. 
+
+Cette citation doit avoir été homologuée si elle a été obtenue au titre de la guerre de 1939-1945.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°2008-424 du 30 avril 2008 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°65-1048 du 2 décembre 1965 - art. 9, v. init.
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°96-518 du 7 juin 1996 - art. 2 () JORF 15 juin 1996
+  - Code des pensions militaires d'invalidité et de... - art. R311-17 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R224
