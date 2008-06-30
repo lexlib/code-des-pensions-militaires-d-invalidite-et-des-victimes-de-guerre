@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2008-05-28
+Version Consolidée au 2008-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -10930,22 +10930,22 @@ _Abrogé par_:
 ###### Article L256
 
 La retraite prévue à l'article qui précède est attribuée à partir de l'âge de soixante ans à tout titulaire de la carte du
-combattant bénéficiaire du livre IX du Code de la sécurité sociale.
+combattant bénéficiaire du livre IX du Code de la sécurité sociale. 
 
-Son montant est déterminé par l'application de l'indice de pension 37 tel qu'il est défini à l'article L. 8 bis.
+Son montant est déterminé par l'application de l'indice de pension 39 tel qu'il est défini à l'article L. 8 bis. 
 
 Les anciens combattants ne remplissant pas les conditions prévues au premier alinéa ci-dessus mais qui, antérieurement à la
 date de la promulgation de la loi n° 53-1340 du 31 décembre 1953, étaient titulaires de la retraite du combattant ou avaient
 formulé une demande à cet effet ou qui, âgés de 50 ans au moins au 7 janvier 1954 ont formulé une demande avant le 1er
 janvier 1958, continueront à recevoir application du régime et des taux antérieurs à la condition qu'ils bénéficient des
 dispositions du livre IX du Code de la sécurité sociale ou qu'ils soient titulaires de la carte au titre des dispositions du
-paragraphe A de l'article R. 224 du présent code.
+paragraphe A de l'article R. 224 du présent code. 
 
 Les titulaires de la carte du combattant au titre des dispositions du paragraphe A de l'article R. 224 du code, âgés de 65
-ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 37.
+ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 39. 
 
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux alinéas précédents, bénéficient de la
-retraite au taux déterminé par application de l'indice de pension 37.
+retraite au taux déterminé par application de l'indice de pension 39. 
 
 Les bénéficiaires d'une pension d'invalidité au titre du présent code, indemnisant une ou plusieurs infirmités imputables à
 des services accomplis au cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de l'ordre hors
@@ -10955,14 +10955,14 @@ métropole et titulaires de la carte du combattant, ont droit à la retraite du 
 
 _Cite_:
 
-  - Loi n°53-1340 1953-12-31
-  - Code de la sécurité sociale R224
-  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
-  - Code des pensions militaires d'invalidité et des v - art. R224 (M)
+  - Loi n°53-1340 du 31 décembre 1953, v. init.
+  - Code de la sécurité sociale. (V)
+  - Code des pensions militaires d'invalidité et de... - art. L8 bis (V)
+  - Code des pensions militaires d'invalidité et de... - art. R224 (V)
 
 _Modifié par_:
 
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 99 (V) JORF 27 décembre 2006
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 91 (V)
 
 _Cité par_:
 
@@ -10971,10 +10971,6 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R241 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R245 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R236 (V)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L256 bis
