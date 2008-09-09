@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2008-07-01
+Version Consolidée au 2008-09-10
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -54337,22 +54337,18 @@ _Cite_:
 
 ###### Article A142
 
-Le modèle de la carte est conforme au type annexé au présent chapitre pour les cartes attribuées à partir du 1er août 1933.
+Le modèle de la carte est conforme au type annexé au présent chapitre. 
 
 La carte du combattant comporte, au recto, la photographie du titulaire, l'indication de son état civil et de son domicile.
-Elle mentionne également la date à laquelle elle a été établie et le lieu de délivrance.
+Elle mentionne également la date à laquelle elle a été établie et le lieu de délivrance. 
 
-Cette carte est imprimée sur papier cartonné comportant en surimpression une figure tricolore.
+Cette carte est plastifiée.
+
+**Nota:**
+
+Pour le modèle de la carte, vous pouvez consulter le tableau dans le JO du 9 septembre 2008, texte n° 9.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1951-04-24 JORF 29 avril 1951
-
-_Modifié par_:
-
-  - Arrêté 1995-11-02 art. 1 JORF 11 novembre 1995
 
 _Cité par_:
 
@@ -54366,7 +54362,10 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 2 novembre 1995 - art. 2 (V)
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
+
+_Modifié par_:
+
+  - Arrêté du 6 août 2008 - art. 1
 
 
 #### Chapitre II : Retraite du combattant.<a id=543></a>
