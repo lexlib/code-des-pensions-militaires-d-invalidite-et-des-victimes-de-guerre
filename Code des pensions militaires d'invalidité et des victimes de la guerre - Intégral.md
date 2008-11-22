@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2008-09-10
+Version Consolidée au 2008-11-23
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -205,7 +205,7 @@ Version Consolidée au 2008-09-10
         - [Chapitre VI : Révision pour aggravation. (art. R28)](#202)
       - [Titre II : Emoluments complémentaires. (art. R29 à R35)](#203)
         - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. R29 à R35)](#204)
-          - [Section 1 : Procédure d'attribution des allocations spéciales. (art. R29 à R32)](#205)
+          - [Section 1 : Procédure d'attribution des allocations spéciales. (art. R29 à R32-1)](#205)
           - [Section 2 : Infirmités ouvrant droit aux allocations. (art. R33 à R34-1)](#206)
           - [Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose. (art. R34-2 à R34-5)](#207)
           - [Section 4 : Taux des allocations, règles de cumul. (art. R35)](#208)
@@ -20563,6 +20563,28 @@ _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L31
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L38
+
+
+###### Article R32-1
+
+Les propositions prévues au deuxième alinéa de l'article R. 17 sont soumises par le grand maître au conseil de l'ordre,
+accompagnées de la notice prévue à l'article R. 29. Le conseil se prononce dans les conditions fixées à l'article R. 31.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1202 du 21 novembre 2008 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code de la Légion d'honneur et de la médaille militaire - art. R17
+  - Code des pensions militaires d'invalidité et de... - art. R29 (Ab)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R31
 
 
 ##### Section 2 : Infirmités ouvrant droit aux allocations.<a id=206></a>
