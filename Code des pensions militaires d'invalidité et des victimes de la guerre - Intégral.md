@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2009-07-01
+Version Consolidée au 2009-07-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -30669,52 +30669,47 @@ _Cite_:
 ###### Article R389-4
 
 Pour l'examen des demandes présentées par des combattants volontaires de la Résistance, le comité départemental de prêts
-prévu aux articles 2 à 6 de l'ordonnance n° 45-2255 du 5 octobre 1945 est composé comme suit :
+prévu aux articles 2 à 6 de l'ordonnance n° 45-2255 du 5 octobre 1945 est composé comme suit : 
 
-Le trésorier-payeur général ou son représentant, président ;
+Le trésorier-payeur général ou son représentant, président ; 
 
-Le directeur de la succursale de la Banque de France ou son représentant ;
+Le directeur de la succursale de la Banque de France ou son représentant ; 
 
-Le directeur départemental des contributions directes ou son représentant ;
+Le directeur départemental des contributions directes ou son représentant ; 
 
-Le secrétaire général de l'office départemental des anciens combattants et victimes de guerre ou son représentant ;
+Le secrétaire général de l'office départemental des anciens combattants et victimes de guerre ou son représentant ; 
 
 Soit le président de la chambre de commerce siégeant au chef-lieu du département ou, à défaut de chambre de commerce au chef-
-lieu, le président d'une chambre de commerce désignée par le préfet ;
+lieu, le président d'une chambre de commerce désignée par le préfet ; 
 
-Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers et de l'artisanat ;
+Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers et de l'artisanat ; 
 
-En cas d'empêchement, le président de la chambre compétente peut se faire représenter par un membre de ladite chambre ;
+En cas d'empêchement, le président de la chambre compétente peut se faire représenter par un membre de ladite chambre ; 
 
 Le président de la commission interprofessionnelle départementale patronale de commerce, de l'industrie ou de l'artisanat
-instituée par arrêté ministériel du 30 novembre 1944 ou son représentant ;
+instituée par arrêté ministériel du 30 novembre 1944 ou son représentant ; 
 
 Un combattant volontaire de la Résistance désigné par le conseil départemental pour les anciens combattants et victimes de
 guerre et la mémoire de la Nation, et, s'il s'agit d'une entreprise sinistrée, le délégué départemental du ministère de
-l'équipement et du logement ou son représentant ;
+l'équipement et du logement ou son représentant ; 
 
 A titre consultatif, le président de la banque populaire dont la circonscription comprend la localité où s'exerce l'activité
-du demandeur ou son représentant.
+du demandeur ou son représentant. 
 
 Dans le département de Paris, le comité départemental est présidé par le receveur central des finances de Paris ou son
 représentant. Les représentants de la Banque de France et l'administration des contributions directes et du crédit populaire
-sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des impôts et la Banque fédérale
-des banques populaires.
+sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des impôts et     l'organe
+central des caisses d'épargne et des banques populaires .
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Arrêté 1944-11-30
-  - Ordonnance 45-2255 1945-10-05 art. 2 à 6
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 14 () JORF 8 juin 2006
+  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 _Anciens textes_:
 
