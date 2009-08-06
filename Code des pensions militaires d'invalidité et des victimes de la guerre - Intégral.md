@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2009-07-31
+Version Consolidée au 2009-08-07
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -15649,9 +15649,9 @@ limitée, les candidats aux corps ou cadres d'emplois des fonctions publiques de
 L'inscription du candidat sur la ou les listes d'aptitude est subordonnée à la reconnaissance de ses qualifications et acquis
 de l'expérience professionnelle qui s'effectue :
 
-- pour les bénéficiaires du 1° de l'article L. 394 qui ne sont plus en activité et ceux relevant du 2° de l'article L. 394 et
-des articles L. 395 et L. 396, à partir d'un dossier, retraçant leurs qualifications et expériences professionnelles, examiné
-par le service désigné par le ministre chargé des anciens combattants ;
+- pour les bénéficiaires du 1° de l'article L. 394 qui ne sont plus en activité et ceux relevant des 2° à 6° de l'article L.
+394 et des articles L. 395 et L. 396, à partir d'un dossier, retraçant leurs qualifications et expériences professionnelles,
+examiné par le service désigné par le ministre chargé des anciens combattants ;
 
 - pour les militaires en position d'activité et ceux qui relèvent du 2° de l'article L. 397 et de l'article L. 398, à partir
 du projet professionnel élaboré par le candidat dans le cadre du parcours de reconversion en application du troisième alinéa
@@ -15661,11 +15661,6 @@ L'inscription sur une liste régionale ou nationale s'effectue à la demande du 
 statutaires. 
 
 Un décret en Conseil d'Etat fixe les conditions d'aptitude physique, la durée et les modalités d'inscription sur ces listes.
-
-**Nota:**
-
-Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
-d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
 
 **Liens relatifs à cet article**
 
@@ -15686,16 +15681,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-492 du 26 mai 2008 - art. 1
+  - Loi n°2009-972 du 3 août 2009 - art. 32
 
 _Cite_:
 
-  - Code de la défense. - art. L4111-1 (V)
-  - Code de la défense. - art. L4139-5 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L394 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L395 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L397 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L398 (V)
+  - Code de la défense. - art. L4111-1
+  - Code de la défense. - art. L4139-5
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L394
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L395
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L397
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L398
 
 
 ###### Article L402
@@ -15860,28 +15855,27 @@ vacant. Ceux-ci ne peuvent le pourvoir qu'en satisfaisant aux priorités suivant
 2° Intégration d'un fonctionnaire, d'un agent régi par le 5° de l'article 3 de la loi n° 84-16 du 11 janvier 1984 portant
 dispositions statutaires relatives à la fonction publique de l'Etat ou d'un militaire remplissant les conditions définies par
 décret en Conseil d'Etat, lorsqu'il fait partie des personnels en voie de reconversion professionnelle d'établissements dont
-la liste est définie par décret. 
+la liste est définie par décret ; 
+
+3° Recrutement d'un fonctionnaire placé en situation de réorientation professionnelle en application de l'
+article 44 bis de la loi n° 84-16 du 11 janvier 1984 précitée. 
 
 Toutefois, le 1° du présent article n'est pas applicable aux corps, cadres d'emplois ou emplois conduisant à des emplois
 classés dans la catégorie active au sens de 
 l'article L. 24 du code des pensions civiles et militaires de retraite
 .
 
-**Nota:**
-
-Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
-d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-16 du 11 janvier 1984 - art. 3 (V)
-  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 3
+  - Loi n°84-16 du 11 janvier 1984 - art. 44 bis
+  - Code des pensions civiles et militaires de retraite - art. L24
 
 _Modifié par_:
 
-  - Loi n°2008-492 du 26 mai 2008 - art. 1
+  - Loi n°2009-972 du 3 août 2009 - art. 16
 
 _Cité par_:
 
