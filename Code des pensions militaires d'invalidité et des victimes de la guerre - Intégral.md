@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2009-08-07
+Version Consolidée au 2009-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -16331,26 +16331,30 @@ _Codifié par_:
 ###### Article L473
 
 Si, dans les quinze jours qui ont suivi l'ouverture de la tutelle, la réunion du conseil de famille n'a pas été requise par
-le parent compétent, le juge du tribunal d'instance du lieu d'ouverture de la tutelle est tenu de convoquer d'office le
+le parent compétent, le     juge des tutelles des mineurs du lieu d'ouverture de la tutelle est tenu de convoquer d'office le
 conseil de famille. Il peut provoquer, par décision de justice, l'exclusion des personnes qu'il considère comme incapables ou
 indignes.
 
 A défaut des personnes prévues par les articles 376 et suivants du Code civil, modifiées par la loi du 20 mars 1917, pour
-composer ou compléter le conseil de famille du pupille de la nation, le juge du tribunal d'instance fait appel d'abord aux
-membres, de l'un ou l'autre sexe, de l'office départemental, ensuite à toutes autres personnes agréées par l'office
+composer ou compléter le conseil de famille du pupille de la nation, le     juge des tutelles des mineurs fait appel d'abord
+aux membres, de l'un ou l'autre sexe, de l'office départemental, ensuite à toutes autres personnes agréées par l'office
 départemental. Toutefois, le mari et la femme ne peuvent faire partie du même conseil de famille. 
 
-Une expédition de toute délibération du conseil de famille est envoyée immédiatement par le juge du tribunal d'instance au
-procureur de la République et à l'office départemental. 
+Une expédition de toute délibération du conseil de famille est envoyée immédiatement par le     juge des tutelles des mineurs
+au procureur de la République et à l'office départemental. 
 
 Les frais exposés pour les délibérations des conseils de famille sont acquittés par l'Etat, au titre des frais de justice,
 lorsqu'ils ont exclusivement pour objet l'application de la loi sur les pupilles de la nation.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
+
 _Cite_:
 
-  - Code civil - art. 376 (V)
+  - Code civil - art. 376
   - Loi n°1917-03-20
 
 _Cité par_:
@@ -16359,10 +16363,6 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. D397 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. L399 (VT)
   - Code des pensions militaires d'invalidité et des v - art. L479 (V)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 ###### Article L474
@@ -35335,23 +35335,27 @@ _Modifié par_:
 ###### Article D58
 
 Les pensionnés bénéficiaires de l'article L. 115 non hospitalisés ont le libre choix du médecin, du pharmacien, du
-chirurgien-dentiste et de l'auxiliaire médical parmi ceux agréés.
+chirurgien-dentiste et de l'auxiliaire médical parmi ceux agréés. 
 
 Par dérogation au principe du libre choix énoncé à l'alinéa qui précède, un praticien, bénéficiaire de l'article L. 115, ne
 peut demander le règlement de soins concernant sa propre personne ni se prescrire à lui-même des médicaments dans le cadre de
-l'article L. 115.
+l'article L. 115. 
 
-Sont réputés agréés, sauf décision contraire du ministre des anciens combattants et victimes de guerre et du ministre chargé
-de la santé publique, prononçant le retrait d'agrément, les médecins, pharmaciens, chirurgiens-dentistes, auxiliaires
-médicaux légalement autorisés à exercer leur profession.
+Sont réputés agréés, sauf décision contraire du       ministre chargé des anciens combattants et victimes de guerre et du
+ministre chargé de la santé publique, prononçant le retrait d'agrément, les médecins, pharmaciens, chirurgiens-dentistes,
+auxiliaires médicaux légalement autorisés à exercer leur profession. 
 
 Cet agrément ne fait pas obstacle à l'application éventuelle aux intéressés des mesures d'exclusion du droit de donner des
-soins aux pensionnés décidées par les commissions de soins gratuits.
+soins aux pensionnés décidées par les commissions de soins gratuits. 
 
 Les bénéficiaires de l'article L. 115 ne peuvent faire appel aux auxiliaires médicaux que sur prescription médicale et pour
 l'exécution des actes figurant à la nomenclature des actes professionnels en vigueur en matière de sécurité sociale.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
 
 _Cité par_:
 
@@ -35359,15 +35363,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
 
 
 ###### Article D59
@@ -36245,18 +36241,18 @@ _Abrogé par_:
 
 ###### Article D87
 
-Il est alloué au médecin rapporteur une indemnité mensuelle dont le taux est fixé par arrêté conjoint du ministre des anciens
-combattants et victimes de guerre et du ministre de l'économie et des finances.
+Il est alloué au médecin rapporteur une indemnité mensuelle dont le taux est fixé par arrêté conjoint du       ministre
+chargé des anciens combattants et victimes de guerre et du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
 _Modifié par_:
 
-  - Décret n°95-960 du 25 août 1995 - art. 6 () JORF 29 août 1995
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 
 ###### Article D88
@@ -36360,51 +36356,52 @@ _Abrogé par_:
 
 ###### Article D91
 
-Les membres de la commission supérieure des soins gratuits sont désignés ainsi qu'il suit :
+Les membres de la commission supérieure des soins gratuits sont désignés ainsi qu'il suit : 
 
-Trois représentants du ministre des anciens combattants et victimes de guerre, dont l'un assure la présidence ;
+Trois représentants du       ministre chargé des anciens combattants et victimes de guerre, dont l'un assure la présidence ; 
 
-Un représentant du ministre de l'économie et des finances ;
+Un représentant du ministre de l'économie et des finances ; 
 
 Trois représentants du corps médical dont un médecin stomatologiste, sur proposition de l'organisation syndicale nationale
-des médecins, la plus représentative ;
+des médecins, la plus représentative ; 
 
 Un représentant des pharmaciens sur proposition de l'organisation syndicale nationale des pharmaciens, la plus
-représentative ;
+représentative ; 
 
-Un représentant des infirmiers sur proposition de l'organisation syndicale nationale des infirmiers, la plus représentative ;
+Un représentant des infirmiers sur proposition de l'organisation syndicale nationale des infirmiers, la plus
+représentative ; 
 
 Un représentant des masseurs-kinésithérapeutes, sur proposition de l'organisation syndicale nationale des masseurs-
-kinésithérapeutes, la plus représentative ;
+kinésithérapeutes, la plus représentative ; 
 
 Deux représentants des pensionnés, bénéficiaires de l'article L. 115, sur proposition de l'Office national des anciens
-combattants et victimes de guerre.
+combattants et victimes de guerre. 
 
-Il est désigné un nombre égal de suppléants.
+Il est désigné un nombre égal de suppléants. 
 
 Les propositions faites par chacune des organisations syndicales susvisées doivent comporter un nombre de noms au moins égal
-au double des désignations à effectuer.
+au double des désignations à effectuer. 
 
 Ne peuvent être désignés comme représentants des bénéficiaires de l'article L. 115, les praticiens et pharmaciens qui donnent
 des soins ou délivrent des produits au titre du présent chapitre, ni des fonctionnaires ou agents relevant de l'autorité du
-ministre des anciens combattants et victimes de guerre.
+ministre chargé des anciens combattants et victimes de guerre. 
 
-Le chef du service central des soins gratuits ne peut être désigné comme représentant du ministre des anciens combattants et
-victimes de guerre avec voix délibérative.
+Le chef du service central des soins gratuits ne peut être désigné comme représentant du       ministre chargé des anciens
+combattants et victimes de guerre avec voix délibérative.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
 _Modifié par_:
 
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
 
 
 ###### Article D92
@@ -36518,10 +36515,18 @@ _Modifié par_:
 ###### Article D97
 
 Les paiements des soins délivrés aux bénéficiaires de l'article L. 115 sont mandatés aux médecins, pharmaciens, chirurgiens-
-dentistes et auxiliaires médicaux sur présentation de mémoires établis dans les conditions fixées par le ministre des anciens
-combattants et victimes de guerre.
+dentistes et auxiliaires médicaux sur présentation de mémoires établis dans les conditions fixées par le       ministre
+chargé des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 _Cité par_:
 
@@ -36529,36 +36534,28 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
 
 
 ###### Article D98
 
 Les paiements des frais dus pour hospitalisation, consultations et soins externes dans les établissements publics sont
 effectués sur production de titres de recettes dans les conditions fixées par le ministre chargé de la santé publique en
-accord avec le ministre des anciens combattants et victimes de guerre.
+accord avec le       ministre chargé des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. A14 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
 
 
 ###### Article D99
@@ -36647,15 +36644,23 @@ _Modifié par_:
 
 Les dépenses indûment supportées soit par l'aide médicale, soit par les organismes de sécurité sociale ou d'assurances
 sociales agricoles, à l'occasion de soins donnés à des assistés ou à des assurés qui auraient dû bénéficier des dispositions
-de l'article L. 115, peuvent leur être remboursées dans les conditions fixées par les instructions conjointes du ministre des
-anciens combattants et victimes de guerre et des ministres intéressés.
+de l'article L. 115, peuvent leur être remboursées dans les conditions fixées par les instructions conjointes du
+ministre chargé des anciens combattants et victimes de guerre et des ministres intéressés. 
 
 Inversement, les dépenses supportées par l'Etat peuvent, si elles n'étaient pas dues au titre de l'article L. 115 être
 remboursées soit par l'Aide médicale, soit par les organismes de sécurité sociale ou d'assurances sociales agricoles
 lorsqu'elles sont relatives à des soins à des assistés ou des assurés sociaux. Les modalités de remboursement sont fixées par
-instructions conjointes du ministre des anciens combattants et victimes de guerre et des ministres intéressés.
+instructions conjointes du       ministre chargé des anciens combattants et victimes de guerre et des ministres intéressés.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 _Cité par_:
 
@@ -36665,15 +36670,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L115 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°59-1362 1959-11-20 art. 1 JORF 5 décembre 1959
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
 
 
 ##### Paragraphe 2 : Procédure et voies de recours.<a id=375></a>
@@ -36726,23 +36723,24 @@ _Codifié par_:
 ###### Article D105
 
 Nonobstant toute autorisation donnée, voire tout paiement déjà effectué, et sans préjudice des poursuites pénales
-éventuelles, le directeur interdépartemental peut, de lui-même ou sur instruction du ministre des anciens combattants et
-victimes de guerre, dans le délai maximum d'un an qui suit la réception des mémoires afférents aux soins en cause, déférer
-aux commissions contentieuses des soins gratuits tout dossier faisant apparaître soit un acte frauduleux, soit un abus
-caractérisé.
+éventuelles, le directeur interdépartemental peut, de lui-même ou sur instruction du       ministre chargé des anciens
+combattants et victimes de guerre, dans le délai maximum d'un an qui suit la réception des mémoires afférents aux soins en
+cause, déférer aux commissions contentieuses des soins gratuits tout dossier faisant apparaître soit un acte frauduleux, soit
+un abus caractérisé. 
 
-Au cas où des poursuites pénales sont intentées à la demande du ministre des anciens combattants et victimes de guerre, le
-délai susvisé se trouve prolongé à concurrence de la durée de la prescription pénale applicable à l'infraction considérée.
+Au cas où des poursuites pénales sont intentées à la demande du       ministre chargé des anciens combattants et victimes de
+guerre, le délai susvisé se trouve prolongé à concurrence de la durée de la prescription pénale applicable à l'infraction
+considérée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
 _Modifié par_:
 
-  - Décret n°95-960 du 25 août 1995 - art. 1 () JORF 29 août 1995
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 
 ###### Article D106
@@ -36776,65 +36774,66 @@ _Codifié par_:
 ###### Article D107
 
 La commission contentieuse des soins gratuits ordonne toutes mesures d'instruction et d'enquête qu'elle juge utiles et statue
-en première instance.
+en première instance. 
 
 Les parties intéressées, y compris éventuellement les organismes visés à l'article D. 103, lorsque la charge des frais risque
 par la suite de leur incomber, doivent être invitées par le directeur interdépartemental des anciens combattants et victimes
 de guerre à prendre sur place communication du dossier et à fournir leurs explications soit devant la commission si elles
 désirent être entendues par elle, soit par écrit dans le délai fixé. En cas de silence de leur part, il pourra être passé
-outre par la commission contentieuse des soins gratuits.
+outre par la commission contentieuse des soins gratuits. 
 
 Les décisions des commissions contentieuses sont exécutoires nonobstant appel, sauf celles prononçant une mesure d'exclusion
-temporaire ou définitive, par application de l'article L. 118.
+temporaire ou définitive, par application de l'article L. 118. 
 
 Les décisions des commissions contentieuses doivent être dûment motivées et faire l'objet d'un procès-verbal mentionnant les
 noms et qualités des membres présents et signé du président. Elles sont notifiées sans délai, par les soins du directeur
-interdépartemental des anciens combattants et victimes de guerre, au ministre des anciens combattants et victimes de guerre
-et aux parties intéressées, par pli recommandé avec accusé de réception. Elles peuvent être déférées en appel dans le délai
-maximum de deux mois à dater de leur notification, la date de l'accusé de réception faisant foi.
+interdépartemental des anciens combattants et victimes de guerre, au       ministre chargé des anciens combattants et
+victimes de guerre et aux parties intéressées, par pli recommandé avec accusé de réception. Elles peuvent être déférées en
+appel dans le délai maximum de deux mois à dater de leur notification, la date de l'accusé de réception faisant foi.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°95-960 du 25 août 1995 - art. 1 () JORF 29 août 1995
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D103 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L118 (M)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D103
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L118
 
 
 ###### Article D108
 
 La commission supérieure, juridiction d'appel des commissions contentieuses, ordonne toutes mesures d'instruction et
-d'enquête qu'elle juge utiles et statue sur pièces souverainement en dernier ressort.
+d'enquête qu'elle juge utiles et statue sur pièces souverainement en dernier ressort. 
 
 Les décisions de la commission supérieure doivent être dûment motivées et faire l'objet d'un procès-verbal mentionnant les
-noms et qualités des membres présents et signé du président.
+noms et qualités des membres présents et signé du président. 
 
-Elles sont notifiées, sans délai, par les soins du secrétariat de la commission supérieure, au ministre des anciens
-combattants et victimes de guerre et aux directeurs interdépartementaux intéressés, à charge pour ceux-ci de les notifier aux
-parties en cause, y compris éventuellement les organismes visés à l'article D. 103, par pli recommandé avec accusé de
-réception et d'en remettre ampliation à la commission contentieuse ayant statué sur l'affaire en cause en première instance.
+Elles sont notifiées, sans délai, par les soins du secrétariat de la commission supérieure, au       ministre chargé des
+anciens combattants et victimes de guerre et aux directeurs interdépartementaux intéressés, à charge pour ceux-ci de les
+notifier aux parties en cause, y compris éventuellement les organismes visés à l'article D. 103, par pli recommandé avec
+accusé de réception et d'en remettre ampliation à la commission contentieuse ayant statué sur l'affaire en cause en première
+instance.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°95-960 du 25 août 1995 - art. 1 () JORF 29 août 1995
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2009-1757 du 30 décembre 2009 - art. 2
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D103 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D103
 
 
 ###### Article D109
@@ -41127,27 +41126,28 @@ _Abrogé par_:
 ###### Article D416
 
 Les rapatriements des corps actuellement inhumés dans les départements et pays d'outre-mer ou à inhumer dans ces territoires
-sont effectués dans les conditions fixées par un arrêté pris en commun par le ministre des anciens combattants et victimes de
-guerre et le ministre chargé de la France d'outre-mer. Ces dispositions font l'objet des articles A. 206 à A. 215.
+sont effectués dans les conditions fixées par un arrêté pris en commun par le       ministre chargé des anciens combattants
+et victimes de guerre et le ministre chargé de la France d'outre-mer. Ces dispositions font l'objet des articles A. 206 à A.
+215.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. A206 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A207 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A208 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A209 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A210 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A211 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A212 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A213 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A214 (V)
-  - Code des pensions militaires d'invalidité et des v - art. A215 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A206
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A207
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A208
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A209
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A210
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A211
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A212
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A213
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A214
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A215
 
 
 ###### Article D417
@@ -41416,12 +41416,12 @@ _Codifié par_:
 
 L'entretien des cimetières de guerre et des carrés militaires à l'intérieur des cimetières communaux peut être confié, sur
 leur demande, aux municipalités ou à des associations régulièrement constituées, dans les conditions prévues aux articles L.
-498 à L. 503.
+498 à L. 503. 
 
-Le ministre des anciens combattants et victimes de guerre fixe, par arrêté, dont les dispositions font l'objet de l'article
-A. 222, le taux des indemnités à allouer à chaque commune, au prorata du nombre des tombes à entretenir, dans la limite d'un
-maximum de 15,85 euros par tombe et sans excéder le taux moyen de 0,15 euros par tombe et par an pour l'ensemble des
-indemnités.
+Le       ministre chargé des anciens combattants et victimes de guerre fixe, par arrêté, dont les dispositions font l'objet
+de l'article A. 222, le taux des indemnités à allouer à chaque commune, au prorata du nombre des tombes à entretenir, dans la
+limite d'un maximum de 15, 85 euros par tombe et sans excéder le taux moyen de 0, 15 euros par tombe et par an pour
+l'ensemble des indemnités. 
 
 Les sommes dues aux communes ou aux associations bénéficiaires des conventions leur sont mandatées semestriellement, à terme
 échu, après constatation de la bonne exécution du service. Ces conventions sont toujours révocables au gré de l'Etat sans que
@@ -41430,24 +41430,19 @@ effectuées à la date de la notification de la résiliation de la convention.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. A222 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L498 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L499 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L500 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L501 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L502 (V)
-  - Code des pensions militaires d'invalidité et des v - art. L503 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D429 (V)
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D430 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A222
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L498
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L499
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L500
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L501
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L502
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L503
 
 
 #### Section 3 : Dispositions particulières.<a id=431></a>
