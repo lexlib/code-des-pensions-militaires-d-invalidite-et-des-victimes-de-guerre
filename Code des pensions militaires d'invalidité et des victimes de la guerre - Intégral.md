@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-01-01 00:00:01 +0100
+Version Consolidée au 2010-02-26
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -18071,29 +18071,25 @@ _Codifié par_:
 
 ###### Article L529
 
-L'Institution nationale des invalides est la maison des combattants âgés, malades ou blessés au service de la patrie.
+L'Institution nationale des invalides est la maison des combattants âgés, malades ou blessés au service de la patrie. 
 
-Elle a pour mission :
+Elle a pour mission : 
 
 1° D'accueillir dans un centre de pensionnaires, à titre permanent ou temporaire, les invalides bénéficiaires du code des
 pensions militaires d'invalidité et des victimes de la guerre satisfaisant aux conditions fixées par le décret visé à
-l'article L. 537 ;
+l'article L. 537 ; 
 
 2° De dispenser dans un centre médico-chirurgical des soins en hospitalisation ou en consultation en vue de la réadaptation
 fonctionnelle, professionnelle et sociale des patients ; les personnes accueillies sont en premier lieu les pensionnaires de
-l'établissement ainsi que les autres bénéficiaires du présent code :
+l'établissement ainsi que les autres bénéficiaires du présent code : 
 
-en outre, elle participe au service public hospitalier ;
+en outre, elle    délivre aux assurés sociaux les soins définis à l' article L. 6111-1 du code de la santé publique  ; 
 
 3° De participer aux études et à la recherche sur l'appareillage des handicapés conduites par le ministre chargé des anciens
 combattants. Ces participations font l'objet d'une convention préalable entre l'Etat et l'établissement lorsqu'elles
 impliquent un engagement financier spécifique de la part de ce dernier.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 _Cité par_:
 
@@ -18103,11 +18099,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 11 () JORF 18 janvier 2002
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L537 (V)
+  - Code de la santé publique - art. L6111-1
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L621-2 (VD)
 
 
 ###### Article L530
