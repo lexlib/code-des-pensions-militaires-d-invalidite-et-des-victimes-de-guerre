@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-05-16
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -50256,7 +50256,7 @@ Cette carte est plastifiée.
 
 **Nota:**
 
-Pour le modèle de la carte, vous pouvez consulter le tableau dans le JO du 9 septembre 2008, texte n° 9.
+Pour le modèle de la carte, vous pouvez consulter le tableau dans le JO du 15 mai 2010, texte n° 35.
 
 **Liens relatifs à cet article**
 
@@ -50275,7 +50275,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Arrêté du 6 août 2008 - art. 1
+  - Arrêté du 29 avril 2010 - art.
 
 
 #### Chapitre II : Retraite du combattant.<a id=517></a>
