@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-05-16
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -10933,7 +10933,7 @@ _Abrogé par_:
 La retraite prévue à l'article qui précède est attribuée à partir de l'âge de soixante ans à tout titulaire de la carte du
 combattant bénéficiaire du livre IX du Code de la sécurité sociale. 
 
-Son montant est déterminé par l'application de l'indice de pension 41 tel qu'il est défini à l'article L. 8 bis. 
+Son montant est déterminé par l'application de l'indice de pension 43 tel qu'il est défini à l'article L. 8 bis. 
 
 Les anciens combattants ne remplissant pas les conditions prévues au premier alinéa ci-dessus mais qui, antérieurement à la
 date de la promulgation de la loi n° 53-1340 du 31 décembre 1953, étaient titulaires de la retraite du combattant ou avaient
@@ -10946,7 +10946,7 @@ Les titulaires de la carte du combattant au titre des dispositions du paragraphe
 ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 39. 
 
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux alinéas précédents, bénéficient de la
-retraite au taux déterminé par application de l'indice de pension 41. 
+retraite au taux déterminé par application de l'indice de pension 43. 
 
 Les bénéficiaires d'une pension d'invalidité au titre du présent code, indemnisant une ou plusieurs infirmités imputables à
 des services accomplis au cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de l'ordre hors
@@ -10954,7 +10954,7 @@ métropole et titulaires de la carte du combattant, ont droit à la retraite du 
 
 **Nota:**
 
-Loi n° 2008-1425 du 27 décembre 2008 article 146 II : Par dérogation au deuxième alinéa du III de l'article 68 de la loi de
+Loi n° 2009-1673 du 30 décembre 2009 article 112 II :  Par dérogation au deuxième alinéa du III de l'article 68 de la loi de
 finances rectificative pour 2002 (n° 2002-1576 du 30 décembre 2002), la modification mentionnée au I du présent article est
 applicable aux retraites du combattant visées au I de l'article 100 de la loi n° 2006-1666 du 21 décembre 2006 de finances
 pour 2007.
@@ -10963,7 +10963,7 @@ pour 2007.
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 146 (V)
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 113 (V)
 
 _Cité par_:
 
@@ -38263,16 +38263,24 @@ Délégation est donnée aux directeurs interdépartementaux des anciens combatt
 départementaux des anciens combattants et victimes de guerre de Corse, ainsi qu'aux intendants militaires de la France
 d'outre-mer, chargés des services des anciens combattants et victimes de guerre dans ces territoires, à l'effet de signer, au
 nom du ministre, les décisions portant rejet des demandes d'attribution du pécule présentées par des ayants cause de
-prisonniers de guerre décédés en captivité ou après rapatriement, ne remplissant pas les conditions exigées.
+prisonniers de guerre décédés en captivité ou après rapatriement, ne remplissant pas les conditions exigées. 
 
-La même délégation est donnée au fonctionnaire de la préfecture de Paris, actuellement chargé de la direction des services de
-la direction interdépartementale de Paris.
+La même délégation est donnée au fonctionnaire de la  préfecture de la région d'Ile-de-France, préfecture de Paris,
+actuellement chargé de la direction des services de la direction interdépartementale de Paris.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Décret n°2010-687 du 24 juin 2010 - art. 37
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D271-3 (Ab)
 
 
 ###### Article D271-3
@@ -38479,55 +38487,66 @@ _Abrogé par_:
 
 Délégation est donnée aux directeurs interdépartementaux des anciens combattants et victimes de guerre à l'effet de signer,
 au nom du ministre, les décisions portant rejet des demandes d'attribution du pécule présentées soit par les déportés et
-internés politiques, soit par leurs ayants cause.
+internés politiques, soit par leurs ayants cause. 
 
-La même délégation est donnée au fonctionnaire de la préfecture de Paris actuellement chargé de la direction des services de
-la direction interdépartementale de Paris.
+La même délégation est donnée au fonctionnaire de la  préfecture de la région d'Ile-de-France, préfecture de Paris
+actuellement chargé de la direction des services de la direction interdépartementale de Paris.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2010-687 du 24 juin 2010 - art. 37
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D271-14 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Code des pensions militaires d'invalidité et de... - art. D271-14 (Ab)
 
 
 ###### Article D271-13
 
 Délégation est également donnée aux directeurs interdépartementaux des anciens combattants et victimes de guerre, ainsi qu'au
-fonctionnaire de la préfecture de Paris susvisé, pour statuer, au nom du ministre, sur les recours gracieux formulés par les
-postulants dont les demandes ont été rejetées.
+fonctionnaire de la  préfecture de la région d'Ile-de-France, préfecture de Paris susvisé, pour statuer, au nom du ministre,
+sur les recours gracieux formulés par les postulants dont les demandes ont été rejetées.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-687 du 24 juin 2010 - art. 37
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. D271-14 (V)
 
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
 
 ###### Article D271-14
 
-En cas d'absence ou d'empêchement des directeurs interdépartementaux ou du fonctionnaire de la préfecture de Paris visé aux
-articles D. 271-12 et D. 271-13, délégation est donnée aux délégués adjoints chargés de l'intérim des services
-interdépartementaux susvisés.
+En cas d'absence ou d'empêchement des directeurs interdépartementaux ou du fonctionnaire de la préfecture de la région d'Ile-
+de-France, préfecture de Paris visé aux articles D. 271-12 et D. 271-13, délégation est donnée aux délégués adjoints chargés
+de l'intérim des services interdépartementaux susvisés.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2010-687 du 24 juin 2010 - art. 37
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D271-12 (V)
-  - Code des pensions militaires d'invalidité et des v - art. D271-13 (V)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Code des pensions militaires d'invalidité et de... - art. D271-12 (Ab)
 
 
 #### Chapitre III : Décorations et insignes.<a id=402></a>
