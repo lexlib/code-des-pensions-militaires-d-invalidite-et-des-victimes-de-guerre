@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-24
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -10666,8 +10666,7 @@ entre le 1er janvier 1952 et le 2 juillet 1962 :
 
 Les militaires des armées françaises,
 
-Les membres des forces supplétives françaises possédant la nationalité française à la date de la présentation de leur demande
-ou domiciliés en France à la même date,
+Les membres des forces supplétives françaises,
 
 Les personnes civiles possédant la nationalité française à la date de la présentation de leur demande qui ont pris part à des
 actions de feu ou de combat au cours de ces opérations.
@@ -10683,6 +10682,13 @@ un arrêté interministériel énumérera les catégories de formations constitu
 
 Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa
 est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa.
+
+**Nota:**
+
+Dans sa décision n° 2010-18 QPC du 23 juillet 2010 (NOR : CSCX1019873S), le Conseil constitutionnel a déclaré que, dans le
+troisième alinéa de l'article L. 253 bis du code des pensions militaires d'invalidité et des victimes de la guerre, les mots
+"possédant la nationalité française à la date de la présentation de leur demande ou domiciliés en France à la même date" sont
+contraires à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -10701,18 +10707,14 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 7 novembre 1996
   - TXT_SOURCE: Arrêté du 7 novembre 1996 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décision n°2010-18 QPC du 23 juillet 2010 - art. 1, v. init.
+
 _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R311-12 (V)
   - Code des pensions militaires d'invalidité et de... - art. R311-13 (V)
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi - art. 123 (V) JORF 31 décembre 2003 en vigueur le 1er juillet 2004
 
 
 ###### Article L253 quater
