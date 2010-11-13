@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-07-31
+Version Consolidée au 2010-11-14
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -31303,7 +31303,7 @@ Le directeur du service départemental des anciens combattants et victimes de gu
 Soit le président de la chambre de commerce siégeant au chef-lieu du département ou, à défaut de chambre de commerce au chef-
 lieu, le président d'une chambre de commerce désignée par le préfet ; 
 
-Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers et de l'artisanat ; 
+Soit, lorsque le demandeur est un artisan, le président de la       chambre de métiers et de l'artisanat de région  ; 
 
 En cas d'empêchement, le président de la chambre compétente peut se faire représenter par un membre de ladite chambre ; 
 
@@ -31320,7 +31320,7 @@ du demandeur ou son représentant.
 Dans le département de Paris, le comité départemental est présidé par le receveur central des finances de Paris ou son
 représentant. Les représentants de la Banque de France et l'administration des contributions directes et du crédit populaire
 sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des impôts et l'organe central
-des caisses d'épargne et des banques populaires .
+des caisses d'épargne et des banques populaires.
 
 **Nota:**
 
@@ -31330,7 +31330,7 @@ des caisses d'épargne et des banques populaires .
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 _Anciens textes_:
 
@@ -31340,33 +31340,33 @@ _Anciens textes_:
 ###### Article R389-5
 
 Le comité départemental des prêts prévu à l'article 3 de l'ordonnance du 17 octobre 1944 et à l'article 14 de l'ordonnance n°
-45-2468 du 20 octobre 1945 est composé comme suit :
+45-2468 du 20 octobre 1945 est composé comme suit : 
 
-Le directeur départemental des services agricoles ou son représentant, président ;
+Le directeur départemental des services agricoles ou son représentant, président ; 
 
-Le trésorier-payeur général ou son représentant, vice-président ;
+Le trésorier-payeur général ou son représentant, vice-président ; 
 
-Le président de chacune des caisses régionales de crédit agricole mutuel du département ou son représentant ;
+Le président de chacune des caisses régionales de crédit agricole mutuel du département ou son représentant ; 
 
-Le directeur du service départemental des anciens combattants et victimes de guerre ou son représentant ;
+Le directeur du service départemental des anciens combattants et victimes de guerre ou son représentant ; 
 
-L'ingénieur en chef ou l'ingénieur du génie rural de la circonscription ou son représentant ;
+L'ingénieur en chef ou l'ingénieur du génie rural de la circonscription ou son représentant ; 
 
-Le directeur départemental des contributions directes ou son représentant ;
+Le directeur départemental des contributions directes ou son représentant ; 
 
-Un représentant de la fédération départementale des syndicats d'exploitants agricoles désigné par le préfet ;
+Un représentant de la fédération départementale des syndicats d'exploitants agricoles désigné par le préfet ; 
 
 Le président de la commission agricole départementale des prisonniers et déportés instituée par l'arrêté ministériel du 20
-novembre 1944 ;
+novembre 1944 ; 
 
 Un combattant volontaire de la Résistance désigné par le conseil départemental pour les anciens combattants et victimes de
-guerre et la mémoire de la Nation ;
+guerre et la mémoire de la Nation ; 
 
-Si la demande de prêt est déposée par un artisan rural, le président de la chambre de métiers et de l'artisanat ou son
-représentant ;
+Si la demande de prêt est déposée par un artisan rural, le président de la       chambre de métiers et de l'artisanat de
+région  ou son représentant ; 
 
 Si la demande de prêt est présentée par un agriculteur sinistré, le délégué départemental du ministère de la construction et
-de l'urbanisme ou son représentant ;
+de l'urbanisme ou son représentant ; 
 
 S'il s'agit d'un prêt d'installation et d'aménagement du foyer des ouvriers agricoles et des compagnons d'artisanat rural, le
 directeur départemental de la population ou son représentant.
@@ -31376,12 +31376,12 @@ directeur départemental de la population ou son représentant.
 _Cite_:
 
   - Arrêté 1944-11-20
-  - Ordonnance n°45-2468 du 20 octobre 1945
   - Ordonnance 1944-10-17 art. 3
+  - Ordonnance n°45-2468 du 20 octobre 1945
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 _Anciens textes_:
 
