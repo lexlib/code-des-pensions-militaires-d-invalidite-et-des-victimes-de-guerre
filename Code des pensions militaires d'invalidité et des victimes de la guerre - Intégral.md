@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-11-15
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -25282,9 +25282,8 @@ d'avoir appartenu antérieurement à leur capture, ou postérieurement à leur d
 une unité combattante, pendant la période où celle-ci avait cette qualité. 
 
 Les durées de détention prévues aux alinéas 4° et 5° sont réduites, en ce qui concerne les combattants d'Indochine, par un
-arrêté conjoint du       ministre chargé des anciens combattants et victimes de guerre, du ministre d'Etat chargé de la
-défense nationale et du ministre chargé de la France d'outre-mer, dont les dispositions font l'objet de l'article A. 121
-bis ; 
+arrêté conjoint du ministre chargé des anciens combattants et victimes de guerre, du ministre d'Etat chargé de la défense
+nationale et du ministre chargé de la France d'outre-mer, dont les dispositions font l'objet de l'article A. 121 bis ; 
 
 6° Qui, faits prisonniers, ont obtenu la médaille des évadés, conformément aux dispositions de l'article 3 de la loi du 30
 octobre 1946 ; 
@@ -25414,9 +25413,16 @@ des personnes civiles assimilées sont établies par arrêté du ministre charg�
 Sont classées, pour une durée d'un mois, comme unités combattantes, les unités ayant connu au moins trois actions de feu ou
 de combat distinctes au cours d'une période de trente jours consécutifs. 
 
-Les éléments détachés auprès d'une unité reconnue combattante suivent le sort de cette unité. 
+Les éléments détachés auprès d'une unité reconnue combattante suivent le sort de cette unité.
 
-III.-Des arrêtés conjoints des ministres chargés de la défense, du budget et des anciens combattants fixent la liste des
+III. - Constituent les actions de feu ou de combat mentionnées aux I et II ci-dessus les actions de combat et les actions qui
+se sont déroulées en situation de danger caractérisé au cours d'opérations militaires dont la liste est fixée par un arrêté
+du ministre de la défense. 
+
+Lorsque l'action comporte l'exposition au feu ou l'utilisation de la force à titre offensif ou défensif, il est compté une
+action par jour. Dans les autres cas, il est attribué une seule action, quelle qu'en soit la durée.
+
+IV.-Des arrêtés conjoints des ministres chargés de la défense, du budget et des anciens combattants fixent la liste des
 opérations ou missions mentionnées au E ci-dessus, déterminent les périodes à prendre en compte et définissent les
 bonifications à accorder.
 
@@ -25425,6 +25431,9 @@ bonifications à accorder.
 Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission des
 bonifications).
+
+Décret n° 2010-1377 du 12 novembre 2010 article 2 : Ces dispositions s'appliquent aux opérations militaires qui sont
+qualifiées d'actions de feu ou de combat à compter de la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -25436,7 +25445,6 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L253 bis
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L253 ter
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R227
-  - Décret n°1943-04-01
 
 _Cité par_:
 
@@ -25466,7 +25474,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2010-1377 du 12 novembre 2010 - art. 1
 
 _Nouveaux textes_:
 
