@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2010-11-15
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -3824,6 +3824,18 @@ l'article L. 43 du code est fixé aux deux tiers de la pension définie ci-dessu
 Toutefois, la pension au taux de réversion des conjoints survivants d'invalides, bénéficiaires de l'article L. 18, est portée
 au taux prévu au premier alinéa du présent article.
 
+La pension de conjoint survivant mentionnée aux alinéas précédents est majorée de l'indice de pension 360 lorsque le
+bénéficiaire du droit à pension était, à son décès, titulaire d'une pension dont l'indice était égal ou supérieur à 12 000
+points. 
+
+La pension calculée dans les conditions prévues à l'article L. 51 est majorée de 360 points.
+
+**Nota:**
+
+Loi n° 2010-1657 du 29 décembre 2010 art. 147 II : Les deux derniers alinéas de l'article L. 50 du code des pensions
+militaires d'invalidité et des victimes de la guerre sont applicables aux pensions de conjoints survivants et d'orphelins en
+paiement au 1er janvier 2011, à compter de la demande des intéressés.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -3839,13 +3851,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 124 () JORF 31 décembre 2005
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 147 (V)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L43 (M)
-  - Code des pensions militaires d'invalidité et des v - art. L8 bis (M)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L43
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L8 bis
 
 _Codifié par_:
 
