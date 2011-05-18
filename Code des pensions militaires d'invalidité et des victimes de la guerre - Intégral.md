@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2011-01-07
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -5590,8 +5590,6 @@ _Abrogé par_:
 Sans préjudice de l'application des dispositions des codes de justice militaire, relatives à la déchéance du droit à pension,
 le droit à l'obtention ou à la jouissance des pensions militaires est suspendu :
 
-Par la condamnation à une peine afflictive ou infamante pendant la durée de la peine ;
-
 Par les circonstances qui font perdre la qualité de Français, durant la privation de cette qualité, à l'exclusion de la perte
 de cette qualité en raison de l'accession à l'indépendance d'un territoire antérieurement français.
 
@@ -5602,10 +5600,6 @@ Le droit à jouissance pourra être rétabli à partir de la date de la promulga
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
 _Cité par_:
 
   - Décret n°96-967 du 30 octobre 1996 - art. 3 (V)
@@ -5613,7 +5607,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1576 2002-12-30 art. 68 VII finances rectificative pour 2002 JORF 31 décembre 2002
+  - Loi n°2011-525 du 17 mai 2011 - art. 163
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L164-1 (VD)
+
+_Codifié par_:
+
+  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
 #### Chapitre III : Prescriptions des arrérages.<a id=31></a>
@@ -11070,8 +11076,6 @@ Le droit à l'obtention ou à la jouissance de la retraite du combattant est sus
 
 Par la condamnation à la destitution prononcée par application des prescriptions du Code de justice militaire ou maritime ;
 
-Par la condamnation à une peine afflictive ou infamante pendant la durée de la peine ;
-
 Par les circonstances qui font perdre la qualité de Français durant la privation de cette qualité, à l'exclusion de la perte
 de cette qualité en raison de l'accession à l'indépendance d'un territoire antérieurement français ;
 
@@ -11079,13 +11083,21 @@ Par la participation à un acte d'hostilité contre la France s'il s'agit de mil
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 163
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L321-5 (VD)
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Modifié par_:
-
-  - Loi n°2002-1576 2002-12-30 art. 68 VII finances rectificative pour 2002 JORF 31 décembre 2002
 
 
 ###### Article L260
