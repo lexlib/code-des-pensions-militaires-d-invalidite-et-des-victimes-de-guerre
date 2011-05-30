@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-05-31
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -34649,26 +34649,27 @@ _Cite_:
 
 ###### Article R573
 
-I. - Le conseil départemental pour les anciens combattants et victimes de guerre et la mémoire de la Nation émet des voeux
-sous forme de délibérations sur la politique générale de l'Office national des anciens combattants et victimes de guerre et
-sur les modalités de l'action sociale de l'office dans le département. Il est régi par les dispositions des articles 8 et 9
-du décret n° 2006-665 du 7 juin 2006.
+I.-Le conseil départemental pour les anciens combattants et victimes de guerre et la mémoire de la Nation émet des voeux sous
+forme de délibérations sur la politique générale de l'Office national des anciens combattants et victimes de guerre et sur
+les modalités de l'action sociale de l'office dans le département. Il est régi par les dispositions des articles 8 et 9 du
+décret n° 2006-665 du 7 juin 2006 relatif à la réduction du nombre et à la simplification de la composition de diverses
+commissions administratives, sauf en ce qui concerne la durée de nomination des membres, qui est de quatre ans. 
 
 Ces délibérations sont communiquées dans le mois à l'office et examinées par son conseil d'administration, après étude et
-rapport de la commission spécialisée.
+rapport de la commission spécialisée. 
 
-II. - Le conseil départemental pour les anciens combattants et victimes de guerre et la mémoire de la Nation se prononce sur
+II.-Le conseil départemental pour les anciens combattants et victimes de guerre et la mémoire de la Nation se prononce sur
 les demandes individuelles de prêts, subventions et aides diverses aux ressortissants de l'Office national des anciens
-combattants et victimes de guerre.
+combattants et victimes de guerre. 
 
 Dans les trente jours de leur notification, des recours peuvent être formés par tout intéressé contre les décisions du
-conseil départemental devant l'office national par l'intermédiaire du préfet.
+conseil départemental devant l'office national par l'intermédiaire du préfet. 
 
 Le préfet dispose d'un délai maximum d'un mois à dater de la réception du recours pour le transmettre à l'office national.
 
-L'office national statue sur ce recours par décision motivée.
+L'office national statue sur ce recours par décision motivée. 
 
-III. - Le conseil départemental pour les anciens combattants et victimes de guerre et la mémoire de la Nation donne également
+III.-Le conseil départemental pour les anciens combattants et victimes de guerre et la mémoire de la Nation donne également
 son avis sur :
 
 - la délivrance du diplôme d'honneur de porte-drapeau ;
@@ -34679,19 +34680,15 @@ son avis sur :
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
 _Cite_:
 
-  - Décret n°2006-665 2006-06-07 art. 8, art. 9
-  - Code des pensions militaires d'invalidité et des v - art. D306 (M)
-  - Code des pensions militaires d'invalidité et des v - art. D307 (M)
+  - Décret n°2006-665 du 7 juin 2006 - art. 9
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D306
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D307
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 14 () JORF 8 juin 2006
+  - Décret n°2009-1755 du 30 décembre 2009 - art. 16
 
 _Cité par_:
 
