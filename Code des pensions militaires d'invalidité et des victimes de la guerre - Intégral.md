@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2011-05-31
+Version Consolidée au 2011-06-23
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -220,7 +220,7 @@ Version Consolidée au 2011-05-31
         - [Chapitre III : Prescription des arrérages. (art. R91 à R101)](#217)
         - [Chapitre V : Règles générales de cumul. (art. R102)](#218)
       - [Titre VII : Soins, traitements et rééducation. (art. R102-1 à R102-4)](#219)
-        - [Chapitre Ier : Soins médicaux gratuits. (art. R102-2 à R102-2-1)](#220)
+        - [Chapitre Ier : Soins médicaux gratuits. (art. R102-2)](#220)
         - [Chapitre IV : Appareillage. (art. R102-3 à R102-4)](#221)
       - [Titre VIII : Dispositions applicables en Nouvelle Calédonie, en Polynésie française, à Wallis et Futuna et dans les Terres australes et antarctiques françaises. (art. R103 à R145)](#222)
         - [Chapitre Ier : Conditions d'application du régime général. (art. R103 à R104)](#223)
@@ -21390,35 +21390,6 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
 
 
-###### Article R102-2-1
-
-Le préfet de la région d'Aquitaine a compétence pour accorder ou refuser une cure thermale aux pensionnés résidant dans les
-départements d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, en application de l'article L. 115
-du présent code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
-
-_Créé par_:
-
-  - Décret n°97-1197 du 24 décembre 1997 - art. 1 () JORF 27 décembre 1997
-
-_Abrogé par_:
-
-  - Décret n°2011-695 du 20 juin 2011 - art. 1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la sécurité sociale. - art. R165-1 (M)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
-
-
 #### Chapitre IV : Appareillage.<a id=221></a>
 
 ###### Article R102-3
@@ -34624,11 +34595,29 @@ _Cite_:
 L'Office national des anciens combattants et victimes de guerre dispose d'un service par département ainsi qu'en Nouvelle-
 Calédonie et en Polynésie française.
 
+L'action des services dont l'Office dispose le cas échéant à l'étranger relève de la mission de coordination et d'animation
+assurée par l'ambassadeur, prévue à l'
+article 3 du décret n° 79-433 du 1er juin 1979
+ relatif aux ambassadeurs et à l'organisation des services de l'Etat à l'étranger, dans les pays où ces services sont
+implantés.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 15
+  - Décret n°79-433 du 1 juin 1979 - art. 3
+
+_Modifié par_:
+
+  - Décret n°2011-695 du 20 juin 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R613-1 (V)
 
 
 ###### Article R572-1
@@ -41781,7 +41770,8 @@ _Nouveaux textes_:
 
 ###### Article D432
 
-L'office national a pour objet de veiller en toute circonstance sur les intérêts matériels et moraux de ses ressortissants. 
+I.-L'office national a pour objet de veiller en toute circonstance sur les intérêts matériels et moraux de ses
+ressortissants. 
 
 Il a notamment pour attribution : 
 
@@ -41839,20 +41829,30 @@ Veuves de titulaires de la carte du combattant ou de bénéficiaires du présent
 le patronage et l'aide matérielle qui leur sont dus par la reconnaissance de la nation. 
 
 b) D'exercer l'action sociale nécessaire en faveur des sinistrés, réfugiés et spoliés, tant qu'ils demeurent détenteurs de la
-carte attestant leur qualité.
+carte attestant leur qualité. 
 
-L'office national est chargé de l'instruction des demandes d'emplois réservés des bénéficiaires du 1° de l'article L. 394 qui
-ne sont plus en activité, des 2° à 6° du même article et des articles L. 395 et L. 396.
+II.-L'office national est chargé de l'instruction des demandes d'emplois réservés des bénéficiaires du 1° de l'article L. 394
+qui ne sont plus en activité, des 2° à 6° du même article et des articles L. 395 et L. 396. 
+
+III.-Il peut également se voir confier par convention, pour le compte de l'Etat : 
+
+1° La gestion des prestations de soins gratuits prévues à l'article L. 115 pour les titulaires d'une pension qui résident
+dans les départements et collectivités d'outre-mer, en Algérie, au Maroc ou en Tunisie ; 
+
+2° L'appareillage des mutilés prévu à l'article L. 128 pour les titulaires d'une pension qui résident dans l'un des lieux
+mentionnés au 1° ; 
+
+3° L'organisation des expertises médicales prévues au présent code pour les demandes de pensions formées par des personnes
+résidant en Algérie, au Maroc ou en Tunisie. 
+
+La Caisse nationale militaire de sécurité sociale peut être partie à la convention passée entre le ministre chargé des
+anciens combattants et l'Office.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°91-24 du 4 janvier 1991
-
-_Modifié par_:
-
-  - Décret n°2009-1757 du 30 décembre 2009 - art. 6
 
 _Cité par_:
 
@@ -41863,6 +41863,10 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R579 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. D476 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2011-695 du 20 juin 2011 - art. 2
+
 _Nouveaux textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R513-3 (V)
@@ -41871,6 +41875,8 @@ _Nouveaux textes_:
 
 _Cite_:
 
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L128
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L394
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L395
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L396
