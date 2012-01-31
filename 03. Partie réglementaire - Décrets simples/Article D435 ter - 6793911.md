@@ -1,20 +1,26 @@
 # Article D435 ter
 
-Il est constitué auprès de l'Office national des anciens combattants et victimes de guerre un comité d'honneur.
+Le conseil d'administration peut entendre les membres honoraires de ce conseil, en raison de leurs fonctions ou de leurs
+compétences particulières, en tant que de besoin. 
 
-Les membres du comité d'honneur sont nommés par le ministre chargé des anciens combattants sur proposition de la commission
-permanente. Peuvent être proposés les administrateurs qui, lors de leur départ, ont exercé au moins trois mandats au conseil
-d'administration de l'office.
-
-Le comité d'honneur est présidé par le doyen d'âge. Il est appelé à examiner toutes questions qui lui sont soumises par le
-ministre chargé des anciens combattants.
+Choisis parmi les anciens membres des deuxième et troisième collèges du conseil d'administration et ayant exercé, lors de
+leur départ, au moins trois mandats au sein de ce conseil d'administration, les membres honoraires du conseil sont nommés par
+le ministre chargé des anciens combattants et victimes de guerre, sur proposition de la commission permanente.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°2001-1270 2001-12-21 art. 2 2° JORF 28 décembre 2001
+  - Code des pensions militaires d'invalidité et de... - art. D612-14 (V)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
