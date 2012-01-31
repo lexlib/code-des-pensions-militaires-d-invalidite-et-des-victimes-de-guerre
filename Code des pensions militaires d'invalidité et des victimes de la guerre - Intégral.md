@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2011-12-31
+Version Consolidée au 2012-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -33166,7 +33166,7 @@ _Modifié par_:
 
 ###### Article R575
 
-I.-Sous réserve des dispositions de l'article R. 577, le conseil départemental pour les anciens combattants et victimes de
+I.-Sous réserve des dispositions de l'article R. 577 , le conseil départemental pour les anciens combattants et victimes de
 guerre et la mémoire de la Nation comprend les membres suivants, nommés par arrêté préfectoral : 
 
 1° Premier collège : 
@@ -33179,7 +33179,7 @@ c) Un membre du conseil général ;
 
 d) Le délégué militaire départemental ; 
 
-e) L'inspecteur d'académie ; 
+e) Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 f) Le directeur des archives départementales (1). 
 
@@ -33233,7 +33233,7 @@ en vigueur à compter du 31 mai 2011.
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 16
+  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 _Cite_:
 
@@ -40131,241 +40131,189 @@ _Cite_:
 
 ###### Article D433
 
-L'office national est administré, sous l'autorité du       ministre chargé des anciens combattants et victimes de guerre, par
-un conseil d'administration et par un directeur général.
+L'office national est administré, sous l'autorité du ministre chargé des anciens combattants et victimes de guerre, par un
+conseil d'administration assisté du directeur général de l'office national.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D434
 
-Présidé par le ministre chargé des anciens combattants, le conseil d'administration comprend soixante-dix membres. 
+Présidé par le ministre chargé des anciens combattants et victimes de guerre, le conseil d'administration comprend quarante
+membres : 
 
-Sont nommés pour quatre ans, par le ministre chargé des anciens combattants, dans les conditions ci-après : 
+1° Premier collège : 
 
-1° Premier collège
+Huit membres représentant les assemblées et les administrations dont ils relèvent, pour une durée de quatre ans : 
 
-Seize membres, sur proposition des assemblées, administrations ou organismes dont ils relèvent :
+a) Deux membres désignés par le président de leur assemblée respective : 
 
-- un membre de l'Assemblée nationale ;
+- un membre de l'Assemblée nationale ; 
 
-- un membre du Sénat ;
+- un membre du Sénat ; 
 
-- un membre du   Conseil économique, social et environnemental ;
+b) Six membres représentant l'Etat : 
 
-- un membre du Conseil d'Etat ;
+- le secrétaire général pour l'administration du ministère de la défense ou son représentant ; 
 
-- le secrétaire général de l'ordre de la Légion d'honneur ;
+- le directeur de la mémoire, du patrimoine et des archives du ministère de la défense ou son représentant ; 
 
-- le secrétaire général de l'ordre de la Libération ;
+- le directeur du budget ou son représentant ; 
 
-- un représentant du ministre de la défense ;
+- le secrétaire général du ministère chargé de l'intérieur ou son représentant ; 
 
-- un représentant du ministre chargé du budget ;
+- le directeur général de l'enseignement scolaire ou son représentant ; 
 
-- un représentant du ministre chargé des affaires sociales ;
+- le directeur des Français à l'étranger et de l'administration consulaire ou son représentant ; 
 
-- un représentant du ministre de l'intérieur ;
+2° Deuxième collège : 
 
-- un représentant du ministre de l'éducation nationale ;
+Vingt-quatre membres représentant les anciens combattants et victimes de guerre choisis parmi les catégories de
+ressortissants énumérées au 6° de l'article D. 432 ci-dessus et réparties dans les conditions fixées par un arrêté du
+ministre chargé des anciens combattants et victimes de guerre ; 
 
-- un représentant du ministre des affaires étrangères ;
+3° Troisième collège : 
 
-- un représentant du ministre chargé de la culture ;
+Six membres représentant les fondations et les associations nationales qui œuvrent pour les missions mémorielles et la
+citoyenneté, dont la liste est fixée par arrêté du ministre chargé des anciens combattants et victimes de guerre ; 
 
-- un représentant du ministre chargé de l'outre-mer ;
+4° Les représentants du personnel : 
 
-- un représentant d'une association représentative des maires de France ;
+Deux représentants du personnel de l'office national. 
 
-- un représentant d'une association représentative des présidents de conseil général. 
+Les membres du conseil d'administration appartenant au deuxième collège sont nommés pour quatre ans, par le ministre chargé
+des anciens combattants et victimes de guerre, sur proposition des associations nationales qui regroupent les catégories
+statutaires des ressortissants qu'elles représentent, après avis du directeur général de l'office national. A cet effet,
+elles proposent au ministre chargé des anciens combattants et victimes de guerre une candidature pour chacune des catégories
+de ressortissants énumérées au 6° de l'article D. 432 ci-dessus, qu'elles regroupent. 
 
-2° Deuxième collège
+Les membres du conseil d'administration faisant partie du troisième collège sont nommés pour quatre ans, par le ministre
+chargé des anciens combattants et victimes de guerre, sur proposition des fondations ou associations nationales qui œuvrent
+pour les missions mémorielles et la citoyenneté, après avis du directeur général de l'office national. A cet effet, chacune
+propose une candidature au ministre chargé des anciens combattants et victimes de guerre. 
 
-Quarante membres représentant les anciens combattants et victimes de guerre choisis parmi les catégories de ressortissants
-énumérées à l'article D. 432 (6°) ci-dessus réparties dans les conditions fixées par un arrêté du ministre chargé des anciens
-combattants. 
+Pour la représentation du personnel, il est attribué un siège à chacune des deux organisations syndicales arrivées en tête
+aux élections professionnelles. 
 
-3° Troisième collège
+En cas de décès ou de démission de membres du conseil appartenant aux deuxième et troisième collèges, le ministre chargé des
+anciens combattants et victimes de guerre pourvoit à leur remplacement selon la procédure de nomination définie au présent
+article. Les membres ainsi désignés siègent pour la durée du mandat restant à courir. 
 
-Quatorze membres représentant les associations nationales les plus représentatives qui oeuvrent pour la sauvegarde et le
-développement du lien entre le monde combattant et la nation, et les associations représentant les titulaires de décorations
-dont la liste est fixée par un arrêté du ministre chargé des anciens combattants. 
-
-Les ministres désignent leur représentant au premier collège au moins quinze jours avant la réunion des commissions visées à
-l'article D. 436 bis ci-après. 
-
-Les membres du conseil d'administration relevant du deuxième collège sont nommés sur proposition des associations nationales
-qui regroupent les catégories statutaires des ressortissants qu'elles représentent.A cet effet, elles proposent au ministre
-deux candidatures pour chacune des catégories de ressortissants énumérées à l'article D. 432 (6°) ci-dessus. 
-
-Les membres du conseil d'administration relevant du troisième collège sont nommés sur proposition des organismes,
-institutions ou associations compétents, après avis du directeur général de l'Office national des anciens combattants et
-victimes de guerre.A cet effet, ils proposent au ministre deux candidatures pour chacune des catégories qu'elles
-représentent. 
-
-Lors du décès ou de la démission de membres du conseil, le ministre chargé des anciens combattants peut pourvoir à leur
-remplacement. Pour ce qui est des représentants des anciens combattants et victimes de guerre, il choisit les remplaçants
-parmi les candidats proposés par les associations au titre des deuxième et troisième collèges. Les administrateurs ainsi
-désignés siègent pour la durée du mandat restant à courir. 
-
-Sur proposition du président, et en fonction des questions inscrites à l'ordre du jour, le conseil d'administration peut
-admettre en son sein les représentants des personnels de l'office national à titre d'observateurs, avec voix consultative.
-Ils n'assistent à la séance du conseil que pour la seule partie les concernant. 
-
-Les observateurs sont désignés par le ministre chargé des anciens combattants, sur proposition des organisations
-représentatives des personnels de l'office national.
+5° Des experts sont nommés par le ministre chargé des anciens combattants et victimes de guerre, sur proposition du directeur
+général de l'office national. Au nombre de cinq maximum, dont le représentant de l'Association des professeurs d'histoire et
+de géographie, ils siègent, avec voix consultative et de façon permanente, au sein de la commission mémoire et solidarité et
+en séance plénière du conseil d'administration.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
 
 _Cité par_:
 
   - Arrêté du 17 décembre 2015 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D438 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R575 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. D435 (M)
   - Code des pensions militaires d'invalidité et des v - art. D476 (Ab)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D432
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D436 bis
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-1 (M)
 
 
 ###### Article D435
 
-Présidée par l'un des deux vice-présidents du conseil d'administration, la commission permanente est composée comme suit :
+Présidée par l'un des deux vice-présidents du conseil d'administration, la commission permanente de ce conseil est composée
+comme suit :
 
 - l'autre vice-président du conseil d'administration ;
 
-- les présidents et rapporteurs des commissions ;
+- les présidents et rapporteurs des deux commissions visées à l'article D. 436 bis ;
 
-- les vice-présidents du collège de l'oeuvre nationale du Bleuet de France ;
+- les vice-présidents du collège de l'œuvre nationale du Bleuet de France ;
 
-- le représentant de l'office du Haut Conseil de la mémoire combattante ;
+- deux représentants du ministre de la défense ;
 
-- un représentant du ministre de la défense ;
-
-- un représentant du ministre chargé du budget ;
-
-- un représentant du ministre chargé des affaires sociales.
+- un représentant du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2001-1270 2001-12-21 art. 2 1° JORF 28 décembre 2001
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-
-###### Article D435 bis
-
-La commission permanente délibère sur :
-
-- les questions pour lesquelles délégation lui est donnée par le conseil d'administration, à l'exception du vote du budget et
-de l'approbation du compte financier ;
-
-- l'acceptation des dons et legs, à l'exception des dons et legs grevés de charges, conditions ou affectations immobilières ;
-
-- l'aliénation des biens et valeurs dans la limite des recettes prévues à cette fin au budget.
-
-Elle donne son avis sur les projets de textes réglementaires modifiant l'organisation et le fonctionnement de l'office ; elle
-prépare un projet de règlement qui est arrêté par le conseil d'administration.
-
-La commission permanente examine en outre toutes questions qui lui sont soumises par le ministre chargé des anciens
-combattants ou le directeur général de l'Office national des anciens combattants et victimes de guerre ; à la demande d'au
-moins la moitié de ses membres, elle examine les questions qui lui paraissent utiles, formule ses avis au ministre chargé des
-anciens combattants et peut le saisir de ses propositions.
-
-Le président de la commission permanente rend compte au conseil d'administration lors de sa plus proche séance de toutes les
-questions examinées par la commission.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2001-1270 2001-12-21 art. 2 2° JORF 28 décembre 2001
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
 
 _Abrogé par_:
 
-  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-3 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D436 bis
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
 ###### Article D435 ter
 
-Il est constitué auprès de l'Office national des anciens combattants et victimes de guerre un comité d'honneur.
+Le conseil d'administration peut entendre les membres honoraires de ce conseil, en raison de leurs fonctions ou de leurs
+compétences particulières, en tant que de besoin. 
 
-Les membres du comité d'honneur sont nommés par le ministre chargé des anciens combattants sur proposition de la commission
-permanente. Peuvent être proposés les administrateurs qui, lors de leur départ, ont exercé au moins trois mandats au conseil
-d'administration de l'office.
-
-Le comité d'honneur est présidé par le doyen d'âge. Il est appelé à examiner toutes questions qui lui sont soumises par le
-ministre chargé des anciens combattants.
+Choisis parmi les anciens membres des deuxième et troisième collèges du conseil d'administration et ayant exercé, lors de
+leur départ, au moins trois mandats au sein de ce conseil d'administration, les membres honoraires du conseil sont nommés par
+le ministre chargé des anciens combattants et victimes de guerre, sur proposition de la commission permanente.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°2001-1270 2001-12-21 art. 2 2° JORF 28 décembre 2001
+  - Code des pensions militaires d'invalidité et de... - art. D612-14 (V)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
-
-###### Article D436
-
-Deux commissions spécialisées fonctionnent auprès de l'office national :
-
-- la commission de la carte du combattant ;
-
-- le comité du souvenir et des manifestations nationales (1).
-
-Leur composition est fixée par décret.
-
-**Nota:**
-
-(1) En application des articles 17 et 18 du décret n° 2006-672 du 8 juin 2006, le Comité du souvenir et des manifestations
-nationales a été supprimé.
-
-**Liens relatifs à cet article**
-
 _Modifié par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
-
-_Abrogé par_:
 
   - Décret n°2011-1658 du 29 novembre 2011 - art. 1
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D435 (M)
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D436 bis
 
-Le conseil d'administration élit en son sein deux commissions de dix-huit membres : la commission des affaires générales et
-financières, appelée à étudier les questions concernant le fonctionnement, le budget et les comptes de l'office national ; la
-commission de la mémoire et de la solidarité, appelée à étudier toutes les questions intéressant la solidarité, la
-réinsertion professionnelle, l'hébergement des ressortissants âgés, la participation au droit à réparation et aux actions de
-mémoire.
+Le conseil d'administration élit en son sein deux commissions de dix membres parmi les membres des deuxième et troisième
+collèges : 
 
-Ces commissions peuvent faire appel à des personnes qualifiées en raison de leurs fonctions ou de leurs compétences
-particulières pour étudier et exposer certains problèmes.
+- la commission des affaires générales et financières, appelée à étudier les questions concernant le fonctionnement, le
+budget et les comptes de l'office national ; 
+
+- la commission de la mémoire et de la solidarité, appelée à étudier les questions intéressant la solidarité, la reconversion
+professionnelle, l'hébergement des ressortissants âgés, la participation au droit à réparation et aux actions de mémoire. 
+
+Ces commissions peuvent entendre des personnes qualifiées en raison de leurs fonctions ou de leurs compétences
+particulières. 
 
 Outre la commission des affaires générales et financières et la commission de la mémoire et de la solidarité, le conseil
 d'administration peut constituer en son sein des commissions spécialisées chargées d'assurer la conduite de certains secteurs
@@ -40375,12 +40323,21 @@ d'activités de l'office national.
 
 _Modifié par_:
 
-  - Décret n°2001-1270 du 21 décembre 2001 - art. 3 () JORF 28 décembre 2001
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D434 (V)
   - Code des pensions militaires d'invalidité et de... - art. D435 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D441 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-4 (V)
 
 _Codifié par_:
 
@@ -40433,91 +40390,111 @@ _Cite_:
 Cessent de plein droit de faire partie du conseil d'administration les membres qui ont perdu les qualités au titre desquelles
 ils avaient été désignés. 
 
-Sont considérés comme démissionnaires et peuvent être remplacés par le       ministre chargé des anciens combattants et
-victimes de guerre, les membres du comité qui ont manqué à trois réunions consécutives à moins que leur excuse n'ait été
-reconnue valable par le comité d'administration.
+Sont considérés comme démissionnaires et sont remplacés par le ministre chargé des anciens combattants et victime de guerre,
+selon la procédure de nomination prévue à l'article D. 434 et après avis du conseil d'administration, les membres du conseil
+appartenant aux deuxième et troisième collèges qui ont manqué à trois réunions consécutives.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D434 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-7 (V)
 
 
 ###### Article D439
 
 La fonction d'administrateur est gratuite. Les frais de séjour et de déplacement occasionnés par les séances du conseil et
-des commissions sont pris en charge dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 fixant les conditions
-et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire
-métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à
-caractère administratif et de certains organismes subventionnés.
+des commissions sont pris en charge dans les conditions prévues par la réglementation fixant les conditions et les modalités
+de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-8 (V)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
-_Cite_:
-
-  - Décret n°90-437 1990-05-28
-
 _Modifié par_:
 
-  - Décret n°98-459 du 11 juin 1998 - art. 3 () JORF 13 juin 1998
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ##### Section 4 : Organisation.<a id=436></a>
 
 ###### Article D440
 
-Le conseil d'administration est chargé de définir la politique générale de l'office national.
+Le conseil d'administration est chargé de définir la politique générale de l'office national. 
 
 Il intervient dans toutes les matières où son autorisation est prévue par le décret n° 53-1227 du 10 décembre 1953 relatif à
 la réglementation comptable des établissements publics nationaux à caractère administratif et le décret n° 62-1587 du 29
-décembre 1962 portant réglementation générale sur la comptabilité publique.
+décembre 1962 portant réglementation générale sur la comptabilité publique. 
 
-Il délibère notamment sur :
+Sous réserve des dispositions de l'article D. 442, il délibère notamment sur : 
 
-1° Le budget général de l'office national, comprenant un budget principal et, en application des articles L. 312-1, R. 314-3
-à R. 314-63, R. 314-78 et R. 314-79 du code de l'action sociale et des familles, des budgets annexes ;
+1. Les conditions générales d'organisation et de fonctionnement de l'établissement. 
 
-2° Les décisions modificatives du budget, présentées dans les mêmes formes que le budget primitif ;
+2. Les projets de contrats pluriannuels avec l'Etat. 
 
-3° Le compte financier ;
+3. Les programmes généraux d'activité et d'investissement. 
 
-4° La répartition entre les associations des subventions destinées à l'action sociale ;
+4. Le budget général de l'office national, comprenant un budget principal et, en application des articles L. 312-1, R. 314-3
+à R. 314-63, R. 314-78 et R. 314-79 du code de l'action sociale et des familles, des budgets annexes. 
 
-5° Le placement des capitaux et revenus provenant de libéralités faites à l'office national.
+5. Les décisions modificatives du budget, présentées dans les mêmes formes que le budget primitif. 
+
+6. Le compte financier. 
+
+7. La répartition entre les associations des subventions destinées à l'action sociale. 
+
+8. Le placement des capitaux et revenus provenant de libéralités faites à l'office national. 
+
+9. Les transactions. 
 
 Il statue, en appel, sur les recours formés contre les décisions rendues, à l'échelon départemental, en matière d'aide aux
-ressortissants. Il peut, à cet effet, donner délégation à certains de ses membres.
+ressortissants. Il peut, à cet effet, donner délégation à certains de ses membres. 
 
-D'une manière générale, il peut être appelé à donner son avis sur les affaires qui lui sont renvoyées soit par le ministre,
-soit par le directeur.
+D'une manière générale, il peut être appelé à donner son avis sur les affaires qui lui sont renvoyées soit par le ministre
+chargé des anciens combattants et victimes de guerre, soit par le directeur général de l'office national. 
 
-Sous réserve des dispositions des articles du code de l'action sociale et des familles cités au 1° du présent article, les
+Sous réserve des dispositions des articles du code de l'action sociale et des familles cités au 4 du présent article, les
 délibérations et les décisions du conseil d'administration sont exécutoires si, dans un délai de vingt jours, l'autorité de
 tutelle n'y a pas fait opposition.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
 _Cite_:
 
-  - Décret n°53-1227 1953-12-10
-  - Décret n°62-1587 1962-12-29
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-  - Code de l'action sociale et des familles - art. R314-78 (V)
-  - Code de l'action sociale et des familles - art. R314-79 (V)
-  - Code de l'action sociale et des familles L312-1, R314-3 à R314-63, R314-78, R314-79
+  - Décret n°53-1227 du 10 décembre 1953
+  - Décret n°62-1587 du 29 décembre 1962
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D442
+  - Code de l'action sociale et des familles - art. L312-1
+  - Code de l'action sociale et des familles - art. R314-3
+  - Code de l'action sociale et des familles - art. R314-63
+  - Code de l'action sociale et des familles - art. R314-78
+  - Code de l'action sociale et des familles - art. R314-79
 
 _Modifié par_:
 
-  - Décret n°2005-1216 du 22 septembre 2005 - art. 1 () JORF 29 septembre 2005
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
 
 _Cité par_:
 
@@ -40525,36 +40502,95 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. D436 bis (M)
   - Code des pensions militaires d'invalidité et des v - art. D544 (Ab)
 
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
 
 ###### Article D441
 
-Le conseil d'administration élit en son sein deux vice-présidents qui sont appelés à présider les réunions en cas d'absence
-du président, sur désignation de ce dernier. Le conseil d'administration se réunit deux fois par an. En outre, il se réunit
-en tant que de besoin sur convocation du président.
+Le conseil d'administration élit en son sein deux vice-présidents. 
+
+L'un ou l'autre des deux vice-présidents du conseil d'administration est appelé à présider les réunions en cas d'absence du
+président, sur désignation de ce dernier. Le conseil d'administration se réunit deux fois par an. En outre, il se réunit en
+tant que de besoin sur convocation du président. 
 
 La commission des affaires générales et financières et la commission de la mémoire et de la solidarité se réunissent
 préalablement aux réunions du conseil d'administration. Elles se réunissent également sur convocation du directeur général de
-l'office national.
+l'office national. 
 
 La convocation du conseil d'administration, de la commission permanente et des commissions doit comporter un ordre du jour
-détaillé auquel sont joints toutes pièces et documents concernant les matières y figurant.
+détaillé auquel sont joints toutes pièces et documents concernant les matières y figurant. 
 
-Pour être valables, les délibérations du conseil d'administration doivent être prises à la majorité absolue des membres
-composant le conseil. Si la réunion ne peut se tenir valablement, les membres du conseil sont convoqués par lettre
-recommandée pour une nouvelle réunion dans un délai qui ne peut être inférieur à quinze jours. Les délibérations sont alors
-valables quel que soit le nombre des membres présents.
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente ou
+représentée. Chaque membre du conseil d'administration peut donner mandat à un autre membre pour le représenter. Nul ne peut
+être porteur de plus d'un mandat. 
 
-En cas de partage des voix, la voix du président de séance est prépondérante.
+Si le quorum n'est pas atteint, le conseil d'administration est à nouveau convoqué sur le même ordre du jour dans un délai
+inférieur à quinze jours. Il délibère alors valablement quel que soit le nombre de membres présents et représentés. 
 
-Les procès-verbaux sont signés du président de séance et de l'un au moins des vice-présidents du conseil d'administration.
-Ils font mention des membres présents.
+En cas de partage des voix, la voix du président de séance est prépondérante. 
 
-Le directeur général, le directeur général adjoint, les responsables des services intéressés, l'agent comptable et le membre
-du corps du contrôle général économique et financier de l'office assistent au conseil d'administration, à la commission
-permanente et aux commissions.
+Pour être valables, les délibérations du conseil d'administration doivent être prises à la majorité absolue des suffrages
+exprimés. 
 
-Le secrétariat des séances du conseil d'administration, de la commission permanente et des commissions est assuré par un
-fonctionnaire de l'office désigné par le directeur général.
+Le directeur général, le directeur général adjoint, les responsables des services intéressés, l'agent comptable et le
+contrôleur budgétaire et comptable ministériel ou son représentant assistent au conseil d'administration, à la commission
+permanente et aux commissions prévues à l'article D. 436 bis.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D436 bis (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-2 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R612-4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R612-5 (V)
+
+_Codifié par_:
+
+  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+
+###### Article D442
+
+La commission permanente délibère sur : 
+
+- les questions pour lesquelles délégation lui est donnée par le conseil d'administration, à l'exception du vote du budget et
+de l'approbation du compte financier ; 
+
+- l'acceptation des dons et legs, à l'exception : 
+
+a) des dons et legs grevés de charges, conditions ou affectations immobilières ; 
+
+b) des dons et legs donnant lieu à réclamation des familles ; 
+
+- l'aliénation des biens et valeurs dans la limite des recettes prévues à cette fin au budget. 
+
+Elle donne son avis sur les projets de textes réglementaires modifiant l'organisation et le fonctionnement de l'office
+national. Elle prépare un projet de règlement qui est arrêté par le conseil d'administration. 
+
+La commission permanente examine, en outre, toute question qui lui est soumise par le ministre chargé des anciens combattants
+et victimes de guerre ou le directeur général de l'office national. Elle examine également toute question dont la moitié des
+membres du conseil d'administration demande l'examen, formule ses avis au ministre chargé des anciens combattants et victimes
+de guerre et peut le saisir de ses propositions. 
+
+Le président de la commission permanente rend compte au conseil d'administration lors de sa plus proche séance de toutes les
+questions examinées par la commission. 
+
+La commission permanente donne son avis sur les projets des budgets principal et annexes et le compte financier de l'office
+national et des établissements qui lui sont rattachés.
 
 **Liens relatifs à cet article**
 
@@ -40564,65 +40600,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
 
+_Abrogé par_:
 
-###### Article D442
-
-La commission permanente donne son avis sur les projets des budgets et les comptes financiers de l'office national, des
-offices départementaux et des établissements y rattachés.
-
-Elle accepte ou refuse les dons et legs faits à l'office. Toutefois, lorsqu'ils sont grevés de charges, conditions ou
-affectations immobilières, l'autorisation d'accepter ou de refuser et, lorsqu'ils donnent lieu à des réclamations des
-familles, l'autorisation d'accepter est donnée par décret rendu en Conseil d'Etat.
-
-Elle statue :
-
-Sur les recours formés contre les décisions des offices départementaux ;
-
-Sur l'aliénation des biens et valeurs dans la limite des recettes prévues au budget ;
-
-Sur le placement des sommes provenant de libéralités faites à l'office national ;
-
-Sur les adjudications et marchés à traiter lorsque l'importance de chacun d'eux dépasse 762,25 euros ;
-
-Sur l'acceptation des baux et locations d'immeubles lorsque l'importance annuelle de chacun de ces contrats dépasse 152,45
-euros et que leur durée dépasse neuf ans ;
-
-Sur l'attribution des secours au personnel ;
-
-Sur l'attribution des subventions aux oeuvres sociales instituées à l'intention des agents des services publics ou de leurs
-familles ;
-
-Sur l'attribution des subventions aux offices départementaux et aux établissements y rattachés ;
-
-Sur la fixation du prix de journée d'hébergement et de séjour des ressortissants de l'office national dans les établissements
-privés ;
-
-Sur les demandes de bourses et de secours d'études, subventions ou d'avances formulées par des particuliers pour les
-institutions de toutes sortes, oeuvres, associations, etc., qui prêtent leur concours sous quelque forme que ce soit, pour
-l'amélioration du sort des ressortissants de l'office national ou la sauvegarde de leurs intérêts matériels et moraux ;
-
-Sur l'emploi des revenus et intérêts des valeurs, des capitaux et sommes provenant des dons et legs et des libéralités au
-bénéfice des ressortissants de l'office national et des collectivités.
-
-La commission permanente peut, en outre, être saisie par l'un de ses membres de toutes les questions de principe ayant trait
-au fonctionnement administratif et financier de l'office national, des offices départementaux et des établissements qui
-relèvent de l'office national.
-
-**Nota:**
-
-Deuxième et huitième alinéas maintenus, par dérogation aux dispositions du Décret n° 53-1227 du 10 décembre 1953, article 2.
-
-**Liens relatifs à cet article**
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D440 (Ab)
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
 ##### Section 5 : Fonctionnement.<a id=437></a>
@@ -41678,9 +41664,9 @@ suivantes :
 
 Deux représentants du conseil général désignés par cette assemblée ; 
 
-Le procureur de la République du chef-lieu, ou son substitut ; 
+Le procureur de la République du chef-lieu, ou son substitut ;
 
-L'inspecteur d'académie ; 
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 Deux représentants du corps enseignant public (un) et du corps enseignant privé (un) ; 
 
@@ -41731,10 +41717,10 @@ De même, dans les départements où l'effectif des sinistrés, réfugiés et sp
 justifie la représentation de ces catégories, il peut leur être accordé, par arrêté ministériel, de un à trois sièges selon
 l'importance de cet effectif. Lesdits sièges sont ajoutés, à titre provisoire, aux 20 N sièges visés ci-dessus. 
 
-La valeur numérique du facteur N ci-dessus varie de 1 à 3 et sera fixée par arrêté du       ministre chargé des anciens
-combattants et victimes de guerre, en tenant compte essentiellement de l'importance du département considéré et du chiffre de
-sa population.N est toutefois égal à 4 pour chacun des départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et
-du Val-de-Marne (1), de l'Essonne, des Yvelines et du Val-d'Oise (2) et du Nord. 
+La valeur numérique du facteur N ci-dessus varie de 1 à 3 et sera fixée par arrêté du ministre chargé des anciens combattants
+et victimes de guerre, en tenant compte essentiellement de l'importance du département considéré et du chiffre de sa
+population. N est toutefois égal à 4 pour chacun des départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du
+Val-de-Marne (1), de l'Essonne, des Yvelines et du Val-d'Oise (2) et du Nord. 
 
 Le conseil d'administration est présidé comme il est dit à l'article D. 485.
 
@@ -41743,16 +41729,20 @@ Le conseil d'administration est présidé comme il est dit à l'article D. 485.
 _Cite_:
 
   - Arrêté 1954-12-27
-  - Code des pensions militaires d'invalidité et des victimes de la guerre annexe, D485
   - Décret n°54-1304 du 27 décembre 1954
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D481 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D485 (Ab)
 
 
 ###### Article D478
@@ -49964,8 +49954,8 @@ _Codifié par_:
 
 Un certificat constatant la qualité de pupille de la nation doit être joint à la demande de bourse.
 
-L'inspecteur d'académie doit aviser sans délai le secrétaire général de l'office départemental de toutes les décisions prises
-à l'égard des pupilles de la nation.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie doit aviser sans
+délai le secrétaire général de l'office départemental de toutes les décisions prises à l'égard des pupilles de la nation.
 
 **Liens relatifs à cet article**
 
@@ -49973,9 +49963,9 @@ _Codifié par_:
 
   - Arrêté 1951-04-24 JORF 29 avril 1951
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A206 (V)
+  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article A204
