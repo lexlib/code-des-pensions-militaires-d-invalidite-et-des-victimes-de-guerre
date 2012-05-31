@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2012-02-01
+Version Consolidée au 2012-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -41269,9 +41269,9 @@ _Abrogé par_:
 
 ###### Article D463
 
-Toutes saisies-arrêts ou oppositions sur les sommes dues par l'office, toutes significations de cessions ou de transports
-desdites sommes et toutes autres significations ayant pour objet d'en arrêter le payement doivent être faites entre les mains
-de l'agent comptable.
+Toutes saisies ou oppositions sur les sommes dues par l'office, toutes significations de cessions ou de transports desdites
+sommes et toutes autres significations ayant pour objet d'en arrêter le payement doivent être faites entre les mains de
+l'agent comptable.
 
 Sont considérées comme nulles et non avenues toutes significations ou oppositions faites à d'autres personnes que l'agent
 comptable.
@@ -41281,16 +41281,20 @@ comptable.
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D364 (Ab)
+  - Code des pensions militaires d'invalidité et de... - art. D517 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D517 (V)
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2012-783 du 30 mai 2012 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ##### Paragraphe 3 : Du budget et des crédits.<a id=441></a>
