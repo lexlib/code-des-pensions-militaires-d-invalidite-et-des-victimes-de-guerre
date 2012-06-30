@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -10948,7 +10948,7 @@ _Abrogé par_:
 La retraite prévue à l'article qui précède est attribuée à partir de l'âge de soixante ans à tout titulaire de la carte du
 combattant bénéficiaire du livre IX du Code de la sécurité sociale. 
 
-Son montant est déterminé par l'application de l'indice de pension 44 tel qu'il est défini à l'article L. 8 bis. 
+Son montant est déterminé par l'application de l'indice de pension 48 tel qu'il est défini à l'article L. 8 bis. 
 
 Les anciens combattants ne remplissant pas les conditions prévues au premier alinéa ci-dessus mais qui, antérieurement à la
 date de la promulgation de la loi n° 53-1340 du 31 décembre 1953, étaient titulaires de la retraite du combattant ou avaient
@@ -10961,22 +10961,21 @@ Les titulaires de la carte du combattant au titre des dispositions du paragraphe
 ans, bénéficient de la retraite au taux déterminé par application de l'indice de pension 39. 
 
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux alinéas précédents, bénéficient de la
-retraite au taux déterminé par application de l'indice de pension 44. 
+retraite au taux déterminé par application de l'indice de pension 48. 
 
 Les bénéficiaires d'une pension d'invalidité au titre du présent code, indemnisant une ou plusieurs infirmités imputables à
 des services accomplis au cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de l'ordre hors
 métropole et titulaires de la carte du combattant, ont droit à la retraite du combattant à l'âge de soixante ans.
 
-**Nota:**
-
-Conformément à l'article 149 II de la loi n° 2010-1657 du 29 décembre 2010, les dispositions introduites par le I du même
-article entrent en vigueur à compter du 1er juillet 2011.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 149 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 116 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cité par_:
 
@@ -10986,9 +10985,10 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R245 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R236 (V)
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code des pensions militaires d'invalidité et de... - art. R244 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D321-1 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L321-2 (VD)
 
 
 ###### Article L256 bis
