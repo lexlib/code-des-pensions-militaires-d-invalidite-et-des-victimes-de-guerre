@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2012-12-23
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -444,9 +444,9 @@ Version Consolidée au 2012-12-23
           - [Section 6 : Régime financier. (art. D447 à D471)](#441)
             - [Paragraphe 1 : Dispositions générales. (art. D447 à D457)](#442)
             - [Paragraphe 2 : Des recettes et des dépenses. (art. D458 à D463)](#443)
-            - [Paragraphe 3 : Du budget et des crédits. (art. D464 à D467)](#444)
+            - [Paragraphe 3 : Du budget et des crédits. (art. D465 à D467)](#444)
             - [Paragraphe 4 : Comptes de l'ordonnateur et de l'agent comptable. (art. D468)](#445)
-            - [Paragraphe 5 : Contrôle financier. (art. D469 à D470)](#446)
+            - [Paragraphe 5 : Contrôle financier. (art. D470)](#446)
             - [Paragraphe 6 : Mesures d'application. (art. D471)](#447)
         - [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux. (art. D472 à D525)](#448)
           - [Section 1 : Caractère juridique. (art. D472 à D474)](#449)
@@ -17403,29 +17403,26 @@ _Cite_:
 ###### Article L502
 
 Les dispositions des articles 49, 50 et 51 du décret du 8 août 1935 sont applicables aux actes passés en exécution du présent
-chapitre.
+chapitre. 
 
-En conséquence, lesdits actes sont visés pour timbre et enregistrés gratis et aucun droit n'est perçu pour les formalités à
-effectuer à la conservation des hypothèques.
+En conséquence, lesdits actes sont visés pour timbre et enregistrés gratis et aucun droit n'est perçu         pour les
+formalités de publicité foncière.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 13
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D428 (V)
   - Code des pensions militaires d'invalidité et de... - art. L511 (VT)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L514 (V)
-
-_Cite_:
-
-  - Décret n°1935-08-08 art. 49, art. 50, art. 51
-
-_Codifié par_:
-
-  - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+  - Code des pensions militaires d'invalidité et de... - art. L514 (VT)
 
 
 ###### Article L503
@@ -40705,10 +40702,6 @@ _Abrogé par_:
 
 Le conseil d'administration est chargé de définir la politique générale de l'office national. 
 
-Il intervient dans toutes les matières où son autorisation est prévue par le décret n° 53-1227 du 10 décembre 1953 relatif à
-la réglementation comptable des établissements publics nationaux à caractère administratif et le décret n° 62-1587 du 29
-décembre 1962 portant réglementation générale sur la comptabilité publique. 
-
 Sous réserve des dispositions de l'article D. 442, il délibère notamment sur : 
 
 1. Les conditions générales d'organisation et de fonctionnement de l'établissement. 
@@ -40736,16 +40729,18 @@ ressortissants. Il peut, à cet effet, donner délégation à certains de ses me
 D'une manière générale, il peut être appelé à donner son avis sur les affaires qui lui sont renvoyées soit par le ministre
 chargé des anciens combattants et victimes de guerre, soit par le directeur général de l'office national. 
 
-Sous réserve des dispositions des articles du code de l'action sociale et des familles cités au 4 du présent article, les
-délibérations et les décisions du conseil d'administration sont exécutoires si, dans un délai de vingt jours, l'autorité de
-tutelle n'y a pas fait opposition.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
+
+Sous réserve des dispositions des articles du code de l'action sociale et des familles cités au 4° du présent article et de
+l'alinéa précédent, les délibérations et les décisions du conseil d'administration sont exécutoires si, dans un délai de
+vingt jours, l'autorité de tutelle n'y a pas fait opposition.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°53-1227 du 10 décembre 1953
-  - Décret n°62-1587 du 29 décembre 1962
+  - Décret n°2012-1246 du 7 novembre 2012
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D442
   - Code de l'action sociale et des familles - art. L312-1
   - Code de l'action sociale et des familles - art. R314-3
@@ -40755,13 +40750,22 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2011-1658 du 29 novembre 2011 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
 
 _Cité par_:
 
   - Arrêté du 21 mars 2014 (V)
   - Code des pensions militaires d'invalidité et des v - art. D436 bis (M)
   - Code des pensions militaires d'invalidité et des v - art. D544 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-16 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R612-6 (V)
 
 _Codifié par_:
 
@@ -40890,18 +40894,26 @@ nom, les actes, conventions et marchés pour les affaires relevant de leurs attr
 Le directeur général prépare les projets de transaction et signe pour le compte de l'office national les transactions après
 approbation expresse des autorités de tutelle. 
 
-En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions prévues par le décret n° 53-1227 du 10 décembre
-1953, relatif à la réglementation comptable des établissements publics nationaux à caractère administratif.
+En sa qualité d'ordonnateur, il exerce ses attributions dans les conditions prévues par le décret n° 2012-1246 du 7 novembre
+2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°53-1227 du 10 décembre 1953
+  - Décret n°2012-1246 du 7 novembre 2012
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D450 (Ab)
 
 
 ###### Article D444
@@ -40974,22 +40986,26 @@ _Abrogé par_:
 
 ###### Article D447
 
-Les opérations relatives à la gestion financière de l'office national des anciens combattants et victimes de guerre sont
-effectuées conformément aux règles édictées par le décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation
-comptable des établissements publics nationaux à caractère administratif, rendue applicable à l'office national des anciens
-combattants et victimes de guerre par un arrêté du 6 janvier 1956 du       ministre chargé des anciens combattants et
-victimes de guerre et du ministre de l'économie et des finances.
+L'établissement public est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à
+la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Arrêté 1956-01-06
-  - Décret n°53-1227 du 10 décembre 1953
+  - Décret n°2012-1246 du 7 novembre 2012
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-15 (V)
 
 
 ###### Article D447 bis
@@ -41228,37 +41244,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-
-###### Article D456
-
-L'agent comptable central est nommé et, le cas échéant, remplacé ou révoqué par un arrêté contresigné du       ministre
-chargé des anciens combattants et victimes de guerre et du ministre de l'économie et des finances. 
-
-Il est soumis aux vérifications du payeur-général du Trésor à Paris, de l'inspection générale des finances et il est
-justiciable de la Cour des comptes. 
-
-Avant son installation, il prête serment devant la Cour des comptes et fournit en garantie de sa gestion un cautionnement
-dont le montant est fixé par arrêté du       ministre chargé des anciens combattants et victimes de guerre et du ministre de
-l'économie et des finances. Ce cautionnement peut être réalisé soit en numéraire, soit en rentes sur l'Etat, soit par
-affiliation à une association française de cautionnement mutuel. 
-
-Dans le cas de décès, de démission, de remplacement ou de révocation de l'agent comptable, le       ministre chargé des
-anciens combattants et victimes de guerre, après avis du ministre des finances, nomme un gérant intérimaire qui en remplit
-les fonctions jusqu'au jour de l'installation du nouvel agent comptable. La gestion du gérant intérimaire est entièrement
-distincte de celle de l'ancien et du nouveau titulaire. 
-
-Les fonctions d'administrateur et d'ordonnateur sont incompatibles avec celles de comptable.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
 
 
 ###### Article D457
@@ -41500,26 +41485,6 @@ _Abrogé par_:
 
 ##### Paragraphe 3 : Du budget et des crédits.<a id=444></a>
 
-###### Article D464
-
-Le budget est, pour chaque exercice, préparé par le directeur général qui le présente à la commission permanente et au comité
-d'administration. 
-
-Il est soumis avant le 15 octobre de l'année précédant celle pour laquelle il est établi, au       ministre chargé des
-anciens combattants et victimes de guerre et au ministre de l'économie et des finances qui procèdent à son règlement par voie
-d'arrêté.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
-
-
 ###### Article D465
 
 Un budget supplémentaire est établi chaque année avant le 1er juillet. Ce budget comprend par chapitres et par articles
@@ -41548,25 +41513,6 @@ _Abrogé par_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D519 (Ab)
-
-
-###### Article D466
-
-Les fonds libres de l'office sont versés en compte courant au Trésor, sans intérêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°2006-1116 du 5 septembre 2006 - art. 2 () JORF 7 septembre 2006 en vigueur le 31 août 2007
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
 
 
 ###### Article D467
@@ -41618,26 +41564,6 @@ _Abrogé par_:
 
 
 ##### Paragraphe 5 : Contrôle financier.<a id=446></a>
-
-###### Article D469
-
-L'office national est soumis au contrôle financier de l'Etat dans les conditions définies par arrêté conjoint du ministre de
-la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Modifié par_:
-
-  - Décret n°2005-1216 du 22 septembre 2005 - art. 2 () JORF 29 septembre 2005
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 35
-
 
 ###### Article D470
 
@@ -43370,35 +43296,34 @@ _Codifié par_:
 ###### Article D524
 
 L'inspection générale des finances peut examiner la gestion financière de l'office départemental et se faire représenter,
-pour l'exercice de son contrôle, tous registres et documents intéressant cette gestion.
+pour l'exercice de son contrôle, tous registres et documents intéressant cette gestion. 
 
-L'office départemental de Paris est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25
-octobre 1935 et l'arrêté du 4 décembre 1937.
+L'office départemental de Paris est soumis au contrôle budgétaire de l'Etat dans les conditions prévues par le décret du 25
+octobre 1935 et l'arrêté du 4 décembre 1937. 
 
-Celui-ci est assuré par le membre du corps du contrôle général économique et financier de l'office national.
+Celui-ci est assuré par le        contrôleur budgétaire de l'office national.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 1937-12-04
-  - Décret n°1935-10-25
-
-_Modifié par_:
-
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
+  - Décret n°1935-10-25
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ##### Paragraphe 6 : Mesures d'application.<a id=463></a>
