@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2014-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -3874,38 +3874,49 @@ Toutefois, la pension au taux de réversion des conjoints survivants d'invalides
 au taux prévu au premier alinéa du présent article. 
 
 La pension de conjoint survivant mentionnée aux alinéas précédents est majorée de l'indice de pension 360 lorsque le
-bénéficiaire du droit à pension était, à son décès, titulaire d'une pension dont l'indice était égal ou supérieur à 11 000
+bénéficiaire du droit à pension était, à son décès, titulaire d'une pension dont l'indice était égal ou supérieur à 10 000
 points. 
 
 La pension calculée dans les conditions prévues à l'article L. 51 est majorée de 360 points.
 
 **Nota:**
 
-Loi n° 2011-1977 du 28 décembre 2011 art. 117 II : Les deux derniers alinéas sont applicables aux pensions de conjoint
-survivant et d'orphelin en paiement au 1er janvier 2012, à compter de la demande des intéressés.
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 110 II : Les deux derniers alinéas de cet article sont
+applicables aux pensions de conjoints survivants et d'orphelins en paiement au 1er janvier 2014, à compter de la demande des
+intéressés.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Loi n°78-753 du 17 juillet 1978 - art. 42 (Ab)
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L49 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L51 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L51-1 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L52 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L55 (VT)
-  - Code des pensions militaires d'invalidité et des v - art. L56 (M)
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 100 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L56 (VT)
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 117 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 110
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D141-5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D141-8 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L141-21 (VD)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L8 bis (V)
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L43
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L8 bis
 
 _Codifié par_:
 
@@ -10693,7 +10704,8 @@ périodes à prendre en considération pour les différents théâtres d'opérat
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
 Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa
-est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa.
+est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa, y compris lorsque ces
+services se sont poursuivis au-delà du 2 juillet 1962 dès lors qu'ils n'ont connu aucune interruption.
 
 **Nota:**
 
@@ -10720,7 +10732,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décision n°2010-18 QPC du 23 juillet 2010 - art. 1, v. init.
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 109
 
 
 ###### Article L253 quater

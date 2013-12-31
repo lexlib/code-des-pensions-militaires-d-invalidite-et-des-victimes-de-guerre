@@ -22,7 +22,8 @@ périodes à prendre en considération pour les différents théâtres d'opérat
 un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
 Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa
-est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa.
+est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa, y compris lorsque ces
+services se sont poursuivis au-delà du 2 juillet 1962 dès lors qu'ils n'ont connu aucune interruption.
 
 **Nota:**
 
@@ -49,4 +50,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décision n°2010-18 QPC du 23 juillet 2010 - art. 1, v. init.
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 109
