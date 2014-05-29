@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2014-04-17
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -25219,27 +25219,37 @@ _Nouveaux textes_:
 
 La retraite du combattant est incessible et insaisissable. Elle cesse d'être payée lorsque, en application de l'article R.
 235, la carte du combattant est retirée. A cet effet, le ministre chargé des anciens combattants et des victimes de guerre,
-en même temps qu'il prescrit le retrait de la carte, en avise le comptable supérieur assignataire de la retraite, en vue de
-la suspension du paiement de celle-ci. Les sommes perçues par les intéressés leur sont maintenues. Toutefois, en cas de
-mauvaise foi, le recouvrement de cette somme est opéré après avis de l'office national.
+en même temps qu'il prescrit le retrait de la carte, en avise le directeur départemental ou, le cas échéant, régional des
+finances publiques assignataire de la retraite, en vue de la suspension du paiement de celle-ci. Les sommes perçues par les
+intéressés leur sont maintenues. Toutefois, en cas de mauvaise foi, le recouvrement de cette somme est opéré après avis de
+l'office national.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°51-470 1951-04-24 JORF 27 avril 1951
+  - Décret n°51-470 du 24 avril 1951
 
 _Modifié par_:
 
-  - Décret n°92-1335 du 21 décembre 1992 - art. 3 () JORF 22 décembre 1992
+  - Décret n°2014-551 du 27 mai 2014 - art. 20
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D321-6 (V)
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L256 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R251 (Ab)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. R235 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R235 (Ab)
 
 
 ###### Article R245
@@ -29825,18 +29835,16 @@ _Cite_:
 Pour l'examen des demandes présentées par des combattants volontaires de la Résistance, le comité départemental de prêts
 prévu aux articles 2 à 6 de l'ordonnance n° 45-2255 du 5 octobre 1945 est composé comme suit : 
 
-Le trésorier-payeur général ou son représentant, président ; 
+Le directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant, président ; 
 
 Le directeur de la succursale de la Banque de France ou son représentant ; 
-
-Le directeur départemental des contributions directes ou son représentant ; 
 
 Le directeur du service départemental des anciens combattants et victimes de guerre ou son représentant ; 
 
 Soit le président de la chambre de commerce siégeant au chef-lieu du département ou, à défaut de chambre de commerce au chef-
 lieu, le président d'une chambre de commerce désignée par le préfet ; 
 
-Soit, lorsque le demandeur est un artisan, le président de la       chambre de métiers et de l'artisanat de région  ; 
+Soit, lorsque le demandeur est un artisan, le président de la chambre de métiers et de l'artisanat de région ; 
 
 En cas d'empêchement, le président de la chambre compétente peut se faire représenter par un membre de ladite chambre ; 
 
@@ -29850,10 +29858,10 @@ l'équipement et du logement ou son représentant ;
 A titre consultatif, le président de la banque populaire dont la circonscription comprend la localité où s'exerce l'activité
 du demandeur ou son représentant. 
 
-Dans le département de Paris, le comité départemental est présidé par le receveur central des finances de Paris ou son
-représentant. Les représentants de la Banque de France et l'administration des contributions directes et du crédit populaire
-sont désignés respectivement par le gouverneur de la Banque de France, le directeur général des impôts et l'organe central
-des caisses d'épargne et des banques populaires.
+Dans le département de Paris, le comité départemental est présidé par le directeur régional des finances publiques d'Ile-de-
+France et du département de Paris ou son représentant. Les représentants de la Banque de France, de la direction générale des
+finances publiques et du crédit populaire sont désignés respectivement par le gouverneur de la Banque de France, le directeur
+général des finances publiques et l'organe central des caisses d'épargne et des banques populaires.
 
 **Nota:**
 
@@ -29863,7 +29871,11 @@ des caisses d'épargne et des banques populaires.
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2014-551 du 27 mai 2014 - art. 20
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Anciens textes_:
 
@@ -29877,15 +29889,13 @@ Le comité départemental des prêts prévu à l'article 3 de l'ordonnance du 17
 
 Le directeur départemental des services agricoles ou son représentant, président ; 
 
-Le trésorier-payeur général ou son représentant, vice-président ; 
+Le directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant, vice-président ; 
 
 Le président de chacune des caisses régionales de crédit agricole mutuel du département ou son représentant ; 
 
 Le directeur du service départemental des anciens combattants et victimes de guerre ou son représentant ; 
 
 L'ingénieur en chef ou l'ingénieur du génie rural de la circonscription ou son représentant ; 
-
-Le directeur départemental des contributions directes ou son représentant ; 
 
 Un représentant de la fédération départementale des syndicats d'exploitants agricoles désigné par le préfet ; 
 
@@ -29895,8 +29905,8 @@ novembre 1944 ;
 Un combattant volontaire de la Résistance désigné par le conseil départemental pour les anciens combattants et victimes de
 guerre et la mémoire de la Nation ; 
 
-Si la demande de prêt est déposée par un artisan rural, le président de la       chambre de métiers et de l'artisanat de
-région  ou son représentant ; 
+Si la demande de prêt est déposée par un artisan rural, le président de la chambre de métiers et de l'artisanat de région ou
+son représentant ; 
 
 Si la demande de prêt est présentée par un agriculteur sinistré, le délégué départemental du ministère de la construction et
 de l'urbanisme ou son représentant ; 
@@ -29908,13 +29918,16 @@ directeur départemental de la population ou son représentant.
 
 _Cite_:
 
-  - Arrêté 1944-11-20
-  - Ordonnance 1944-10-17 art. 3
   - Ordonnance n°45-2468 du 20 octobre 1945
+  - Ordonnance 1944-10-17 art. 3
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2014-551 du 27 mai 2014 - art. 20
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Anciens textes_:
 
@@ -34476,59 +34489,75 @@ _Abrogé par_:
 ###### Article D42
 
 Les bons de payement de ce titre sont à échéances trimestrielles, en sorte que le premier est perçu trois mois après le point
-de départ de l'allocation provisoire d'attente.
+de départ de l'allocation provisoire d'attente. 
 
 Les titres de payement d'un modèle analogue au modèle P sont remis par les intéressés au délégué interdépartemental ou
 renvoyés au chef du service de la solde du port chef-lieu d'immatriculation ou du port d'attache en échange de leur titre de
 pension définitif dans les conditions qui sont provisoirement fixées par l'instruction du 24 février 1920 modifiée par celle
-du 27 janvier 1923.
+du 27 janvier 1923. 
 
-Le directeur interdépartemental ou le chef du service de la solde adresse, le jour même, au trésorier-payeur général auprès
-duquel lui-même ou son service est accrédité des avis d'émission des titres de payement délivrés par lui.
+Le directeur interdépartemental ou le chef du service de la solde adresse, le jour même, au   directeur départemental ou, le
+cas échéant, régional des finances publiques auprès duquel lui-même ou son service est accrédité des avis d'émission des
+titres de payement délivrés par lui.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D43 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D43 (Ab)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
-
-_Cite_:
-
-  - Instruction 1920-02-24
-  - Instruction 1923-01-27
 
 
 ###### Article D43
 
-Le payement des bons est effectué aux bénéficiaires eux-mêmes par le percepteur de la réunion dont fait partie la commune,
-soit de leur domicile, soit de leur résidence, sur présentation de leur titre et des bons adhérant à ce titre. Ces bons de
-payement dûment acquittés sont détachés du titre par le percepteur et conservés par lui.
+Le payement des bons est effectué aux bénéficiaires eux-mêmes par le comptable public compétent de la réunion dont fait
+partie la commune, soit de leur domicile, soit de leur résidence, sur présentation de leur titre et des bons adhérant à ce
+titre. Ces bons de payement dûment acquittés sont détachés du titre par le comptable public compétent et conservés par lui. 
 
 Si un bénéficiaire est dans l'impossibilité constatée de se rendre au lieu désigné pour le payement, ce dernier est effectué
 dans les conditions indiquées ci-dessus, entre les mains de la personne désignée par l'ayant droit et munie d'une procuration
-modèle C annexée à l'instruction du 18 juin 1919.
+modèle C annexée à l'instruction du 18 juin 1919. 
 
-Les payements sont effectués pour le compte du trésorier-payeur général visé à l'article D. 42.
+Les payements sont effectués pour le compte du directeur départemental ou, le cas échéant, régional des finances publiques
+visé à l'article D. 42. 
 
-Les bons de payement ne peuvent être perçus six mois après leur échéance.
+Les bons de payement ne peuvent être perçus six mois après leur échéance. 
 
 Tous les bons, après payement, donnent lieu mensuellement à remboursement par voie d'ordonnancement définitif au nom du
-trésorier-payeur général pour le compte duquel ils ont été payés.
+directeur départemental ou, le cas échéant, régional des finances publiques pour le compte duquel ils ont été payés.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D42 (V)
-  - Instruction 1919-06-18
+  - Code des pensions militaires d'invalidité et de... - art. D42 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D49 (Ab)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D44
@@ -34645,19 +34674,20 @@ _Abrogé par_:
 
 ###### Article D48
 
-Il n'est pas établi de demande spéciale pour obtenir l'allocation provisoire d'attente.
+Il n'est pas établi de demande spéciale pour obtenir l'allocation provisoire d'attente. 
 
 L'autorité compétente pour recevoir la demande de pension, dès qu'elle est en possession d'une demande de pension accompagnée
 des pièces justificatives et que le bien-fondé en a été reconnu, établit un titre de payement, modèle P, en faveur des
-requérants.
+requérants. 
 
 Le premier bon de payement du titre modèle P correspond à la période comprise entre le point de départ de l'allocation
 provisoire d'attente et le dernier jour de la quinzaine pendant laquelle le titre est établi ; il est payable à partir du
-premier jour de la quinzaine suivante. Les autres bons sont à échéance trimestrielle.
+premier jour de la quinzaine suivante. Les autres bons sont à échéance trimestrielle. 
 
 L'autorité compétente visée au deuxième alinéa fait parvenir sans délai aux intéressés les titres de payement ainsi établis
-et adresse, le jour même de l'envoi, un avis d'émission au trésorier-payeur général auprès duquel lui-même, le service de
-l'intendance maritime ou le directeur de l'établissement est accrédité.
+et adresse, le jour même de l'envoi, un avis d'émission au   directeur départemental ou, le cas échéant, régional des
+finances publiques auprès duquel lui-même, le service de l'intendance maritime ou le directeur de l'établissement est
+accrédité. 
 
 Lorsque tous les bons d'un titre de payement modèle P ont été perçus, l'autorité compétente délivre, si cela est nécessaire,
 un titre de même nature contre remise, par le bénéficiaire, du titre précédent.
@@ -34667,6 +34697,14 @@ un titre de même nature contre remise, par le bénéficiaire, du titre précéd
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D49
@@ -34738,20 +34776,28 @@ _Abrogé par_:
 ###### Article D52
 
 En cas de décision rejetant une demande de pension, les bons du titre de payement modèle P non encaissés cessent d'être
-payables.
+payables. 
 
 Lorsque la pension est accordée, peuvent seuls être perçus le bon correspondant au trimestre en cours lors de la réception
 par le directeur interdépartemental ou le chef du service de la solde du titre définitif de pension et les bons échus
-antérieurement.
+antérieurement. 
 
-Ce fonctionnaire ou cet officier doit faire immédiatement opposition, auprès du trésorier-payeur général, au payement des
-bons non payables et aviser les intéressés.
+Ce fonctionnaire ou cet officier doit faire immédiatement opposition, auprès du   directeur départemental ou, le cas échéant,
+régional des finances publiques, au payement des bons non payables et aviser les intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ### Titre VII : Soins, traitement et rééducation.<a id=366></a>
@@ -38794,11 +38840,23 @@ _Abrogé par_:
 
 ###### Article D369
 
-Dans les départements où l'office n'est pas pourvu d'un agent comptable spécial, les receveurs particuliers des finances et
-les percepteurs des contributions directes, participent sous la direction et la responsabilité du trésorier-payeur général,
-aux opérations concernant le service des deniers des pupilles.
+Dans les départements où l'office n'est pas pourvu d'un agent comptable spécial, le comptable compétent de la direction
+générale des finances publiques participe,  sous la direction et la responsabilité du directeur départemental ou, le cas
+échéant, régional des finances publiques, aux opérations concernant le service des deniers des pupilles.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D370 (Ab)
 
 _Codifié par_:
 
@@ -41765,22 +41823,30 @@ Les dépenses et les recettes des services départementaux sont exécutées par 
 l'agent comptable central. 
 
 Toutefois, certaines opérations de recettes et de dépenses dont la liste est fixée par arrêté du ministre des finances et des
-affaires économiques et du       ministre chargé des anciens combattants et victimes de guerre peuvent être exécutées par le
-préfet qui a qualité d'ordonnateur secondaire et par un comptable subordonné à l'agent comptable central. Le préfet peut
-déléguer ces fonctions au chef du service départemental. 
+affaires économiques et du ministre chargé des anciens combattants et victimes de guerre peuvent être exécutées par le préfet
+qui a qualité d'ordonnateur secondaire et par un comptable subordonné à l'agent comptable central. Le préfet peut déléguer
+ces fonctions au chef du service départemental. 
 
 En outre, dans les services départementaux où il n'est pas institué de comptables subordonnés, le chef du service peut être
 chargé, en qualité de régisseur, d'exécuter certaines opérations de recettes et de dépenses dont la liste est fixée par
-arrêté du ministre de l'économie et des finances et du       ministre chargé des anciens combattants et victimes de guerre. 
+arrêté du ministre de l'économie et des finances et du ministre chargé des anciens combattants et victimes de guerre. 
 
-Les comptables subordonnés visés au deuxième alinéa ci-dessus sont choisis parmi les fonctionnaires du Trésor en fonction
-dans le département. Ce choix doit être ratifié par le directeur de l'office national.
+Les comptables subordonnés visés au deuxième alinéa ci-dessus sont choisis parmi les fonctionnaires de la direction générale
+des finances publiques  en fonction dans le département. Ce choix doit être ratifié par le directeur de l'office national.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R613-3 (V)
 
 
 ###### Article D472-3
@@ -42878,10 +42944,12 @@ _Codifié par_:
 
 Les fonctions d'agent comptable sont remplies : 
 
-Soit par un comptable du Trésor, désigné par le président en accord avec le trésorier général ou le trésorier-payeur du
-territoire considéré, lorsqu'il s'agit d'un office d'outre-mer ou d'un comité local ; 
+Soit par un comptable de la direction générale des finances publiques, désigné par le président en accord avec le directeur
+chargé de la direction locale des finances publiques du territoire considéré, lorsqu'il s'agit d'un office d'outre-mer ou
+d'un comité local  ; 
 
-Soit par le trésorier-payeur général, lorsqu'il s'agit d'un office départemental et, à Paris, par un agent comptable spécial.
+Soit par le directeur départemental ou, le cas échéant, régional des finances publiques, lorsqu'il s'agit d'un office
+départemental et, à Paris, par un agent comptable spécial.
 
 A titre exceptionnel, lorsque les opérations d'un office départemental ont une importance particulière, il peut également,
 après avis de cet office et sur proposition du comité d'administration de l'office national, être procédé à la nomination
@@ -42903,24 +42971,28 @@ Les fonctions d'administrateur et d'ordonnateur sont incompatibles avec celles d
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D509
 
 L'agent comptable spécial de l'office départemental et l'agent comptable de l'office d'outre-mer ou des comités locaux sont
 justiciables de la Cour des comptes et soumis, suivant le cas, aux vérifications de l'inspection générale des finances ou de
-l'inspection du ministère chargé de la France d'outre-mer, ainsi que du trésorier-payeur général dans les départements et du
-payeur général du Trésor à Paris. 
+l'inspection du ministère chargé de la France d'outre-mer, ainsi que du directeur des finances publiques territorialement
+compétent. 
 
 Avant son installation, l'agent comptable de l'office départemental prête serment devant le préfet du département et fournit,
-en garantie de sa gestion, un cautionnement dont le montant est fixé par arrêté conjoint du       ministre chargé des anciens
+en garantie de sa gestion, un cautionnement dont le montant est fixé par arrêté conjoint du ministre chargé des anciens
 combattants et victimes de guerre et du ministre des finances. Ce cautionnement peut être réalisé, soit en numéraire, soit en
 rentes sur l'Etat, soit par affiliation à une association française de cautionnement mutuel. 
 
-Quand les fonctions d'agent comptable sont confiées à un comptable du Trésor en exercice, ce dernier n'est pas astreint à une
-nouvelle prestation de serment et le cautionnement qu'il a fourni au Trésor est affecté solidairement à la garantie de sa
-gestion comme comptable de l'office. 
+Quand les fonctions d'agent comptable sont confiées à un comptable de la direction générale des finances publiques en
+exercice, ce dernier n'est pas astreint à une nouvelle prestation de serment et le cautionnement qu'il a fourni au Trésor est
+affecté solidairement à la garantie de sa gestion comme comptable de l'office. 
 
 Les dispositions de l'article D. 457 sont applicables à l'agent comptable de l'office départemental.
 
@@ -42928,23 +43000,27 @@ Les dispositions de l'article D. 457 sont applicables à l'agent comptable de l'
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. D457 (Ab)
 
 **Liens**:
 
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D457 (Ab)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D457
-
 
 ###### Article D510
 
-Dans les départements, les dépenses occasionnées par l'application du présent chapitre aux trésoriers-payeurs généraux et aux
-comptables subordonnés agissant pour le compte de leurs chefs de service leur sont remboursées dans les conditions qui sont
-déterminées par un décret contresigné par le ministre de l'économie et des finances, après avis du       ministre chargé des
-anciens combattants et victimes de guerre. 
+Dans les départements, les dépenses occasionnées par l'application du présent chapitre aux   directeurs départementaux ou, le
+cas échéant, régionaux des finances publiques  et aux comptables subordonnés agissant pour le compte de leurs chefs de
+service leur sont remboursées dans les conditions qui sont déterminées par un décret contresigné par le ministre de
+l'économie et des finances, après avis du ministre chargé des anciens combattants et victimes de guerre. 
 
 La rémunération qu'il peut être reconnu nécessaire de leur allouer est fixée dans les mêmes formes.
 
@@ -42952,7 +43028,11 @@ La rémunération qu'il peut être reconnu nécessaire de leur allouer est fixé
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D511
@@ -43388,29 +43468,33 @@ _Cité par_:
 
 ###### Article D523
 
-Le comptable du Trésor chargé des fonctions d'agent comptable de l'office départemental établit un compte spécial des
-opérations qu'il effectue en cette qualité.
+Le  comptable de la direction générale des finances publiques chargé des fonctions d'agent comptable de l'office
+départemental établit un compte spécial des opérations qu'il effectue en cette qualité. 
 
 Le compte de gestion de ce comptable ou de l'agent comptable spécial est remis à l'office avant l'établissement du compte
-administratif.
+administratif. 
 
-Le comptable tient ses pièces de comptabilité à la disposition de l'office sans toutefois s'en dessaisir.
+Le comptable tient ses pièces de comptabilité à la disposition de l'office sans toutefois s'en dessaisir. 
 
 Le conseil d'administration prend une délibération spéciale sur le résultat du compte de gestion.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. D545 (M)
-
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Modifié par_:
+
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et des v - art. D545 (Ab)
 
 
 ##### Paragraphe 5 : Contrôle financier.<a id=462></a>
@@ -43453,11 +43537,11 @@ _Abrogé par_:
 ###### Article D525
 
 La forme du budget et des comptes, la tenue des livres et des écritures ainsi que la nomenclature des pièces justificatives
-de recettes et de dépenses sont déterminées, suivant le cas, par arrêté pris de concert par le       ministre chargé des
-anciens combattants et victimes de guerre et le ministre de l'économie et des finances ou par arrêté du gouverneur général ou
-du chef du territoire pris après avis du trésorier général ou du trésorier-payeur du territoire. 
+de recettes et de dépenses sont déterminées, suivant le cas, par arrêté pris de concert par le ministre chargé des anciens
+combattants et victimes de guerre et le ministre chargé du budget ou par arrêté du gouverneur général ou du chef du
+territoire pris après avis du directeur chargé de la direction locale des finances publiques du territoire. 
 
-Un arrêté du       ministre chargé des anciens combattants et victimes de guerre règle la tenue de la comptabilité matière de
+Un arrêté du ministre chargé des anciens combattants et victimes de guerre règle la tenue de la comptabilité matière de
 l'office départemental. 
 
 Ces arrêtés font l'objet, en ce qui concerne les offices départementaux, des articles A. 250 à A. 263.
@@ -43466,24 +43550,15 @@ Ces arrêtés font l'objet, en ce qui concerne les offices départementaux, des 
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 17
+  - Décret n°2014-552 du 27 mai 2014 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A250
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A251
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A252
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A253
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A254
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A255
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A256
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A257
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A258
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A259
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A260
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A261
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A262
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. A263
 
 
 #### Chapitre III : Etablissements sociaux et médico-sociaux relevant de l'Office national des anciens combattants.<a id=464></a>
