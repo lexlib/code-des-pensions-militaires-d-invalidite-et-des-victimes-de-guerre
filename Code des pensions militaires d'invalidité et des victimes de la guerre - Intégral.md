@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2014-10-16
+Version Consolidée au 2014-12-25
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -15755,7 +15755,8 @@ _Cité par_:
 ###### Article L401
 
 Le ministre chargé de la défense inscrit par ordre alphabétique sur une ou plusieurs listes d'aptitude, pour une durée
-limitée, les candidats aux corps ou cadres d'emplois des fonctions publiques de l'Etat, territoriale et hospitalière.
+limitée, les candidats aux corps ou cadres d'emplois des fonctions publiques de l'Etat, territoriale et hospitalière. Les
+personnes mentionnées aux articles L. 394 à L. 396 bénéficient d'une durée d'inscription spécifique sur ces listes. 
 
 L'inscription du candidat sur la ou les listes d'aptitude est subordonnée à la reconnaissance de ses qualifications et acquis
 de l'expérience professionnelle qui s'effectue :
@@ -15766,12 +15767,13 @@ examiné par le service désigné par le ministre chargé des anciens combattant
 
 - pour les militaires en position d'activité et ceux qui relèvent du 2° de l'article L. 397 et de l'article L. 398, à partir
 du projet professionnel élaboré par le candidat dans le cadre du parcours de reconversion en application du troisième alinéa
-de l'article L. 4111-1 et de l'article L. 4139-5 du code de la défense.
+de l'article L. 4111-1 et de l'article L. 4139-5 du code de la défense. 
 
 L'inscription sur une liste régionale ou nationale s'effectue à la demande du candidat, sous réserve des contraintes
 statutaires. 
 
-Un décret en Conseil d'Etat fixe les conditions d'aptitude physique, la durée et les modalités d'inscription sur ces listes.
+Un décret en Conseil d'Etat fixe les conditions d'aptitude physique, les durées et les modalités d'inscription sur ces
+listes.
 
 **Liens relatifs à cet article**
 
@@ -15792,13 +15794,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-972 du 3 août 2009 - art. 32
+  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 6
 
 _Cite_:
 
   - Code de la défense. - art. L4111-1
   - Code de la défense. - art. L4139-5
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L394
+  - Code des pensions militaires d'invalidité et de... - art. L394 (V)
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L395
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L397
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L398
@@ -15855,26 +15857,31 @@ _Nouveaux textes_:
 Lors des recrutements dans la fonction publique territoriale, l'autorité territoriale compétente examine les listes établies
 au titre de l'article L. 401 dans l'ordre de priorité défini à l'article L. 393, préalablement à la nomination d'un candidat
 inscrit sur une liste d'aptitude établie à l'issue des concours, conformément à l'article 41 de la loi n° 84-53 du 26 janvier
-1984 précitée.L'inscription des candidats sur les listes établies au titre de l'article L. 401 a, pour l'autorité
+1984 précitée. L'inscription des candidats sur les listes établies au titre de l'article L. 401 a, pour l'autorité
 territoriale et les candidats, les mêmes effets que l'inscription sur une liste d'aptitude à un cadre d'emplois établie par
-la fonction publique territoriale.
-
-**Nota:**
-
-Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
-d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+la fonction publique territoriale sauf pour les personnes mentionnées aux articles L. 394 à L. 396 qui bénéficient d'une
+durée d'inscription spécifique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°84-53 du 26 janvier 1984 - art. 41
-  - Code des pensions militaires d'invalidité et de... - art. L393 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L401 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L393 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L394 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
 
 _Modifié par_:
 
-  - Loi n°2008-492 du 26 mai 2008 - art. 1
+  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 7
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L242-4 (VD)
 
 _Cité par_:
 
