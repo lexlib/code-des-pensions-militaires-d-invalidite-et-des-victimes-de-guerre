@@ -9,8 +9,10 @@ Les militaires des armées françaises,
 
 Les membres des forces supplétives françaises,
 
-Les personnes civiles possédant la nationalité française à la date de la présentation de leur demande qui ont pris part à des
-actions de feu ou de combat au cours de ces opérations.
+Les personnes civiles qui, en vertu des décisions des autorités françaises, ont participé aux opérations au sein d'unités
+françaises, 
+
+qui ont pris part à des actions de feu ou de combat au cours de ces opérations. 
 
 Une commission d'experts, comportant notamment des représentants des intéressés, est chargée de déterminer les modalités
 selon lesquelles la qualité de combattant peut, en outre, être reconnue, par dérogation aux principes visés à l'alinéa
@@ -24,13 +26,6 @@ un arrêté interministériel énumérera les catégories de formations constitu
 Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa
 est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa, y compris lorsque ces
 services se sont poursuivis au-delà du 2 juillet 1962 dès lors qu'ils n'ont connu aucune interruption.
-
-**Nota:**
-
-Dans sa décision n° 2010-18 QPC du 23 juillet 2010 (NOR : CSCX1019873S), le Conseil constitutionnel a déclaré que, dans le
-troisième alinéa de l'article L. 253 bis du code des pensions militaires d'invalidité et des victimes de la guerre, les mots
-"possédant la nationalité française à la date de la présentation de leur demande ou domiciliés en France à la même date" sont
-contraires à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -51,7 +46,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 109
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 87
 
 _Nouveaux textes_:
 
