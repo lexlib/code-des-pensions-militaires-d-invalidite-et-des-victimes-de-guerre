@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2014-12-25
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -338,9 +338,9 @@ Version Consolidée au 2014-12-25
         - [Section 2 : Dispositions concernant les personnes civiles. (art. R569-2 à R569-4)](#335)
       - [Chapitre IV : Voyages sur les tombes ou sur les lieux du crime. (art. R570 à R571)](#336)
     - [Livre V : Institutions. (art. R572 à R580)](#337)
-      - [Chapitre Ier : Office national des anciens combattants (art. R572 à R572-2)](#338)
+      - [Chapitre Ier : Office national des anciens combattants (art. R572 à R572-3)](#338)
         - [Section 1 : Dispositions générales. (art. R572 à R572-1)](#339)
-        - [Section 2 : Attributions du directeur général de l'Office national des anciens combattants et victimes de guerre en matière de droits et avantages accessoires. (art. R572-2)](#340)
+        - [Section 2 : Attributions du directeur général de l'Office national des anciens combattants et victimes de guerre en matière de droits et avantages accessoires. (art. R572-2 à R572-3)](#340)
       - [Chapitre II : Conseils pour les anciens combattants et victimes de guerre et la mémoire de la Nation. (art. R573 à R580)](#341)
         - [Section 1 : Conseils départementaux pour les anciens combattants et victimes de guerre et la mémoire de la Nation (art. R573 à R577)](#342)
         - [Section 2 : Conseils pour les anciens combattants et victimes de guerre et la mémoire de la Nation en Nouvelle-Calédonie et en Polynésie française (art. R578 à R580)](#343)
@@ -437,7 +437,7 @@ Version Consolidée au 2014-12-25
       - [Titre Ier : Offices des anciens combattants et victimes de guerre. (art. D431 à D544)](#434)
         - [Chapitre Ier : Office national. (art. D431 à D471)](#435)
           - [Section 1 : Caractère juridique. (art. D431)](#436)
-          - [Section 2 : Attributions. (art. D432)](#437)
+          - [Section 2 : Attributions. (art. D432 à D432-1)](#437)
           - [Section 3 : Composition. (art. D433 à D439)](#438)
           - [Section 4 : Organisation. (art. D440 à D442)](#439)
           - [Section 5 : Fonctionnement. (art. D443 à D446)](#440)
@@ -4034,18 +4034,20 @@ _Codifié par_:
 ###### Article L52-2
 
 Une majoration spéciale est attribuée, pour les soins donnés par eux à leur conjoint décédé, aux conjoints survivants des
-grands invalides relevant de l'article L. 18 du code et bénéficiaires de l'allocation spéciale n° 5 bis / b lorsqu'ils sont
-titulaires d'une pension s'ils sont âgés de plus de soixante ans et s'ils justifient d'une durée de mariage et de soins
-donnés d'une manière constante pendant au moins quinze années. 
+grands invalides relevant de l'article L. 18 du code et bénéficiaires de l'allocation spéciale n° 5 bis /b lorsqu'ils sont
+titulaires d'une pension et qu'ils justifient d'une durée de mariage et de soins donnés d'une manière constante pendant au
+moins dix années. 
 
-Le taux de cette majoration est fixé à l'indice de pension 400. 
+Le taux de cette majoration est fixé à l'indice de pension 450 à partir du 1er janvier 2015 et 500 à partir du 1er janvier
+2016. 
 
 Une majoration spéciale est attribuée, pour les soins donnés par eux à leur conjoint décédé, aux conjoints survivants des
 grands invalides relevant de l'article L. 18 et bénéficiaires de l'allocation spéciale n° 5 bis, a, lorsqu'ils sont
-titulaires d'une pension, s'ils sont âgés de plus de soixante ans et s'ils justifient d'une durée de mariage et de soins
-donnés d'une manière constante pendant au moins quinze années. 
+titulaires d'une pension, et qu'ils justifient d'une durée de mariage et de soins donnés d'une manière constante pendant au
+moins dix années. 
 
-Le taux de cette majoration est fixé à l'indice de pension 310.
+Le taux de cette majoration est fixé à l'indice de pension 360 à partir du 1er janvier 2015 et 410 à partir du 1er janvier
+2016.
 
 **Liens relatifs à cet article**
 
@@ -4061,7 +4063,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 115
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 85
 
 _Cite_:
 
@@ -10640,8 +10642,10 @@ Les militaires des armées françaises,
 
 Les membres des forces supplétives françaises,
 
-Les personnes civiles possédant la nationalité française à la date de la présentation de leur demande qui ont pris part à des
-actions de feu ou de combat au cours de ces opérations.
+Les personnes civiles qui, en vertu des décisions des autorités françaises, ont participé aux opérations au sein d'unités
+françaises, 
+
+qui ont pris part à des actions de feu ou de combat au cours de ces opérations. 
 
 Une commission d'experts, comportant notamment des représentants des intéressés, est chargée de déterminer les modalités
 selon lesquelles la qualité de combattant peut, en outre, être reconnue, par dérogation aux principes visés à l'alinéa
@@ -10655,13 +10659,6 @@ un arrêté interministériel énumérera les catégories de formations constitu
 Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa
 est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa, y compris lorsque ces
 services se sont poursuivis au-delà du 2 juillet 1962 dès lors qu'ils n'ont connu aucune interruption.
-
-**Nota:**
-
-Dans sa décision n° 2010-18 QPC du 23 juillet 2010 (NOR : CSCX1019873S), le Conseil constitutionnel a déclaré que, dans le
-troisième alinéa de l'article L. 253 bis du code des pensions militaires d'invalidité et des victimes de la guerre, les mots
-"possédant la nationalité française à la date de la présentation de leur demande ou domiciliés en France à la même date" sont
-contraires à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -10681,7 +10678,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 109
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 87
 
 
 ###### Article L253 quater
@@ -10784,13 +10781,12 @@ _Cite_:
 ###### Article L253 ter
 
 Ont également vocation à l'attribution de la carte du combattant, dans les conditions prévues à l'article L. 253 bis, les
-militaires des forces armées françaises ainsi que les personnes civiles possédant la nationalité française à la date de
-présentation de leur demande qui, en vertu des décisions des autorités françaises, ont participé au sein d'unités françaises
-ou alliées ou de forces internationales soit à des conflits armés, soit à des opérations ou missions menées conformément aux
-obligations et engagements internationaux de la France.
+militaires des forces armées françaises ainsi que les personnes civiles qui, en vertu des décisions des autorités françaises,
+ont participé au sein d'unités françaises ou alliées ou de forces internationales soit à des conflits armés, soit à des
+opérations ou missions menées conformément aux obligations et engagements internationaux de la France. 
 
 Un arrêté conjoint des ministres concernés fixe notamment les bonifications et les périodes à prendre en considération pour
-chacun de ces conflits, opérations ou missions.
+chacun de ces conflits, opérations ou missions. 
 
 Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -10799,10 +10795,6 @@ Les conditions d'application du présent article sont déterminées par décret 
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
-
-_Créé par_:
-
-  - Loi n°93-7 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -10821,9 +10813,13 @@ _Cité par_:
   - TXT_ASSOCIE: Arrêté du 12 janvier 1994 - art. ANNEXE (V)
   - TXT_SOURCE: Arrêté du 3 décembre 1997
 
+_Modifié par_:
+
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 87
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L253 bis (M)
+  - Code des pensions militaires d'invalidité et de... - art. L253 bis (V)
 
 _Nouveaux textes_:
 
@@ -33188,8 +33184,9 @@ c) A la prise en charge des frais de voyage sur les tombes ou les lieux de crime
 
 3° Les actes de décès ou de disparition liés à la déportation ; 
 
-4° La mise en œuvre de l'entretien, de la garde et de la rénovation des cimetières nationaux et des carrés spéciaux des
-cimetières communaux désignés à l'article L. 505 du présent code ; 
+4° La mise en œuvre de l'entretien, de la garde et de la rénovation des cimetières nationaux, des carrés spéciaux des
+cimetières communaux désignés à l'article L. 505 du présent code et des hauts lieux de la mémoire nationale du ministère de
+la défense relevant d'un arrêté du ministre de la défense ; 
 
 5° Les décisions de transfert et de restitution de corps en coordination avec la politique gouvernementale en matière de
 sépultures de guerre ; 
@@ -33205,17 +33202,76 @@ personnels de direction de cet office dans les matières visées au présent art
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 15
+  - Loi  n°85-528 du 15 mai 1985
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L488
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L492 bis
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L505
 
 _Cité par_:
 
   - Décret n°2014-1696 du 29 décembre 2014 (V)
 
+_Modifié par_:
+
+  - Décret n°2014-1696 du 29 décembre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-11 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R612-13 (V)
+
+
+###### Article R572-3
+
+Le directeur général de l'Office national des anciens combattants et victimes de guerre reçoit délégation de pouvoir du
+ministre en charge des rapatriés :
+
+1° Pour les décisions relatives :
+
+a) A l'admission au dispositif de désendettement aux rapatriés réinstallés dans une profession non salariée institué en
+application des articles 1er et 2 du décret n° 99-469 du 4 juin 1999 relatif au désendettement des rapatriés réinstallés dans
+une profession non salariée ;
+
+b) A la prise en charge, totale ou partielle, par l'Etat du rachat des cotisations pour la retraite, afférentes à certaines
+périodes d'activité des rapatriés ;
+
+c) A l'attribution de subventions aux associations de rapatriés, notamment pour les projets qu'elles développent en faveur de
+l'insertion des membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
+
+d) A l'attribution de secours exceptionnels aux rapatriés ;
+
+e) A la prise en charge du coût de formations professionnelles et de stages pour les enfants d'anciens membres des forces
+supplétives et assimilés ou victimes de la captivité en Algérie ;
+
+2° Pour représenter l'Etat en appel et en cassation dans les contentieux relatifs à l'indemnisation des rapatriés, en cas de
+perte et spoliation définitivement établies de leurs biens, et les contentieux relatifs à l'attribution de l'aide spécifique
+en faveur du conjoint survivant et de l'allocation de reconnaissance aux anciens membres des forces supplétives et assimilés,
+de l'allocation de reconnaissance à leurs conjoints ou ex-conjoints survivants non remariés, et des aides à la formation
+scolaire, technologique ou professionnelle et supérieure prévues pour leurs enfants.
+
+Le directeur général de l'Office national des anciens combattants et victimes de guerre peut déléguer sa signature aux
+personnels de direction de cet office dans les matières mentionnées au présent article.
+
+**Liens relatifs à cet article**
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L505
+  - Décret n°99-469 du 4 juin 1999 - art. 1
+  - Décret n°99-469 du 4 juin 1999 - art. 2
+
+_Créé par_:
+
+  - Décret n°2014-1696 du 29 décembre 2014 - art. 2
+
+_Cité par_:
+
+  - Décret n°2015-410 du 10 avril 2015 (V)
 
 
 ### Chapitre II : Conseils pour les anciens combattants et victimes de guerre et la mémoire de la Nation.<a id=341></a>
@@ -40518,6 +40574,48 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L396
 
 
+###### Article D432-1
+
+L'Office national est également chargé :
+
+1° De préparer, en concertation avec les associations représentatives, les mesures de solidarité nationale en faveur des
+rapatriés, des anciens membres des forces supplétives et assimilés et de leurs familles, et des victimes de la captivité en
+Algérie ;
+
+2° De veiller à la mise en œuvre des mesures décidées par les pouvoirs publics ;
+
+3° De suivre, de coordonner et de faciliter l'application des dispositions législatives et réglementaires qui concernent les
+rapatriés, notamment celles destinées à faciliter leur réinstallation, ainsi que celles fixées par la loi n° 94-488 du 11
+juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en
+Algérie, et par la loi n° 2005-158 du 23 février 2005 portant reconnaissance de la nation et contribution nationale en faveur
+des Français rapatriés ;
+
+4° De mettre en œuvre des actions d'information, d'évaluation et de médiation.
+
+Pour l'exercice de ses attributions, l'Office national des anciens combattants et des victimes de guerre bénéficie, dans des
+conditions fixées par convention avec l'Etat, du concours du service central des rapatriés et peut faire appel, en tant que
+de besoin, aux services de tous les départements ministériels.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°94-488 du 11 juin 1994
+  - Loi n°2005-158 du 23 février 2005
+
+_Créé par_:
+
+  - Décret n°2014-1696 du 29 décembre 2014 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R611-2 (V)
+
+
 ##### Section 3 : Composition.<a id=438></a>
 
 ###### Article D433
@@ -41479,31 +41577,36 @@ _Codifié par_:
 
 ###### Article D459
 
-Les dépenses de l'office sont divisées en dépenses ordinaires et en dépenses extraordinaires.
+Les dépenses de l'office sont divisées en dépenses ordinaires et en dépenses extraordinaires. 
 
-Les dépenses ordinaires comprennent :
+Les dépenses ordinaires comprennent : 
 
-1° L'emploi des revenus des biens, fonds et valeurs grevés d'affectations spéciales ;
+1° L'emploi des revenus des biens, fonds et valeurs grevés d'affectations spéciales ; 
 
-2° L'emploi des revenus des dons et legs grevés d'affectations spéciales ;
+2° L'emploi des revenus des dons et legs grevés d'affectations spéciales ; 
 
 3° Les subventions de toute nature accordées aux offices départementaux et offices des territoires d'outre-mer des anciens
-combattants et victimes de guerre ;
+combattants et victimes de guerre ; 
 
-4° Les subventions et avances aux collectivités ou oeuvres diverses s'occupant de ses ressortissants ;
+4° Les subventions et avances aux collectivités ou oeuvres diverses s'occupant de ses ressortissants ; 
 
 5° Les dépenses concernant la rééducation professionnelle et l'hébergement desdits ressortissants, ainsi que les avances de
-toutes catégories qui leur sont consenties ;
+toutes catégories qui leur sont consenties ; 
 
-6° Les traitements, salaires et allocations du personnel de l'office national ;
+6° Les traitements, salaires et allocations du personnel de l'office national ; 
 
 7° Les dépenses administratives de l'établissement autres que celles prévues à l'alinéa 6° ci-dessus (location et entretien
-des bâtiments et du mobilier, chauffage, éclairage, téléphone, impressions, fournitures de bureau, etc.) ;
+des bâtiments et du mobilier, chauffage, éclairage, téléphone, impressions, fournitures de bureau, etc.) ; 
 
-8° Les autres dépenses d'un caractère annuel et permanent.
+8° Les dépenses représentatives des allocations, aides et prêts prévus par les dispositions législatives et réglementaires
+concernant les rapatriés et leurs familles, notamment au titre de leur accueil, de leur reclassement professionnel et social,
+de leur réinstallation, de leur désendettement et de la contribution nationale en faveur des Français rapatriés. La liste de
+ces allocations, aides et prêts est précisée à l'article A. 234-1 du présent code ; 
+
+9° Les autres dépenses d'un caractère annuel et permanent. 
 
 Il peut être ouvert au budget un crédit pour dépenses imprévues. Les dépenses imputables sur ce crédit sont engagées par le
-directeur général, sans délibération du comité d'administration, dans les limites fixées par ce comité.
+directeur général, sans délibération du comité d'administration, dans les limites fixées par ce comité. 
 
 Les dépenses extraordinaires comprennent les dépenses temporaires ou accidentelles imputables sur les recettes
 extraordinaires énumérées à l'article D. 458 ou sur l'excédent des recettes ordinaires.
@@ -41514,13 +41617,25 @@ _Cité par_:
 
   - Décret n°2014-1698 du 29 décembre 2014 (V)
 
+_Modifié par_:
+
+  - Décret n°2014-1698 du 29 décembre 2014 - art. 6
+
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. D458 (V)
+  - Code des pensions militaires d'invalidité et de... - art. D458 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R612-17 (V)
 
 _Codifié par_:
 
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 
 ###### Article D460
