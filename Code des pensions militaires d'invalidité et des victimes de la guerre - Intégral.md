@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-23
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -21020,28 +21020,98 @@ _Nouveaux textes_:
 
 ###### Article R102-1
 
-Les produits et prestations mentionnés à l'article L. 165-1 du code de la sécurité sociale sont fournis aux bénéficiaires des
-articles L. 115, L. 124 et L. 128 du présent code et pris en charge par l'Etat dans les conditions fixées aux articles R.
-165-1 à R. 165-30 du code de la sécurité sociale. La fourniture et la prise en charge de ces produits et prestations sont
-assurées, pour le compte de l'Etat, par un ou des services ou organismes désignés par le ministre de la défense.
+Les soins, produits et prestations fournis aux bénéficiaires des articles L. 115, L. 124 et L. 128 du présent code et pris en
+charge par l'Etat sont ceux prévus aux articles L. 162-1-7, L. 162-17 et L. 165-1 du code de la sécurité sociale, dans les
+conditions définies par ces articles et les textes réglementaires pris pour leur application. La fourniture et la prise en
+charge de ces soins, produits et prestations sont assurées, pour le compte de l'Etat, par un ou des services ou organismes
+désignés par le ministre de la défense. 
+
+Lorsque leur état de santé le justifie, les titulaires de pensions d'invalidité concédées au titre du présent code,
+bénéficiaires des articles L. 115 et L. 128, peuvent bénéficier de secours et de prestations complémentaires nécessités par
+leurs infirmités pensionnées. Les conditions de cette prise en charge sont examinées par la commission mentionnée à l'article
+R. 102-1-1.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 5
+  - Décret n°2015-200 du 20 février 2015 - art. 1
 
 _Cité par_:
 
   - Arrêté du 16 avril 2015 - art. 1 (VD)
   - Arrêté du 16 avril 2015 - art. 3 (VD)
 
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
 _Cite_:
 
-  - Code de la sécurité sociale. - art. R165-1
-  - Code de la sécurité sociale. - art. R165-30
+  - Code de la sécurité sociale. - art. L162-1-7
+  - Code de la sécurité sociale. - art. L162-17
+  - Code de la sécurité sociale. - art. L165-1
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L124
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L128
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R211-8 (V)
+
+
+###### Article R102-1-1
+
+I.-Il est créé une commission placée auprès du ministre de la défense, chargée d'instruire les demandes de secours et de
+prestations complémentaires susceptibles d'être accordés aux titulaires de pensions d'invalidité concédées au titre du
+présent code, bénéficiaires des articles L. 115 et L. 128, en complément des soins, produits et prestations pris en charge
+dans les conditions mentionnées à l'article R. 102-1. A cette fin, elle définit les conditions dans lesquelles sont reçues et
+examinées les demandes de secours et de prestations complémentaires susceptibles d'être accordés. 
+
+La commission propose au ministre, pour chaque dossier : 
+
+1° La nature et le plafonnement des secours et des prestations complémentaires ; 
+
+2° Les conditions de prise en charge des secours et des prestations complémentaires. 
+
+II.-La commission comprend : 
+
+1° Trois représentants du ministère de la défense, dont le président ; 
+
+2° Un représentant de la Caisse nationale militaire de sécurité sociale ; 
+
+3° Quatre personnalités qualifiées. 
+
+Elle comprend le même nombre de suppléants dans chaque catégorie de titulaires. 
+
+La commission se réunit à l'initiative de son président. Elle ne peut valablement délibérer que lorsqu'au moins trois membres
+sont présents, en sus du président. 
+
+La composition, l'organisation et le fonctionnement de la commission sont précisés par un arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-200 du 20 février 2015 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 16 avril 2015 - art. 1 (VD)
+  - Arrêté du 20 décembre 2016 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R211-10 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R211-9 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L115
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L128
 
 
