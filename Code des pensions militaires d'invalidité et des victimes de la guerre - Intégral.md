@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2015-02-23
+Version Consolidée au 2015-02-28
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -18978,8 +18978,8 @@ La composition de la commission de réforme est fixée comme suit :
 1° Un médecin-chef des services ou un médecin en chef, président de la commission, nommé par le ministre de la défense ; 
 
 2° Deux officiers dont un officier supérieur et un capitaine ou un officier de grade équivalent, désignés par le commandant
-de région terre, ou le commandant de région maritime sur le territoire desquels est situé le domicile du demandeur, ou par le
-directeur des ressources humaines de l'armée de l'air. 
+de zone terre, ou le commandant d'arrondissement maritime  sur le territoire desquels est situé le domicile du demandeur, ou
+par le directeur des ressources humaines de l'armée de l'air. 
 
 Les membres de la commission sont choisis parmi les officiers de carrière ou sous contrat en position d'activité. 
 
@@ -18990,13 +18990,21 @@ mêmes règles.
 
 _Modifié par_:
 
-  - Décret n°2009-1755 du 30 décembre 2009 - art. 1
+  - Décret n°2015-211 du 25 février 2015 - art. 26
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R108 (Ab)
-  - Code des pensions militaires d'invalidité et des v - art. R112 (M)
+  - Code des pensions militaires d'invalidité et de... - art. R112 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R178 (V)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R151-14 (V)
 
 
 ###### Article R16-1
