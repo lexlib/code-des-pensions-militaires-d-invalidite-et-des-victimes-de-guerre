@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2015-03-20
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -14801,13 +14801,13 @@ _Abrogé par_:
 
 ###### Article L376
 
-Les dossiers sont d'abord examinés par un comité départemental composé de douze membres :
+Les dossiers sont d'abord examinés par un comité départemental composé de douze membres : 
 
-Le préfet ou son représentant, président ;
+Le préfet ou son représentant, président ; 
 
-Trois conseillers généraux désignés par l'assemblée départementale ;
+Trois conseillers départementaux désignés par l'assemblée départementale ; 
 
-Trois maires désignés par le préfet ;
+Trois maires désignés par le préfet ; 
 
 Cinq représentants des fédérations ou associations déclarées des prisonniers civils, otages ou déportés de guerre.
 
@@ -14825,6 +14825,14 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L377
@@ -33452,7 +33460,7 @@ _Nouveaux textes_:
 
 ###### Article R575
 
-I.-Sous réserve des dispositions de l'article R. 577 , le conseil départemental pour les anciens combattants et victimes de
+I.-Sous réserve des dispositions de l'article R. 577, le conseil départemental pour les anciens combattants et victimes de
 guerre et la mémoire de la Nation comprend les membres suivants, nommés par arrêté préfectoral : 
 
 1° Premier collège : 
@@ -33461,7 +33469,7 @@ a) Le préfet, président ;
 
 b) Le maire du chef-lieu de département et, à Paris, le maire de Paris ; 
 
-c) Un membre du conseil général ; 
+c) Un membre du conseil départemental ; 
 
 d) Le délégué militaire départemental ; 
 
@@ -33469,7 +33477,7 @@ e) Le directeur académique des services de l'éducation nationale agissant sur 
 
 f) Le directeur des archives départementales (1). 
 
-2° Deuxième collège :
+2° Deuxième collège : 
 
 De seize à vingt-quatre membres appartenant aux catégories énumérées au 2° de l'article D. 434 répartis dans les conditions
 fixées par un arrêté du ministre chargé des anciens combattants ; 
@@ -33483,7 +33491,7 @@ représentant les titulaires des décorations dont la liste est fixée par l'arr
 II.-Les membres du premier collège sont nommés sur proposition des administrations ou organismes compétents. 
 
 Les membres du deuxième collège sont nommés sur proposition des associations départementales qui regroupent les catégories de
-ressortissants qu'elles représentent.A cet effet, elles proposent au représentant de l'Etat dans le département deux
+ressortissants qu'elles représentent. A cet effet, elles proposent au représentant de l'Etat dans le département deux
 candidatures pour chacune des catégories énumérées à l'article D. 432 (6°). 
 
 Les membres du troisième collège sont nommés sur proposition des organismes ou associations compétentes après avis du
@@ -33512,16 +33520,26 @@ Les formations spécialisées sont composées au moins pour moitié de représen
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2012-1091 du 27 septembre 2012 - art. 1
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
 
 _Cite_:
 
+  - Code des pensions militaires d'invalidité et de... - art. R573 (Ab)
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D432
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. D434
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R573
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R577
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R613-7 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R613-8 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R613-9 (V)
 
 
 ###### Article R577
