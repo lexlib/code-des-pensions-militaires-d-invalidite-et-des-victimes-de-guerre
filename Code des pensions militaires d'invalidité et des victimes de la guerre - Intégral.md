@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2015-04-13
+Version Consolidée au 2015-07-17
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -13256,22 +13256,33 @@ _Abrogé par_:
 ###### Article L320
 
 Tout militaire réformé, pensionné au titre de la guerre 1914-1918 ou de la guerre 1939-1945 avec une invalidité d'au moins 25
-%, a droit à une réduction sur les tarifs de voyageurs ordinaires prévus aux tarifs généraux de la Société nationale des
-chemins de fer français (SNCF).
+%, a droit à une réduction sur les tarifs de voyageurs ordinaires prévus              par SNCF Mobilités. 
 
-Cette réduction est de :
+Cette réduction est de : 
 
-50 % pour les réformés pensionnés à raison d'une invalidité de 25 % à 45 % ;
+50 % pour les réformés pensionnés à raison d'une invalidité de 25 % à 45 % ; 
 
 75 % pour les réformés pensionnés à raison d'une invalidité de 50 % et plus.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. D268 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R389-1 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. R387 ter (T)
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L251-1 (VD)
 
 _Codifié par_:
 
@@ -13397,9 +13408,8 @@ _Abrogé par_:
 ###### Article L324 bis
 
 Conformément aux dispositions de la loi n° 50-891 du 1er août 1950, les conjoints survivants de guerre non remariés ayant au
-moins deux enfants d'âge scolaire à leur charge et les orphelins de guerre ont droit à un voyage aller et retour par an, sur
-les réseaux de la Société nationale des chemins de fer français, quelle que soit la distance parcourue, au tarif des congés
-payés.
+moins deux enfants d'âge scolaire à leur charge et les orphelins de guerre ont droit à un voyage aller et retour par an
+délivré par SNCF Mobilités, quelle que soit la distance parcourue, au tarif des congés payés.
 
 **Liens relatifs à cet article**
 
@@ -13409,11 +13419,19 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°50-891 1950-08-01
+  - Loi n°50-891 du 1 août 1950
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 124 () JORF 31 décembre 2005
+  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L251-5 (VD)
 
 
 #### Chapitre II : Prêts, secours et autres dispositions pécuniaires<a id=129></a>
@@ -17813,12 +17831,12 @@ _Codifié par_:
 
 ###### Article L515
 
-La société nationale des chemins de fer français délivre chaque année, sur leur demande et sur simple certificat du maire, un
-permis de 2e classe aux conjoints survivants, ascendants et descendants des premier et deuxième degrés, et, à défaut de ces
-parents, à la soeur ou au frère aîné des militaires morts pour la patrie, pour leur permettre de faire un voyage gratuit de
-leur lieu de résidence au lieu d'inhumation faite par l'autorité militaire.
+SNCF Mobilités délivre chaque année, sur leur demande et sur simple certificat du maire, un permis de 2e classe aux conjoints
+survivants, ascendants et descendants des premier et deuxième degrés, et, à défaut de ces parents, à la soeur ou au frère
+aîné des militaires morts pour la patrie, pour leur permettre de faire un voyage gratuit de leur lieu de résidence au lieu
+d'inhumation faite par l'autorité militaire. 
 
-La soeur ou le frère aîné peuvent faire bénéficier de leur titre, à leur place, l'un des autres frères et soeurs.
+La soeur ou le frère aîné peuvent faire bénéficier de leur titre, à leur place, l'un des autres frères et soeurs. 
 
 Les parents, la conjoint survivant, les ascendants et les descendants des premier et deuxième degrés des militaires disparus
 jouissent de la même faculté pour se rendre à l'ossuaire militaire le plus rapproché du lieu indiqué par le jugement
@@ -17834,13 +17852,21 @@ _Cité par_:
   - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
   - Loi n°2016-483 du 20 avril 2016 - art. 25 (V)
 
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L523-1 (VD)
+
 _Codifié par_:
 
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 124 () JORF 31 décembre 2005
+  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 
 ###### Article L516
