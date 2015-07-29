@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2015-07-17
+Version Consolidée au 2015-07-30
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -15503,35 +15503,37 @@ _Nouveaux textes_:
 
 ###### Article L395
 
-Les emplois réservés sont accessibles, sans conditions d' âge ni de délai : 
+Les emplois réservés sont accessibles, sans conditions d'âge ni de délai : 
 
 1° Aux conjoints, partenaires liés par un pacte civil de solidarité et concubins : 
 
-a) D' une personne mentionnée à l' article L. 394 décédée ou disparue dans les circonstances imputables aux situations
-définies à cet article ; 
+a) D'une personne mentionnée à l'article L. 394 décédée ou disparue dans les circonstances imputables aux situations définies
+à cet article ; 
 
-b) D' un militaire dont la pension relève des dispositions de l' article L. 124 ; 
+b) D'un militaire dont la pension relève des dispositions de l'article L. 124 ; 
 
-2° Aux personnes ayant la charge éducative ou financière de l' enfant mineur d' une personne mentionnée à l' article L. 394
-ou dont la pension relève des dispositions de l' article L. 124.
+c) D'un militaire mentionné au 1° de l'article L. 394, titulaire d'une pension d'invalidité ouvrant droit à l'une des
+allocations spéciales prévues à l'article L. 31 ; 
 
-**Nota:**
-
-Loi 2008-492 du 26 mai 2008, art. 11 : Le titre Ier de la présente loi entre en vigueur dès la publication des décrets
-d'application (décret 2009-629 du 5 juin 2009, en vigueur le 8 juin 2009).
+2° Aux personnes ayant la charge éducative ou financière de l'enfant mineur d'une personne mentionnée à l'article L. 394 ou
+dont la pension relève des dispositions de l'article L. 124.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-492 du 26 mai 2008 - art. 1
+  - Loi n°2015-917 du 28 juillet 2015 - art. 21
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. A187 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. D315 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. D432 (Ab)
-  - Code des pensions militaires d'invalidité et de... - art. L401 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
   - Code des pensions militaires d'invalidité et de... - art. R440 (Ab)
   - Code du travail - art. L5212-13 (V)
 
@@ -15542,6 +15544,7 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L124
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L31
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L394
 
 
@@ -15770,9 +15773,10 @@ _Cité par_:
 
 ###### Article L401
 
-Le ministre chargé de la défense inscrit par ordre alphabétique sur une ou plusieurs listes d'aptitude, pour une durée
-limitée, les candidats aux corps ou cadres d'emplois des fonctions publiques de l'Etat, territoriale et hospitalière. Les
-personnes mentionnées aux articles L. 394 à L. 396 bénéficient d'une durée d'inscription spécifique sur ces listes. 
+Le ministre chargé de la défense ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale,  inscrit par
+ordre alphabétique sur une ou plusieurs listes d'aptitude, pour une durée limitée, les candidats aux corps ou cadres
+d'emplois des fonctions publiques de l'Etat, territoriale et hospitalière. Les personnes mentionnées aux articles L. 394 à L.
+396 bénéficient d'une durée d'inscription spécifique sur ces listes. 
 
 L'inscription du candidat sur la ou les listes d'aptitude est subordonnée à la reconnaissance de ses qualifications et acquis
 de l'expérience professionnelle qui s'effectue :
@@ -15800,7 +15804,7 @@ _Cité par_:
   - Loi n°2008-492 du 26 mai 2008 - art. 3 (V)
   - Décret n°2009-629 du 5 juin 2009 - art. 2 (V)
   - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 8 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L403 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L403 (VT)
   - Code des pensions militaires d'invalidité et de... - art. R396 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R399 (Ab)
   - Code des pensions militaires d'invalidité et de... - art. R400 (Ab)
@@ -15810,16 +15814,26 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 6
+  - Loi n°2015-917 du 28 juillet 2015 - art. 21
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Cite_:
 
   - Code de la défense. - art. L4111-1
   - Code de la défense. - art. L4139-5
-  - Code des pensions militaires d'invalidité et de... - art. L394 (V)
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L395
+  - Code des pensions militaires d'invalidité et de... - art. L395 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. L398 (VT)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L394
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L397
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L398
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L242-3 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R242-4 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R242-5 (VT)
 
 
 ###### Article L402
