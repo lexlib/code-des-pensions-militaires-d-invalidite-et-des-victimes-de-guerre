@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2015-07-30
+Version Consolidée au 2015-08-21
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -30732,12 +30732,14 @@ _Nouveaux textes_:
 Le candidat est inscrit sur la liste d'aptitude durant trois ans au maximum à compter de la date de sa première inscription
 sur une liste. 
 
+Cette durée est portée à cinq ans pour les personnes mentionnées aux articles L. 394 à L. 396 du présent code. 
+
 Pour les bénéficiaires des articles L. 397 et L. 398, la durée d'inscription sur les listes régionales est d'un an
 renouvelable une fois. Les candidats qui ne sont pas recrutés pendant cette période sont inscrits sur la liste nationale pour
 une année supplémentaire. 
 
 Le renouvellement d'inscription sur les listes régionales et l'inscription sur la liste nationale sont effectués après accord
-du candidat à la proposition que l'autorité administrative lui fait trente jours au moins avant la date d'échéance.L'absence
+du candidat à la proposition que l'autorité administrative lui fait trente jours au moins avant la date d'échéance. L'absence
 de réponse à la date d'échéance vaut refus et le candidat est alors radié de toutes les listes où il figurait. 
 
 Tout candidat peut, à tout moment, demander son inscription sur la liste nationale.
@@ -30746,7 +30748,15 @@ Tout candidat peut, à tout moment, demander son inscription sur la liste nation
 
 _Modifié par_:
 
-  - Décret n°2009-629 du 5 juin 2009 - art. 1
+  - Décret n°2015-1011 du 18 août 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R242-12 (V)
 
 _Cité par_:
 
@@ -30754,6 +30764,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L394
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L396
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L397
 
 
