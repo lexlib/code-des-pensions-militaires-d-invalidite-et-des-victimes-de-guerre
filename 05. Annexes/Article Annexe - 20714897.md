@@ -5,7 +5,7 @@ D'INVALIDITÉ ET DES VICTIMES DE LA GUERRE**
 
 I. - Corps relevant du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales : 
 
-Techniciens de police scientifique et technique (décret n° 2005-1204 du 29 septembre 2005). 
+Techniciens de police scientifique et technique (décret n° 2016-1677 du 5 décembre 2016). 
 
 II. - Corps relevant du ministère des affaires étrangères et européennes : 
 
@@ -38,7 +38,7 @@ Techniciens des services culturels pour la spécialité Bâtiments de France (d�
 Techniciens d'art (décret n° 92-260 du 23 mars 1992). 
 
 Adjoints techniques des administrations de l'Etat pour l'accès au grade d'adjoint technique principal de 2e classe et pour la
-branche d'activité  Métiers d'art  (décret n° 2006-1761 du 23 décembre 2006).
+branche d'activité Métiers d'art (décret n° 2006-1761 du 23 décembre 2006).
 
 **Liens relatifs à cet article**
 
@@ -55,6 +55,6 @@ _Cite_:
   - Décret n°2005-119 du 14 février 2005
   - Décret n°2006-1761 du 23 décembre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-629 du 5 juin 2009 - art.
+  - Décret n°2016-1677 du 5 décembre 2016 - art. 27
