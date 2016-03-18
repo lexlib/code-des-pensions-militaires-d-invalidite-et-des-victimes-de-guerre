@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -19080,18 +19080,27 @@ _Nouveaux textes_:
 
 Le président de la commission de réforme fixe la date à laquelle statue la commission. 
 
-Les conditions de réunion et de fonctionnement de la commission sont fixées par le décret n° 2006-672 du 8 juin 2006 relatif
-à la création, à la composition et au fonctionnement de commissions à caractère consultatif.
+Les conditions de réunion et de fonctionnement de la commission sont fixées par les articles R. 133-1 à R. 133-15 du code des
+relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-1903 du 28 décembre 2016 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R151-15 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R151-16 (V)
+
 _Cite_:
 
-  - Décret n°2006-672 du 8 juin 2006 (V)
-
-_Créé par_:
-
-  - Décret n°2008-8 du 2 janvier 2008 - art. 1
+  - Code des relations entre le public et l'administration - art. R*133-1
 
 
 ###### Article R17
