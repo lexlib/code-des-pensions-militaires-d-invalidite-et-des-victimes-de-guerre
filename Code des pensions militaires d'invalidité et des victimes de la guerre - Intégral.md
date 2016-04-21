@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2016-03-21
+Version Consolidée au 2016-04-22
 ## Contenu: 
   - [Partie législative (art. L1 à L537)](#1)
     - [Première partie (art. L1 à L1 ter)](#2)
@@ -15981,7 +15981,7 @@ dispositions statutaires relatives à la fonction publique de l'Etat ou d'un mil
 décret en Conseil d'Etat, lorsqu'il fait partie des personnels en voie de reconversion professionnelle d'établissements dont
 la liste est définie par arrêté du ministre compétent ; 
 
-3° Recrutement d'un fonctionnaire placé en situation de réorientation professionnelle en application de l'article 44 bis de
+3° Recrutement d'un fonctionnaire             affecté sur un emploi supprimé, dans les conditions prévues à l'article 60  de
 la loi n° 84-16 du 11 janvier 1984 précitée. 
 
 Toutefois, le 1° du présent article n'est pas applicable aux corps, cadres d'emplois ou emplois conduisant à des emplois
@@ -15992,16 +15992,16 @@ classés dans la catégorie active au sens de l'article L. 24 du code des pensio
 _Cite_:
 
   - Loi n°84-16 du 11 janvier 1984 - art. 3
-  - Loi n°84-16 du 11 janvier 1984 - art. 44 bis
+  - Loi n°84-16 du 11 janvier 1984 - art. 60
   - Code des pensions civiles et militaires de retraite - art. L24
+
+_Abrogé par_:
+
+  - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 5
 
 _Modifié par_:
 
-  - Loi n°2011-14 du 5 janvier 2011 - art. 6
-
-_Nouveaux textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L242-7 (MMN)
+  - Loi n°2016-483 du 20 avril 2016 - art. 70
 
 _Cité par_:
 
