@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-05-08
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -31956,60 +31956,60 @@ _Cite_:
 
 ###### Article R612-1
 
-I.-Le conseil d'administration de l'Office national des anciens combattants comprend quarante membres ainsi répartis : 
+I. – Le conseil d'administration de l'Office national des anciens combattants comprend quarante membres ainsi répartis :
 
 1° Un premier collège comprenant huit membres représentant les assemblées et l'administration, désignés pour une durée de
-quatre ans : 
+quatre ans :
 
 a) Deux membres du Parlement, désignés par le président de leur assemblée respective :
 
-- un membre de l'Assemblée nationale ;
+– un membre de l'Assemblée nationale ;
 
-- un membre du Sénat ; 
+– un membre du Sénat ;
 
 b) Six membres représentant l'Etat :
 
-- le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
+– le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
 
-- le directeur de la mémoire, du patrimoine et des archives du ministère de la défense ou son représentant ;
+– le directeur des patrimoines, de la mémoire et des archives du ministère de la défense ou son représentant ;
 
-- le directeur du budget ou son représentant ;
+– le directeur du budget ou son représentant ;
 
-- le secrétaire général du ministère chargé de l'intérieur ou son représentant ;
+– le secrétaire général du ministère chargé de l'intérieur ou son représentant ;
 
-- le directeur général de l'enseignement scolaire ou son représentant ;
+– le directeur général de l'enseignement scolaire ou son représentant ;
 
-- le directeur des Français à l'étranger et de l'administration consulaire ou son représentant ; 
+– le directeur des Français à l'étranger et de l'administration consulaire ou son représentant ;
 
 2° Un deuxième collège comprenant vingt-quatre membres représentant les anciens combattants et victimes de guerre, choisis
 parmi les catégories de ressortissants énumérées par l'annexe législative mentionnée à l'article L. 611-2 et réparties dans
-les conditions fixées par un arrêté du ministre chargé des anciens combattants et victimes de guerre ; 
+les conditions fixées par un arrêté du ministre chargé des anciens combattants et victimes de guerre ;
 
 3° Un troisième collège comprenant six membres représentant les fondations et les associations nationales qui œuvrent pour
 les missions mémorielles et la citoyenneté, dont la liste est fixée par arrêté du ministre chargé des anciens combattants et
-victimes de guerre ; 
+victimes de guerre ;
 
-4° Deux représentants du personnel de l'Office. 
+4° Deux représentants du personnel de l'Office.
 
-II.-Les membres du conseil d'administration appartenant au deuxième collège sont nommés pour quatre ans, par le ministre
+II. – Les membres du conseil d'administration appartenant au deuxième collège sont nommés pour quatre ans, par le ministre
 chargé des anciens combattants et victimes de guerre, sur proposition des associations nationales qui regroupent les
 catégories statutaires des ressortissants qu'elles représentent, après avis du directeur général de l'Office. A cet effet,
 ces associations proposent au ministre chargé des anciens combattants et victimes de guerre une candidature pour chacune des
-catégories de ressortissants, énumérées par l'annexe législative mentionnée à l'article L. 611-2, qu'elles regroupent. 
+catégories de ressortissants, énumérées par l'annexe législative mentionnée à l'article L. 611-2, qu'elles regroupent.
 
 Les membres du conseil d'administration faisant partie du troisième collège sont nommés pour quatre ans, par le ministre
 chargé des anciens combattants et victimes de guerre, sur proposition des fondations ou associations nationales qui œuvrent
 pour les missions mémorielles et la citoyenneté, après avis du directeur général de l'Office. A cet effet, chacune propose
-une candidature au ministre chargé des anciens combattants et victimes de guerre. 
+une candidature au ministre chargé des anciens combattants et victimes de guerre.
 
 Pour la représentation du personnel, il est attribué un siège à chacune des deux organisations syndicales arrivées en tête
-aux élections professionnelles. 
+aux élections professionnelles.
 
 En cas de décès ou de démission de membres du conseil appartenant aux deuxième et troisième collèges, le ministre chargé des
 anciens combattants et victimes de guerre pourvoit à leur remplacement selon la procédure de nomination définie au présent
-article. Les membres ainsi désignés siègent pour la durée du mandat restant à courir ; 
+article. Les membres ainsi désignés siègent pour la durée du mandat restant à courir ;
 
-III.-Des experts, nommés par le ministre chargé des anciens combattants et victimes de guerre, sur proposition du directeur
+III. – Des experts, nommés par le ministre chargé des anciens combattants et victimes de guerre, sur proposition du directeur
 général de l'Office, au nombre de cinq maximum, dont le représentant de l'Association des professeurs d'histoire et de
 géographie, siègent, avec voix consultative et de façon permanente, au sein de la commission mémoire et solidarité et en
 séance plénière du conseil d'administration.
@@ -32020,21 +32020,17 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. D434 (Ab)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L611-2 (V)
+  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R612-7 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L611-2
 
 
 ###### Article R612-2
