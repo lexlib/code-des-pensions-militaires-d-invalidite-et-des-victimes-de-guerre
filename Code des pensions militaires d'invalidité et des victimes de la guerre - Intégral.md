@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -19792,8 +19792,11 @@ l'autre des services mentionnés à l'article R. 151-18 l'estime utile. Le servi
 combattants et victimes de guerre procède au constat provisoire des droits à pension et en notifie le résultat à l'intéressé.
 
 La notification du constat provisoire est effectuée par tout moyen permettant de rapporter la preuve de sa date de réception.
-Elle mentionne la faculté qu'a le demandeur de saisir la commission de réforme mentionnée à l'article L. 151-4 et d'être
-entendu par elle, ainsi que les voies et délais de cette saisine.
+Elle mentionne la faculté qu'a le demandeur de saisir une commission de réforme et d'être entendu par elle, ainsi que les
+voies et délais de cette saisine.
+
+Lorsque, au titre du présent code, il souhaite contester le constat provisoire des droits à pension, le demandeur de pension
+saisit la commission compétente en application de l'article R. 151-12-1.
 
 **Liens relatifs à cet article**
 
@@ -19801,47 +19804,91 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2017-524 du 11 avril 2017 - art. 1
 
 _Cité par_:
 
   - Arrêté du 3 décembre 2018 - art. 4 (V)
   - Code des pensions militaires d'invalidité et de... - art. R132-7 (VD)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L151-4 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R151-18 (V)
-
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R14 (Ab)
 
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L151-4
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R151-18
+
+
+###### Article R151-12-1
+
+Une commission de réforme des pensions militaires d'invalidité est constituée pour le territoire métropolitain. 
+
+Six commissions de réforme des pensions militaires d'invalidité sont constituées dans les collectivités régies par les
+articles 73 et 74 de la Constitution ainsi qu'en Nouvelle-Calédonie. 
+
+Un arrêté conjoint du ministre de la défense et du ministre chargé des outre-mer fixe les ressorts et sièges des commissions
+mentionnées aux deux alinéas précédents. 
+
+La commission compétente est celle du lieu de résidence du demandeur. Lorsque le demandeur réside à l'étranger, la commission
+de réforme est celle compétente pour le territoire métropolitain.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 73
+  - Constitution du 4 octobre 1958 - art. 74
+
+_Créé par_:
+
+  - Décret n°2017-524 du 11 avril 2017 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 3 décembre 2018 - art. 43 (V)
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+
 
 ###### Article R151-13
 
-Lorsque l'intéressé entend saisir la commission de réforme, il dispose d'un délai de quinze jours après la notification du
-constat provisoire des droits à pension pour en faire la demande. Il indique sur le formulaire joint au constat, s'il
-souhaite un examen sur pièce ou en sa présence.
+Dans le cas prévu au troisième alinéa de l'article R. 151-12, le demandeur saisit la commission compétente dans un délai de
+quinze jours francs après la notification du constat provisoire des droits à pension, par lettre simple, le cachet de la
+poste faisant foi. Il précise s'il souhaite être entendu lors de l'examen de sa demande. 
 
-S'il a choisi d'être présent, il est convoqué quinze jours au moins à l'avance par lettre simple. S'il ne se rend pas à cette
-convocation, il est convoqué à nouveau avec le même délai par tout moyen permettant de rapporter la preuve de sa date de
-réception. S'il ne défère pas à cette seconde convocation, sans motif valable, la commission statue sur pièces.
+S'il choisit d'être entendu, il est convoqué quinze jours au moins avant la date de la réunion de la commission de réforme
+par lettre simple. S'il ne se rend pas à cette convocation, il est convoqué à nouveau avec le même délai par lettre remise
+contre signature. S'il ne défère pas à cette seconde convocation, la commission statue sur pièces. 
+
+Le délai mentionné au premier alinéa est augmenté d'un mois pour les résidents des collectivités régies par les articles 73
+et 74 de la Constitution et de la Nouvelle-Calédonie, et de deux mois pour les résidents à l'étranger. 
 
 La date de convocation des militaires en mission opérationnelle tient compte de leur retour effectif dans leur unité de
 rattachement.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 73
+
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2017-524 du 11 avril 2017 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -19854,18 +19901,13 @@ _Cité par_:
 
 ###### Article R151-14
 
-La composition de la commission de réforme est fixée comme suit :
+La composition des commissions de réforme est fixée comme suit :
 
-1° Un médecin-chef des services ou un médecin en chef, président de la commission, nommé par le ministre de la défense ;
+1° Un médecin-chef des services ou un médecin en chef, président de la commission ;
 
-2° Deux officiers dont un officier supérieur et un capitaine ou un officier de grade équivalent, désignés par le commandant
-de zone terre, ou le commandant de l'arrondissement maritime sur le territoire desquels est situé le domicile du demandeur,
-ou par le directeur des ressources humaines de l'armée de l'air.
+2° Un officier supérieur ;
 
-Les membres de la commission sont choisis parmi les officiers de carrière ou sous contrat en position d'activité.
-
-En cas d'absence ou d'empêchement, les membres de la commission peuvent être remplacés par un suppléant désigné suivant les
-mêmes règles.
+3° Un officier subalterne, capitaine ou de grade équivalent.
 
 **Liens relatifs à cet article**
 
@@ -19873,20 +19915,73 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2017-524 du 11 avril 2017 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R16 (Ab)
 
 
+###### Article R151-14-1
+
+Chaque direction et service gestionnaire de personnel militaire du ministère de la défense et du ministère de l'intérieur
+désigne plusieurs officiers pour siéger dans les différentes commissions de réforme.
+
+Ces officiers sont choisis parmi les officiers en activité et les officiers ayant souscrit un contrat d'engagement à servir
+dans la réserve opérationnelle.
+
+Le ministre de la défense désigne, parmi les officiers mentionnés au premier alinéa, ceux appelés à siéger.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-524 du 11 avril 2017 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+
+
+###### Article R151-14-2
+
+Lorsque le demandeur réside dans une collectivité régie par l'article 73 ou 74 de la Constitution ou en Nouvelle-Calédonie et
+qu'il a demandé à être entendu lors de l'examen de son dossier, la commission constituée pour le territoire métropolitain
+peut se substituer à celle territorialement compétente en cas de carence constatée. Les travaux s'effectuent alors par voie
+de visioconférence.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 73
+
+_Créé par_:
+
+  - Décret n°2017-524 du 11 avril 2017 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+
+
 ###### Article R151-15
 
-Les conditions d'organisation et de fonctionnement de la commission sont fixées par arrêté. La commission de réforme est
-soumise aux dispositions relatives au fonctionnement des commissions à caractère consultatif prévues aux articles R. * 133-1
-à R. * 133-15 du code des relations entre le public et l'administration.
+Les conditions d'organisation et de fonctionnement des commissions de réforme sont fixées par arrêté du ministre de la
+défense. Les commissions sont soumises aux dispositions relatives au fonctionnement des commissions à caractère consultatif
+prévues aux articles R. * 133-1 à R. * 133-15 du code des relations entre le public et l'administration, sous réserve des
+dispositions suivantes : 
+
+1° La commission ne peut délibérer que si deux membres dont le président sont présents ; 
+
+2° Tout membre de la commission peut indiquer dans le procès-verbal son désaccord avec la majorité. Ces observations sont
+signées par l'officier qui exprime ce désaccord.
 
 **Liens relatifs à cet article**
 
@@ -19894,13 +19989,17 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2017-524 du 11 avril 2017 - art. 6
 
 _Cité par_:
 
   - Arrêté du 3 décembre 2018 - art. 43 (V)
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -19908,25 +20007,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
+  - Code des relations entre le public et l'administration - art. R*133-1
 
 
 ###### Article R151-16
 
-Le président de la commission de réforme fixe la date à laquelle statue la commission.
+Le demandeur peut être assisté du médecin de son choix lorsqu'il est entendu par la commission.
 
-La commission de réforme ne délibère valablement que si son président ou son suppléant et un autre membre sont présents.
-
-Elle entend les observations que peut avoir à présenter le demandeur ou le médecin qui l'assiste, lorsque le demandeur a
-souhaité être entendu par la commission de réforme, ou prend connaissance des documents transmis éventuellement par ce
-dernier s'il n'est pas présent.
-
-Elle ordonne, si besoin est, toute nouvelle mesure d'instruction ou toute nouvelle expertise médicale.
-
-En cas de partage égal des voix, celle du président est prépondérante.
-
-Mention est faite au procès-verbal de la séance du désaccord que pourrait exprimer tout membre de la commission avec la
-majorité. Ces observations sont signées par l'officier qui exprime ce désaccord.
+La commission demande à l'intéressé ou au médecin qui l'assiste tous les renseignements qu'elle estime nécessaires pour
+établir sa conviction.
 
 **Liens relatifs à cet article**
 
@@ -19934,9 +20023,13 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2017-524 du 11 avril 2017 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -19944,12 +20037,49 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R17 (Ab)
 
 
+###### Article R151-16-1
+
+Si la commission estime ne pas être en mesure de statuer valablement sur le droit à pension, elle peut ordonner toute
+nouvelle mesure d'instruction ou toute nouvelle expertise médicale.
+
+Après réalisation des mesures d'instruction ou des nouvelles expertises médicales, une nouvelle réunion de la commission doit
+avoir lieu, en présence du demandeur si ce dernier avait demandé à être entendu.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-524 du 11 avril 2017 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+
+
+###### Article R151-16-2
+
+Le procès-verbal est signé par le président et par chaque membre présent de la commission.
+
+Lorsque la commission ne suit pas le constat provisoire des droits à pension, le procès-verbal mentionne les motifs sur
+lesquels l'avis repose.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-524 du 11 avril 2017 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+
+
 ###### Article R151-17
 
 La commission de réforme émet un avis sur l'imputabilité au service, le degré d'invalidité, le caractère incurable des
 affections et sur l'admission au bénéfice des avantages accessoires à la pension.
 
-Le procès-verbal de la commission est communiqué au demandeur.
+Cet avis est consigné dans un procès-verbal qui est communiqué au demandeur.
 
 **Liens relatifs à cet article**
 
@@ -19957,9 +20087,13 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2017-524 du 11 avril 2017 - art. 9
+
+_Abrogé par_:
+
+  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
 
 _Anciens textes_:
 
