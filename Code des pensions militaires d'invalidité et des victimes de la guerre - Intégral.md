@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-09-01
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -23672,21 +23672,13 @@ _Codifié par_:
 
 ###### Article D321-1
 
-Le montant de la retraite du combattant est fixé à 50 points d'indice.
+Le montant de la retraite du combattant est fixé à 52 points d'indice.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 _Modifié par_:
 
   - Décret n°2016-1904 du 28 décembre 2016 - art. 1
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L256, alinéas 2 et extrait alinéa 5 (Ab)
 
 
 ##### Section 2 : Attribution et paiement de la retraite<a id=293></a>
