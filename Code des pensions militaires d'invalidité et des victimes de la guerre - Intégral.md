@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -1620,22 +1620,24 @@ soixantième jour suivant l'une des dates mentionnées au 1°.
 En cas d'interruption de service d'une durée supérieure à quatre-vingt-dix jours, la présomption ne joue qu'après le quatre-
 vingt-dixième jour suivant la reprise du service actif.
 
+3° S'il s'agit d'une maladie provoquée par l'amiante, qu'elle soit désignée par les tableaux de maladies professionnelles
+prévus à l'article L. 461-2 du code de la sécurité sociale et contractée par le militaire dans l'exercice ou à l'occasion du
+service dans les conditions mentionnées à ces mêmes tableaux.
+
 La recherche d'imputabilité est effectuée au vu du dossier médical constitué pour chaque militaire lors de son examen de
 sélection et d'incorporation.
 
-La présomption définie au présent article s'applique exclusivement, soit aux services accomplis en temps de guerre, au cours
-d'une expédition déclarée campagne de guerre ou en opération extérieure, soit au service accompli par les militaires pendant
-la durée légale du service national, les constatations étant faites dans les délais prévus aux précédents alinéas.
+La présomption définie aux 1° et 2° du présent article s'applique exclusivement, soit aux services accomplis en temps de
+guerre, au cours d'une expédition déclarée campagne de guerre ou en opération extérieure, soit au service accompli par les
+militaires pendant la durée légale du service national, les constatations étant faites dans les délais prévus aux précédents
+alinéas.
 
 Dans tous les cas, la filiation médicale doit être établie entre la blessure ou la maladie ayant fait l'objet de la
 constatation et l'infirmité invoquée.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+
 
 **Liens relatifs à cet article**
 
@@ -1643,14 +1645,14 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 134 (V)
 
 _Cite_:
 
-  - Code de la défense. - art. L4123-4 (M)
-  - Code des pensions militaires d'invalidité et de... - art. L121-1 (VD)
+  - Code de la défense. - art. L4123-4
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L121-1
 
 _Anciens textes_:
 
@@ -32258,27 +32260,22 @@ _Anciens textes_:
 
 ###### Article R611-2
 
-Pour l'application de l'article L. 611-5, l'Office national des anciens combattants et des victimes de guerre bénéficie, par
-convention avec l'Etat, du concours du service chargé des rapatriés. Il peut faire appel, en tant que de besoin, aux services
-de tous les départements ministériels.
+Pour l'exercice de ses missions mentionnées à l'article L. 611-5, l'Office national des anciens combattants et victimes de
+guerre peut faire appel à l'ensemble des administrations de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des pensions militaires d'invalidité et de... - art. D432-1, alinéa 6 (Ab)
+  - Décret n°2017-1680 du 12 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L611-5 (V)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L611-5
 
 
 ###### Article R611-3
@@ -32766,17 +32763,19 @@ Le directeur général de l'Office national reçoit délégation de pouvoir du m
 
 1° Pour les décisions relatives :
 
-a) A l'admission au dispositif de désendettement aux rapatriés réinstallés dans une profession non salariée institué en
+a) A la reconnaissance de la qualité de rapatrié ;
+
+b) A l'admission au dispositif de désendettement aux rapatriés réinstallés dans une profession non salariée institué en
 application des articles 1er et 2 du décret n° 99-469 du 4 juin 1999 relatif au désendettement des rapatriés réinstallés dans
 une profession non salariée ;
 
-b) A la prise en charge, totale ou partielle, par l'Etat du rachat des cotisations pour la retraite, afférentes à certaines
+c) A la prise en charge, totale ou partielle, par l'Etat du rachat des cotisations pour la retraite, afférentes à certaines
 périodes d'activité des rapatriés ;
 
-c) A l'attribution de subventions aux associations de rapatriés, notamment pour les projets qu'elles développent en faveur de
+d) A l'attribution de subventions aux associations de rapatriés, notamment pour les projets qu'elles développent en faveur de
 l'insertion des membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
 
-d) A l'attribution de secours exceptionnels aux rapatriés ;
+e) A l'attribution de secours exceptionnels aux rapatriés ;
 
 2° Pour représenter l'Etat dans les contentieux relatifs à l'indemnisation des rapatriés, en cas de perte et spoliation
 définitivement établies de leurs biens, et les contentieux relatifs à l'attribution de l'aide spécifique en faveur du
@@ -32788,16 +32787,16 @@ scolaire, technologique ou professionnelle et supérieure prévues pour leurs en
 
 _Cite_:
 
-  - Décret n°99-469 du 4 juin 1999 - art. 1 (V)
-  - Décret n°99-469 du 4 juin 1999 - art. 2 (V)
-
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°99-469 du 4 juin 1999 - art. 1
+  - Décret n°99-469 du 4 juin 1999 - art. 2
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2017-1680 du 12 décembre 2017 - art. 2
 
 _Anciens textes_:
 
