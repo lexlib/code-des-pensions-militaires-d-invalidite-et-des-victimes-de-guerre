@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-19
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -14868,6 +14868,9 @@ _Anciens textes_:
 
 ###### Article L622-7
 
+Le chapitre préliminaire du titre Ier du livre Ier de la première partie du code de la santé publique est applicable à
+l'Institution nationale des invalides, qui concourt à la prévention et aux soins.
+
 A l'exception des articles L. 6113-4, L. 6113-5 et L. 6113-10, les chapitres Ier et II du titre Ier du livre Ier de la
 première partie, le chapitre III du titre Ier du livre Ier de la sixième partie, les conditions techniques de fonctionnement
 prévues par le 3° de l'article L. 6122-2 ainsi que le titre III du livre Ier de la sixième partie du code de la santé
@@ -14875,10 +14878,7 @@ publique sont applicables à l'Institution nationale des invalides.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+
 
 **Liens relatifs à cet article**
 
@@ -14886,19 +14886,15 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 2
 
 _Cite_:
 
-  - Code de la santé publique - art. L6113-10 (V)
-  - Code de la santé publique - art. L6113-4 (V)
-  - Code de la santé publique - art. L6122-2 (V)
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L536-1 (VT)
+  - Code de la santé publique - art. L6113-10
+  - Code de la santé publique - art. L6113-4
+  - Code de la santé publique - art. L6122-2
 
 
 ###### Article L622-8
