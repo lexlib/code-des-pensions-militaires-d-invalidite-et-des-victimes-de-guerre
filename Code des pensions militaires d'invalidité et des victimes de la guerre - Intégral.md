@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2018-01-19
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -1201,19 +1201,26 @@ _Cite_:
 
 ###### Article L113-6
 
-Les personnes de nationalité française au 4 août 1963, ayant subi en Algérie entre le 31 octobre 1954 et le 29 septembre 1962
-des dommages physiques, du fait d'attentats ou de tout autre acte de violence en relation avec la guerre d'Algérie,
-bénéficient des pensions de victimes civiles de guerre.
+Les personnes ayant subi en Algérie entre le 31 octobre 1954 et le 29 septembre 1962 des dommages physiques, du fait
+d'attentats ou de tout autre acte de violence en relation avec la guerre d'Algérie, bénéficient des pensions de victimes
+civiles de guerre.
 
-Un décret en Conseil d'Etat fixe les conditions d'application des présentes dispositions ainsi que les conditions dans
-lesquelles certaines personnes, ne possédant pas la nationalité française, peuvent être admises à leur bénéfice.
+Le bénéfice de la pension prévue au premier alinéa met fin au versement de toute allocation versée par les autorités
+françaises destinée à réparer les mêmes dommages.
+
+Le montant des pensions servies au bénéficiaire à raison des mêmes dommages dans les cas non prévus au deuxième alinéa est,
+le cas échéant, déduit du montant des pensions servies en application du premier alinéa.
+
+Par dérogation à l'article L. 152-1, les demandes tendant à l'attribution d'une pension au titre du présent article ne sont
+plus recevables à compter de la publication de la loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire
+pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à la loi n° 2018-607 du 13 juillet 2018, article 49 II : L'article L. 113-6 du code des pensions militaires
+d'invalidité et des victimes de guerre, dans sa rédaction résultant du I de l'article 49 de le loi n° 2018-607 du 13 juillet
+2018 du présent article, est applicable aux demandes tendant à l'attribution d'une pension déposées à compter du 9 février
+2018, ainsi qu'aux instances en cours à la date de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -1225,14 +1232,18 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 49 (V)
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L124-11 (VD)
   - Code des pensions militaires d'invalidité et de... - art. L124-17 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L152-1
 
 
 ###### Article L113-7
@@ -1604,40 +1615,32 @@ _Anciens textes_:
 
 ###### Article L121-2
 
-Lorsque la preuve que l'infirmité ou l'aggravation résulte d'une des causes mentionnées à l'article L. 121-1 ne peut être
-apportée, ni la preuve contraire, la présomption d'imputabilité au service bénéficie à l'intéressé à condition :
+Est présumée imputable au service :
 
-1° S'il s'agit de blessure, qu'elle ait été constatée :
+1° Toute blessure constatée par suite d'un accident, quelle qu'en soit la cause, dans le temps et le lieu du service, dans
+l'exercice ou à l'occasion de l'exercice de ses fonctions, en l'absence de faute personnelle ou de toute autre circonstance
+particulière détachant l'accident du service ;
 
-a) Soit avant la date du renvoi du militaire dans ses foyers ;
+2° Toute blessure constatée durant les services accomplis par un militaire en temps de guerre, au cours d'une expédition
+déclarée campagne de guerre, d'une opération extérieure mentionnée à l'article L. 4123-4 du code de la défense ou pendant la
+durée légale du service national et avant la date de retour sur le lieu d'affectation habituelle ou la date de renvoi dans
+ses foyers ;
 
-b) Soit, s'il a participé à une des opérations extérieures mentionnées à l'article L. 4123-4 du code de la défense, avant la
-date de son retour sur son lieu d'affectation habituelle ;
+3° Toute maladie désignée par les tableaux de maladies professionnelles mentionnés aux articles L. 461-1, L. 461-2 et L.
+461-3 du code de la sécurité sociale et contractée dans l'exercice ou à l'occasion de l'exercice par le militaire de ses
+fonctions dans les conditions mentionnées à ces tableaux ;
 
-2° S'il s'agit d'une maladie, qu'elle ait été constatée après le quatre-vingt-dixième jour de service effectif et avant le
-soixantième jour suivant l'une des dates mentionnées au 1°.
-
-En cas d'interruption de service d'une durée supérieure à quatre-vingt-dix jours, la présomption ne joue qu'après le quatre-
-vingt-dixième jour suivant la reprise du service actif.
-
-3° S'il s'agit d'une maladie provoquée par l'amiante, qu'elle soit désignée par les tableaux de maladies professionnelles
-prévus à l'article L. 461-2 du code de la sécurité sociale et contractée par le militaire dans l'exercice ou à l'occasion du
-service dans les conditions mentionnées à ces mêmes tableaux.
-
-La recherche d'imputabilité est effectuée au vu du dossier médical constitué pour chaque militaire lors de son examen de
-sélection et d'incorporation.
-
-La présomption définie aux 1° et 2° du présent article s'applique exclusivement, soit aux services accomplis en temps de
-guerre, au cours d'une expédition déclarée campagne de guerre ou en opération extérieure, soit au service accompli par les
-militaires pendant la durée légale du service national, les constatations étant faites dans les délais prévus aux précédents
-alinéas.
-
-Dans tous les cas, la filiation médicale doit être établie entre la blessure ou la maladie ayant fait l'objet de la
-constatation et l'infirmité invoquée.
+4° Toute maladie constatée au cours d'une guerre, d'une expédition déclarée campagne de guerre, d'une opération extérieure
+mentionnée à l'article L. 4123-4 du code de la défense ou pendant la durée légale du service national, à compter du quatre-
+vingt-dixième jour de service effectif et avant le soixantième jour suivant la date de retour sur le lieu d'affectation
+habituelle ou la date de renvoi du militaire dans ses foyers. En cas d'interruption de service d'une durée supérieure à
+quatre-vingt-dix jours, la présomption ne joue qu'à compter du quatre-vingt-dixième jour suivant la reprise du service actif.
 
 **Nota:**
 
-
+Aux termes de l'article 54 II de la loi n° 2018-607 du 13 juillet 2018, le 1° de l'article L. 121-2 du code des pensions
+militaires d'invalidité et des victimes de guerre, dans sa rédaction résultant de la présente loi, s'applique aux demandes de
+pension se rapportant aux blessures imputables à un accident survenu après la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -1647,12 +1650,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 134 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 54 (V)
 
 _Cite_:
 
   - Code de la défense. - art. L4123-4
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L121-1
+  - Code de la sécurité sociale. - art. L461-1
+  - Code de la sécurité sociale. - art. L461-2
+  - Code de la sécurité sociale. - art. L461-3
 
 _Anciens textes_:
 
@@ -1661,6 +1666,59 @@ _Anciens textes_:
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R121-2 (V)
+
+
+###### Article L121-2-1
+
+Si une ou plusieurs conditions tenant au délai de prise en charge, à la durée d'exposition ou à la liste limitative des
+travaux ne sont pas remplies, la maladie telle qu'elle est désignée par un tableau de maladies professionnelles mentionné aux
+articles L. 461-1, L. 461-2 et L. 461-3 du code de la sécurité sociale peut être reconnue imputable au service lorsque le
+militaire ou ses ayants cause établissent qu'elle est directement causée par l'exercice des fonctions.
+
+Peut également être reconnue imputable au service une maladie non désignée dans les tableaux précités lorsque le militaire ou
+ses ayants cause établissent qu'elle est essentiellement et directement causée par l'exercice des fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 54 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L461-1
+  - Code de la sécurité sociale. - art. L461-2
+  - Code de la sécurité sociale. - art. L461-3
+
+
+###### Article L121-2-2
+
+Est reconnu imputable au service, lorsque le militaire ou ses ayants cause en apportent la preuve ou lorsque l'enquête permet
+à l'autorité administrative de disposer des éléments suffisants, l'accident de trajet dont est victime le militaire qui se
+produit sur le parcours habituel entre le lieu où s'accomplit son service et sa résidence ou son lieu de restauration et
+pendant la durée normale pour l'effectuer, sauf si un fait personnel du militaire ou toute autre circonstance particulière,
+étrangère notamment aux nécessités de la vie courante, est de nature à détacher l'accident du service.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 54 (V)
+
+
+###### Article L121-2-3
+
+La recherche d'imputabilité est effectuée au vu du dossier médical constitué pour chaque militaire lors de son examen de
+sélection et d'incorporation.
+
+Dans tous les cas, la filiation médicale doit être établie entre la blessure ou la maladie ayant fait l'objet de la
+constatation et l'infirmité invoquée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 54 (V)
 
 
 ###### Article L121-3
@@ -8942,39 +9000,49 @@ _Anciens textes_:
 
 ###### Article L242-1
 
-Les corps de la fonction publique de l'Etat et de la fonction publique hospitalière, classés en catégories B et C, ou de
-niveau équivalent, sont accessibles par la voie des emplois réservés, sauf exceptions tirées de la nature des emplois
-auxquels le corps donne accès ou du faible nombre des postes mis au recrutement, dont la liste est fixée par décret en
-Conseil d'Etat.
+I.-Sauf exceptions tirées de la nature des emplois auxquels le corps donne accès ou du faible nombre des postes mis au
+recrutement, dont la liste est fixée par décret en Conseil d'Etat, sont accessibles par la voie des emplois réservés : 
 
-Dans les cadres d'emplois de la fonction publique territoriale de catégories B et C, ou de niveau équivalent, les
-bénéficiaires mentionnés au chapitre Ier peuvent être recrutés par l'autorité territoriale conformément au a de l'article 38
-de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+1° Les corps de la fonction publique de l'Etat et de la fonction publique hospitalière classés en catégorie A, ou de niveau
+équivalent, pour les bénéficiaires mentionnés aux articles L. 241-2, L. 241-3 et L. 241-4 ; 
+
+2° Les corps de la fonction publique de l'Etat et de la fonction publique hospitalière classés en catégories B et C, ou de
+niveau équivalent, pour les bénéficiaires mentionnés au chapitre Ier du présent titre. 
+
+II.-Peuvent être recrutés par l'autorité territoriale conformément au a de l'article 38 de la loi n° 84-53 du 26 janvier 1984
+portant dispositions statutaires relatives à la fonction publique territoriale : 
+
+1° Dans les cadres d'emplois de la fonction publique territoriale de catégorie A, ou de niveau équivalent, les bénéficiaires
+mentionnés aux articles L. 241-2, L. 241-3 et L. 241-4 du présent code ; 
+
+2° Dans les cadres d'emplois de la fonction publique territoriale de catégories B et C, ou de niveau équivalent, les
+bénéficiaires mentionnés au chapitre Ier du présent titre.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément au III de l'article 26 de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions ne sont pas
+applicables aux militaires et aux anciens militaires inscrits avant l'entrée en vigueur de la présente loi sur les listes
+d'aptitude aux emplois réservés mentionnées à l'article L. 242-3 du code des pensions militaires d'invalidité et des victimes
+de guerre..
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-53 du 26 janvier 1984 - art. 38 (M)
+  - Loi n°84-53 du 26 janvier 1984 - art. 38
+  - Code des pensions militaires d'invalidité et de... - art. L241-2 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 26 (V)
 
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L242-2 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L242-2 (V)
   - Code des pensions militaires d'invalidité et de... - art. R242-2 (V)
 
 _Anciens textes_:
@@ -8986,16 +9054,21 @@ _Anciens textes_:
 
 Les postes mis au recrutement par la voie des emplois réservés pour l'application du présent chapitre sont déterminés, d'une
 part, par l'application d'un pourcentage au nombre de postes déclarés vacants pour chaque recrutement ouvert dans les
-catégories mentionnées au premier alinéa de l'article L. 242-1 par les autorités administratives compétentes et, d'autre
-part, à l'occasion de la déclaration des postes vacants par les autorités territoriales compétentes auprès du centre de
-gestion compétent.
+catégories mentionnées au I de l'article L. 242-1 par les autorités administratives compétentes et, d'autre part, à
+l'occasion de la déclaration des postes vacants par les autorités territoriales compétentes auprès du centre de gestion
+compétent.
+
+Le premier alinéa du présent article n'est pas applicable aux corps dont les membres sont recrutés par la voie de l'École
+nationale d'administration ou de l'Ecole polytechnique ni aux corps ou cadres d'emplois de niveau équivalent.
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent article.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément au III de l'article 26 de la loi n° 2018-607 du 13 juillet 2018, les dispositions prévues par le I ne sont pas
+applicables aux militaires et aux anciens militaires inscrits avant l'entrée en vigueur de la présente loi sur les listes
+d'aptitude aux emplois réservés mentionnées à l'article L. 242-3 du code des pensions militaires d'invalidité et des victimes
+de guerre.
 
 **Liens relatifs à cet article**
 
@@ -9003,13 +9076,13 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 26 (V)
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L242-1 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L242-1 (V)
 
 _Anciens textes_:
 
@@ -13940,7 +14013,8 @@ chargé des anciens combattants et victimes de guerre.
 
 Le conseil d'administration comprend des membres répartis en trois collèges :
 
-1° Le premier collège représentant les assemblées parlementaires et l'administration ;
+1° Le premier collège est composé d'un député et d'un sénateur, désignés, respectivement, par le président de l'Assemblée
+nationale et par le président du Sénat, et de représentants de l'administration ;
 
 2° Le deuxième collège représentant les anciens combattants et victimes de guerre, choisis parmi les catégories de
 ressortissants mentionnés à l'article L. 611-2 ;
@@ -13966,17 +14040,17 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L611-2 (VD)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 49 (V)
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. L613-2 (VD)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L611-2
 
 
 ###### Article L612-2
