@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-12-01
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -27047,11 +27047,11 @@ _Codifié par_:
 
 ###### Article R351-1
 
-Ainsi qu'il est dit à l'article R. 42 du code de la Légion d'honneur et de la médaille militaire, les militaires et assimilés
-qui obtiennent soit la médaille militaire, soit un grade dans l'ordre de la Légion d'honneur, en raison de blessures de
-guerre entraînant une invalidité définitive de 100 %, sont nommés chevaliers de la Légion d'honneur s'ils sont médaillés ou
-promus au grade supérieur dans l'ordre de la Légion d'honneur s'ils sont légionnaires. Ces décorations sont accordées au
-titre militaire avec traitement.
+Ainsi qu'il est dit à l'article R. 42 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du
+Mérite, les militaires et assimilés qui obtiennent soit la médaille militaire, soit un grade dans l'ordre de la Légion
+d'honneur, en raison de blessures de guerre entraînant une invalidité définitive de 100 %, sont nommés chevaliers de la
+Légion d'honneur s'ils sont médaillés ou promus au grade supérieur dans l'ordre de la Légion d'honneur s'ils sont
+légionnaires. Ces décorations sont accordées au titre militaire avec traitement.
 
 **Liens relatifs à cet article**
 
@@ -27059,13 +27059,13 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R42 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R42
 
 _Anciens textes_:
 
@@ -27074,19 +27074,20 @@ _Anciens textes_:
 
 ###### Article R351-2
 
-Ainsi qu'il est dit à l'article R. 43 du code de la Légion d'honneur et de la médaille militaire, les militaires et assimilés
-titulaires d'une pension d'invalidité définitive de 100 % avec bénéfice des articles L. 125-10 ou L. 133-1 du présent code en
-raison de blessures de guerre, qui ont obtenu une distinction dans la Légion d'honneur en application des dispositions de
-l'article R. 42 du code de la Légion d'honneur et de la médaille militaire ou des lois du 26 décembre 1923 et du 23 mars 1928
-peuvent, sur leur demande, et à condition d'avoir l'ancienneté du grade exigée par l'article R. 19 du code de la Légion
-d'honneur et de la médaille militaire, être promus à un nouveau grade dans l'ordre, sans traitement, sous réserve que leur
-candidature fasse l'objet d'un examen particulier, tenant compte des conditions dans lesquelles ils ont été blessés et des
-mutilations subies à la suite de ces blessures. 
+Ainsi qu'il est dit à l'article R. 43 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du
+Mérite, les militaires et assimilés titulaires d'une pension d'invalidité définitive de 100 % avec bénéfice des articles L.
+125-10 ou L. 133-1 du présent code en raison de blessures de guerre, qui ont obtenu une distinction dans la Légion d'honneur
+en application des dispositions de l'article R. 42 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre
+national du Mérite ou des lois du 26 décembre 1923 et du 23 mars 1928 peuvent, sur leur demande, et à condition d'avoir
+l'ancienneté du grade exigée par l'article R. 19 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre
+national du Mérite, être promus à un nouveau grade dans l'ordre, sans traitement, sous réserve que leur candidature fasse
+l'objet d'un examen particulier, tenant compte des conditions dans lesquelles ils ont été blessés et des mutilations subies à
+la suite de ces blessures.
 
 En aucun cas, les militaires qui ont bénéficié ou bénéficient des dispositions des lois du 30 mai 1923, modifiée par celle du
-30 mars 1928, du 26 décembre 1923, du 23 mars 1928, ou de l'article R. 42 du code de la Légion d'honneur et de la médaille
-militaire, ne peuvent, par application conjuguée de ces textes, obtenir plus de trois récompenses (médaille militaire ou
-distinction dans la Légion d'honneur).
+30 mars 1928, du 26 décembre 1923, du 23 mars 1928, ou de l'article R. 42 du code de la Légion d'honneur, de la Médaille
+militaire et de l'ordre national du Mérite, ne peuvent, par application conjuguée de ces textes, obtenir plus de trois
+récompenses (médaille militaire ou distinction dans la Légion d'honneur).
 
 **Liens relatifs à cet article**
 
@@ -27094,17 +27095,16 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R19 (V)
-  - Code de la Légion d'honneur et de la médaille m... - art. R42 (V)
-  - Code de la Légion d'honneur et de la médaille m... - art. R43 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L125-10 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L133-1 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R19
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R42
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L125-10
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L133-1
 
 _Anciens textes_:
 
@@ -27138,11 +27138,11 @@ _Cite_:
 
 ###### Article R351-4
 
-Ainsi qu'il est dit à l'article R. 45 du code de la Légion d'honneur et de la médaille militaire, la croix de chevalier de la
-Légion d'honneur, sans traitement, est attribuée aux pensionnés pour un taux d'invalidité de 100 % pour infirmités multiples,
-lorsqu'ils remplissent la double condition ci-après :
+Ainsi qu'il est dit à l'article R. 45 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du
+Mérite, la croix de chevalier de la Légion d'honneur, sans traitement, est attribuée aux pensionnés pour un taux d'invalidité
+de 100 % pour infirmités multiples, lorsqu'ils remplissent la double condition ci-après : 
 
-1° Etre atteint d'une invalidité principale d'au moins 80 % consécutive à une blessure de guerre ;
+1° Etre atteint d'une invalidité principale d'au moins 80 % consécutive à une blessure de guerre ; 
 
 2° Etre titulaire de la médaille militaire pour fait de guerre.
 
@@ -27152,13 +27152,13 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R45 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R45
 
 _Anciens textes_:
 
@@ -27233,8 +27233,9 @@ _Cite_:
 
 ###### Article R351-7
 
-Ainsi qu'il est dit à l'article R. 46 du code de la Légion d'honneur et de la médaille militaire, les maladies contractées ou
-présumées telles par les déportés résistants au cours de leur déportation sont assimilées aux blessures.
+Ainsi qu'il est dit à l'article R. 46 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du
+Mérite, les maladies contractées ou présumées telles par les déportés résistants au cours de leur déportation sont assimilées
+aux blessures. 
 
 En cas d'infirmités multiples résultant, soit de blessures, soit de maladies, soit de blessures associées à des maladies
 contractées ou aggravées en déportation, l'ensemble des infirmités est considéré comme une seule blessure et ouvre droit au
@@ -27246,14 +27247,14 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R39 (V)
-  - Code de la Légion d'honneur et de la médaille m... - art. R46 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R39
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R46
 
 _Anciens textes_:
 
@@ -27262,8 +27263,9 @@ _Anciens textes_:
 
 ###### Article R351-8
 
-Ainsi qu'il est dit à l'article R. 46-1 du code de la Légion d'honneur et de la médaille militaire, les maladies contractées
-ou présumées telles par les prisonniers du Viet-Minh au cours de leur captivité sont assimilées aux blessures.
+Ainsi qu'il est dit à l'article R. 46-1 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du
+Mérite, les maladies contractées ou présumées telles par les prisonniers du Viet-Minh au cours de leur captivité sont
+assimilées aux blessures. 
 
 En cas d'infirmités multiples résultant, soit de blessures, soit de maladies, soit de blessures associées à des maladies
 contractées ou aggravées en captivité, l'ensemble des infirmités est considéré comme une seule blessure et ouvre droit au
@@ -27279,14 +27281,14 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R39 (V)
-  - Code de la Légion d'honneur et de la médaille m... - art. R46-1 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R39
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R46-1
 
 
 ##### Section 4 : Contingents réservés aux membres de la Résistance<a id=335></a>
@@ -28910,13 +28912,13 @@ _Codifié par_:
 
 Le Premier ministre adresse au grand chancelier de la Légion d'honneur la liste des personnes concernées, ainsi que les
 mémoires auxquels sont joints un document d'état civil, un bulletin n° 2 du casier judiciaire et l'accord des personnes
-intéressées ou de leur famille. 
+intéressées ou de leur famille.
 
-L'avis du conseil de l'ordre de la Légion d'honneur est transmis au Premier ministre. 
+L'avis du conseil de l'ordre de la Légion d'honneur est transmis au Premier ministre.
 
 Pour les personnes tuées, le grand chancelier adresse directement son avis au Premier ministre, pour permettre une remise de
 la décoration lors des obsèques. Les décorations ainsi attribuées seront régularisées selon les dispositions de l'article R.
-26 du code de la Légion d'honneur et de la médaille militaire.
+26 du code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite.
 
 **Liens relatifs à cet article**
 
@@ -28928,13 +28930,13 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R26 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R26
 
 
 ###### Article D355-27
@@ -29045,8 +29047,8 @@ _Codifié par_:
 
 ###### Article D355-31
 
-Les règles de discipline fixées par le code de la Légion d'honneur et de la médaille militaire sont applicables aux
-titulaires de la médaille nationale de reconnaissance aux victimes du terrorisme.
+Les règles de discipline fixées par le code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite
+sont applicables aux titulaires de la médaille nationale de reconnaissance aux victimes du terrorisme.
 
 **Liens relatifs à cet article**
 
@@ -29058,9 +29060,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 28
 
 
 ## Livre IV : PUPILLES DE LA NATION<a id=353></a>
