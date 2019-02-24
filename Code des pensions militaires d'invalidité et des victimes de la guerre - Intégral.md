@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2018-12-09
+Version Consolidée au 2019-02-25
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -28603,6 +28603,8 @@ Les blessures sont matérialisées sur la barrette par autant d'étoiles que cel
 
 III. – Le droit au port de la médaille n'est pas subordonné à une remise de celle-ci.
 
+IV. – La médaille des blessés de guerre prend rang immédiatement après la médaille de la gendarmerie nationale.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -28613,9 +28615,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2019-124 du 22 février 2019 - art. 1
 
 
 ###### Article D355-18
