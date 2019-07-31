@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2019-02-25
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -34613,8 +34613,14 @@ _Codifié par_:
 
 ###### Article R622-19
 
-Des régies de recettes et d'avances peuvent être instituées dans les conditions prévues par le décret n° 92-681 du 20 juillet
-1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Des régies de recettes et d'avances peuvent être instituées dans les conditions prévues par le décret n° 2019-798 du 26
+juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -34622,17 +34628,17 @@ _Anciens textes_:
 
   - Décret n°92-106 du 30 janvier 1992 - art. 17 (Ab)
 
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
-
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R622-20
