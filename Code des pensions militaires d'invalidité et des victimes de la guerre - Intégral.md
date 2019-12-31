@@ -1,7 +1,7 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2019-12-03
+Version Consolidée au 2020-01-01
 ## Contenu: 
-  - [Partie législative (nouvelle) (art. L1 à L741-6)](#1)
+  - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
       - [Titre Ier : LES BÉNÉFICIAIRES (art. L111-1 à L115-1)](#3)
         - [Chapitre Ier : Les militaires et les personnes assimilées (art. L111-1 à L111-3)](#4)
@@ -172,432 +172,421 @@ Version Consolidée au 2019-12-03
       - [Titre II : INSTITUTION NATIONALE DES INVALIDES (art. L621-1 à L622-8)](#169)
         - [Chapitre Ier : Dispositions générales (art. L621-1 à L621-2)](#170)
         - [Chapitre II : Organisation administrative et financière (art. L622-1 à L622-8)](#171)
-    - [Livre VII : CONTENTIEUX DES PENSIONS (art. L711-1 à L741-6)](#172)
-      - [Titre Ier : DISPOSITIONS COMMUNES (art. L711-1 à L711-7)](#173)
-        - [Chapitre unique. (art. L711-1 à L711-7)](#174)
-      - [Titre II : ORGANISATION DES TRIBUNAUX DES PENSIONS ET DES COURS RÉGIONALES DES PENSIONS (art. L721-1 à L722-4)](#175)
-        - [Chapitre Ier : Organisation des tribunaux des pensions (art. L721-1 à L721-7)](#176)
-        - [Chapitre II : Organisation des cours régionales des pensions (art. L722-1 à L722-4)](#177)
-      - [Titre III : PROCÉDURE (art. L731-1 à L733-1)](#178)
-        - [Chapitre Ier : Procédure devant le tribunal des pensions (art. L731-1 à L731-2)](#179)
-        - [Chapitre II : Procédure devant la cour régionale des pensions (art. L732-1)](#180)
-        - [Chapitre III : Procédure devant le Conseil d'Etat (art. L733-1)](#181)
-      - [Titre IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À SAINT-PIERRE-ET-MIQUELON (art. L741-1 à L741-6)](#182)
-        - [Chapitre unique. (art. L741-1 à L741-6)](#183)
-          - [Section 1 : Dispositions générales (art. L741-1 à L741-2)](#184)
-          - [Section 2 : Organisation des juridictions (art. L741-3 à L741-6)](#185)
-  - [Partie réglementaire (nouvelle) (art. D111-1 à Annexe 2 (suite))](#186)
-    - [Livre Ier : LE DROIT À PENSION (art. D111-1 à R162-1)](#187)
-      - [Titre Ier : LES BÉNÉFICIAIRES (art. D111-1 à R112-6)](#188)
-        - [Chapitre Ier : Les militaires et les personnes assimilées (art. D111-1)](#189)
-        - [Chapitre II : Les membres des organisations civiles et militaires de la Résistance (art. D112-7 à R112-6)](#190)
-      - [Titre II : DÉTERMINATION DU DROIT À PENSION D'INVALIDITÉ (art. R121-1 à R125-3)](#191)
-        - [Chapitre Ier : Conditions générales d'ouverture du droit à pension aux militaires (art. R121-1 à R121-6)](#192)
-          - [Section 1 : Règles d'imputabilité et de minimum indemnisable. (art. R121-1 à R121-2)](#193)
-          - [Section 2 : Pensions définitives et pensions temporaires (art. R121-3 à R121-6)](#194)
-        - [Chapitre II : Dispositions applicables à certains militaires (art. R122-1 à R122-3)](#195)
-          - [Section 1 : Aumôniers militaires (art. R122-1)](#196)
-          - [Section 2 : Anciens personnels féminins (art. R122-2 à R122-3)](#197)
-        - [Chapitre III : Conditions applicables aux personnes assimilées aux militaires et aux membres de la Résistance (art. R123-1 à R123-6)](#198)
-          - [Section 1 : Les membres des organisations civiles et militaires de la Résistance. (art. R123-1 à R123-5)](#199)
-          - [Section 2 : Militaires et assimilés originaires des départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R123-6)](#200)
-        - [Chapitre IV : Conditions applicables aux victimes civiles de guerre (art. R124-1 à R124-4)](#201)
-          - [Section 1 : Dispositions générales. (art. R124-1)](#202)
-          - [Section 2 : Victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc (art. R124-2 à R124-3)](#203)
-          - [Section 3 : Victimes d'actes de terrorisme (art. R124-4)](#204)
-        - [Chapitre V : Calcul des pensions (art. D125-4 à R125-3)](#205)
-      - [Titre III : ALLOCATIONS ET MAJORATIONS (art. R131-1 à D135-2)](#206)
-        - [Chapitre Ier : Allocations spéciales aux grands invalides (art. R131-1 à R131-18)](#207)
-          - [Section 1 : Dispositions relatives aux allocations mentionnées à l'article L. 131-1 (art. R131-1 à R131-8)](#208)
-          - [Section 2 : Dispositions relatives à l'allocation mentionnée à l'article L.131-2 (art. R131-9 à R131-16)](#209)
-          - [Section 3 : Dispositions communes (art. R131-17 à R131-18)](#210)
-        - [Chapitre II : Allocations spéciales aux grands mutilés (art. R132-1 à R132-8)](#211)
-          - [Section 1 : Montant des allocations et règles de cumul (art. R132-1 à R132-3)](#212)
-          - [Section 2 : Procédure d'attribution des allocations (art. R132-4 à R132-7)](#213)
-          - [Section 3 : Dispositions applicables aux membres de la Résistance (art. R132-8)](#214)
-        - [Chapitre III : Majoration pour tierce personne (art. R133-1 à R133-2)](#215)
-        - [Chapitre IV : Majoration pour enfants (art. D134-1 à D134-2)](#216)
-        - [Chapitre V : Allocations spéciales aux aveugles de la Résistance (art. D135-1 à D135-2)](#217)
-      - [Titre IV : DROITS DES AYANTS CAUSE (art. R141-1 à R146-3)](#218)
-        - [Chapitre Ier : Ayants cause des militaires (art. R141-1 à D141-15)](#219)
-          - [Section 1 : Conditions d'ouverture des droits à pension des ayants cause des militaires (art. R141-1 à R141-4)](#220)
-          - [Section 2 : Détermination des taux et montants des pensions (art. D141-5 à D141-15)](#221)
-            - [Sous-section 1 : Les pensions de base. (art. D141-5)](#222)
-            - [Sous-section 2 : Majorations des pensions de conjoint et partenaire survivant. (art. D141-6 à D141-11)](#223)
-            - [Sous-section 3 : Montant des pensions des ascendants (art. D141-12 à D141-15)](#224)
-        - [Chapitre II : Ayants cause des personnes assimilées aux militaires et  des membres de la Résistance (art. R142-1)](#225)
-          - [Section unique :  Allocation aux conjoints et partenaires survivants des aveugles de la Résistance. (art. R142-1)](#226)
-        - [Chapitre III : Ayants cause des victimes civiles de guerre (art. R143-1 à R143-4)](#227)
-          - [Section 1 : Ayants cause des victimes de la guerre 1939-1945 (art. R143-1 à R143-2)](#228)
-          - [Section 2 : Ayants cause des victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc (art. R143-3 à R143-4)](#229)
-        - [Chapitre V : Secours attribué aux concubins (art. D145-1 à D145-3)](#230)
-        - [Chapitre VI : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. R146-1 à R146-3)](#231)
-      - [Titre V : PROCÉDURE D'ATTRIBUTION ET DE RÉVISION DES PENSIONS (art. R151-1 à R155-6)](#232)
-        - [Chapitre Ier : Demande et attribution des pensions d'invalidité des militaires et des personnes assimilées aux militaires (art. R151-1 à R151-22)](#233)
-          - [Section 1 : Présentation des demandes (art. R151-1 à R151-5)](#234)
-          - [Section 2 : Règles d'instruction des demandes et de concession des pensions (art. R151-6 à R151-19)](#235)
-          - [Section 3 : Dispositions applicables aux anciens militaires résidant à l'étranger (art. R151-20 à R151-22)](#236)
-        - [Chapitre II : Procédure applicable aux victimes civiles de guerre (art. D152-2 à R152-5)](#237)
-          - [Section 1 : Dispositions générales (art. D152-2 à R152-4)](#238)
-          - [Section 2 : Dispositions particulières applicables aux victimes d'actes de terrorisme (art. R152-5)](#239)
-        - [Chapitre III : Procédure applicable aux ayants cause (art. D153-5 à R153-8)](#240)
-          - [Section 1 : Ayants cause des militaires (art. D153-5 à R153-7)](#241)
-            - [Sous-section 1 : Instruction des demandes et procédure d'attribution des pensions (art. D153-5 à R153-4)](#242)
-            - [Sous-section 2 : Date d'entrée en jouissance de la pension (art. R153-7)](#243)
-          - [Section 2 : Ayants cause des personnes assimilées aux militaires et des victimes civiles de guerre (art. R153-8)](#244)
-        - [Chapitre IV : Révision (art. R154-1 à R154-2)](#245)
-        - [Chapitre V : Procédure applicable dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. D155-4 à R155-6)](#246)
-      - [Titre VI : RÉGIME DES PENSIONS CONCÉDÉES (art. R162-1)](#247)
-        - [Chapitre II : Règles de cumuls (art. R162-1)](#248)
-    - [Livre II : DROITS ANNEXES À LA PENSION (art. D211-5 à R251-2)](#249)
-      - [Titre Ier : PRISE EN CHARGE DES SOINS MÉDICAUX ET DE L'APPAREILLAGE (art. D211-5 à R215-1)](#250)
-        - [Chapitre Ier : Dispositions communes (art. D211-5 à R211-11)](#251)
-          - [Section 1 : Régime des prestations de soins (art. D211-5 à R211-6)](#252)
-          - [Section 2 : Secours et prestations complémentaires (art. R211-8 à R211-10)](#253)
-          - [Section 3 : Frais de transports (art. D211-12 à R211-11)](#254)
-        - [Chapitre II : Soins médicaux (art. D212-1 à D212-16)](#255)
-          - [Section 1 : Soins externes (art. D212-1 à R212-6)](#256)
-          - [Section 2 : Prise en charge des produits pharmaceutiques (art. D212-7)](#257)
-          - [Section 3 : Thermalisme (art. D212-8)](#258)
-          - [Section 4 : Prise en charge des actes et prestations dispensés par les chirurgiens-dentistes et stomatologues (art. D212-9)](#259)
-          - [Section 5 : Hospitalisations (art. D212-10 à D212-12)](#260)
-          - [Section 6 : Contrôle des soins (art. D212-13)](#261)
-          - [Section 7 : Règlement des frais occasionnés par les soins médicaux (art. D212-14 à D212-16)](#262)
-        - [Chapitre III : Appareillage (art. D213-1 à R213-2)](#263)
-        - [Chapitre IV : Dispositions applicables à l'étranger (art. D214-1)](#264)
-        - [Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie (art. R215-1)](#265)
-      - [Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE (art. D221-1 à D221-2)](#266)
-        - [Chapitre unique. (art. D221-1 à D221-2)](#267)
-      - [Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE (art. R242-1 à R244-1)](#268)
-        - [Chapitre II : Procédure d'accès aux emplois réservés (art. R242-1 à R242-22)](#269)
-          - [Section 1 : Dispositions générales (art. R242-1 à R242-16)](#270)
-          - [Section 2 : Dispositions relatives aux bénéficiaires des dispositions de l'article L. 242-7 (art. R242-17 à R242-22)](#271)
-        - [Annexe au chapitre II (art.  )](#272)
-        - [Chapitre III : Recrutement direct (art. R243-1)](#273)
-        - [Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. R244-1)](#274)
-      - [Titre V : CARTES D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS (art. D251-3 à R251-2)](#275)
-        - [Chapitre unique. (art. D251-3 à R251-2)](#276)
-    - [Livre III : CARTES ET TITRES, RETRAITE DU COMBATTANT ET DÉCORATIONS (art. R311-1 à D355-30)](#277)
-      - [Titre Ier : LA CARTE DU COMBATTANT (art. R311-1 à R311-28)](#278)
-        - [Chapitre unique. (art. R311-1 à R311-28)](#279)
-          - [Section 1 : Reconnaissance de la qualité de combattant (art. R311-1 à R311-21)](#280)
-            - [Sous-section 1 : Opérations entre 1918 et 1939, guerre 1939-1945 et guerres d'Indochine et de Corée (art. R311-1 à R311-8)](#281)
-            - [Sous-section 2 : Guerre d'Algérie et combats en Tunisie et au Maroc (art. R311-9 à R311-13)](#282)
-            - [Sous-section 3 : Opérations extérieures (art. R311-14 à R311-16)](#283)
-            - [Sous-section 4 : Bénéficiaires de citations (art. R311-17)](#284)
-            - [Sous-section 5 : Attribution de la qualité de combattant au titre de l'article L. 311-4 (art. R311-18 à R311-20)](#285)
-            - [Sous-section 6 : Dispositions générales (art. R311-21)](#286)
-          - [Section 2 : Procédure de délivrance de la carte du combattant (art. D311-23 à R*311-22)](#287)
-          - [Section 3 : Commission nationale de la carte du combattant (art. R311-27 à R311-28)](#288)
-      - [Titre II : LA RETRAITE DU COMBATTANT (art. D321-1 à D321-11)](#289)
-        - [Chapitre unique. (art. D321-1 à D321-11)](#290)
-          - [Section 1 : Montant de la retraite (art. D321-1)](#291)
-          - [Section 2 : Attribution et paiement de la retraite (art. D321-2 à R321-8)](#292)
-          - [Section 3 : Mesures d'application (art. D321-9)](#293)
-          - [Section 4 : Dispositions applicables en Nouvelle-Calédonie et dans les collectivités d'outre-mer (art. D321-10 à D321-11)](#294)
-      - [Titre III : LE TITRE DE RECONNAISSANCE DE LA NATION (art. D331-1 à R*331-5)](#295)
-        - [Chapitre unique. (art. D331-1 à R*331-5)](#296)
-      - [Titre IV : AUTRES TITRES ET DROITS CORRESPONDANTS (art. R341-1 à R347-5)](#297)
-        - [Chapitre Ier : Combattants volontaires de la Résistance (art. R341-1 à R341-13)](#298)
-          - [Section 1 : Conditions générales d'obtention de la qualité de combattant volontaire de la Résistance (art. R341-1 à R341-3)](#299)
-          - [Section 2 : Conditions applicables à certaines catégories de combattants volontaires de la Résistance (art. R341-4 à R341-13)](#300)
-            - [Sous-section 1 : Membres des Forces Françaises Libres (art. R341-4 à R341-5)](#301)
-            - [Sous-section 2 : Membres de la Résistance dans les camps de prisonniers (art. D341-7 à R341-6)](#302)
-            - [Sous-section 3 : Membres de la Résistance dans la France d'Outre-mer ou en territoires étrangers occupés par l'ennemi (art. R341-8 à R341-10)](#303)
-            - [Sous-section 4 : Procédure (art. D341-11 à R341-13)](#304)
-        - [Chapitre II : Déportés et internés résistants (art. R342-1 à D342-23)](#305)
-          - [Section 1 : Conditions générales d'obtention du titre de déporté ou d'interné résistant (art. R342-1 à R342-6)](#306)
-          - [Section 2 : Conditions applicables à certains déportés ou internés résistants (art. R342-7 à R342-13)](#307)
-          - [Section 3 : Procédure (art. D342-14 à D342-21)](#308)
-          - [Section 4 : Grades d'assimilation (art. D342-22 à D342-23)](#309)
-        - [Chapitre III : Déportés et internés politiques, patriotes résistant à l'occupation des départements du Rhin et de la Moselle et patriotes réfractaires à l'annexion de fait (art. R343-1 à R343-15)](#310)
-          - [Section 1 : Déportés et internés politiques (art. R343-1 à D343-13)](#311)
-            - [Sous-section 1 : Conditions d'obtention du titre de déporté ou d'interné politique (art. R343-1 à R343-6)](#312)
-            - [Sous-section 2 : Procédure (art. D343-7 à D343-13)](#313)
-          - [Section 2 : Patriotes résistant à l'occupation des départements du Rhin et de la Moselle, incarcérés en camps spéciaux (art. D343-14)](#314)
-          - [Section 3 : Patriotes réfractaires à l'annexion de fait (art. R343-15)](#315)
-        - [Chapitre IV : Réfractaires, personnes contraintes au travail en pays ennemi, patriotes transférés en Allemagne et autres titres en lien avec la guerre 1939-1945 (art. R344-1 à D344-23)](#316)
-          - [Section 1 : Réfractaires (art. R344-1 à D344-12)](#317)
-            - [Sous-section 1 : Conditions d'obtention du titre de réfractaire. (art. R344-1 à R344-6)](#318)
-            - [Sous-section 2 : Procédure (art. D344-7 à D344-12)](#319)
-          - [Section 2 : Personnes contraintes au travail en pays ennemi (art. R344-13 à D344-19)](#320)
-            - [Sous-section 1 : Conditions d'obtention du titre de personne contrainte au travail en pays ennemi (art. R344-13 à R344-14)](#321)
-            - [Sous-section 2 : Procédure (art. D344-15 à D344-19)](#322)
-          - [Section 3 : Patriotes transférés en Allemagne (art. D344-20)](#323)
-          - [Section 4 : Incorporés de force dans l'armée allemande ou dans les formations paramilitaires allemandes (art. D344-21 à D344-22)](#324)
-          - [Section 5 : Titre d'évadé (art. D344-23)](#325)
-        - [Chapitre V : Prisonniers du Viet-Minh (art. D345-1)](#326)
-        - [Chapitre VI : Victimes de la captivité en Algérie (art. D346-1)](#327)
-        - [Chapitre VII : Commission nationale des cartes et titres et dispositions communes (art. R347-1 à R347-5)](#328)
-      - [Titre V : DÉCORATIONS (art. R351-3 à D355-30)](#329)
-        - [Chapitre Ier : Légion d'honneur et médaille militaire (art. R351-3 à R351-10)](#330)
-          - [Section 1 : Légion d'honneur (art. R351-3 à R351-5)](#331)
-          - [Section 2 : Médaille militaire (art. R351-6)](#332)
-          - [Section 4 : Contingents réservés aux membres de la Résistance (art. R351-9 à R351-10)](#333)
-        - [Chapitre II : Croix du combattant volontaire de la Résistance et croix du combattant volontaire (art. R352-1 à R352-6)](#334)
-          - [Section 1 : Croix du combattant volontaire de la Résistance (art. R352-1)](#335)
-          - [Section 2 : Croix du combattant volontaire (art. D352-3 à R352-6)](#336)
-        - [Chapitre III : Croix du combattant et médaille de reconnaissance de la Nation (art. D353-3 à R353-6)](#337)
-          - [Section 1 : Croix du combattant (art. D353-3 à R353-2)](#338)
-          - [Section 2 : Médaille de reconnaissance de la Nation (art. D353-7 à R353-6)](#339)
-        - [Chapitre IV : Médaille des évadés (art. D354-13 à R354-14)](#340)
-        - [Chapitre V : Autres médaille et insignes (art. D355-2 à D355-30)](#341)
-          - [Section 1 : Médaille de la déportation et de l'internement pour faits de résistance (art. D355-2 à R355-1)](#342)
-          - [Section 2 : Médaille de la déportation et de l'internement (art. D355-4 à R355-3)](#343)
-          - [Section 3 : Médaille du patriote résistant à l'occupation des départements du Rhin et de la Moselle (art. R355-5)](#344)
-          - [Section 4 : Insigne de patriote réfractaire à l'annexion de fait (art. D355-7 à R355-8)](#345)
-          - [Section 5 : Insigne des réfractaires et des personnes contraintes au travail en pays ennemi (art. R355-9 à R355-10)](#346)
-          - [Section 6 : Insigne des parents, conjoints et partenaires survivants des « Morts pour la France » (art. D355-13 à R355-12)](#347)
-          - [Section 7 : Médaille des blessés de guerre (art. D355-15 à D355-18)](#348)
-          - [Section 8 : Insigne des victimes civiles (art. D355-20 à R355-19)](#349)
-          - [Section 9 : Médaille nationale de reconnaissance aux victimes du terrorisme (art. D355-23 à D355-30)](#350)
-    - [Livre IV : PUPILLES DE LA NATION (art. R412-1 à R441-5)](#351)
-      - [Titre Ier : DE LA QUALITÉ DE PUPILLE DE LA NATION (art. R412-1 à R412-9)](#352)
-        - [Chapitre II : Procédure d'adoption par la Nation (art. R412-1 à R412-9)](#353)
-      - [Titre II : EFFETS DE L'ADOPTION (art. R421-1 à R423-19)](#354)
-        - [Chapitre Ier : Protection et aide de l'Etat (art. R421-1 à R421-18)](#355)
-          - [Section 1 : Bourses et subventions (art. R421-1 à R421-15)](#356)
-          - [Section 2 : Subventions d'apprentissage (art. R421-16)](#357)
-          - [Section 3 : Dispositions communes aux subventions pour études et subventions pour apprentissage (art. R421-17 à R421-18)](#358)
-        - [Chapitre II : Tutelle des pupilles (art. R422-1 à R422-20)](#359)
-        - [Chapitre III : Placement des pupilles (art. R423-1 à R423-19)](#360)
-          - [Section 1 : Placement dans des établissements (art. R423-2 à R423-12)](#361)
-          - [Section 2 : Placement chez des particuliers (art. R423-13 à R423-19)](#362)
-      - [Titre III : DISPOSITIONS RELATIVES AUX PUPILLES RÉSIDANT À L'ÉTRANGER (art. R431-1 à R431-11)](#363)
-        - [Chapitre unique. (art. R431-1 à R431-11)](#364)
-          - [Section 1 : Reconnaissance du droit au titre de pupille de la Nation (art. R431-1 à R431-6)](#365)
-          - [Section 2 : Protection et aide. (art. R431-7 à R431-11)](#366)
-      - [Titre IV : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE (art. R441-1 à R441-5)](#367)
-        - [Chapitre unique. (art. R441-1 à R441-5)](#368)
-    - [Livre V : MENTIONS À L'ÉTAT CIVIL ET SEPULTURES (art. R*511-1 à R531-4)](#369)
-      - [Titre Ier : MENTIONS ET INSCRIPTION SUR LES MONUMENTS COMMÉMORATIFS (art. R*511-1 à R514-1)](#370)
-        - [Chapitre Ier : Mention "Mort pour la France" (art. R*511-1 à R511-2)](#371)
-        - [Chapitre II : Mention "Mort en déportation" (art. R*512-1 à R512-4)](#372)
-        - [Chapitre III : Mention "Mort pour le service de la Nation" (art. R513-1 à R513-5)](#373)
-        - [Chapitre IV : Mention "Victime du terrorisme" (art. R514-1)](#374)
-      - [Titre II : RESTITUTION DES CORPS ET SÉPULTURES PERPÉTUELLES (art. R521-1 à D523-2)](#375)
-        - [Chapitre Ier : Transfert et restitution des corps (art. R521-1 à R521-9)](#376)
-        - [Chapitre II : Sépultures perpétuelles (art. R522-1 à R522-13)](#377)
-          - [Section 1 : Dispositions générales (art. R522-1 à R522-12)](#378)
-          - [Section 2 : Dispositions concernant les personnes civiles (art. R522-13)](#379)
-        - [Chapitre III : Voyages sur les tombes ou sur les lieux du crime (art. D523-1 à D523-2)](#380)
-      - [Titre III : DISPOSITIONS RELATIVES AUX COLLECTIVITES D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE (art. R531-1 à R531-4)](#381)
-        - [Chapitre unique. (art. R531-1 à R531-4)](#382)
-    - [Livre VI : INSTITUTIONS (art. R611-1 à R622-22)](#383)
-      - [Titre Ier : OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE (art. R611-1 à R613-18)](#384)
-        - [Chapitre Ier : Dispositions générales (art. R611-1 à R611-4)](#385)
-        - [Chapitre II : Organisation administrative et financière (art. R612-1 à R612-26)](#386)
-          - [Section 1 : Le conseil d'administration et les commissions (art. R612-1 à R612-8)](#387)
-          - [Section 2 : Le directeur général (art. R612-9 à R612-13)](#388)
-          - [Section 3 : Le comité d'honneur (art. D612-14)](#389)
-          - [Section 4 : Le régime financier (art. R612-15 à R612-20)](#390)
-          - [Section 5 : Modalités de gestion de l'œuvre nationale du Bleuet de France (art. R612-21 à R612-26)](#391)
-        - [Chapitre III : Structures territoriales (art. R613-1 à R613-18)](#392)
-          - [Section 1 : Dispositions générales (art. R613-1 à R613-2)](#393)
-          - [Section 2 : Services départementaux (art. D613-4 à R613-3)](#394)
-          - [Section 3 : Conseils départementaux pour les anciens combattants et victimes de guerre et la mémoire de la Nation (art. R613-5 à R613-11)](#395)
-          - [Section 4 : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie (art. D613-12 à R613-18)](#396)
-            - [Sous-section 1 : Dispositions générales (art. D613-12)](#397)
-            - [Sous-section 2 : Dispositions relatives à la Guyane et à la Martinique (art. R613-13)](#398)
-            - [Sous-section 3 : Dispositions relatives à la Nouvelle-Calédonie et à la Polynésie française (art. R613-14 à R613-18)](#399)
-      - [Titre II : INSTITUTION NATIONALE DES INVALIDES (art. R*621-2 à R622-22)](#400)
-        - [Chapitre Ier : Dispositions générales (art. R*621-2 à R621-13)](#401)
-          - [Section 1 : Le centre de pensionnaires (art. R*621-2 à R621-7)](#402)
-          - [Section 2 : Le centre médico-chirurgical (art. R621-8 à R621-12)](#403)
-          - [Section 3 : Le centre d'études et de recherches sur l'appareillage des handicapés (art. R621-13)](#404)
-        - [Chapitre II : Organisation administrative et financière (art. R*622-1 à R622-22)](#405)
-          - [Section 1 : Conseil d'administration (art. R*622-1 à R622-8)](#406)
-          - [Section 2 : Organisation et fonctionnement des services (art. R622-9 à R622-16)](#407)
-          - [Section 3 : Organisation financière et comptable (art. R622-17 à R622-22)](#408)
-    - [Livre VII : CONTENTIEUX DES PENSIONS (art. R711-1 à  )](#409)
-      - [Titre Ier : DISPOSITIONS COMMUNES (art. R711-1 à R711-10)](#410)
-        - [Chapitre unique. (art. R711-1 à R711-10)](#411)
-          - [Section 1 : Compétence territoriale des juridictions des pensions (art. R711-1 à R711-2)](#412)
-          - [Section 2 : Commissaires du gouvernement (art. D711-4 à R711-3)](#413)
-          - [Section 3 : Magistrats honoraires (art. D711-5)](#414)
-          - [Section 4 : Indemnités et frais de justice (art. D711-6 à D711-9)](#415)
-          - [Section 5 : Dispositions applicables au contentieux des soins médicaux et de l'appareillage (art. R711-10)](#416)
-      - [Titre II : ORGANISATION DES TRIBUNAUX DES PENSIONS ET DES COURS REGIONALES DES PENSIONS (art. D721-1 à R722-4)](#417)
-        - [Chapitre Ier : Organisation des tribunaux des pensions (art. D721-1 à R721-9)](#418)
-          - [Section 1 : Siège et ressort des tribunaux des pensions (art. D721-1)](#419)
-          - [Section 2 : Désignation de l'assesseur médecin (art. R721-2)](#420)
-          - [Section 3 : Désignation de l'assesseur pensionné (art. R721-3 à R721-6)](#421)
-          - [Section 4 : Cessation de fonctions des membres du tribunal (art. R721-7)](#422)
-          - [Section 5 : Indemnités et rémunération des membres du tribunal des pensions (art. D721-8)](#423)
-          - [Section 6 : Greffier du tribunal (art. R721-9)](#424)
-        - [Chapitre II : Organisation des cours régionales des pensions (art. D722-1 à R722-4)](#425)
-      - [Titre III : PROCÉDURE (art. R731-1 à R733-1)](#426)
-        - [Chapitre Ier : Procédure devant le tribunal des pensions (art. R731-1 à R731-19)](#427)
-          - [Section 1 : Dispositions générales (art. R731-1 à R731-8)](#428)
-          - [Section 2 : Conciliation (art. R731-9 à R731-14)](#429)
-          - [Section 3 : Expertise judiciaire et mesures d'instruction (art. R731-15 à R731-16)](#430)
-          - [Section 4 : Audience (art. R731-17 à R731-18)](#431)
-          - [Section 5 : Jugements (art. R731-19)](#432)
-        - [Chapitre II : Procédure devant la cour régionale des pensions (art. R732-1 à R732-3)](#433)
-        - [Chapitre III : Procédure devant le Conseil d'Etat (art. R733-1)](#434)
-      - [Titre IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À SAINT-PIERRE-ET-MIQUELON (art. D741-1 à R741-13)](#435)
-        - [Chapitre unique. (art. D741-1 à R741-13)](#436)
-          - [Section 1 : Organisation des tribunaux des pensions (art. D741-1 à R741-4)](#437)
-          - [Section 2 : Organisation des cours des pensions (art. D741-5 à D741-6)](#438)
-          - [Section 3 : Procédure (art. R741-7 à R741-9)](#439)
-          - [Section 4 : Indemnités et frais (art. R741-10 à R741-12)](#440)
-          - [Section 5 : Disposition générale (art. R741-13)](#441)
-      - [ANNEXES AU LIVRE VII (art.  )](#442)
-    - [ANNEXES AU CODE DES PENSIONS MILITAIRES D'INVALIDITÉ ET DES VICTIMES DE GUERRE (art. Annexe 1 à Annexe 2 (suite))](#443)
-  - [Partie législative (art. L41 à L491)](#444)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L41 à L105)](#445)
-      - [Titre II : Emoluments complémentaires. (art. L41)](#446)
-        - [Chapitre III : Indemnité de soins aux tuberculeux. (art. L41)](#447)
-      - [Titre III : Droits à pension des conjoints survivants et des orphelins. (art. L52-2)](#448)
-        - [Chapitre II : Fixation de la pension. (art. L52-2)](#449)
-      - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L105)](#450)
-        - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L105)](#451)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux (art. L140 à L252-3)](#452)
-      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés (art. L140 à L166)](#453)
-        - [Chapitre II : Autres personnels militaires. (art. L140 à L149)](#454)
-        - [Chapitre III : Affectés spéciaux, membres de la défense passive requis (art. L150 à L153)](#455)
-          - [Section 1 : Affectés spéciaux. (art. L150)](#456)
-          - [Section 2 : Défense passive. (art. L151 à L153)](#457)
-        - [Chapitre IV : Dispositions applicables à certains fonctionnaires. (art. L158)](#458)
-        - [Chapitre V : Marins du commerce (art. L163 à L165)](#459)
-          - [Section 2 : Dispositions spéciales à la guerre 1939-1945. (art. L163 à L165)](#460)
-        - [Chapitre VI : Formation préliminaire. (art. L166)](#461)
-      - [Titre II : Membres des organisations civiles et militaires de la Résistance (art. L173 à L188)](#462)
-        - [Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance (art. L173 à L175)](#463)
-          - [Section 1 : Membres des FFI et membres de la Résistance. (art. L173 à L175)](#464)
-        - [Chapitre II : Du droit à pension (art. L188)](#465)
-          - [Section 5 : Bénéficiaires spéciaux (art. L188)](#466)
-            - [Paragraphe 1 : FFI et membres de la Résistance. (art. L188)](#467)
-      - [Titre III : Règles applicables aux victimes civiles (art. L194 à L208)](#468)
-        - [Chapitre Ier : Victimes civiles de la guerre (art. L194 à L208)](#469)
-          - [Section 1 : Détermination du droit à pension (art. L194 à L208)](#470)
-            - [Paragraphe 1 : Victimes de la guerre 1914-1918. (art. L194 à L196)](#471)
-            - [Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées. (art. L204 à L207)](#472)
-            - [Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale. (art. L208)](#473)
-      - [Titre IV : Alsaciens et Lorrains (art. L230)](#474)
-        - [Chapitre II : Militaires ayant servi dans l'armée allemande (art. L230)](#475)
-          - [Section 2 : Au cours de la guerre 1914-1918. (art. L230)](#476)
-      - [Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer (art. L248 à L250)](#477)
-        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. L248 à L250)](#478)
-      - [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code. (art. L252-3)](#479)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre (art. L265 à L340)](#480)
-      - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L265 à L314)](#481)
-        - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L265)](#482)
-          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L265)](#483)
-        - [Chapitre II : Statut des déportés et internés de la Résistance (art. L277)](#484)
-          - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L277)](#485)
-        - [Chapitre III : Statut des déportés et internés politiques (art. L294)](#486)
-          - [Section 1 : De la qualité de déporté et interné politique. (art. L294)](#487)
-        - [Chapitre IV : Statut des réfractaires. (art. L300 à L303)](#488)
-          - [Section 1 : De la qualité de réfractaire. (art. L300)](#489)
-          - [Section 2 : Droits des réfractaires. (art. L303)](#490)
-        - [Chapitre V : Statut des personnes contraintes au travail (art. L312 à L314)](#491)
-          - [Section 1 : Définition des bénéficiaires. (art. L312)](#492)
-          - [Section 2 : Droit des personnes contraintes au travail. (art. L314)](#493)
-      - [Titre III : Droits et avantages accessoires (art. L336 à L340)](#494)
-        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires (art. L336 à L340)](#495)
-          - [Section 3 : Pécule et indemnisations diverses. (art. L336 à L340)](#496)
-    - [Livre IV : Etat civil et sépultures (art. L491)](#497)
-      - [Chapitre Ier : Mention "Mort pour la France". (art. L491)](#498)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R30 à R391-7)](#499)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R30 à R34-5)](#500)
-      - [Titre II : Emoluments complémentaires. (art. R30 à R34-5)](#501)
-        - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. R30 à R34-5)](#502)
-          - [Section 1 : Procédure d'attribution des allocations spéciales. (art. R30)](#503)
-          - [Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose. (art. R34-2 à R34-5)](#504)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. R147 à R215)](#505)
-      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. R147 à R154)](#506)
-        - [Chapitre III : Afféctés spéciaux et membres de la défense passive. (art. R147 à R154)](#507)
-          - [Section 1 : Défense passive. (art. R147 à R154)](#508)
-      - [Titre II : Membres des organisations civiles et militaires de la Résistance. (art. R168)](#509)
-        - [Chapitre II : Du droit à pension des membres de la Résistance. (art. R168)](#510)
-      - [Titre IV : Alsaciens et Lorrains. (art. R215)](#511)
-        - [Chapitre II : Militaires ayant servi dans l'armée allemande. (art. R215)](#512)
-          - [Section 2 : Procédure de liquidation. (art. R215)](#513)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. R228 à R391-7)](#514)
-      - [Titre Ier : Carte et retraite du combattant. (art. R228)](#515)
-        - [Chapitre Ier : Carte du combattant. (art. R228)](#516)
-          - [Section 1 : De la qualité de combattant. (art. R228)](#517)
-      - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R257 à R378)](#518)
-        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. R257 à R279)](#519)
-          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. R257)](#520)
-          - [Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance. (art. R266)](#521)
-            - [Paragraphe 2 : Demande du titre de combattant volontaire de la Résistance. (art. R266)](#522)
-          - [Section 4 : Conditions d'application aux membres des F.F.L. et aux membres de la Résistance ayant résisté dans les camps de prisonniers ou ayant servi dans les pays d'outre-mer ou en territoires étrangers occupés par l'ennemi. (art. R272 à R279)](#523)
-            - [Paragraphe 1er : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres des forces françaises libres. (art. R272)](#524)
-            - [Paragraphe 2 : De la Résistance dans les camps de prisonniers. (art. R275)](#525)
-            - [Paragraphe 3 : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres de la Résistance ayant servi dans les départements et pays d'outre-mer ou en territoires étrangers occupés par l'ennemi. (art. R279)](#526)
-        - [Chapitre II : Statut des déportés et internés résistants. (art. R297 à R321)](#527)
-          - [Section 1 : De la qualité de déporté et interné résistant. (art. R297)](#528)
-            - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#529)
-          - [Section 2 : Droits des déportés et internés résistants. (art. R301)](#530)
-          - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R321)](#531)
-            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R321)](#532)
-        - [Chapitre III : Statut des déportés et internés politiques. (art. R334)](#533)
-          - [Section 1 : De la qualité de déporté et interné politique. (art. R334)](#534)
-            - [Paragraphe 3 : Cas d'exclusion. (art. R334)](#535)
-        - [Chapitre IV : Statut des réfractaires. (art. R361)](#536)
-          - [Section 2 : Procédure d'attribution du titre de réfractaire. (art. R361)](#537)
-        - [Chapitre V : Statut des personnes contraintes au travail. (art. R378)](#538)
-          - [Section 2 : Procédure de reconnaissance des droits. (art. R378)](#539)
-      - [Titre III : Droits et avantages accessoires. (art. R391-3 à R391-7)](#540)
-        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. R391-3 à R391-7)](#541)
-          - [Section 2 : Pécule et indemnisations diverses. (art. R391-3 à R391-7)](#542)
-  - [Partie réglementaire - Décrets simples (art. D8 à D437)](#543)
-    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. D8 à D19)](#544)
-      - [Titre II : Emoluments complémentaires. (art. D8 à D19)](#545)
-        - [Chapitre III : Indemnités de soins aux tuberculeux. (art. D8 à D19)](#546)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. D243 à D250)](#547)
-      - [Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer. (art. D243 à D250)](#548)
-        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. D243 à D250)](#549)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. D271-5 à D294)](#550)
-      - [Titre III : Droits et avantages accessoires. (art. D271-5 à D294)](#551)
-        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. D271-5 à D271-6)](#552)
-        - [Chapitre III : Décorations et insignes. (art. D285 à D294)](#553)
-          - [Section 5 : Médaille commémorative française de la guerre 1939-1945. (art. D285 à D294)](#554)
-    - [Livre IV : Etat civil et sépultures. (art. D404)](#555)
-      - [Chapitre II : Transferts et restitutions de corps. (art. D404)](#556)
-    - [Livre V : Institutions. (art. D437)](#557)
-      - [Titre Ier : Offices des anciens combattants et victimes de guerre. (art. D437)](#558)
-        - [Chapitre Ier : Office national. (art. D437)](#559)
-          - [Section 3 : Composition. (art. D437)](#560)
-  - [Partie réglementaire - Arrêtés (art. A115 à A186-2)](#561)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. A115 à A186-2)](#562)
-      - [Titre Ier : Carte et retraite du combattant. (art. A115 à A142)](#563)
-        - [Chapitre Ier : Carte du combattant. (art. A115 à A142)](#564)
-          - [Section 1 : De la qualité de combattant (art. A116 à A126)](#565)
-            - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#566)
-            - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A123-1)](#567)
-            - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-2 et A123-3 à A123-5)](#568)
-            - [Paragraphe 3 bis : Marins du commerce. (art. A123-6 à A123-9)](#569)
-            - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A126)](#570)
-          - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#571)
-            - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A134-7)](#572)
-            - [Paragraphe 2 : Demande et délivrance de la carte. (art. A137 à A142)](#573)
-      - [Titre II : Statut des résistants, déportés, internés et réfractaires. (art. A158 à A168)](#574)
-        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. A158 à A159-1)](#575)
-        - [Chapitre II : Statut des déportés et internés de la Résistance. (art. A160 à A162)](#576)
-        - [Chapitre III : Statut des déportés et internés politiques. (art. A165-1)](#577)
-        - [Chapitre IV : Statut des réfractaires. (art. A166 à A168)](#578)
-      - [Titre III : Droits et avantages accessoires. (art. A169 à A186-2)](#579)
-        - [Chapitre Ier : Droits attachés à la qualité de pensionné. (art. A169 à A172-1)](#580)
-          - [Section 1 : Réduction sur les chemins de fer. (art. A169)](#581)
-          - [Section 2 : Cartes de priorité. (art. A172-1)](#582)
-            - [Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens). (art. A172-1)](#583)
-        - [Chapitre III : Décorations et insignes. (art. A177 à A186-2)](#584)
-          - [Section 1 : Légion d'honneur et médaille militaire. (art. A177 à A178)](#585)
-          - [Section 3 : Médaille de la déportation et de l'internement pour faits de résistance. (art. A186-2)](#586)
-  - [Annexes (art. Annexe 1, art. 1 à Annexe)](#587)
-    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#588)
-      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#589)
-        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#590)
-        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#591)
-        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#592)
-        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#593)
-        - [Convention franco-britannique du 23 janvier 1950 (art. Annexe 5, art. 1 à Annexe 5, art. 4)](#594)
-    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. Annexe)](#595)
-      - [Titre III : Droits et avantages accessoires. (art. Annexe)](#596)
-        - [Chapitre IV : Emplois réservés. (art. Annexe)](#597)
+    - [Livre VII : CONTENTIEUX DES PENSIONS (art. L711-1 à L711-5)](#172)
+      - [Titre Ier : DISPOSITIONS COMMUNES (art. L711-1 à L711-5)](#173)
+        - [Chapitre unique. (art. L711-1 à L711-5)](#174)
+  - [Partie réglementaire (nouvelle) (art. D111-1 à Annexe 2 (suite))](#175)
+    - [Livre Ier : LE DROIT À PENSION (art. D111-1 à R162-1)](#176)
+      - [Titre Ier : LES BÉNÉFICIAIRES (art. D111-1 à R112-6)](#177)
+        - [Chapitre Ier : Les militaires et les personnes assimilées (art. D111-1)](#178)
+        - [Chapitre II : Les membres des organisations civiles et militaires de la Résistance (art. D112-7 à R112-6)](#179)
+      - [Titre II : DÉTERMINATION DU DROIT À PENSION D'INVALIDITÉ (art. R121-1 à R125-3)](#180)
+        - [Chapitre Ier : Conditions générales d'ouverture du droit à pension aux militaires (art. R121-1 à R121-6)](#181)
+          - [Section 1 : Règles d'imputabilité et de minimum indemnisable. (art. R121-1 à R121-2)](#182)
+          - [Section 2 : Pensions définitives et pensions temporaires (art. R121-3 à R121-6)](#183)
+        - [Chapitre II : Dispositions applicables à certains militaires (art. R122-1 à R122-3)](#184)
+          - [Section 1 : Aumôniers militaires (art. R122-1)](#185)
+          - [Section 2 : Anciens personnels féminins (art. R122-2 à R122-3)](#186)
+        - [Chapitre III : Conditions applicables aux personnes assimilées aux militaires et aux membres de la Résistance (art. R123-1 à R123-6)](#187)
+          - [Section 1 : Les membres des organisations civiles et militaires de la Résistance. (art. R123-1 à R123-5)](#188)
+          - [Section 2 : Militaires et assimilés originaires des départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R123-6)](#189)
+        - [Chapitre IV : Conditions applicables aux victimes civiles de guerre (art. R124-1 à R124-4)](#190)
+          - [Section 1 : Dispositions générales. (art. R124-1)](#191)
+          - [Section 2 : Victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc (art. R124-2 à R124-3)](#192)
+          - [Section 3 : Victimes d'actes de terrorisme (art. R124-4)](#193)
+        - [Chapitre V : Calcul des pensions (art. D125-4 à R125-3)](#194)
+      - [Titre III : ALLOCATIONS ET MAJORATIONS (art. R131-1 à D135-2)](#195)
+        - [Chapitre Ier : Allocations spéciales aux grands invalides (art. R131-1 à R131-18)](#196)
+          - [Section 1 : Dispositions relatives aux allocations mentionnées à l'article L. 131-1 (art. R131-1 à R131-8)](#197)
+          - [Section 2 : Dispositions relatives à l'allocation mentionnée à l'article L.131-2 (art. R131-9 à R131-16)](#198)
+          - [Section 3 : Dispositions communes (art. R131-17 à R131-18)](#199)
+        - [Chapitre II : Allocations spéciales aux grands mutilés (art. R132-1 à R132-8)](#200)
+          - [Section 1 : Montant des allocations et règles de cumul (art. R132-1 à R132-3)](#201)
+          - [Section 2 : Procédure d'attribution des allocations (art. R132-4 à R132-7)](#202)
+          - [Section 3 : Dispositions applicables aux membres de la Résistance (art. R132-8)](#203)
+        - [Chapitre III : Majoration pour tierce personne (art. R133-1 à R133-2)](#204)
+        - [Chapitre IV : Majoration pour enfants (art. D134-1 à D134-2)](#205)
+        - [Chapitre V : Allocations spéciales aux aveugles de la Résistance (art. D135-1 à D135-2)](#206)
+      - [Titre IV : DROITS DES AYANTS CAUSE (art. R141-1 à R146-3)](#207)
+        - [Chapitre Ier : Ayants cause des militaires (art. R141-1 à D141-15)](#208)
+          - [Section 1 : Conditions d'ouverture des droits à pension des ayants cause des militaires (art. R141-1 à R141-4)](#209)
+          - [Section 2 : Détermination des taux et montants des pensions (art. D141-5 à D141-15)](#210)
+            - [Sous-section 1 : Les pensions de base. (art. D141-5)](#211)
+            - [Sous-section 2 : Majorations des pensions de conjoint et partenaire survivant. (art. D141-6 à D141-11)](#212)
+            - [Sous-section 3 : Montant des pensions des ascendants (art. D141-12 à D141-15)](#213)
+        - [Chapitre II : Ayants cause des personnes assimilées aux militaires et  des membres de la Résistance (art. R142-1)](#214)
+          - [Section unique :  Allocation aux conjoints et partenaires survivants des aveugles de la Résistance. (art. R142-1)](#215)
+        - [Chapitre III : Ayants cause des victimes civiles de guerre (art. R143-1 à R143-4)](#216)
+          - [Section 1 : Ayants cause des victimes de la guerre 1939-1945 (art. R143-1 à R143-2)](#217)
+          - [Section 2 : Ayants cause des victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc (art. R143-3 à R143-4)](#218)
+        - [Chapitre V : Secours attribué aux concubins (art. D145-1 à D145-3)](#219)
+        - [Chapitre VI : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. R146-1 à R146-3)](#220)
+      - [Titre V : PROCÉDURE D'ATTRIBUTION ET DE RÉVISION DES PENSIONS (art. R151-1 à R155-6)](#221)
+        - [Chapitre Ier : Demande et attribution des pensions d'invalidité des militaires et des personnes assimilées aux militaires (art. R151-1 à R151-22)](#222)
+          - [Section 1 : Présentation des demandes (art. R151-1 à R151-5)](#223)
+          - [Section 2 : Règles d'instruction des demandes et de concession des pensions (art. R151-6 à R151-19)](#224)
+          - [Section 3 : Dispositions applicables aux anciens militaires résidant à l'étranger (art. R151-20 à R151-22)](#225)
+        - [Chapitre II : Procédure applicable aux victimes civiles de guerre (art. D152-2 à R152-5)](#226)
+          - [Section 1 : Dispositions générales (art. D152-2 à R152-4)](#227)
+          - [Section 2 : Dispositions particulières applicables aux victimes d'actes de terrorisme (art. R152-5)](#228)
+        - [Chapitre III : Procédure applicable aux ayants cause (art. D153-5 à R153-8)](#229)
+          - [Section 1 : Ayants cause des militaires (art. D153-5 à R153-7)](#230)
+            - [Sous-section 1 : Instruction des demandes et procédure d'attribution des pensions (art. D153-5 à R153-4)](#231)
+            - [Sous-section 2 : Date d'entrée en jouissance de la pension (art. R153-7)](#232)
+          - [Section 2 : Ayants cause des personnes assimilées aux militaires et des victimes civiles de guerre (art. R153-8)](#233)
+        - [Chapitre IV : Révision (art. R154-1 à R154-2)](#234)
+        - [Chapitre V : Procédure applicable dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. D155-4 à R155-6)](#235)
+      - [Titre VI : RÉGIME DES PENSIONS CONCÉDÉES (art. R162-1)](#236)
+        - [Chapitre II : Règles de cumuls (art. R162-1)](#237)
+    - [Livre II : DROITS ANNEXES À LA PENSION (art. D211-5 à R251-2)](#238)
+      - [Titre Ier : PRISE EN CHARGE DES SOINS MÉDICAUX ET DE L'APPAREILLAGE (art. D211-5 à R215-1)](#239)
+        - [Chapitre Ier : Dispositions communes (art. D211-5 à R211-11)](#240)
+          - [Section 1 : Régime des prestations de soins (art. D211-5 à R211-6)](#241)
+          - [Section 2 : Secours et prestations complémentaires (art. R211-8 à R211-10)](#242)
+          - [Section 3 : Frais de transports (art. D211-12 à R211-11)](#243)
+        - [Chapitre II : Soins médicaux (art. D212-1 à D212-16)](#244)
+          - [Section 1 : Soins externes (art. D212-1 à R212-6)](#245)
+          - [Section 2 : Prise en charge des produits pharmaceutiques (art. D212-7)](#246)
+          - [Section 3 : Thermalisme (art. D212-8)](#247)
+          - [Section 4 : Prise en charge des actes et prestations dispensés par les chirurgiens-dentistes et stomatologues (art. D212-9)](#248)
+          - [Section 5 : Hospitalisations (art. D212-10 à D212-12)](#249)
+          - [Section 6 : Contrôle des soins (art. D212-13)](#250)
+          - [Section 7 : Règlement des frais occasionnés par les soins médicaux (art. D212-14 à D212-16)](#251)
+        - [Chapitre III : Appareillage (art. D213-1 à R213-2)](#252)
+        - [Chapitre IV : Dispositions applicables à l'étranger (art. D214-1)](#253)
+        - [Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie (art. R215-1)](#254)
+      - [Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE (art. D221-1 à D221-2)](#255)
+        - [Chapitre unique. (art. D221-1 à D221-2)](#256)
+      - [Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE (art. R242-1 à R244-1)](#257)
+        - [Chapitre II : Procédure d'accès aux emplois réservés (art. R242-1 à R242-22)](#258)
+          - [Section 1 : Dispositions générales (art. R242-1 à R242-16)](#259)
+          - [Section 2 : Dispositions relatives aux bénéficiaires des dispositions de l'article L. 242-7 (art. R242-17 à R242-22)](#260)
+        - [Annexe au chapitre II (art.  )](#261)
+        - [Chapitre III : Recrutement direct (art. R243-1)](#262)
+        - [Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. R244-1)](#263)
+      - [Titre V : CARTES D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS (art. D251-3 à R251-2)](#264)
+        - [Chapitre unique. (art. D251-3 à R251-2)](#265)
+    - [Livre III : CARTES ET TITRES, RETRAITE DU COMBATTANT ET DÉCORATIONS (art. R311-1 à D355-30)](#266)
+      - [Titre Ier : LA CARTE DU COMBATTANT (art. R311-1 à R311-28)](#267)
+        - [Chapitre unique. (art. R311-1 à R311-28)](#268)
+          - [Section 1 : Reconnaissance de la qualité de combattant (art. R311-1 à R311-21)](#269)
+            - [Sous-section 1 : Opérations entre 1918 et 1939, guerre 1939-1945 et guerres d'Indochine et de Corée (art. R311-1 à R311-8)](#270)
+            - [Sous-section 2 : Guerre d'Algérie et combats en Tunisie et au Maroc (art. R311-9 à R311-13)](#271)
+            - [Sous-section 3 : Opérations extérieures (art. R311-14 à R311-16)](#272)
+            - [Sous-section 4 : Bénéficiaires de citations (art. R311-17)](#273)
+            - [Sous-section 5 : Attribution de la qualité de combattant au titre de l'article L. 311-4 (art. R311-18 à R311-20)](#274)
+            - [Sous-section 6 : Dispositions générales (art. R311-21)](#275)
+          - [Section 2 : Procédure de délivrance de la carte du combattant (art. D311-23 à R*311-22)](#276)
+          - [Section 3 : Commission nationale de la carte du combattant (art. R311-27 à R311-28)](#277)
+      - [Titre II : LA RETRAITE DU COMBATTANT (art. D321-1 à D321-11)](#278)
+        - [Chapitre unique. (art. D321-1 à D321-11)](#279)
+          - [Section 1 : Montant de la retraite (art. D321-1)](#280)
+          - [Section 2 : Attribution et paiement de la retraite (art. D321-2 à R321-8)](#281)
+          - [Section 3 : Mesures d'application (art. D321-9)](#282)
+          - [Section 4 : Dispositions applicables en Nouvelle-Calédonie et dans les collectivités d'outre-mer (art. D321-10 à D321-11)](#283)
+      - [Titre III : LE TITRE DE RECONNAISSANCE DE LA NATION (art. D331-1 à R*331-5)](#284)
+        - [Chapitre unique. (art. D331-1 à R*331-5)](#285)
+      - [Titre IV : AUTRES TITRES ET DROITS CORRESPONDANTS (art. R341-1 à R347-5)](#286)
+        - [Chapitre Ier : Combattants volontaires de la Résistance (art. R341-1 à R341-13)](#287)
+          - [Section 1 : Conditions générales d'obtention de la qualité de combattant volontaire de la Résistance (art. R341-1 à R341-3)](#288)
+          - [Section 2 : Conditions applicables à certaines catégories de combattants volontaires de la Résistance (art. R341-4 à R341-13)](#289)
+            - [Sous-section 1 : Membres des Forces Françaises Libres (art. R341-4 à R341-5)](#290)
+            - [Sous-section 2 : Membres de la Résistance dans les camps de prisonniers (art. D341-7 à R341-6)](#291)
+            - [Sous-section 3 : Membres de la Résistance dans la France d'Outre-mer ou en territoires étrangers occupés par l'ennemi (art. R341-8 à R341-10)](#292)
+            - [Sous-section 4 : Procédure (art. D341-11 à R341-13)](#293)
+        - [Chapitre II : Déportés et internés résistants (art. R342-1 à D342-23)](#294)
+          - [Section 1 : Conditions générales d'obtention du titre de déporté ou d'interné résistant (art. R342-1 à R342-6)](#295)
+          - [Section 2 : Conditions applicables à certains déportés ou internés résistants (art. R342-7 à R342-13)](#296)
+          - [Section 3 : Procédure (art. D342-14 à D342-21)](#297)
+          - [Section 4 : Grades d'assimilation (art. D342-22 à D342-23)](#298)
+        - [Chapitre III : Déportés et internés politiques, patriotes résistant à l'occupation des départements du Rhin et de la Moselle et patriotes réfractaires à l'annexion de fait (art. R343-1 à R343-15)](#299)
+          - [Section 1 : Déportés et internés politiques (art. R343-1 à D343-13)](#300)
+            - [Sous-section 1 : Conditions d'obtention du titre de déporté ou d'interné politique (art. R343-1 à R343-6)](#301)
+            - [Sous-section 2 : Procédure (art. D343-7 à D343-13)](#302)
+          - [Section 2 : Patriotes résistant à l'occupation des départements du Rhin et de la Moselle, incarcérés en camps spéciaux (art. D343-14)](#303)
+          - [Section 3 : Patriotes réfractaires à l'annexion de fait (art. R343-15)](#304)
+        - [Chapitre IV : Réfractaires, personnes contraintes au travail en pays ennemi, patriotes transférés en Allemagne et autres titres en lien avec la guerre 1939-1945 (art. R344-1 à D344-23)](#305)
+          - [Section 1 : Réfractaires (art. R344-1 à D344-12)](#306)
+            - [Sous-section 1 : Conditions d'obtention du titre de réfractaire. (art. R344-1 à R344-6)](#307)
+            - [Sous-section 2 : Procédure (art. D344-7 à D344-12)](#308)
+          - [Section 2 : Personnes contraintes au travail en pays ennemi (art. R344-13 à D344-19)](#309)
+            - [Sous-section 1 : Conditions d'obtention du titre de personne contrainte au travail en pays ennemi (art. R344-13 à R344-14)](#310)
+            - [Sous-section 2 : Procédure (art. D344-15 à D344-19)](#311)
+          - [Section 3 : Patriotes transférés en Allemagne (art. D344-20)](#312)
+          - [Section 4 : Incorporés de force dans l'armée allemande ou dans les formations paramilitaires allemandes (art. D344-21 à D344-22)](#313)
+          - [Section 5 : Titre d'évadé (art. D344-23)](#314)
+        - [Chapitre V : Prisonniers du Viet-Minh (art. D345-1)](#315)
+        - [Chapitre VI : Victimes de la captivité en Algérie (art. D346-1)](#316)
+        - [Chapitre VII : Commission nationale des cartes et titres et dispositions communes (art. R347-1 à R347-5)](#317)
+      - [Titre V : DÉCORATIONS (art. R351-3 à D355-30)](#318)
+        - [Chapitre Ier : Légion d'honneur et médaille militaire (art. R351-3 à R351-10)](#319)
+          - [Section 1 : Légion d'honneur (art. R351-3 à R351-5)](#320)
+          - [Section 2 : Médaille militaire (art. R351-6)](#321)
+          - [Section 4 : Contingents réservés aux membres de la Résistance (art. R351-9 à R351-10)](#322)
+        - [Chapitre II : Croix du combattant volontaire de la Résistance et croix du combattant volontaire (art. R352-1 à R352-6)](#323)
+          - [Section 1 : Croix du combattant volontaire de la Résistance (art. R352-1)](#324)
+          - [Section 2 : Croix du combattant volontaire (art. D352-3 à R352-6)](#325)
+        - [Chapitre III : Croix du combattant et médaille de reconnaissance de la Nation (art. D353-3 à R353-6)](#326)
+          - [Section 1 : Croix du combattant (art. D353-3 à R353-2)](#327)
+          - [Section 2 : Médaille de reconnaissance de la Nation (art. D353-7 à R353-6)](#328)
+        - [Chapitre IV : Médaille des évadés (art. D354-13 à R354-14)](#329)
+        - [Chapitre V : Autres médaille et insignes (art. D355-2 à D355-30)](#330)
+          - [Section 1 : Médaille de la déportation et de l'internement pour faits de résistance (art. D355-2 à R355-1)](#331)
+          - [Section 2 : Médaille de la déportation et de l'internement (art. D355-4 à R355-3)](#332)
+          - [Section 3 : Médaille du patriote résistant à l'occupation des départements du Rhin et de la Moselle (art. R355-5)](#333)
+          - [Section 4 : Insigne de patriote réfractaire à l'annexion de fait (art. D355-7 à R355-8)](#334)
+          - [Section 5 : Insigne des réfractaires et des personnes contraintes au travail en pays ennemi (art. R355-9 à R355-10)](#335)
+          - [Section 6 : Insigne des parents, conjoints et partenaires survivants des « Morts pour la France » (art. D355-13 à R355-12)](#336)
+          - [Section 7 : Médaille des blessés de guerre (art. D355-15 à D355-18)](#337)
+          - [Section 8 : Insigne des victimes civiles (art. D355-20 à R355-19)](#338)
+          - [Section 9 : Médaille nationale de reconnaissance aux victimes du terrorisme (art. D355-23 à D355-30)](#339)
+    - [Livre IV : PUPILLES DE LA NATION (art. R412-1 à R441-5)](#340)
+      - [Titre Ier : DE LA QUALITÉ DE PUPILLE DE LA NATION (art. R412-1 à R412-9)](#341)
+        - [Chapitre II : Procédure d'adoption par la Nation (art. R412-1 à R412-9)](#342)
+      - [Titre II : EFFETS DE L'ADOPTION (art. R421-1 à R423-19)](#343)
+        - [Chapitre Ier : Protection et aide de l'Etat (art. R421-1 à R421-18)](#344)
+          - [Section 1 : Bourses et subventions (art. R421-1 à R421-15)](#345)
+          - [Section 2 : Subventions d'apprentissage (art. R421-16)](#346)
+          - [Section 3 : Dispositions communes aux subventions pour études et subventions pour apprentissage (art. R421-17 à R421-18)](#347)
+        - [Chapitre II : Tutelle des pupilles (art. R422-1 à R422-20)](#348)
+        - [Chapitre III : Placement des pupilles (art. R423-1 à R423-19)](#349)
+          - [Section 1 : Placement dans des établissements (art. R423-2 à R423-12)](#350)
+          - [Section 2 : Placement chez des particuliers (art. R423-13 à R423-19)](#351)
+      - [Titre III : DISPOSITIONS RELATIVES AUX PUPILLES RÉSIDANT À L'ÉTRANGER (art. R431-1 à R431-11)](#352)
+        - [Chapitre unique. (art. R431-1 à R431-11)](#353)
+          - [Section 1 : Reconnaissance du droit au titre de pupille de la Nation (art. R431-1 à R431-6)](#354)
+          - [Section 2 : Protection et aide. (art. R431-7 à R431-11)](#355)
+      - [Titre IV : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE (art. R441-1 à R441-5)](#356)
+        - [Chapitre unique. (art. R441-1 à R441-5)](#357)
+    - [Livre V : MENTIONS À L'ÉTAT CIVIL ET SEPULTURES (art. R*511-1 à R531-4)](#358)
+      - [Titre Ier : MENTIONS ET INSCRIPTION SUR LES MONUMENTS COMMÉMORATIFS (art. R*511-1 à R514-1)](#359)
+        - [Chapitre Ier : Mention "Mort pour la France" (art. R*511-1 à R511-2)](#360)
+        - [Chapitre II : Mention "Mort en déportation" (art. R*512-1 à R512-4)](#361)
+        - [Chapitre III : Mention "Mort pour le service de la Nation" (art. R513-1 à R513-5)](#362)
+        - [Chapitre IV : Mention "Victime du terrorisme" (art. R514-1)](#363)
+      - [Titre II : RESTITUTION DES CORPS ET SÉPULTURES PERPÉTUELLES (art. R521-1 à D523-2)](#364)
+        - [Chapitre Ier : Transfert et restitution des corps (art. R521-1 à R521-9)](#365)
+        - [Chapitre II : Sépultures perpétuelles (art. R522-1 à R522-13)](#366)
+          - [Section 1 : Dispositions générales (art. R522-1 à R522-12)](#367)
+          - [Section 2 : Dispositions concernant les personnes civiles (art. R522-13)](#368)
+        - [Chapitre III : Voyages sur les tombes ou sur les lieux du crime (art. D523-1 à D523-2)](#369)
+      - [Titre III : DISPOSITIONS RELATIVES AUX COLLECTIVITES D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE (art. R531-1 à R531-4)](#370)
+        - [Chapitre unique. (art. R531-1 à R531-4)](#371)
+    - [Livre VI : INSTITUTIONS (art. R611-1 à R622-22)](#372)
+      - [Titre Ier : OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE (art. R611-1 à R613-18)](#373)
+        - [Chapitre Ier : Dispositions générales (art. R611-1 à R611-4)](#374)
+        - [Chapitre II : Organisation administrative et financière (art. R612-1 à R612-26)](#375)
+          - [Section 1 : Le conseil d'administration et les commissions (art. R612-1 à R612-8)](#376)
+          - [Section 2 : Le directeur général (art. R612-9 à R612-13)](#377)
+          - [Section 3 : Le comité d'honneur (art. D612-14)](#378)
+          - [Section 4 : Le régime financier (art. R612-15 à R612-20)](#379)
+          - [Section 5 : Modalités de gestion de l'œuvre nationale du Bleuet de France (art. R612-21 à R612-26)](#380)
+        - [Chapitre III : Structures territoriales (art. R613-1 à R613-18)](#381)
+          - [Section 1 : Dispositions générales (art. R613-1 à R613-2)](#382)
+          - [Section 2 : Services départementaux (art. D613-4 à R613-3)](#383)
+          - [Section 3 : Conseils départementaux pour les anciens combattants et victimes de guerre et la mémoire de la Nation (art. R613-5 à R613-11)](#384)
+          - [Section 4 : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie (art. D613-12 à R613-18)](#385)
+            - [Sous-section 1 : Dispositions générales (art. D613-12)](#386)
+            - [Sous-section 2 : Dispositions relatives à la Guyane et à la Martinique (art. R613-13)](#387)
+            - [Sous-section 3 : Dispositions relatives à la Nouvelle-Calédonie et à la Polynésie française (art. R613-14 à R613-18)](#388)
+      - [Titre II : INSTITUTION NATIONALE DES INVALIDES (art. R*621-2 à R622-22)](#389)
+        - [Chapitre Ier : Dispositions générales (art. R*621-2 à R621-13)](#390)
+          - [Section 1 : Le centre de pensionnaires (art. R*621-2 à R621-7)](#391)
+          - [Section 2 : Le centre médico-chirurgical (art. R621-8 à R621-12)](#392)
+          - [Section 3 : Le centre d'études et de recherches sur l'appareillage des handicapés (art. R621-13)](#393)
+        - [Chapitre II : Organisation administrative et financière (art. R*622-1 à R622-22)](#394)
+          - [Section 1 : Conseil d'administration (art. R*622-1 à R622-8)](#395)
+          - [Section 2 : Organisation et fonctionnement des services (art. R622-9 à R622-16)](#396)
+          - [Section 3 : Organisation financière et comptable (art. R622-17 à R622-22)](#397)
+    - [Livre VII : CONTENTIEUX DES PENSIONS (art. R711-1 à  )](#398)
+      - [Titre Ier : DISPOSITIONS COMMUNES (art. R711-1 à R711-10)](#399)
+        - [Chapitre unique. (art. R711-1 à R711-10)](#400)
+          - [Section 1 : Compétence territoriale des juridictions des pensions (art. R711-1 à R711-2)](#401)
+          - [Section 2 : Commissaires du gouvernement (art. D711-4 à R711-3)](#402)
+          - [Section 3 : Magistrats honoraires (art. D711-5)](#403)
+          - [Section 4 : Indemnités et frais de justice (art. D711-6 à D711-9)](#404)
+          - [Section 5 : Dispositions applicables au contentieux des soins médicaux et de l'appareillage (art. R711-10)](#405)
+      - [Titre II : ORGANISATION DES TRIBUNAUX DES PENSIONS ET DES COURS REGIONALES DES PENSIONS (art. D721-1 à R722-4)](#406)
+        - [Chapitre Ier : Organisation des tribunaux des pensions (art. D721-1 à R721-9)](#407)
+          - [Section 1 : Siège et ressort des tribunaux des pensions (art. D721-1)](#408)
+          - [Section 2 : Désignation de l'assesseur médecin (art. R721-2)](#409)
+          - [Section 3 : Désignation de l'assesseur pensionné (art. R721-3 à R721-6)](#410)
+          - [Section 4 : Cessation de fonctions des membres du tribunal (art. R721-7)](#411)
+          - [Section 5 : Indemnités et rémunération des membres du tribunal des pensions (art. D721-8)](#412)
+          - [Section 6 : Greffier du tribunal (art. R721-9)](#413)
+        - [Chapitre II : Organisation des cours régionales des pensions (art. D722-1 à R722-4)](#414)
+      - [Titre III : PROCÉDURE (art. R731-1 à R733-1)](#415)
+        - [Chapitre Ier : Procédure devant le tribunal des pensions (art. R731-1 à R731-19)](#416)
+          - [Section 1 : Dispositions générales (art. R731-1 à R731-8)](#417)
+          - [Section 2 : Conciliation (art. R731-9 à R731-14)](#418)
+          - [Section 3 : Expertise judiciaire et mesures d'instruction (art. R731-15 à R731-16)](#419)
+          - [Section 4 : Audience (art. R731-17 à R731-18)](#420)
+          - [Section 5 : Jugements (art. R731-19)](#421)
+        - [Chapitre II : Procédure devant la cour régionale des pensions (art. R732-1 à R732-3)](#422)
+        - [Chapitre III : Procédure devant le Conseil d'Etat (art. R733-1)](#423)
+      - [Titre IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À SAINT-PIERRE-ET-MIQUELON (art. D741-1 à R741-13)](#424)
+        - [Chapitre unique. (art. D741-1 à R741-13)](#425)
+          - [Section 1 : Organisation des tribunaux des pensions (art. D741-1 à R741-4)](#426)
+          - [Section 2 : Organisation des cours des pensions (art. D741-5 à D741-6)](#427)
+          - [Section 3 : Procédure (art. R741-7 à R741-9)](#428)
+          - [Section 4 : Indemnités et frais (art. R741-10 à R741-12)](#429)
+          - [Section 5 : Disposition générale (art. R741-13)](#430)
+      - [ANNEXES AU LIVRE VII (art.  )](#431)
+    - [ANNEXES AU CODE DES PENSIONS MILITAIRES D'INVALIDITÉ ET DES VICTIMES DE GUERRE (art. Annexe 1 à Annexe 2 (suite))](#432)
+  - [Partie législative (art. L41 à L491)](#433)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. L41 à L105)](#434)
+      - [Titre II : Emoluments complémentaires. (art. L41)](#435)
+        - [Chapitre III : Indemnité de soins aux tuberculeux. (art. L41)](#436)
+      - [Titre III : Droits à pension des conjoints survivants et des orphelins. (art. L52-2)](#437)
+        - [Chapitre II : Fixation de la pension. (art. L52-2)](#438)
+      - [Titre VI : Dispositions diverses relatives au payement des pensions. (art. L105)](#439)
+        - [Chapitre Ier : Incessibilité - Insaisissabilité. (art. L105)](#440)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux (art. L140 à L252-3)](#441)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés (art. L140 à L166)](#442)
+        - [Chapitre II : Autres personnels militaires. (art. L140 à L149)](#443)
+        - [Chapitre III : Affectés spéciaux, membres de la défense passive requis (art. L150 à L153)](#444)
+          - [Section 1 : Affectés spéciaux. (art. L150)](#445)
+          - [Section 2 : Défense passive. (art. L151 à L153)](#446)
+        - [Chapitre IV : Dispositions applicables à certains fonctionnaires. (art. L158)](#447)
+        - [Chapitre V : Marins du commerce (art. L163 à L165)](#448)
+          - [Section 2 : Dispositions spéciales à la guerre 1939-1945. (art. L163 à L165)](#449)
+        - [Chapitre VI : Formation préliminaire. (art. L166)](#450)
+      - [Titre II : Membres des organisations civiles et militaires de la Résistance (art. L173 à L188)](#451)
+        - [Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance (art. L173 à L175)](#452)
+          - [Section 1 : Membres des FFI et membres de la Résistance. (art. L173 à L175)](#453)
+        - [Chapitre II : Du droit à pension (art. L188)](#454)
+          - [Section 5 : Bénéficiaires spéciaux (art. L188)](#455)
+            - [Paragraphe 1 : FFI et membres de la Résistance. (art. L188)](#456)
+      - [Titre III : Règles applicables aux victimes civiles (art. L194 à L208)](#457)
+        - [Chapitre Ier : Victimes civiles de la guerre (art. L194 à L208)](#458)
+          - [Section 1 : Détermination du droit à pension (art. L194 à L208)](#459)
+            - [Paragraphe 1 : Victimes de la guerre 1914-1918. (art. L194 à L196)](#460)
+            - [Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées. (art. L204 à L207)](#461)
+            - [Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale. (art. L208)](#462)
+      - [Titre IV : Alsaciens et Lorrains (art. L230)](#463)
+        - [Chapitre II : Militaires ayant servi dans l'armée allemande (art. L230)](#464)
+          - [Section 2 : Au cours de la guerre 1914-1918. (art. L230)](#465)
+      - [Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer (art. L248 à L250)](#466)
+        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. L248 à L250)](#467)
+      - [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code. (art. L252-3)](#468)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre (art. L265 à L340)](#469)
+      - [Titre II : Statut des résistants, des déportés, internés et réfractaires (art. L265 à L314)](#470)
+        - [Chapitre Ier : Statut des combattants volontaires de la Résistance (art. L265)](#471)
+          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. L265)](#472)
+        - [Chapitre II : Statut des déportés et internés de la Résistance (art. L277)](#473)
+          - [Section 1 : De la qualité de déporté et interné de la Résistance. (art. L277)](#474)
+        - [Chapitre III : Statut des déportés et internés politiques (art. L294)](#475)
+          - [Section 1 : De la qualité de déporté et interné politique. (art. L294)](#476)
+        - [Chapitre IV : Statut des réfractaires. (art. L300 à L303)](#477)
+          - [Section 1 : De la qualité de réfractaire. (art. L300)](#478)
+          - [Section 2 : Droits des réfractaires. (art. L303)](#479)
+        - [Chapitre V : Statut des personnes contraintes au travail (art. L312 à L314)](#480)
+          - [Section 1 : Définition des bénéficiaires. (art. L312)](#481)
+          - [Section 2 : Droit des personnes contraintes au travail. (art. L314)](#482)
+      - [Titre III : Droits et avantages accessoires (art. L336 à L340)](#483)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires (art. L336 à L340)](#484)
+          - [Section 3 : Pécule et indemnisations diverses. (art. L336 à L340)](#485)
+    - [Livre IV : Etat civil et sépultures (art. L491)](#486)
+      - [Chapitre Ier : Mention "Mort pour la France". (art. L491)](#487)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R30 à R391-7)](#488)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. R30 à R34-5)](#489)
+      - [Titre II : Emoluments complémentaires. (art. R30 à R34-5)](#490)
+        - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés. (art. R30 à R34-5)](#491)
+          - [Section 1 : Procédure d'attribution des allocations spéciales. (art. R30)](#492)
+          - [Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose. (art. R34-2 à R34-5)](#493)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. R147 à R215)](#494)
+      - [Titre Ier : Régimes applicables à certains personnels militaires et assimilés. (art. R147 à R154)](#495)
+        - [Chapitre III : Afféctés spéciaux et membres de la défense passive. (art. R147 à R154)](#496)
+          - [Section 1 : Défense passive. (art. R147 à R154)](#497)
+      - [Titre II : Membres des organisations civiles et militaires de la Résistance. (art. R168)](#498)
+        - [Chapitre II : Du droit à pension des membres de la Résistance. (art. R168)](#499)
+      - [Titre IV : Alsaciens et Lorrains. (art. R215)](#500)
+        - [Chapitre II : Militaires ayant servi dans l'armée allemande. (art. R215)](#501)
+          - [Section 2 : Procédure de liquidation. (art. R215)](#502)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. R228 à R391-7)](#503)
+      - [Titre Ier : Carte et retraite du combattant. (art. R228)](#504)
+        - [Chapitre Ier : Carte du combattant. (art. R228)](#505)
+          - [Section 1 : De la qualité de combattant. (art. R228)](#506)
+      - [Titre II : Statuts des résistants, déportés, internés et réfractaires. (art. R257 à R378)](#507)
+        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. R257 à R279)](#508)
+          - [Section 1 : De la qualité de combattant volontaire de la Résistance. (art. R257)](#509)
+          - [Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance. (art. R266)](#510)
+            - [Paragraphe 2 : Demande du titre de combattant volontaire de la Résistance. (art. R266)](#511)
+          - [Section 4 : Conditions d'application aux membres des F.F.L. et aux membres de la Résistance ayant résisté dans les camps de prisonniers ou ayant servi dans les pays d'outre-mer ou en territoires étrangers occupés par l'ennemi. (art. R272 à R279)](#512)
+            - [Paragraphe 1er : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres des forces françaises libres. (art. R272)](#513)
+            - [Paragraphe 2 : De la Résistance dans les camps de prisonniers. (art. R275)](#514)
+            - [Paragraphe 3 : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres de la Résistance ayant servi dans les départements et pays d'outre-mer ou en territoires étrangers occupés par l'ennemi. (art. R279)](#515)
+        - [Chapitre II : Statut des déportés et internés résistants. (art. R297 à R321)](#516)
+          - [Section 1 : De la qualité de déporté et interné résistant. (art. R297)](#517)
+            - [Paragraphe 3 : Cas d'exclusion. (art. R297)](#518)
+          - [Section 2 : Droits des déportés et internés résistants. (art. R301)](#519)
+          - [Section 3 : Procédure d'attribution du titre de déporté et interné résistant. (art. R321)](#520)
+            - [Paragraphe 2 : Demande du titre de déporté et interné résistant. (art. R321)](#521)
+        - [Chapitre III : Statut des déportés et internés politiques. (art. R334)](#522)
+          - [Section 1 : De la qualité de déporté et interné politique. (art. R334)](#523)
+            - [Paragraphe 3 : Cas d'exclusion. (art. R334)](#524)
+        - [Chapitre IV : Statut des réfractaires. (art. R361)](#525)
+          - [Section 2 : Procédure d'attribution du titre de réfractaire. (art. R361)](#526)
+        - [Chapitre V : Statut des personnes contraintes au travail. (art. R378)](#527)
+          - [Section 2 : Procédure de reconnaissance des droits. (art. R378)](#528)
+      - [Titre III : Droits et avantages accessoires. (art. R391-3 à R391-7)](#529)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. R391-3 à R391-7)](#530)
+          - [Section 2 : Pécule et indemnisations diverses. (art. R391-3 à R391-7)](#531)
+  - [Partie réglementaire - Décrets simples (art. D8 à D437)](#532)
+    - [Livre Ier : Régime général des pensions militaires d'invalidité. (art. D8 à D19)](#533)
+      - [Titre II : Emoluments complémentaires. (art. D8 à D19)](#534)
+        - [Chapitre III : Indemnités de soins aux tuberculeux. (art. D8 à D19)](#535)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. D243 à D250)](#536)
+      - [Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer. (art. D243 à D250)](#537)
+        - [Chapitre II : Droit à pension des travailleurs indochinois. (art. D243 à D250)](#538)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. D271-5 à D294)](#539)
+      - [Titre III : Droits et avantages accessoires. (art. D271-5 à D294)](#540)
+        - [Chapitre II : Prêts, secours et autres dispositions pécuniaires. (art. D271-5 à D271-6)](#541)
+        - [Chapitre III : Décorations et insignes. (art. D285 à D294)](#542)
+          - [Section 5 : Médaille commémorative française de la guerre 1939-1945. (art. D285 à D294)](#543)
+    - [Livre IV : Etat civil et sépultures. (art. D404)](#544)
+      - [Chapitre II : Transferts et restitutions de corps. (art. D404)](#545)
+    - [Livre V : Institutions. (art. D437)](#546)
+      - [Titre Ier : Offices des anciens combattants et victimes de guerre. (art. D437)](#547)
+        - [Chapitre Ier : Office national. (art. D437)](#548)
+          - [Section 3 : Composition. (art. D437)](#549)
+  - [Partie réglementaire - Arrêtés (art. A115 à A186-2)](#550)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. A115 à A186-2)](#551)
+      - [Titre Ier : Carte et retraite du combattant. (art. A115 à A142)](#552)
+        - [Chapitre Ier : Carte du combattant. (art. A115 à A142)](#553)
+          - [Section 1 : De la qualité de combattant (art. A116 à A126)](#554)
+            - [Paragraphe 1 : Dispositions générales. (art. A116 à A118)](#555)
+            - [Paragraphe 2 : Dispositions propres à certaines catégories de combattants. (art. A119 à A123-1)](#556)
+            - [Paragraphe 3 : Alsaciens et Mosellans. (art. A123-2 et A123-3 à A123-5)](#557)
+            - [Paragraphe 3 bis : Marins du commerce. (art. A123-6 à A123-9)](#558)
+            - [Paragraphe 4 : Cas d'exclusion ou d'opposition. (art. A124 à A126)](#559)
+          - [Section 2 : Procédure d'attribution de la carte. (art. A129 à A142)](#560)
+            - [Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance. (art. A129 à A134-7)](#561)
+            - [Paragraphe 2 : Demande et délivrance de la carte. (art. A137 à A142)](#562)
+      - [Titre II : Statut des résistants, déportés, internés et réfractaires. (art. A158 à A168)](#563)
+        - [Chapitre Ier : Statut des combattants volontaires de la Résistance. (art. A158 à A159-1)](#564)
+        - [Chapitre II : Statut des déportés et internés de la Résistance. (art. A160 à A162)](#565)
+        - [Chapitre III : Statut des déportés et internés politiques. (art. A165-1)](#566)
+        - [Chapitre IV : Statut des réfractaires. (art. A166 à A168)](#567)
+      - [Titre III : Droits et avantages accessoires. (art. A169 à A186-2)](#568)
+        - [Chapitre Ier : Droits attachés à la qualité de pensionné. (art. A169 à A172-1)](#569)
+          - [Section 1 : Réduction sur les chemins de fer. (art. A169)](#570)
+          - [Section 2 : Cartes de priorité. (art. A172-1)](#571)
+            - [Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens). (art. A172-1)](#572)
+        - [Chapitre III : Décorations et insignes. (art. A177 à A186-2)](#573)
+          - [Section 1 : Légion d'honneur et médaille militaire. (art. A177 à A178)](#574)
+          - [Section 3 : Médaille de la déportation et de l'internement pour faits de résistance. (art. A186-2)](#575)
+  - [Annexes (art. Annexe 1, art. 1 à Annexe)](#576)
+    - [Livre II : Régimes rattachés au régime général et régimes spéciaux. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#577)
+      - [Titre VI : Etrangers. (art. Annexe 1, art. 1 à Annexe 5, art. 4)](#578)
+        - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933). (art. Annexe 1, art. 1 à Annexe 1, art. 4)](#579)
+        - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947). (art. Annexe 2, art. 1 à Annexe 2, art. 9)](#580)
+        - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950). (art. Annexe 3, art. 1 à Annexe 3, art. 9)](#581)
+        - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945). (art. Annexe 4)](#582)
+        - [Convention franco-britannique du 23 janvier 1950 (art. Annexe 5, art. 1 à Annexe 5, art. 4)](#583)
+    - [Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre. (art. Annexe)](#584)
+      - [Titre III : Droits et avantages accessoires. (art. Annexe)](#585)
+        - [Chapitre IV : Emplois réservés. (art. Annexe)](#586)
 # Partie législative (nouvelle)<a id=1></a>
 
 ###### Article L1
@@ -7186,42 +7175,6 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L153-1 (VD)
 
 
-###### Article L151-4
-
-Le demandeur a la faculté de provoquer l'examen de sa demande par une commission de réforme, selon des modalités fixées par
-décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L6, extrait alinéa 1 (VT)
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R151-12 (VD)
-
-
 ###### Article L151-5
 
 Les renseignements médicaux ou pièces médicales dont la production est indispensable pour l'examen des droits définis au
@@ -7613,12 +7566,7 @@ ou bien en ce qui concerne l'état civil ou la situation de famille, ou bien en 
 statut légal générateur de droits.
 
 Dans tous les cas, la révision a lieu sans condition de délai, dans les mêmes formes que la concession, sur l'initiative du
-ministre chargé du budget ou du ministre chargé des anciens combattants et victimes de guerre ou à la demande des parties,
-par voie administrative si la décision qui a alloué la pension définitive ou temporaire ne faisait pas suite à une procédure
-contentieuse.
-
-Dans le cas contraire, la demande en révision est portée devant la juridiction qui avait rendu la décision attaquée. Elle en
-est saisie dans les formes indiquées au livre VII.
+ministre chargé du budget ou du ministre chargé des anciens combattants et victimes de guerre ou à la demande de l'intéressé.
 
 II. – Elles sont également révisées, à titre exceptionnel, lorsqu'à la suite d'une enquête ouverte par le ministre chargé des
 anciens combattants et victimes de guerre, il est démontré :
@@ -7629,17 +7577,15 @@ fraude, de substitution, de simulation, à raison d'affections dont l'intéress�
 2° Qu'un ancien militaire dont le prétendu décès a ouvert droit à pension de conjoint survivant, d'orphelin ou d'ascendant
 est reconnu vivant.
 
-Pour l'application de ces dispositions, le ministre chargé des anciens combattants et victimes de guerre saisit le tribunal
-des pensions, lequel statue dans les formes prévues au livre VII.
-
 La restitution des sommes payées indûment n'est exigée que si l'intéressé était de mauvaise foi.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
+pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
+respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
+ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -7647,9 +7593,9 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 _Anciens textes_:
 
@@ -14760,20 +14706,17 @@ _Cite_:
 
 ###### Article L711-1
 
-Les contestations individuelles auxquelles donne lieu l'application des dispositions du livre Ier et des titres Ier, II et
-III du livre II sont jugées en premier ressort par le tribunal des pensions et en appel par la cour régionale des pensions.
-
-Les arrêts rendus par les cours régionales des pensions peuvent être déférés au Conseil d'Etat par la voie du recours en
-cassation.
-
-Les juridictions des pensions constituent des juridictions administratives.
+Les recours contentieux contre les décisions individuelles prises en application du livre Ier et des titres Ier à III du
+livre II sont introduits, instruits et jugés conformément aux dispositions du code de justice administrative, sous réserve du
+présent chapitre.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
+pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
+respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
+ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -14781,9 +14724,9 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 _Anciens textes_:
 
@@ -14797,14 +14740,16 @@ _Cité par_:
 
 ###### Article L711-2
 
-La procédure devant les juridictions des pensions est contradictoire.
+Les recours contentieux contre les décisions individuelles prises en application du livre Ier et des titres Ier à III du
+livre II sont précédés d'un recours administratif préalable exercé dans des conditions fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
+pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
+respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
+ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -14812,22 +14757,25 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 
 ###### Article L711-3
 
-L'audience est publique. Toutefois, la juridiction, sur la demande de l'intéressé, peut ordonner que les débats auront lieu à
-huis clos.
+Les dispositions de la première partie de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique sont applicables de
+plein droit, sans condition de ressources, de nationalité ni de résidence, aux personnes qui forment un recours contentieux
+en application du présent chapitre. Les personnes résidant en Nouvelle-Calédonie sont soumises aux dispositions localement
+applicables en matière d'aide juridique civile et administrative.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
+pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
+respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
+ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -14839,25 +14787,23 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 
 ###### Article L711-4
 
-Le demandeur comparaît en personne et peut présenter des observations orales.
-
-Il peut se faire assister ou représenter par son conjoint, son concubin, la personne avec laquelle il a conclu un pacte civil
-de solidarité, ses parents ou alliés en ligne directe ou en ligne collatérale jusqu'au troisième degré inclus, la personne
-exclusivement attachée à son service personnel ou son entreprise ou par un avocat.
+L'audience est publique. Toutefois, la juridiction, sur la demande de l'intéressé, peut ordonner que les débats auront lieu à
+huis clos.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
+pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
+respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
+ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -14869,9 +14815,9 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 _Cité par_:
 
@@ -14881,14 +14827,16 @@ _Cité par_:
 
 ###### Article L711-5
 
-Un commissaire du Gouvernement est chargé de représenter l'administration à l'audience.
+Le demandeur comparaît en personne et peut présenter des observations orales. Il peut se faire assister ou représenter par la
+personne de son choix.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
+pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
+respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
+ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -14900,942 +14848,18 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-
-###### Article L711-6
-
-Les décisions sont motivées.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 10, alinéa 1  (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 
-###### Article L711-7
+# Partie réglementaire (nouvelle)<a id=175></a>
 
-Les dispositions de la première partie de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique sont applicables de
-plein droit, sans condition de ressources, de nationalité et de résidence, aux personnes qui formulent une demande en
-application du présent code devant le tribunal des pensions, la cour régionale des pensions et le Conseil d'Etat.
+## Livre Ier : LE DROIT À PENSION<a id=176></a>
 
-**Nota:**
+### Titre Ier : LES BÉNÉFICIAIRES<a id=177></a>
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 8, extrait alinéa 2 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. L104, alinéa 1 (VT)
-
-_Cite_:
-
-  - Loi n°91-647 du 10 juillet 1991
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-### Titre II : ORGANISATION DES TRIBUNAUX DES PENSIONS ET DES COURS RÉGIONALES DES PENSIONS<a id=175></a>
-
-#### Chapitre Ier : Organisation des tribunaux des pensions<a id=176></a>
-
-###### Article L721-1
-
-Le siège et le ressort des tribunaux des pensions sont déterminés par décret.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L721-2
-
-Le tribunal des pensions est présidé par un juge désigné par le premier président de la cour d'appel parmi les juges du
-tribunal de grande instance dans le ressort duquel est situé le tribunal des pensions.
-
-Toutefois, il peut en cas de besoin être fait appel, pour exercer les fonctions de président d'un tribunal des pensions, à
-des magistrats honoraires de l'ordre administratif ou de l'ordre judiciaire désignés, au début de chaque année judiciaire, et
-chaque fois qu'il est nécessaire, par le premier président de la cour d'appel dans le ressort de laquelle se trouve le siège
-du tribunal.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 1, alinéa 4  (VT)
-  - Code des pensions militaires d'invalidité et de... - art. L80 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L721-3
-
-Le tribunal des pensions comprend, outre son président :
-
-1° Un médecin désigné par le premier président de la cour d'appel sur la liste des médecins experts près les tribunaux du
-ressort de la cour d'appel. Selon les besoins du service, un ou deux médecins suppléants sont désignés dans les mêmes
-conditions ;
-
-2° Un pensionné tiré au sort en même temps qu'un pensionné suppléant sur une liste de cinq membres présentée par les
-associations de pensionnés au titre du présent code du ressort de la cour d'appel et agréée par le tribunal des pensions.
-
-Si la liste de cinq membres ne peut être établie, l'assesseur pensionné et son suppléant sont désignés par le tribunal des
-pensions.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 1, alinéas 5, 6 et 7 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L721-5 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. L721-6 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. L741-3 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. R721-2 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R721-3 (V)
-
-
-###### Article L721-4
-
-Les nominations des membres du tribunal des pensions ont lieu chaque année en ce qui concerne le magistrat titulaire et tous
-les trois ans en ce qui concerne les assesseurs et chaque fois qu'il apparaît nécessaire. Le premier président de la cour
-d'appel du ressort procède à la désignation d'un juge magistrat titulaire et d'un juge magistrat suppléant appelé à le
-remplacer, en cas d'empêchement.
-
-Si un des magistrats membres du tribunal des pensions cesse ses fonctions, il est immédiatement remplacé par un magistrat qui
-est désigné par le premier président.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L721-5
-
-Dans tous les cas où le tribunal des pensions doit connaître d'une contestation relative à l'application du présent code à un
-membre de la Résistance ou à ses ayants cause, l'assesseur pensionné mentionné au 2° de l'article L. 721-3 est remplacé par
-un membre de la Résistance pensionné ou, à défaut, non pensionné, titulaire de la carte du combattant volontaire de la
-Résistance, tiré au sort en même temps qu'un membre suppléant sur une liste de cinq noms présentée par les représentants de
-la catégorie intéressée aux services départementaux de l'Office national des anciens combattants et victimes de guerre du
-ressort de la cour d'appel et agréée par le tribunal des pensions.
-
-Si la liste de cinq noms ne peut être fournie, les deux membres de la Résistance susceptibles de siéger au tribunal sont
-désignés par le tribunal des pensions.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 3, alinéas 1 et 2 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. D721-8 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L721-6 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. R721-4 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L721-3
-
-
-###### Article L721-6
-
-Au cas où il s'avérerait impossible de désigner les membres du tribunal appartenant à la catégorie mentionnée à l'article L.
-721-5, le tribunal des pensions jugera valablement dans la composition fixée à l'article L. 721-3.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 3, alinéa 3 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L721-3
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L721-5
-
-
-###### Article L721-7
-
-Le tribunal ne peut siéger et délibérer que si les trois membres sont présents.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-#### Chapitre II : Organisation des cours régionales des pensions<a id=177></a>
-
-###### Article L722-1
-
-Le siège et le ressort de la cour régionale des pensions sont fixés par décret.
-
-La formation de jugement est composée :
-
-1° D'un président de chambre à la cour d'appel, président ;
-
-2° De deux conseillers à la cour d'appel.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 13, alinéas 2, 3 et 4 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L722-2
-
-Chaque année, le premier président de la cour d'appel désigne le président et les deux assesseurs titulaires de chaque
-formation de jugement de la cour régionale des pensions. Il désigne également trois assesseurs suppléants choisis parmi les
-conseillers à la cour d'appel. Le premier président de la cour d'appel peut présider lui-même la cour régionale des pensions
-chaque fois qu'il le juge utile.
-
-Lorsqu'un magistrat désigné pour faire partie de la cour régionale des pensions cesse de siéger à la cour d'appel, il est
-remplacé dans ses fonctions à la cour régionale par ordonnance du premier président.
-
-Les fonctions de président de la cour régionale des pensions peuvent également être exercées, le cas échéant, par le plus
-ancien des assesseurs titulaires et celles d'assesseurs titulaires par les assesseurs suppléants dans l'ordre d'ancienneté.
-
-Si néanmoins, la cour régionale est dans l'impossibilité de se constituer, le premier président peut exceptionnellement
-désigner d'autres magistrats de la cour d'appel, pour siéger à une audience déterminée.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 13, alinéas 5, 6, 7 et 8 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R722-3 (V)
-
-
-###### Article L722-3
-
-En cas de besoin, il peut être fait appel, pour exercer les fonctions de membre assesseur d'une cour régionale des pensions,
-à des magistrats honoraires de l'ordre administratif ou de l'ordre judiciaire, désignés à cet effet au début de chaque année
-judiciaire, et chaque fois qu'il est nécessaire, par le premier président de la cour d'appel dans le ressort de laquelle se
-trouve le siège de la cour régionale.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L89 (VT)
-
-
-###### Article L722-4
-
-La cour régionale ne peut siéger et délibérer que si les trois membres sont présents.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-### Titre III : PROCÉDURE<a id=178></a>
-
-#### Chapitre Ier : Procédure devant le tribunal des pensions<a id=179></a>
-
-###### Article L731-1
-
-Le président du tribunal des pensions peut exercer une mission de conciliation dont les modalités sont définies par décret.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L731-2
-
-Les jugements des tribunaux des pensions ne sont pas susceptibles d'opposition.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 10, alinéa 4 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-#### Chapitre II : Procédure devant la cour régionale des pensions<a id=180></a>
-
-###### Article L732-1
-
-Les décisions du tribunal des pensions sont susceptibles d'appel devant la cour régionale des pensions.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 11, extrait alinéa 1 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-#### Chapitre III : Procédure devant le Conseil d'Etat<a id=181></a>
-
-###### Article L733-1
-
-Les recours en cassation contre les arrêts rendus par les cours régionales des pensions sont introduits, instruits et jugés
-conformément aux dispositions du titre II du livre VIII du code de justice administrative.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 17, alinéa 1 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-### Titre IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À SAINT-PIERRE-ET-MIQUELON<a id=182></a>
-
-#### Chapitre unique.<a id=183></a>
-
-##### Section 1 : Dispositions générales<a id=184></a>
-
-###### Article L741-1
-
-Le siège et le ressort des tribunaux des pensions et des cours des pensions en Nouvelle-Calédonie, en Polynésie française,
-dans les îles Wallis et Futuna et à Saint-Pierre-et-Miquelon sont déterminés par décret.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L741-2
-
-Les personnes résidant en Nouvelle-Calédonie qui formulent une demande en application du présent code devant le tribunal des
-pensions et la cour des pensions sont soumises aux dispositions localement applicables en matière d'aide juridique civile et
-administrative.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-##### Section 2 : Organisation des juridictions<a id=185></a>
-
-###### Article L741-3
-
-En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Saint-Pierre-et-Miquelon, le président du
-tribunal des pensions est le président ou le vice-président du tribunal de première instance du chef-lieu ou dans le ressort
-duquel se trouve le chef-lieu de la collectivité d'outre-mer.
-
-Font en outre partie du tribunal en qualité d'assesseurs :
-
-1° Un médecin désigné dans les conditions définies à l'article L. 721-3 ;
-
-2° Un pensionné, habitant de préférence la localité où siège le tribunal, choisi par voie du tirage au sort sur une liste de
-cinq membres au moins présentée par les associations de pensionnés au titre du présent code de la collectivité d'outre-mer ou
-de la Nouvelle-Calédonie et agréée par le tribunal des pensions.
-
-Dans le cas où il n'existe pas d'associations de pensionnés au titre du présent code, le tribunal des pensions se compose, en
-sus du président et du médecin, d'un magistrat du tribunal de première instance désigné par le premier président de la cour
-d'appel.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L721-3 (VT)
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R741-4 (V)
-
-
-###### Article L741-4
-
-En Polynésie française et en Nouvelle-Calédonie, la cour des pensions est constituée comme suit :
-
-1° Président : le premier président de la cour d'appel du ressort ;
-
-2° Membres : deux conseillers à la cour d'appel.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L741-5
-
-Pour la collectivité de Saint-Pierre-et-Miquelon, la composition de la cour des pensions est celle du tribunal supérieur
-d'appel.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L741-6
-
-Pour les îles Wallis et Futuna, la cour des pensions est celle formée pour la Nouvelle-Calédonie.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-# Partie réglementaire (nouvelle)<a id=186></a>
-
-## Livre Ier : LE DROIT À PENSION<a id=187></a>
-
-### Titre Ier : LES BÉNÉFICIAIRES<a id=188></a>
-
-#### Chapitre Ier : Les militaires et les personnes assimilées<a id=189></a>
+#### Chapitre Ier : Les militaires et les personnes assimilées<a id=178></a>
 
 ###### Article D111-1
 
@@ -15877,7 +14901,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L111-3 (V)
 
 
-#### Chapitre II : Les membres des organisations civiles et militaires de la Résistance<a id=190></a>
+#### Chapitre II : Les membres des organisations civiles et militaires de la Résistance<a id=179></a>
 
 ###### Article D112-7
 
@@ -16130,11 +15154,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R158, alinéas 1 et 2 (Ab)
 
 
-### Titre II : DÉTERMINATION DU DROIT À PENSION D'INVALIDITÉ<a id=191></a>
+### Titre II : DÉTERMINATION DU DROIT À PENSION D'INVALIDITÉ<a id=180></a>
 
-#### Chapitre Ier : Conditions générales d'ouverture du droit à pension aux militaires<a id=192></a>
+#### Chapitre Ier : Conditions générales d'ouverture du droit à pension aux militaires<a id=181></a>
 
-##### Section 1 : Règles d'imputabilité et de minimum indemnisable.<a id=193></a>
+##### Section 1 : Règles d'imputabilité et de minimum indemnisable.<a id=182></a>
 
 ###### Article R121-1
 
@@ -16219,7 +15243,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R143-2 (V)
 
 
-##### Section 2 : Pensions définitives et pensions temporaires<a id=194></a>
+##### Section 2 : Pensions définitives et pensions temporaires<a id=183></a>
 
 ###### Article R121-3
 
@@ -16339,9 +15363,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R121-5 (V)
 
 
-#### Chapitre II : Dispositions applicables à certains militaires<a id=195></a>
+#### Chapitre II : Dispositions applicables à certains militaires<a id=184></a>
 
-##### Section 1 : Aumôniers militaires<a id=196></a>
+##### Section 1 : Aumôniers militaires<a id=185></a>
 
 ###### Article R122-1
 
@@ -16367,7 +15391,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R146 (Ab)
 
 
-##### Section 2 : Anciens personnels féminins<a id=197></a>
+##### Section 2 : Anciens personnels féminins<a id=186></a>
 
 ###### Article R122-2
 
@@ -16410,9 +15434,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L145 (Ab)
 
 
-#### Chapitre III : Conditions applicables aux personnes assimilées aux militaires et aux membres de la Résistance<a id=198></a>
+#### Chapitre III : Conditions applicables aux personnes assimilées aux militaires et aux membres de la Résistance<a id=187></a>
 
-##### Section 1 : Les membres des organisations civiles et militaires de la Résistance.<a id=199></a>
+##### Section 1 : Les membres des organisations civiles et militaires de la Résistance.<a id=188></a>
 
 ###### Article R123-1
 
@@ -16539,7 +15563,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R166 (Ab)
 
 
-##### Section 2 : Militaires et assimilés originaires des départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=200></a>
+##### Section 2 : Militaires et assimilés originaires des départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=189></a>
 
 ###### Article R123-6
 
@@ -16567,9 +15591,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R214 (Ab)
 
 
-#### Chapitre IV : Conditions applicables aux victimes civiles de guerre<a id=201></a>
+#### Chapitre IV : Conditions applicables aux victimes civiles de guerre<a id=190></a>
 
-##### Section 1 : Dispositions générales.<a id=202></a>
+##### Section 1 : Dispositions générales.<a id=191></a>
 
 ###### Article R124-1
 
@@ -16587,7 +15611,7 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 2 : Victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc<a id=203></a>
+##### Section 2 : Victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc<a id=192></a>
 
 ###### Article R124-2
 
@@ -16653,7 +15677,7 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 3 : Victimes d'actes de terrorisme<a id=204></a>
+##### Section 3 : Victimes d'actes de terrorisme<a id=193></a>
 
 ###### Article R124-4
 
@@ -16677,7 +15701,7 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre V : Calcul des pensions<a id=205></a>
+#### Chapitre V : Calcul des pensions<a id=194></a>
 
 ###### Article D125-4
 
@@ -16988,11 +16012,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L125-3 (V)
 
 
-### Titre III : ALLOCATIONS ET MAJORATIONS<a id=206></a>
+### Titre III : ALLOCATIONS ET MAJORATIONS<a id=195></a>
 
-#### Chapitre Ier : Allocations spéciales aux grands invalides<a id=207></a>
+#### Chapitre Ier : Allocations spéciales aux grands invalides<a id=196></a>
 
-##### Section 1 : Dispositions relatives aux allocations mentionnées à l'article L. 131-1<a id=208></a>
+##### Section 1 : Dispositions relatives aux allocations mentionnées à l'article L. 131-1<a id=197></a>
 
 ###### Article R131-1
 
@@ -17409,7 +16433,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L35 quater (Ab)
 
 
-##### Section 2 : Dispositions relatives à l'allocation mentionnée à l'article L.131-2<a id=209></a>
+##### Section 2 : Dispositions relatives à l'allocation mentionnée à l'article L.131-2<a id=198></a>
 
 ###### Article R131-9
 
@@ -17644,7 +16668,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R131-12 (V)
 
 
-##### Section 3 : Dispositions communes<a id=210></a>
+##### Section 3 : Dispositions communes<a id=199></a>
 
 ###### Article R131-17
 
@@ -17692,9 +16716,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L35 (Ab)
 
 
-#### Chapitre II : Allocations spéciales aux grands mutilés<a id=211></a>
+#### Chapitre II : Allocations spéciales aux grands mutilés<a id=200></a>
 
-##### Section 1 : Montant des allocations et règles de cumul<a id=212></a>
+##### Section 1 : Montant des allocations et règles de cumul<a id=201></a>
 
 ###### Article R132-1
 
@@ -18042,7 +17066,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R35, alinéas 3 et 4 et 5 et 6 (Ab)
 
 
-##### Section 2 : Procédure d'attribution des allocations<a id=213></a>
+##### Section 2 : Procédure d'attribution des allocations<a id=202></a>
 
 ###### Article R132-4
 
@@ -18180,7 +17204,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R29 (Ab)
 
 
-##### Section 3 : Dispositions applicables aux membres de la Résistance<a id=214></a>
+##### Section 3 : Dispositions applicables aux membres de la Résistance<a id=203></a>
 
 ###### Article R132-8
 
@@ -18209,7 +17233,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R162, extrait (Ab)
 
 
-#### Chapitre III : Majoration pour tierce personne<a id=215></a>
+#### Chapitre III : Majoration pour tierce personne<a id=204></a>
 
 ###### Article R133-1
 
@@ -18259,7 +17283,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L133-1 (V)
 
 
-#### Chapitre IV : Majoration pour enfants<a id=216></a>
+#### Chapitre IV : Majoration pour enfants<a id=205></a>
 
 ###### Article D134-1
 
@@ -18323,7 +17347,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L20, alinéas 6 à 13 (Ab)
 
 
-#### Chapitre V : Allocations spéciales aux aveugles de la Résistance<a id=217></a>
+#### Chapitre V : Allocations spéciales aux aveugles de la Résistance<a id=206></a>
 
 ###### Article D135-1
 
@@ -18374,11 +17398,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R168-1 (Ab)
 
 
-### Titre IV : DROITS DES AYANTS CAUSE<a id=218></a>
+### Titre IV : DROITS DES AYANTS CAUSE<a id=207></a>
 
-#### Chapitre Ier : Ayants cause des militaires<a id=219></a>
+#### Chapitre Ier : Ayants cause des militaires<a id=208></a>
 
-##### Section 1 : Conditions d'ouverture des droits à pension des ayants cause des militaires<a id=220></a>
+##### Section 1 : Conditions d'ouverture des droits à pension des ayants cause des militaires<a id=209></a>
 
 ###### Article R141-1
 
@@ -18516,9 +17540,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R42, alinéa 5 (Ab)
 
 
-##### Section 2 : Détermination des taux et montants des pensions<a id=221></a>
+##### Section 2 : Détermination des taux et montants des pensions<a id=210></a>
 
-##### Sous-section 1 : Les pensions de base.<a id=222></a>
+##### Sous-section 1 : Les pensions de base.<a id=211></a>
 
 ###### Article D141-5
 
@@ -18552,7 +17576,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L52, extrait (Ab)
 
 
-##### Sous-section 2 : Majorations des pensions de conjoint et partenaire survivant.<a id=223></a>
+##### Sous-section 2 : Majorations des pensions de conjoint et partenaire survivant.<a id=212></a>
 
 ###### Article D141-6
 
@@ -18717,7 +17741,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L54, extrait alinéa 6 (Ab)
 
 
-##### Sous-section 3 : Montant des pensions des ascendants<a id=224></a>
+##### Sous-section 3 : Montant des pensions des ascendants<a id=213></a>
 
 ###### Article D141-12
 
@@ -18840,9 +17864,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L74 (Ab)
 
 
-#### Chapitre II : Ayants cause des personnes assimilées aux militaires et  des membres de la Résistance<a id=225></a>
+#### Chapitre II : Ayants cause des personnes assimilées aux militaires et  des membres de la Résistance<a id=214></a>
 
-##### Section unique :  Allocation aux conjoints et partenaires survivants des aveugles de la Résistance.<a id=226></a>
+##### Section unique :  Allocation aux conjoints et partenaires survivants des aveugles de la Résistance.<a id=215></a>
 
 ###### Article R142-1
 
@@ -18868,9 +17892,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R168-1, extrait (Ab)
 
 
-#### Chapitre III : Ayants cause des victimes civiles de guerre<a id=227></a>
+#### Chapitre III : Ayants cause des victimes civiles de guerre<a id=216></a>
 
-##### Section 1 : Ayants cause des victimes de la guerre 1939-1945<a id=228></a>
+##### Section 1 : Ayants cause des victimes de la guerre 1939-1945<a id=217></a>
 
 ###### Article R143-1
 
@@ -18926,7 +17950,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R383 (Ab)
 
 
-##### Section 2 : Ayants cause des victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc<a id=229></a>
+##### Section 2 : Ayants cause des victimes civiles de la guerre d'Algérie et des combats en Tunisie et au Maroc<a id=218></a>
 
 ###### Article R143-3
 
@@ -18982,7 +18006,7 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre V : Secours attribué aux concubins<a id=230></a>
+#### Chapitre V : Secours attribué aux concubins<a id=219></a>
 
 ###### Article D145-1
 
@@ -19055,7 +18079,7 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre VI : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie<a id=231></a>
+#### Chapitre VI : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie<a id=220></a>
 
 ###### Article R146-1
 
@@ -19117,11 +18141,11 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre V : PROCÉDURE D'ATTRIBUTION ET DE RÉVISION DES PENSIONS<a id=232></a>
+### Titre V : PROCÉDURE D'ATTRIBUTION ET DE RÉVISION DES PENSIONS<a id=221></a>
 
-#### Chapitre Ier : Demande et attribution des pensions d'invalidité des militaires et des personnes assimilées aux militaires<a id=233></a>
+#### Chapitre Ier : Demande et attribution des pensions d'invalidité des militaires et des personnes assimilées aux militaires<a id=222></a>
 
-##### Section 1 : Présentation des demandes<a id=234></a>
+##### Section 1 : Présentation des demandes<a id=223></a>
 
 ###### Article R151-1
 
@@ -19270,7 +18294,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R173, alinéa 2 (Ab)
 
 
-##### Section 2 : Règles d'instruction des demandes et de concession des pensions<a id=235></a>
+##### Section 2 : Règles d'instruction des demandes et de concession des pensions<a id=224></a>
 
 ###### Article R151-6
 
@@ -19766,7 +18790,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R19, alinéa 2 (Ab)
 
 
-##### Section 3 : Dispositions applicables aux anciens militaires résidant à l'étranger<a id=236></a>
+##### Section 3 : Dispositions applicables aux anciens militaires résidant à l'étranger<a id=225></a>
 
 ###### Article R151-20
 
@@ -19837,9 +18861,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R22, alinéa 1 (Ab)
 
 
-#### Chapitre II : Procédure applicable aux victimes civiles de guerre<a id=237></a>
+#### Chapitre II : Procédure applicable aux victimes civiles de guerre<a id=226></a>
 
-##### Section 1 : Dispositions générales<a id=238></a>
+##### Section 1 : Dispositions générales<a id=227></a>
 
 ###### Article D152-2
 
@@ -19931,7 +18955,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R176, alinéas 1 et 4 (Ab)
 
 
-##### Section 2 : Dispositions particulières applicables aux victimes d'actes de terrorisme<a id=239></a>
+##### Section 2 : Dispositions particulières applicables aux victimes d'actes de terrorisme<a id=228></a>
 
 ###### Article R152-5
 
@@ -19960,11 +18984,11 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre III : Procédure applicable aux ayants cause<a id=240></a>
+#### Chapitre III : Procédure applicable aux ayants cause<a id=229></a>
 
-##### Section 1 : Ayants cause des militaires<a id=241></a>
+##### Section 1 : Ayants cause des militaires<a id=230></a>
 
-##### Sous-section 1 : Instruction des demandes et procédure d'attribution des pensions<a id=242></a>
+##### Sous-section 1 : Instruction des demandes et procédure d'attribution des pensions<a id=231></a>
 
 ###### Article D153-5
 
@@ -20168,7 +19192,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R37 (Ab)
 
 
-##### Sous-section 2 : Date d'entrée en jouissance de la pension<a id=243></a>
+##### Sous-section 2 : Date d'entrée en jouissance de la pension<a id=232></a>
 
 ###### Article R153-7
 
@@ -20191,7 +19215,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L44, extrait (Ab)
 
 
-##### Section 2 : Ayants cause des personnes assimilées aux militaires et des victimes civiles de guerre<a id=244></a>
+##### Section 2 : Ayants cause des personnes assimilées aux militaires et des victimes civiles de guerre<a id=233></a>
 
 ###### Article R153-8
 
@@ -20214,7 +19238,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R182 (Ab)
 
 
-#### Chapitre IV : Révision<a id=245></a>
+#### Chapitre IV : Révision<a id=234></a>
 
 ###### Article R154-1
 
@@ -20265,7 +19289,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R28 (Ab)
 
 
-#### Chapitre V : Procédure applicable dans les collectivités d'outre-mer et en Nouvelle-Calédonie<a id=246></a>
+#### Chapitre V : Procédure applicable dans les collectivités d'outre-mer et en Nouvelle-Calédonie<a id=235></a>
 
 ###### Article D155-4
 
@@ -20406,9 +19430,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R151-9 (V)
 
 
-### Titre VI : RÉGIME DES PENSIONS CONCÉDÉES<a id=247></a>
+### Titre VI : RÉGIME DES PENSIONS CONCÉDÉES<a id=236></a>
 
-#### Chapitre II : Règles de cumuls<a id=248></a>
+#### Chapitre II : Règles de cumuls<a id=237></a>
 
 ###### Article R162-1
 
@@ -20442,13 +19466,13 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R102, alinéas 1 et 3 et 4 (Ab)
 
 
-## Livre II : DROITS ANNEXES À LA PENSION<a id=249></a>
+## Livre II : DROITS ANNEXES À LA PENSION<a id=238></a>
 
-### Titre Ier : PRISE EN CHARGE DES SOINS MÉDICAUX ET DE L'APPAREILLAGE<a id=250></a>
+### Titre Ier : PRISE EN CHARGE DES SOINS MÉDICAUX ET DE L'APPAREILLAGE<a id=239></a>
 
-#### Chapitre Ier : Dispositions communes<a id=251></a>
+#### Chapitre Ier : Dispositions communes<a id=240></a>
 
-##### Section 1 : Régime des prestations de soins<a id=252></a>
+##### Section 1 : Régime des prestations de soins<a id=241></a>
 
 ###### Article D211-5
 
@@ -20655,7 +19679,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L221-1 (V)
 
 
-##### Section 2 : Secours et prestations complémentaires<a id=253></a>
+##### Section 2 : Secours et prestations complémentaires<a id=242></a>
 
 ###### Article R211-8
 
@@ -20756,7 +19780,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R102-1-1, alinéas 5, 6, 7, 8, 9, 10 et 11 (Ab)
 
 
-##### Section 3 : Frais de transports<a id=254></a>
+##### Section 3 : Frais de transports<a id=243></a>
 
 ###### Article D211-12
 
@@ -20908,9 +19932,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R102-2 (Ab)
 
 
-#### Chapitre II : Soins médicaux<a id=255></a>
+#### Chapitre II : Soins médicaux<a id=244></a>
 
-##### Section 1 : Soins externes<a id=256></a>
+##### Section 1 : Soins externes<a id=245></a>
 
 ###### Article D212-1
 
@@ -21082,7 +20106,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R212-5 (V)
 
 
-##### Section 2 : Prise en charge des produits pharmaceutiques<a id=257></a>
+##### Section 2 : Prise en charge des produits pharmaceutiques<a id=246></a>
 
 ###### Article D212-7
 
@@ -21107,7 +20131,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. A31 (Ab)
 
 
-##### Section 3 : Thermalisme<a id=258></a>
+##### Section 3 : Thermalisme<a id=247></a>
 
 ###### Article D212-8
 
@@ -21150,7 +20174,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D61, alinéa 1 (Ab)
 
 
-##### Section 4 : Prise en charge des actes et prestations dispensés par les chirurgiens-dentistes et stomatologues<a id=259></a>
+##### Section 4 : Prise en charge des actes et prestations dispensés par les chirurgiens-dentistes et stomatologues<a id=248></a>
 
 ###### Article D212-9
 
@@ -21175,7 +20199,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D62 (Ab)
 
 
-##### Section 5 : Hospitalisations<a id=260></a>
+##### Section 5 : Hospitalisations<a id=249></a>
 
 ###### Article D212-10
 
@@ -21261,7 +20285,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L212-1 (V)
 
 
-##### Section 6 : Contrôle des soins<a id=261></a>
+##### Section 6 : Contrôle des soins<a id=250></a>
 
 ###### Article D212-13
 
@@ -21294,7 +20318,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L212-1 (V)
 
 
-##### Section 7 : Règlement des frais occasionnés par les soins médicaux<a id=262></a>
+##### Section 7 : Règlement des frais occasionnés par les soins médicaux<a id=251></a>
 
 ###### Article D212-14
 
@@ -21376,7 +20400,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D73 (Ab)
 
 
-#### Chapitre III : Appareillage<a id=263></a>
+#### Chapitre III : Appareillage<a id=252></a>
 
 ###### Article D213-1
 
@@ -21421,7 +20445,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L128, alinéas 2 et 4 (Ab)
 
 
-#### Chapitre IV : Dispositions applicables à l'étranger<a id=264></a>
+#### Chapitre IV : Dispositions applicables à l'étranger<a id=253></a>
 
 ###### Article D214-1
 
@@ -21444,7 +20468,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D78 (Ab)
 
 
-#### Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie<a id=265></a>
+#### Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie<a id=254></a>
 
 ###### Article R215-1
 
@@ -21464,9 +20488,9 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE<a id=266></a>
+### Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE<a id=255></a>
 
-#### Chapitre unique.<a id=267></a>
+#### Chapitre unique.<a id=256></a>
 
 ###### Article D221-1
 
@@ -21517,11 +20541,11 @@ _Cite_:
   - Code de la santé publique - art. L3222-1 (V)
 
 
-### Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE<a id=268></a>
+### Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE<a id=257></a>
 
-#### Chapitre II : Procédure d'accès aux emplois réservés<a id=269></a>
+#### Chapitre II : Procédure d'accès aux emplois réservés<a id=258></a>
 
-##### Section 1 : Dispositions générales<a id=270></a>
+##### Section 1 : Dispositions générales<a id=259></a>
 
 ###### Article R242-1
 
@@ -22007,7 +21031,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R407 (Ab)
 
 
-##### Section 2 : Dispositions relatives aux bénéficiaires des dispositions de l'article L. 242-7<a id=271></a>
+##### Section 2 : Dispositions relatives aux bénéficiaires des dispositions de l'article L. 242-7<a id=260></a>
 
 ###### Article R242-17
 
@@ -22165,7 +21189,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R413 (Ab)
 
 
-#### Annexe au chapitre II<a id=272></a>
+#### Annexe au chapitre II<a id=261></a>
 
 ###### Article  
 
@@ -22227,7 +21251,7 @@ _Créé par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre III : Recrutement direct<a id=273></a>
+#### Chapitre III : Recrutement direct<a id=262></a>
 
 ###### Article R243-1
 
@@ -22257,7 +21281,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L243-1 (V)
 
 
-#### Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie<a id=274></a>
+#### Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie<a id=263></a>
 
 ###### Article R244-1
 
@@ -22275,9 +21299,9 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre V : CARTES D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS<a id=275></a>
+### Titre V : CARTES D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS<a id=264></a>
 
-#### Chapitre unique.<a id=276></a>
+#### Chapitre unique.<a id=265></a>
 
 ###### Article D251-3
 
@@ -22434,15 +21458,15 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R389-2 (Ab)
 
 
-## Livre III : CARTES ET TITRES, RETRAITE DU COMBATTANT ET DÉCORATIONS<a id=277></a>
+## Livre III : CARTES ET TITRES, RETRAITE DU COMBATTANT ET DÉCORATIONS<a id=266></a>
 
-### Titre Ier : LA CARTE DU COMBATTANT<a id=278></a>
+### Titre Ier : LA CARTE DU COMBATTANT<a id=267></a>
 
-#### Chapitre unique.<a id=279></a>
+#### Chapitre unique.<a id=268></a>
 
-##### Section 1 : Reconnaissance de la qualité de combattant<a id=280></a>
+##### Section 1 : Reconnaissance de la qualité de combattant<a id=269></a>
 
-##### Sous-section 1 : Opérations entre 1918 et 1939, guerre 1939-1945 et guerres d'Indochine et de Corée<a id=281></a>
+##### Sous-section 1 : Opérations entre 1918 et 1939, guerre 1939-1945 et guerres d'Indochine et de Corée<a id=270></a>
 
 ###### Article R311-1
 
@@ -22734,7 +21758,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R224, alinéas 39 et 40 (Ab)
 
 
-##### Sous-section 2 : Guerre d'Algérie et combats en Tunisie et au Maroc<a id=282></a>
+##### Sous-section 2 : Guerre d'Algérie et combats en Tunisie et au Maroc<a id=271></a>
 
 ###### Article R311-9
 
@@ -22889,7 +21913,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R311-9 (V)
 
 
-##### Sous-section 3 : Opérations extérieures<a id=283></a>
+##### Sous-section 3 : Opérations extérieures<a id=272></a>
 
 ###### Article R311-14
 
@@ -22993,7 +22017,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R311-14 (V)
 
 
-##### Sous-section 4 : Bénéficiaires de citations<a id=284></a>
+##### Sous-section 4 : Bénéficiaires de citations<a id=273></a>
 
 ###### Article R311-17
 
@@ -23026,7 +22050,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R341-9 (V)
 
 
-##### Sous-section 5 : Attribution de la qualité de combattant au titre de l'article L. 311-4<a id=285></a>
+##### Sous-section 5 : Attribution de la qualité de combattant au titre de l'article L. 311-4<a id=274></a>
 
 ###### Article R311-18
 
@@ -23104,7 +22128,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L311-4 (V)
 
 
-##### Sous-section 6 : Dispositions générales<a id=286></a>
+##### Sous-section 6 : Dispositions générales<a id=275></a>
 
 ###### Article R311-21
 
@@ -23143,7 +22167,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R311-2 (V)
 
 
-##### Section 2 : Procédure de délivrance de la carte du combattant<a id=287></a>
+##### Section 2 : Procédure de délivrance de la carte du combattant<a id=276></a>
 
 ###### Article D311-23
 
@@ -23274,7 +22298,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R230 (Ab)
 
 
-##### Section 3 : Commission nationale de la carte du combattant<a id=288></a>
+##### Section 3 : Commission nationale de la carte du combattant<a id=277></a>
 
 ###### Article R311-27
 
@@ -23356,11 +22380,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre II : LA RETRAITE DU COMBATTANT<a id=289></a>
+### Titre II : LA RETRAITE DU COMBATTANT<a id=278></a>
 
-#### Chapitre unique.<a id=290></a>
+#### Chapitre unique.<a id=279></a>
 
-##### Section 1 : Montant de la retraite<a id=291></a>
+##### Section 1 : Montant de la retraite<a id=280></a>
 
 ###### Article D321-1
 
@@ -23373,7 +22397,7 @@ _Modifié par_:
   - Décret n°2016-1904 du 28 décembre 2016 - art. 1
 
 
-##### Section 2 : Attribution et paiement de la retraite<a id=292></a>
+##### Section 2 : Attribution et paiement de la retraite<a id=281></a>
 
 ###### Article D321-2
 
@@ -23575,7 +22599,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R238, alinéa 4 (Ab)
 
 
-##### Section 3 : Mesures d'application<a id=293></a>
+##### Section 3 : Mesures d'application<a id=282></a>
 
 ###### Article D321-9
 
@@ -23603,7 +22627,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R253 (Ab)
 
 
-##### Section 4 : Dispositions applicables en Nouvelle-Calédonie et dans les collectivités d'outre-mer<a id=294></a>
+##### Section 4 : Dispositions applicables en Nouvelle-Calédonie et dans les collectivités d'outre-mer<a id=283></a>
 
 ###### Article D321-10
 
@@ -23648,9 +22672,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D321-6 (V)
 
 
-### Titre III : LE TITRE DE RECONNAISSANCE DE LA NATION<a id=295></a>
+### Titre III : LE TITRE DE RECONNAISSANCE DE LA NATION<a id=284></a>
 
-#### Chapitre unique.<a id=296></a>
+#### Chapitre unique.<a id=285></a>
 
 ###### Article D331-1
 
@@ -23781,11 +22805,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D266-5 (Ab)
 
 
-### Titre IV : AUTRES TITRES ET DROITS CORRESPONDANTS<a id=297></a>
+### Titre IV : AUTRES TITRES ET DROITS CORRESPONDANTS<a id=286></a>
 
-#### Chapitre Ier : Combattants volontaires de la Résistance<a id=298></a>
+#### Chapitre Ier : Combattants volontaires de la Résistance<a id=287></a>
 
-##### Section 1 : Conditions générales d'obtention de la qualité de combattant volontaire de la Résistance<a id=299></a>
+##### Section 1 : Conditions générales d'obtention de la qualité de combattant volontaire de la Résistance<a id=288></a>
 
 ###### Article R341-1
 
@@ -23889,9 +22913,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R256 (Ab)
 
 
-##### Section 2 : Conditions applicables à certaines catégories de combattants volontaires de la Résistance<a id=300></a>
+##### Section 2 : Conditions applicables à certaines catégories de combattants volontaires de la Résistance<a id=289></a>
 
-##### Sous-section 1 : Membres des Forces Françaises Libres<a id=301></a>
+##### Sous-section 1 : Membres des Forces Françaises Libres<a id=290></a>
 
 ###### Article R341-4
 
@@ -23956,7 +22980,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-1 (V)
 
 
-##### Sous-section 2 : Membres de la Résistance dans les camps de prisonniers<a id=302></a>
+##### Sous-section 2 : Membres de la Résistance dans les camps de prisonniers<a id=291></a>
 
 ###### Article D341-7
 
@@ -24029,7 +23053,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R342-2 (V)
 
 
-##### Sous-section 3 : Membres de la Résistance dans la France d'Outre-mer ou en territoires étrangers occupés par l'ennemi<a id=303></a>
+##### Sous-section 3 : Membres de la Résistance dans la France d'Outre-mer ou en territoires étrangers occupés par l'ennemi<a id=292></a>
 
 ###### Article R341-8
 
@@ -24125,7 +23149,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R278 (Ab)
 
 
-##### Sous-section 4 : Procédure<a id=304></a>
+##### Sous-section 4 : Procédure<a id=293></a>
 
 ###### Article D341-11
 
@@ -24231,9 +23255,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-4 (V)
 
 
-#### Chapitre II : Déportés et internés résistants<a id=305></a>
+#### Chapitre II : Déportés et internés résistants<a id=294></a>
 
-##### Section 1 : Conditions générales d'obtention du titre de déporté ou d'interné résistant<a id=306></a>
+##### Section 1 : Conditions générales d'obtention du titre de déporté ou d'interné résistant<a id=295></a>
 
 ###### Article R342-1
 
@@ -24485,7 +23509,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-1 (V)
 
 
-##### Section 2 : Conditions applicables à certains déportés ou internés résistants<a id=307></a>
+##### Section 2 : Conditions applicables à certains déportés ou internés résistants<a id=296></a>
 
 ###### Article R342-7
 
@@ -24688,7 +23712,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R342-6 (V)
 
 
-##### Section 3 : Procédure<a id=308></a>
+##### Section 3 : Procédure<a id=297></a>
 
 ###### Article D342-14
 
@@ -24911,7 +23935,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R326, alinéa 1 (Ab)
 
 
-##### Section 4 : Grades d'assimilation<a id=309></a>
+##### Section 4 : Grades d'assimilation<a id=298></a>
 
 ###### Article D342-22
 
@@ -24962,11 +23986,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R300 (Ab)
 
 
-#### Chapitre III : Déportés et internés politiques, patriotes résistant à l'occupation des départements du Rhin et de la Moselle et patriotes réfractaires à l'annexion de fait<a id=310></a>
+#### Chapitre III : Déportés et internés politiques, patriotes résistant à l'occupation des départements du Rhin et de la Moselle et patriotes réfractaires à l'annexion de fait<a id=299></a>
 
-##### Section 1 : Déportés et internés politiques<a id=311></a>
+##### Section 1 : Déportés et internés politiques<a id=300></a>
 
-##### Sous-section 1 : Conditions d'obtention du titre de déporté ou d'interné politique<a id=312></a>
+##### Sous-section 1 : Conditions d'obtention du titre de déporté ou d'interné politique<a id=301></a>
 
 ###### Article R343-1
 
@@ -25196,7 +24220,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R333 (Ab)
 
 
-##### Sous-section 2 : Procédure<a id=313></a>
+##### Sous-section 2 : Procédure<a id=302></a>
 
 ###### Article D343-7
 
@@ -25395,7 +24419,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R351, alinéa 1 (Ab)
 
 
-##### Section 2 : Patriotes résistant à l'occupation des départements du Rhin et de la Moselle, incarcérés en camps spéciaux<a id=314></a>
+##### Section 2 : Patriotes résistant à l'occupation des départements du Rhin et de la Moselle, incarcérés en camps spéciaux<a id=303></a>
 
 ###### Article D343-14
 
@@ -25432,7 +24456,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R613-10 (V)
 
 
-##### Section 3 : Patriotes réfractaires à l'annexion de fait<a id=315></a>
+##### Section 3 : Patriotes réfractaires à l'annexion de fait<a id=304></a>
 
 ###### Article R343-15
 
@@ -25463,11 +24487,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-4 (V)
 
 
-#### Chapitre IV : Réfractaires, personnes contraintes au travail en pays ennemi, patriotes transférés en Allemagne et autres titres en lien avec la guerre 1939-1945<a id=316></a>
+#### Chapitre IV : Réfractaires, personnes contraintes au travail en pays ennemi, patriotes transférés en Allemagne et autres titres en lien avec la guerre 1939-1945<a id=305></a>
 
-##### Section 1 : Réfractaires<a id=317></a>
+##### Section 1 : Réfractaires<a id=306></a>
 
-##### Sous-section 1 : Conditions d'obtention du titre de réfractaire.<a id=318></a>
+##### Sous-section 1 : Conditions d'obtention du titre de réfractaire.<a id=307></a>
 
 ###### Article R344-1
 
@@ -25706,7 +24730,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R355 (Ab)
 
 
-##### Sous-section 2 : Procédure<a id=319></a>
+##### Sous-section 2 : Procédure<a id=308></a>
 
 ###### Article D344-7
 
@@ -25871,9 +24895,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R367, alinéa 1 (Ab)
 
 
-##### Section 2 : Personnes contraintes au travail en pays ennemi<a id=320></a>
+##### Section 2 : Personnes contraintes au travail en pays ennemi<a id=309></a>
 
-##### Sous-section 1 : Conditions d'obtention du titre de personne contrainte au travail en pays ennemi<a id=321></a>
+##### Sous-section 1 : Conditions d'obtention du titre de personne contrainte au travail en pays ennemi<a id=310></a>
 
 ###### Article R344-13
 
@@ -25955,7 +24979,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R371 (Ab)
 
 
-##### Sous-section 2 : Procédure<a id=322></a>
+##### Sous-section 2 : Procédure<a id=311></a>
 
 ###### Article D344-15
 
@@ -26089,7 +25113,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R387, alinéa 1 (Ab)
 
 
-##### Section 3 : Patriotes transférés en Allemagne<a id=323></a>
+##### Section 3 : Patriotes transférés en Allemagne<a id=312></a>
 
 ###### Article D344-20
 
@@ -26115,7 +25139,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-4 (V)
 
 
-##### Section 4 : Incorporés de force dans l'armée allemande ou dans les formations paramilitaires allemandes<a id=324></a>
+##### Section 4 : Incorporés de force dans l'armée allemande ou dans les formations paramilitaires allemandes<a id=313></a>
 
 ###### Article D344-21
 
@@ -26193,7 +25217,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-4 (V)
 
 
-##### Section 5 : Titre d'évadé<a id=325></a>
+##### Section 5 : Titre d'évadé<a id=314></a>
 
 ###### Article D344-23
 
@@ -26235,7 +25259,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-4 (V)
 
 
-#### Chapitre V : Prisonniers du Viet-Minh<a id=326></a>
+#### Chapitre V : Prisonniers du Viet-Minh<a id=315></a>
 
 ###### Article D345-1
 
@@ -26273,7 +25297,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R388-5 (Ab)
 
 
-#### Chapitre VI : Victimes de la captivité en Algérie<a id=327></a>
+#### Chapitre VI : Victimes de la captivité en Algérie<a id=316></a>
 
 ###### Article D346-1
 
@@ -26313,7 +25337,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R347-4 (V)
 
 
-#### Chapitre VII : Commission nationale des cartes et titres et dispositions communes<a id=328></a>
+#### Chapitre VII : Commission nationale des cartes et titres et dispositions communes<a id=317></a>
 
 ###### Article R347-1
 
@@ -26570,11 +25594,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre V : DÉCORATIONS<a id=329></a>
+### Titre V : DÉCORATIONS<a id=318></a>
 
-#### Chapitre Ier : Légion d'honneur et médaille militaire<a id=330></a>
+#### Chapitre Ier : Légion d'honneur et médaille militaire<a id=319></a>
 
-##### Section 1 : Légion d'honneur<a id=331></a>
+##### Section 1 : Légion d'honneur<a id=320></a>
 
 ###### Article R351-3
 
@@ -26632,7 +25656,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R351-6 (V)
 
 
-##### Section 2 : Médaille militaire<a id=332></a>
+##### Section 2 : Médaille militaire<a id=321></a>
 
 ###### Article R351-6
 
@@ -26665,7 +25689,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R351-5 (V)
 
 
-##### Section 4 : Contingents réservés aux membres de la Résistance<a id=333></a>
+##### Section 4 : Contingents réservés aux membres de la Résistance<a id=322></a>
 
 ###### Article R351-9
 
@@ -26712,9 +25736,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L350 (Ab)
 
 
-#### Chapitre II : Croix du combattant volontaire de la Résistance et croix du combattant volontaire<a id=334></a>
+#### Chapitre II : Croix du combattant volontaire de la Résistance et croix du combattant volontaire<a id=323></a>
 
-##### Section 1 : Croix du combattant volontaire de la Résistance<a id=335></a>
+##### Section 1 : Croix du combattant volontaire de la Résistance<a id=324></a>
 
 ###### Article R352-1
 
@@ -26742,7 +25766,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R394, alinéa 2 (Ab)
 
 
-##### Section 2 : Croix du combattant volontaire<a id=336></a>
+##### Section 2 : Croix du combattant volontaire<a id=325></a>
 
 ###### Article D352-3
 
@@ -27044,9 +26068,9 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre III : Croix du combattant et médaille de reconnaissance de la Nation<a id=337></a>
+#### Chapitre III : Croix du combattant et médaille de reconnaissance de la Nation<a id=326></a>
 
-##### Section 1 : Croix du combattant<a id=338></a>
+##### Section 1 : Croix du combattant<a id=327></a>
 
 ###### Article D353-3
 
@@ -27161,7 +26185,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L355 (Ab)
 
 
-##### Section 2 : Médaille de reconnaissance de la Nation<a id=339></a>
+##### Section 2 : Médaille de reconnaissance de la Nation<a id=328></a>
 
 ###### Article D353-7
 
@@ -27297,7 +26321,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre IV : Médaille des évadés<a id=340></a>
+#### Chapitre IV : Médaille des évadés<a id=329></a>
 
 ###### Article D354-13
 
@@ -27634,9 +26658,9 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre V : Autres médaille et insignes<a id=341></a>
+#### Chapitre V : Autres médaille et insignes<a id=330></a>
 
-##### Section 1 : Médaille de la déportation et de l'internement pour faits de résistance<a id=342></a>
+##### Section 1 : Médaille de la déportation et de l'internement pour faits de résistance<a id=331></a>
 
 ###### Article D355-2
 
@@ -27688,7 +26712,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R393, alinéa 2 (Ab)
 
 
-##### Section 2 : Médaille de la déportation et de l'internement<a id=343></a>
+##### Section 2 : Médaille de la déportation et de l'internement<a id=332></a>
 
 ###### Article D355-4
 
@@ -27742,7 +26766,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R395-1 (Ab)
 
 
-##### Section 3 : Médaille du patriote résistant à l'occupation des départements du Rhin et de la Moselle<a id=344></a>
+##### Section 3 : Médaille du patriote résistant à l'occupation des départements du Rhin et de la Moselle<a id=333></a>
 
 ###### Article R355-5
 
@@ -27773,7 +26797,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L343-9 (V)
 
 
-##### Section 4 : Insigne de patriote réfractaire à l'annexion de fait<a id=345></a>
+##### Section 4 : Insigne de patriote réfractaire à l'annexion de fait<a id=334></a>
 
 ###### Article D355-7
 
@@ -27852,7 +26876,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 5 : Insigne des réfractaires et des personnes contraintes au travail en pays ennemi<a id=346></a>
+##### Section 5 : Insigne des réfractaires et des personnes contraintes au travail en pays ennemi<a id=335></a>
 
 ###### Article R355-9
 
@@ -27907,7 +26931,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R395-3 (Ab)
 
 
-##### Section 6 : Insigne des parents, conjoints et partenaires survivants des « Morts pour la France »<a id=347></a>
+##### Section 6 : Insigne des parents, conjoints et partenaires survivants des « Morts pour la France »<a id=336></a>
 
 ###### Article D355-13
 
@@ -27998,7 +27022,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L388 (Ab)
 
 
-##### Section 7 : Médaille des blessés de guerre<a id=348></a>
+##### Section 7 : Médaille des blessés de guerre<a id=337></a>
 
 ###### Article D355-15
 
@@ -28104,7 +27128,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D355-16 (V)
 
 
-##### Section 8 : Insigne des victimes civiles<a id=349></a>
+##### Section 8 : Insigne des victimes civiles<a id=338></a>
 
 ###### Article D355-20
 
@@ -28214,7 +27238,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R613-5 (V)
 
 
-##### Section 9 : Médaille nationale de reconnaissance aux victimes du terrorisme<a id=350></a>
+##### Section 9 : Médaille nationale de reconnaissance aux victimes du terrorisme<a id=339></a>
 
 ###### Article D355-23
 
@@ -28388,11 +27412,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-## Livre IV : PUPILLES DE LA NATION<a id=351></a>
+## Livre IV : PUPILLES DE LA NATION<a id=340></a>
 
-### Titre Ier : DE LA QUALITÉ DE PUPILLE DE LA NATION<a id=352></a>
+### Titre Ier : DE LA QUALITÉ DE PUPILLE DE LA NATION<a id=341></a>
 
-#### Chapitre II : Procédure d'adoption par la Nation<a id=353></a>
+#### Chapitre II : Procédure d'adoption par la Nation<a id=342></a>
 
 ###### Article R412-1
 
@@ -28606,11 +27630,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L469 (Ab)
 
 
-### Titre II : EFFETS DE L'ADOPTION<a id=354></a>
+### Titre II : EFFETS DE L'ADOPTION<a id=343></a>
 
-#### Chapitre Ier : Protection et aide de l'Etat<a id=355></a>
+#### Chapitre Ier : Protection et aide de l'Etat<a id=344></a>
 
-##### Section 1 : Bourses et subventions<a id=356></a>
+##### Section 1 : Bourses et subventions<a id=345></a>
 
 ###### Article R421-1
 
@@ -28999,7 +28023,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R555 (Ab)
 
 
-##### Section 2 : Subventions d'apprentissage<a id=357></a>
+##### Section 2 : Subventions d'apprentissage<a id=346></a>
 
 ###### Article R421-16
 
@@ -29031,7 +28055,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R541 (Ab)
 
 
-##### Section 3 : Dispositions communes aux subventions pour études et subventions pour apprentissage<a id=358></a>
+##### Section 3 : Dispositions communes aux subventions pour études et subventions pour apprentissage<a id=347></a>
 
 ###### Article R421-17
 
@@ -29080,7 +28104,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R562 (Ab)
 
 
-#### Chapitre II : Tutelle des pupilles<a id=359></a>
+#### Chapitre II : Tutelle des pupilles<a id=348></a>
 
 ###### Article R422-1
 
@@ -29577,7 +28601,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D380 (Ab)
 
 
-#### Chapitre III : Placement des pupilles<a id=360></a>
+#### Chapitre III : Placement des pupilles<a id=349></a>
 
 ###### Article R423-1
 
@@ -29600,7 +28624,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R514 (Ab)
 
 
-##### Section 1 : Placement dans des établissements<a id=361></a>
+##### Section 1 : Placement dans des établissements<a id=350></a>
 
 ###### Article R423-2
 
@@ -29914,7 +28938,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R525 (Ab)
 
 
-##### Section 2 : Placement chez des particuliers<a id=362></a>
+##### Section 2 : Placement chez des particuliers<a id=351></a>
 
 ###### Article R423-13
 
@@ -30099,11 +29123,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R532 (Ab)
 
 
-### Titre III : DISPOSITIONS RELATIVES AUX PUPILLES RÉSIDANT À L'ÉTRANGER<a id=363></a>
+### Titre III : DISPOSITIONS RELATIVES AUX PUPILLES RÉSIDANT À L'ÉTRANGER<a id=352></a>
 
-#### Chapitre unique.<a id=364></a>
+#### Chapitre unique.<a id=353></a>
 
-##### Section 1 : Reconnaissance du droit au titre de pupille de la Nation<a id=365></a>
+##### Section 1 : Reconnaissance du droit au titre de pupille de la Nation<a id=354></a>
 
 ###### Article R431-1
 
@@ -30256,7 +29280,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D395 (Ab)
 
 
-##### Section 2 : Protection et aide.<a id=366></a>
+##### Section 2 : Protection et aide.<a id=355></a>
 
 ###### Article R431-7
 
@@ -30405,9 +29429,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R431-7 (V)
 
 
-### Titre IV : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE<a id=367></a>
+### Titre IV : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE<a id=356></a>
 
-#### Chapitre unique.<a id=368></a>
+#### Chapitre unique.<a id=357></a>
 
 ###### Article R441-1
 
@@ -30551,11 +29575,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-## Livre V : MENTIONS À L'ÉTAT CIVIL ET SEPULTURES<a id=369></a>
+## Livre V : MENTIONS À L'ÉTAT CIVIL ET SEPULTURES<a id=358></a>
 
-### Titre Ier : MENTIONS ET INSCRIPTION SUR LES MONUMENTS COMMÉMORATIFS<a id=370></a>
+### Titre Ier : MENTIONS ET INSCRIPTION SUR LES MONUMENTS COMMÉMORATIFS<a id=359></a>
 
-#### Chapitre Ier : Mention "Mort pour la France"<a id=371></a>
+#### Chapitre Ier : Mention "Mort pour la France"<a id=360></a>
 
 ###### Article R*511-1
 
@@ -30612,7 +29636,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R531-1 (V)
 
 
-#### Chapitre II : Mention "Mort en déportation"<a id=372></a>
+#### Chapitre II : Mention "Mort en déportation"<a id=361></a>
 
 ###### Article R*512-1
 
@@ -30715,7 +29739,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre III : Mention "Mort pour le service de la Nation"<a id=373></a>
+#### Chapitre III : Mention "Mort pour le service de la Nation"<a id=362></a>
 
 ###### Article R513-1
 
@@ -30889,7 +29913,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R531-1 (V)
 
 
-#### Chapitre IV : Mention "Victime du terrorisme"<a id=374></a>
+#### Chapitre IV : Mention "Victime du terrorisme"<a id=363></a>
 
 ###### Article R514-1
 
@@ -30923,9 +29947,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R531-1 (V)
 
 
-### Titre II : RESTITUTION DES CORPS ET SÉPULTURES PERPÉTUELLES<a id=375></a>
+### Titre II : RESTITUTION DES CORPS ET SÉPULTURES PERPÉTUELLES<a id=364></a>
 
-#### Chapitre Ier : Transfert et restitution des corps<a id=376></a>
+#### Chapitre Ier : Transfert et restitution des corps<a id=365></a>
 
 ###### Article R521-1
 
@@ -31139,9 +30163,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R531-2 (V)
 
 
-#### Chapitre II : Sépultures perpétuelles<a id=377></a>
+#### Chapitre II : Sépultures perpétuelles<a id=366></a>
 
-##### Section 1 : Dispositions générales<a id=378></a>
+##### Section 1 : Dispositions générales<a id=367></a>
 
 ###### Article R522-1
 
@@ -31426,7 +30450,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D429 (Ab)
 
 
-##### Section 2 : Dispositions concernant les personnes civiles<a id=379></a>
+##### Section 2 : Dispositions concernant les personnes civiles<a id=368></a>
 
 ###### Article R522-13
 
@@ -31460,7 +30484,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R569-3 (Ab)
 
 
-#### Chapitre III : Voyages sur les tombes ou sur les lieux du crime<a id=380></a>
+#### Chapitre III : Voyages sur les tombes ou sur les lieux du crime<a id=369></a>
 
 ###### Article D523-1
 
@@ -31518,9 +30542,9 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R571 (Ab)
 
 
-### Titre III : DISPOSITIONS RELATIVES AUX COLLECTIVITES D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE<a id=381></a>
+### Titre III : DISPOSITIONS RELATIVES AUX COLLECTIVITES D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE<a id=370></a>
 
-#### Chapitre unique.<a id=382></a>
+#### Chapitre unique.<a id=371></a>
 
 ###### Article R531-1
 
@@ -31624,11 +30648,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-## Livre VI : INSTITUTIONS<a id=383></a>
+## Livre VI : INSTITUTIONS<a id=372></a>
 
-### Titre Ier : OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE<a id=384></a>
+### Titre Ier : OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE<a id=373></a>
 
-#### Chapitre Ier : Dispositions générales<a id=385></a>
+#### Chapitre Ier : Dispositions générales<a id=374></a>
 
 ###### Article R611-1
 
@@ -31717,9 +30741,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L513-1 (V)
 
 
-#### Chapitre II : Organisation administrative et financière<a id=386></a>
+#### Chapitre II : Organisation administrative et financière<a id=375></a>
 
-##### Section 1 : Le conseil d'administration et les commissions<a id=387></a>
+##### Section 1 : Le conseil d'administration et les commissions<a id=376></a>
 
 ###### Article R612-1
 
@@ -32013,7 +31037,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D439 (Ab)
 
 
-##### Section 2 : Le directeur général<a id=388></a>
+##### Section 2 : Le directeur général<a id=377></a>
 
 ###### Article R612-9
 
@@ -32211,7 +31235,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R612-11 (V)
 
 
-##### Section 3 : Le comité d'honneur<a id=389></a>
+##### Section 3 : Le comité d'honneur<a id=378></a>
 
 ###### Article D612-14
 
@@ -32238,7 +31262,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D435 ter (Ab)
 
 
-##### Section 4 : Le régime financier<a id=390></a>
+##### Section 4 : Le régime financier<a id=379></a>
 
 ###### Article R612-15
 
@@ -32385,7 +31409,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D471 (Ab)
 
 
-##### Section 5 : Modalités de gestion de l'œuvre nationale du Bleuet de France<a id=391></a>
+##### Section 5 : Modalités de gestion de l'œuvre nationale du Bleuet de France<a id=380></a>
 
 ###### Article R612-21
 
@@ -32564,9 +31588,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R612-24 (V)
 
 
-#### Chapitre III : Structures territoriales<a id=392></a>
+#### Chapitre III : Structures territoriales<a id=381></a>
 
-##### Section 1 : Dispositions générales<a id=393></a>
+##### Section 1 : Dispositions générales<a id=382></a>
 
 ###### Article R613-1
 
@@ -32617,7 +31641,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D475, alinéa 1 (Ab)
 
 
-##### Section 2 : Services départementaux<a id=394></a>
+##### Section 2 : Services départementaux<a id=383></a>
 
 ###### Article D613-4
 
@@ -32670,7 +31694,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D472-1 et D472-2, alinéa 2 (Ab)
 
 
-##### Section 3 : Conseils départementaux pour les anciens combattants et victimes de guerre et la mémoire de la Nation<a id=395></a>
+##### Section 3 : Conseils départementaux pour les anciens combattants et victimes de guerre et la mémoire de la Nation<a id=384></a>
 
 ###### Article R613-5
 
@@ -32998,9 +32022,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R613-10 (V)
 
 
-##### Section 4 : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie<a id=396></a>
+##### Section 4 : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie<a id=385></a>
 
-##### Sous-section 1 : Dispositions générales<a id=397></a>
+##### Sous-section 1 : Dispositions générales<a id=386></a>
 
 ###### Article D613-12
 
@@ -33026,7 +32050,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D473 (Ab)
 
 
-##### Sous-section 2 : Dispositions relatives à la Guyane et à la Martinique<a id=398></a>
+##### Sous-section 2 : Dispositions relatives à la Guyane et à la Martinique<a id=387></a>
 
 ###### Article R613-13
 
@@ -33059,7 +32083,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R613-7 (V)
 
 
-##### Sous-section 3 : Dispositions relatives à la Nouvelle-Calédonie et à la Polynésie française<a id=399></a>
+##### Sous-section 3 : Dispositions relatives à la Nouvelle-Calédonie et à la Polynésie française<a id=388></a>
 
 ###### Article R613-14
 
@@ -33288,11 +32312,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R580 (Ab)
 
 
-### Titre II : INSTITUTION NATIONALE DES INVALIDES<a id=400></a>
+### Titre II : INSTITUTION NATIONALE DES INVALIDES<a id=389></a>
 
-#### Chapitre Ier : Dispositions générales<a id=401></a>
+#### Chapitre Ier : Dispositions générales<a id=390></a>
 
-##### Section 1 : Le centre de pensionnaires<a id=402></a>
+##### Section 1 : Le centre de pensionnaires<a id=391></a>
 
 ###### Article R*621-2
 
@@ -33510,7 +32534,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 2 : Le centre médico-chirurgical<a id=403></a>
+##### Section 2 : Le centre médico-chirurgical<a id=392></a>
 
 ###### Article R621-8
 
@@ -33666,7 +32690,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R621-11 (V)
 
 
-##### Section 3 : Le centre d'études et de recherches sur l'appareillage des handicapés<a id=404></a>
+##### Section 3 : Le centre d'études et de recherches sur l'appareillage des handicapés<a id=393></a>
 
 ###### Article R621-13
 
@@ -33699,9 +32723,9 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre II : Organisation administrative et financière<a id=405></a>
+#### Chapitre II : Organisation administrative et financière<a id=394></a>
 
-##### Section 1 : Conseil d'administration<a id=406></a>
+##### Section 1 : Conseil d'administration<a id=395></a>
 
 ###### Article R*622-1
 
@@ -33934,7 +32958,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 2 : Organisation et fonctionnement des services<a id=407></a>
+##### Section 2 : Organisation et fonctionnement des services<a id=396></a>
 
 ###### Article R622-9
 
@@ -34147,7 +33171,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2124-64 (V)
 
 
-##### Section 3 : Organisation financière et comptable<a id=408></a>
+##### Section 3 : Organisation financière et comptable<a id=397></a>
 
 ###### Article R622-17
 
@@ -34284,13 +33308,13 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L212-1 (V)
 
 
-## Livre VII : CONTENTIEUX DES PENSIONS<a id=409></a>
+## Livre VII : CONTENTIEUX DES PENSIONS<a id=398></a>
 
-### Titre Ier : DISPOSITIONS COMMUNES<a id=410></a>
+### Titre Ier : DISPOSITIONS COMMUNES<a id=399></a>
 
-#### Chapitre unique.<a id=411></a>
+#### Chapitre unique.<a id=400></a>
 
-##### Section 1 : Compétence territoriale des juridictions des pensions<a id=412></a>
+##### Section 1 : Compétence territoriale des juridictions des pensions<a id=401></a>
 
 ###### Article R711-1
 
@@ -34362,7 +33386,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L711-1 (V)
 
 
-##### Section 2 : Commissaires du gouvernement<a id=413></a>
+##### Section 2 : Commissaires du gouvernement<a id=402></a>
 
 ###### Article D711-4
 
@@ -34410,7 +33434,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 3 : Magistrats honoraires<a id=414></a>
+##### Section 3 : Magistrats honoraires<a id=403></a>
 
 ###### Article D711-5
 
@@ -34437,7 +33461,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 4 : Indemnités et frais de justice<a id=415></a>
+##### Section 4 : Indemnités et frais de justice<a id=404></a>
 
 ###### Article D711-6
 
@@ -34554,7 +33578,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R741-12 (V)
 
 
-##### Section 5 : Dispositions applicables au contentieux des soins médicaux et de l'appareillage<a id=416></a>
+##### Section 5 : Dispositions applicables au contentieux des soins médicaux et de l'appareillage<a id=405></a>
 
 ###### Article R711-10
 
@@ -34578,11 +33602,11 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D77 (Ab)
 
 
-### Titre II : ORGANISATION DES TRIBUNAUX DES PENSIONS ET DES COURS REGIONALES DES PENSIONS<a id=417></a>
+### Titre II : ORGANISATION DES TRIBUNAUX DES PENSIONS ET DES COURS REGIONALES DES PENSIONS<a id=406></a>
 
-#### Chapitre Ier : Organisation des tribunaux des pensions<a id=418></a>
+#### Chapitre Ier : Organisation des tribunaux des pensions<a id=407></a>
 
-##### Section 1 : Siège et ressort des tribunaux des pensions<a id=419></a>
+##### Section 1 : Siège et ressort des tribunaux des pensions<a id=408></a>
 
 ###### Article D721-1
 
@@ -34603,7 +33627,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 2 : Désignation de l'assesseur médecin<a id=420></a>
+##### Section 2 : Désignation de l'assesseur médecin<a id=409></a>
 
 ###### Article R721-2
 
@@ -34631,7 +33655,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R44 (Ab)
 
 
-##### Section 3 : Désignation de l'assesseur pensionné<a id=421></a>
+##### Section 3 : Désignation de l'assesseur pensionné<a id=410></a>
 
 ###### Article R721-3
 
@@ -34748,7 +33772,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R49, alinéas 1 et 2 (Ab)
 
 
-##### Section 4 : Cessation de fonctions des membres du tribunal<a id=422></a>
+##### Section 4 : Cessation de fonctions des membres du tribunal<a id=411></a>
 
 ###### Article R721-7
 
@@ -34773,7 +33797,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R50 (Ab)
 
 
-##### Section 5 : Indemnités et rémunération des membres du tribunal des pensions<a id=423></a>
+##### Section 5 : Indemnités et rémunération des membres du tribunal des pensions<a id=412></a>
 
 ###### Article D721-8
 
@@ -34821,7 +33845,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 6 : Greffier du tribunal<a id=424></a>
+##### Section 6 : Greffier du tribunal<a id=413></a>
 
 ###### Article R721-9
 
@@ -34844,7 +33868,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre II : Organisation des cours régionales des pensions<a id=425></a>
+#### Chapitre II : Organisation des cours régionales des pensions<a id=414></a>
 
 ###### Article D722-1
 
@@ -34930,11 +33954,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre III : PROCÉDURE<a id=426></a>
+### Titre III : PROCÉDURE<a id=415></a>
 
-#### Chapitre Ier : Procédure devant le tribunal des pensions<a id=427></a>
+#### Chapitre Ier : Procédure devant le tribunal des pensions<a id=416></a>
 
-##### Section 1 : Dispositions générales<a id=428></a>
+##### Section 1 : Dispositions générales<a id=417></a>
 
 ###### Article R731-1
 
@@ -35153,7 +34177,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R731-3 (V)
 
 
-##### Section 2 : Conciliation<a id=429></a>
+##### Section 2 : Conciliation<a id=418></a>
 
 ###### Article R731-9
 
@@ -35300,7 +34324,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 3 : Expertise judiciaire et mesures d'instruction<a id=430></a>
+##### Section 3 : Expertise judiciaire et mesures d'instruction<a id=419></a>
 
 ###### Article R731-15
 
@@ -35369,7 +34393,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-##### Section 4 : Audience<a id=431></a>
+##### Section 4 : Audience<a id=420></a>
 
 ###### Article R731-17
 
@@ -35419,7 +34443,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R741-8 (V)
 
 
-##### Section 5 : Jugements<a id=432></a>
+##### Section 5 : Jugements<a id=421></a>
 
 ###### Article R731-19
 
@@ -35443,7 +34467,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre II : Procédure devant la cour régionale des pensions<a id=433></a>
+#### Chapitre II : Procédure devant la cour régionale des pensions<a id=422></a>
 
 ###### Article R732-1
 
@@ -35515,7 +34539,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-#### Chapitre III : Procédure devant le Conseil d'Etat<a id=434></a>
+#### Chapitre III : Procédure devant le Conseil d'Etat<a id=423></a>
 
 ###### Article R733-1
 
@@ -35545,11 +34569,11 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### Titre IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À SAINT-PIERRE-ET-MIQUELON<a id=435></a>
+### Titre IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À SAINT-PIERRE-ET-MIQUELON<a id=424></a>
 
-#### Chapitre unique.<a id=436></a>
+#### Chapitre unique.<a id=425></a>
 
-##### Section 1 : Organisation des tribunaux des pensions<a id=437></a>
+##### Section 1 : Organisation des tribunaux des pensions<a id=426></a>
 
 ###### Article D741-1
 
@@ -35650,7 +34674,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. L741-3 (V)
 
 
-##### Section 2 : Organisation des cours des pensions<a id=438></a>
+##### Section 2 : Organisation des cours des pensions<a id=427></a>
 
 ###### Article D741-5
 
@@ -35691,7 +34715,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R128 (Ab)
 
 
-##### Section 3 : Procédure<a id=439></a>
+##### Section 3 : Procédure<a id=428></a>
 
 ###### Article R741-7
 
@@ -35772,7 +34796,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R731-15 (V)
 
 
-##### Section 4 : Indemnités et frais<a id=440></a>
+##### Section 4 : Indemnités et frais<a id=429></a>
 
 ###### Article R741-10
 
@@ -35846,7 +34870,7 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. R145 (Ab)
 
 
-##### Section 5 : Disposition générale<a id=441></a>
+##### Section 5 : Disposition générale<a id=430></a>
 
 ###### Article R741-13
 
@@ -35865,7 +34889,7 @@ _Codifié par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 
-### ANNEXES AU LIVRE VII<a id=442></a>
+### ANNEXES AU LIVRE VII<a id=431></a>
 
 ###### Article  
 
@@ -36053,7 +35077,7 @@ _Cite_:
   - Tableau n°2
 
 
-## ANNEXES AU CODE DES PENSIONS MILITAIRES D'INVALIDITÉ ET DES VICTIMES DE GUERRE<a id=443></a>
+## ANNEXES AU CODE DES PENSIONS MILITAIRES D'INVALIDITÉ ET DES VICTIMES DE GUERRE<a id=432></a>
 
 ###### Article Annexe 1
 
@@ -65205,13 +64229,13 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre. (M)
 
 
-# Partie législative<a id=444></a>
+# Partie législative<a id=433></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=445></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=434></a>
 
-### Titre II : Emoluments complémentaires.<a id=446></a>
+### Titre II : Emoluments complémentaires.<a id=435></a>
 
-#### Chapitre III : Indemnité de soins aux tuberculeux.<a id=447></a>
+#### Chapitre III : Indemnité de soins aux tuberculeux.<a id=436></a>
 
 ###### Article L41
 
@@ -65303,9 +64327,9 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 30 décembre 1980 - art. ANNEXE (V)
 
 
-### Titre III : Droits à pension des conjoints survivants et des orphelins.<a id=448></a>
+### Titre III : Droits à pension des conjoints survivants et des orphelins.<a id=437></a>
 
-#### Chapitre II : Fixation de la pension.<a id=449></a>
+#### Chapitre II : Fixation de la pension.<a id=438></a>
 
 ###### Article L52-2
 
@@ -65421,9 +64445,9 @@ _Nouveaux textes_:
   - Code des pensions militaires d'invalidité et de... - art. L141-20 (VD)
 
 
-### Titre VI : Dispositions diverses relatives au payement des pensions.<a id=450></a>
+### Titre VI : Dispositions diverses relatives au payement des pensions.<a id=439></a>
 
-#### Chapitre Ier : Incessibilité - Insaisissabilité.<a id=451></a>
+#### Chapitre Ier : Incessibilité - Insaisissabilité.<a id=440></a>
 
 ###### Article L105
 
@@ -65471,11 +64495,11 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux<a id=452></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux<a id=441></a>
 
-### Titre Ier : Régimes applicables à certains personnels militaires et assimilés<a id=453></a>
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés<a id=442></a>
 
-#### Chapitre II : Autres personnels militaires.<a id=454></a>
+#### Chapitre II : Autres personnels militaires.<a id=443></a>
 
 ###### Article L140
 
@@ -65519,9 +64543,9 @@ _Cité par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
 
 
-#### Chapitre III : Affectés spéciaux, membres de la défense passive requis<a id=455></a>
+#### Chapitre III : Affectés spéciaux, membres de la défense passive requis<a id=444></a>
 
-##### Section 1 : Affectés spéciaux.<a id=456></a>
+##### Section 1 : Affectés spéciaux.<a id=445></a>
 
 ###### Article L150
 
@@ -65552,7 +64576,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-##### Section 2 : Défense passive.<a id=457></a>
+##### Section 2 : Défense passive.<a id=446></a>
 
 ###### Article L151
 
@@ -65627,7 +64651,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre IV : Dispositions applicables à certains fonctionnaires.<a id=458></a>
+#### Chapitre IV : Dispositions applicables à certains fonctionnaires.<a id=447></a>
 
 ###### Article L158
 
@@ -65651,9 +64675,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L34 à L37, R50 à R52, D19
 
 
-#### Chapitre V : Marins du commerce<a id=459></a>
+#### Chapitre V : Marins du commerce<a id=448></a>
 
-##### Section 2 : Dispositions spéciales à la guerre 1939-1945.<a id=460></a>
+##### Section 2 : Dispositions spéciales à la guerre 1939-1945.<a id=449></a>
 
 ###### Article L163
 
@@ -65754,7 +64778,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre VI : Formation préliminaire.<a id=461></a>
+#### Chapitre VI : Formation préliminaire.<a id=450></a>
 
 ###### Article L166
 
@@ -65782,11 +64806,11 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre II : Membres des organisations civiles et militaires de la Résistance<a id=462></a>
+### Titre II : Membres des organisations civiles et militaires de la Résistance<a id=451></a>
 
-#### Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance<a id=463></a>
+#### Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance<a id=452></a>
 
-##### Section 1 : Membres des FFI et membres de la Résistance.<a id=464></a>
+##### Section 1 : Membres des FFI et membres de la Résistance.<a id=453></a>
 
 ###### Article L173
 
@@ -65877,11 +64901,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L46 (M)
 
 
-#### Chapitre II : Du droit à pension<a id=465></a>
+#### Chapitre II : Du droit à pension<a id=454></a>
 
-##### Section 5 : Bénéficiaires spéciaux<a id=466></a>
+##### Section 5 : Bénéficiaires spéciaux<a id=455></a>
 
-##### Paragraphe 1 : FFI et membres de la Résistance.<a id=467></a>
+##### Paragraphe 1 : FFI et membres de la Résistance.<a id=456></a>
 
 ###### Article L188
 
@@ -65903,13 +64927,13 @@ _Cité par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
 
 
-### Titre III : Règles applicables aux victimes civiles<a id=468></a>
+### Titre III : Règles applicables aux victimes civiles<a id=457></a>
 
-#### Chapitre Ier : Victimes civiles de la guerre<a id=469></a>
+#### Chapitre Ier : Victimes civiles de la guerre<a id=458></a>
 
-##### Section 1 : Détermination du droit à pension<a id=470></a>
+##### Section 1 : Détermination du droit à pension<a id=459></a>
 
-##### Paragraphe 1 : Victimes de la guerre 1914-1918.<a id=471></a>
+##### Paragraphe 1 : Victimes de la guerre 1914-1918.<a id=460></a>
 
 ###### Article L194
 
@@ -65961,7 +64985,7 @@ _Cité par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. L195 (VT)
 
 
-##### Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées.<a id=472></a>
+##### Paragraphe 2 : Victimes de la guerre 1939-1945 et assimilées.<a id=461></a>
 
 ###### Article L204
 
@@ -66096,7 +65120,7 @@ _Cite_:
   - Ordonnance 1944-11-28
 
 
-##### Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale.<a id=473></a>
+##### Paragraphe 3 : Réparations des dommages causés aux tiers par des accidents survenus dans les établissements travaillant pour la défense nationale.<a id=462></a>
 
 ###### Article L208
 
@@ -66122,11 +65146,11 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R381-80 (M)
 
 
-### Titre IV : Alsaciens et Lorrains<a id=474></a>
+### Titre IV : Alsaciens et Lorrains<a id=463></a>
 
-#### Chapitre II : Militaires ayant servi dans l'armée allemande<a id=475></a>
+#### Chapitre II : Militaires ayant servi dans l'armée allemande<a id=464></a>
 
-##### Section 2 : Au cours de la guerre 1914-1918.<a id=476></a>
+##### Section 2 : Au cours de la guerre 1914-1918.<a id=465></a>
 
 ###### Article L230
 
@@ -66163,9 +65187,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer<a id=477></a>
+### Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer<a id=466></a>
 
-#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=478></a>
+#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=467></a>
 
 ###### Article L248
 
@@ -66235,7 +65259,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L249
 
 
-### Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code.<a id=479></a>
+### Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code.<a id=468></a>
 
 ###### Article L252-3
 
@@ -66259,13 +65283,13 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre<a id=480></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre<a id=469></a>
 
-### Titre II : Statut des résistants, des déportés, internés et réfractaires<a id=481></a>
+### Titre II : Statut des résistants, des déportés, internés et réfractaires<a id=470></a>
 
-#### Chapitre Ier : Statut des combattants volontaires de la Résistance<a id=482></a>
+#### Chapitre Ier : Statut des combattants volontaires de la Résistance<a id=471></a>
 
-##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=483></a>
+##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=472></a>
 
 ###### Article L265
 
@@ -66302,9 +65326,9 @@ _Cite_:
   - Ordonnance 1944-12-26
 
 
-#### Chapitre II : Statut des déportés et internés de la Résistance<a id=484></a>
+#### Chapitre II : Statut des déportés et internés de la Résistance<a id=473></a>
 
-##### Section 1 : De la qualité de déporté et interné de la Résistance.<a id=485></a>
+##### Section 1 : De la qualité de déporté et interné de la Résistance.<a id=474></a>
 
 ###### Article L277
 
@@ -66336,9 +65360,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre III : Statut des déportés et internés politiques<a id=486></a>
+#### Chapitre III : Statut des déportés et internés politiques<a id=475></a>
 
-##### Section 1 : De la qualité de déporté et interné politique.<a id=487></a>
+##### Section 1 : De la qualité de déporté et interné politique.<a id=476></a>
 
 ###### Article L294
 
@@ -66365,9 +65389,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Chapitre IV : Statut des réfractaires.<a id=488></a>
+#### Chapitre IV : Statut des réfractaires.<a id=477></a>
 
-##### Section 1 : De la qualité de réfractaire.<a id=489></a>
+##### Section 1 : De la qualité de réfractaire.<a id=478></a>
 
 ###### Article L300
 
@@ -66395,7 +65419,7 @@ _Cite_:
   - Ordonnance 1944-06-26
 
 
-##### Section 2 : Droits des réfractaires.<a id=490></a>
+##### Section 2 : Droits des réfractaires.<a id=479></a>
 
 ###### Article L303
 
@@ -66412,9 +65436,9 @@ _Cité par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
 
 
-#### Chapitre V : Statut des personnes contraintes au travail<a id=491></a>
+#### Chapitre V : Statut des personnes contraintes au travail<a id=480></a>
 
-##### Section 1 : Définition des bénéficiaires.<a id=492></a>
+##### Section 1 : Définition des bénéficiaires.<a id=481></a>
 
 ###### Article L312
 
@@ -66438,7 +65462,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R372 (Ab)
 
 
-##### Section 2 : Droit des personnes contraintes au travail.<a id=493></a>
+##### Section 2 : Droit des personnes contraintes au travail.<a id=482></a>
 
 ###### Article L314
 
@@ -66463,11 +65487,11 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-### Titre III : Droits et avantages accessoires<a id=494></a>
+### Titre III : Droits et avantages accessoires<a id=483></a>
 
-#### Chapitre II : Prêts, secours et autres dispositions pécuniaires<a id=495></a>
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires<a id=484></a>
 
-##### Section 3 : Pécule et indemnisations diverses.<a id=496></a>
+##### Section 3 : Pécule et indemnisations diverses.<a id=485></a>
 
 ###### Article L336
 
@@ -66585,9 +65609,9 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre IV : Etat civil et sépultures<a id=497></a>
+## Livre IV : Etat civil et sépultures<a id=486></a>
 
-### Chapitre Ier : Mention "Mort pour la France".<a id=498></a>
+### Chapitre Ier : Mention "Mort pour la France".<a id=487></a>
 
 ###### Article L491
 
@@ -66608,15 +65632,15 @@ _Cité par_:
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art. 4 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=499></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=488></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=500></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=489></a>
 
-### Titre II : Emoluments complémentaires.<a id=501></a>
+### Titre II : Emoluments complémentaires.<a id=490></a>
 
-#### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=502></a>
+#### Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.<a id=491></a>
 
-##### Section 1 : Procédure d'attribution des allocations spéciales.<a id=503></a>
+##### Section 1 : Procédure d'attribution des allocations spéciales.<a id=492></a>
 
 ###### Article R30
 
@@ -66645,7 +65669,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L37 (V)
 
 
-##### Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose.<a id=504></a>
+##### Section 3 : Attribution de l'allocation aux pensionnés pour tuberculose.<a id=493></a>
 
 ###### Article R34-2
 
@@ -66768,13 +65792,13 @@ _Cité par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=505></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=494></a>
 
-### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=506></a>
+### Titre Ier : Régimes applicables à certains personnels militaires et assimilés.<a id=495></a>
 
-#### Chapitre III : Afféctés spéciaux et membres de la défense passive.<a id=507></a>
+#### Chapitre III : Afféctés spéciaux et membres de la défense passive.<a id=496></a>
 
-##### Section 1 : Défense passive.<a id=508></a>
+##### Section 1 : Défense passive.<a id=497></a>
 
 ###### Article R147
 
@@ -66919,9 +65943,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre A85 à A114
 
 
-### Titre II : Membres des organisations civiles et militaires de la Résistance.<a id=509></a>
+### Titre II : Membres des organisations civiles et militaires de la Résistance.<a id=498></a>
 
-#### Chapitre II : Du droit à pension des membres de la Résistance.<a id=510></a>
+#### Chapitre II : Du droit à pension des membres de la Résistance.<a id=499></a>
 
 ###### Article R168
 
@@ -66950,11 +65974,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R260 (M)
 
 
-### Titre IV : Alsaciens et Lorrains.<a id=511></a>
+### Titre IV : Alsaciens et Lorrains.<a id=500></a>
 
-#### Chapitre II : Militaires ayant servi dans l'armée allemande.<a id=512></a>
+#### Chapitre II : Militaires ayant servi dans l'armée allemande.<a id=501></a>
 
-##### Section 2 : Procédure de liquidation.<a id=513></a>
+##### Section 2 : Procédure de liquidation.<a id=502></a>
 
 ###### Article R215
 
@@ -67027,13 +66051,13 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L238 (VT)
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=514></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=503></a>
 
-### Titre Ier : Carte et retraite du combattant.<a id=515></a>
+### Titre Ier : Carte et retraite du combattant.<a id=504></a>
 
-#### Chapitre Ier : Carte du combattant.<a id=516></a>
+#### Chapitre Ier : Carte du combattant.<a id=505></a>
 
-##### Section 1 : De la qualité de combattant.<a id=517></a>
+##### Section 1 : De la qualité de combattant.<a id=506></a>
 
 ###### Article R228
 
@@ -67069,11 +66093,11 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R400 (V)
 
 
-### Titre II : Statuts des résistants, déportés, internés et réfractaires.<a id=518></a>
+### Titre II : Statuts des résistants, déportés, internés et réfractaires.<a id=507></a>
 
-#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=519></a>
+#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=508></a>
 
-##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=520></a>
+##### Section 1 : De la qualité de combattant volontaire de la Résistance.<a id=509></a>
 
 ###### Article R257
 
@@ -67108,9 +66132,9 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R268 (VT)
 
 
-##### Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance.<a id=521></a>
+##### Section 3 : Procédure d'attribution du titre de combattant volontaire de la Résistance.<a id=510></a>
 
-##### Paragraphe 2 : Demande du titre de combattant volontaire de la Résistance.<a id=522></a>
+##### Paragraphe 2 : Demande du titre de combattant volontaire de la Résistance.<a id=511></a>
 
 ###### Article R266
 
@@ -67192,9 +66216,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R256 (V)
 
 
-##### Section 4 : Conditions d'application aux membres des F.F.L. et aux membres de la Résistance ayant résisté dans les camps de prisonniers ou ayant servi dans les pays d'outre-mer ou en territoires étrangers occupés par l'ennemi.<a id=523></a>
+##### Section 4 : Conditions d'application aux membres des F.F.L. et aux membres de la Résistance ayant résisté dans les camps de prisonniers ou ayant servi dans les pays d'outre-mer ou en territoires étrangers occupés par l'ennemi.<a id=512></a>
 
-##### Paragraphe 1er : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres des forces françaises libres.<a id=524></a>
+##### Paragraphe 1er : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres des forces françaises libres.<a id=513></a>
 
 ###### Article R272
 
@@ -67236,7 +66260,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R280 (V)
 
 
-##### Paragraphe 2 : De la Résistance dans les camps de prisonniers.<a id=525></a>
+##### Paragraphe 2 : De la Résistance dans les camps de prisonniers.<a id=514></a>
 
 ###### Article R275
 
@@ -67296,7 +66320,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R280 (V)
 
 
-##### Paragraphe 3 : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres de la Résistance ayant servi dans les départements et pays d'outre-mer ou en territoires étrangers occupés par l'ennemi.<a id=526></a>
+##### Paragraphe 3 : De la reconnaissance de la qualité de combattant volontaire de la Résistance aux membres de la Résistance ayant servi dans les départements et pays d'outre-mer ou en territoires étrangers occupés par l'ennemi.<a id=515></a>
 
 ###### Article R279
 
@@ -67354,11 +66378,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R280 (V)
 
 
-#### Chapitre II : Statut des déportés et internés résistants.<a id=527></a>
+#### Chapitre II : Statut des déportés et internés résistants.<a id=516></a>
 
-##### Section 1 : De la qualité de déporté et interné résistant.<a id=528></a>
+##### Section 1 : De la qualité de déporté et interné résistant.<a id=517></a>
 
-##### Paragraphe 3 : Cas d'exclusion.<a id=529></a>
+##### Paragraphe 3 : Cas d'exclusion.<a id=518></a>
 
 ###### Article R297
 
@@ -67391,7 +66415,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R325 (Ab)
 
 
-##### Section 2 : Droits des déportés et internés résistants.<a id=530></a>
+##### Section 2 : Droits des déportés et internés résistants.<a id=519></a>
 
 ###### Article R301
 
@@ -67413,9 +66437,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L280 (V)
 
 
-##### Section 3 : Procédure d'attribution du titre de déporté et interné résistant.<a id=531></a>
+##### Section 3 : Procédure d'attribution du titre de déporté et interné résistant.<a id=520></a>
 
-##### Paragraphe 2 : Demande du titre de déporté et interné résistant.<a id=532></a>
+##### Paragraphe 2 : Demande du titre de déporté et interné résistant.<a id=521></a>
 
 ###### Article R321
 
@@ -67495,11 +66519,11 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R287 ter
 
 
-#### Chapitre III : Statut des déportés et internés politiques.<a id=533></a>
+#### Chapitre III : Statut des déportés et internés politiques.<a id=522></a>
 
-##### Section 1 : De la qualité de déporté et interné politique.<a id=534></a>
+##### Section 1 : De la qualité de déporté et interné politique.<a id=523></a>
 
-##### Paragraphe 3 : Cas d'exclusion.<a id=535></a>
+##### Paragraphe 3 : Cas d'exclusion.<a id=524></a>
 
 ###### Article R334
 
@@ -67546,9 +66570,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code des pensions militaires d'invalidité et des v - art. L265 (V)
 
 
-#### Chapitre IV : Statut des réfractaires.<a id=536></a>
+#### Chapitre IV : Statut des réfractaires.<a id=525></a>
 
-##### Section 2 : Procédure d'attribution du titre de réfractaire.<a id=537></a>
+##### Section 2 : Procédure d'attribution du titre de réfractaire.<a id=526></a>
 
 ###### Article R361
 
@@ -67688,9 +66712,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R353
 
 
-#### Chapitre V : Statut des personnes contraintes au travail.<a id=538></a>
+#### Chapitre V : Statut des personnes contraintes au travail.<a id=527></a>
 
-##### Section 2 : Procédure de reconnaissance des droits.<a id=539></a>
+##### Section 2 : Procédure de reconnaissance des droits.<a id=528></a>
 
 ###### Article R378
 
@@ -67750,11 +66774,11 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R381 (Ab)
 
 
-### Titre III : Droits et avantages accessoires.<a id=540></a>
+### Titre III : Droits et avantages accessoires.<a id=529></a>
 
-#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=541></a>
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=530></a>
 
-##### Section 2 : Pécule et indemnisations diverses.<a id=542></a>
+##### Section 2 : Pécule et indemnisations diverses.<a id=531></a>
 
 ###### Article R391-3
 
@@ -67877,13 +66901,13 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L319 bis (V)
 
 
-# Partie réglementaire - Décrets simples<a id=543></a>
+# Partie réglementaire - Décrets simples<a id=532></a>
 
-## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=544></a>
+## Livre Ier : Régime général des pensions militaires d'invalidité.<a id=533></a>
 
-### Titre II : Emoluments complémentaires.<a id=545></a>
+### Titre II : Emoluments complémentaires.<a id=534></a>
 
-#### Chapitre III : Indemnités de soins aux tuberculeux.<a id=546></a>
+#### Chapitre III : Indemnités de soins aux tuberculeux.<a id=535></a>
 
 ###### Article D8
 
@@ -68195,11 +67219,11 @@ _Cite_:
   - Loi n°1946-10-19 art. 93
 
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=547></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=536></a>
 
-### Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer.<a id=548></a>
+### Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer.<a id=537></a>
 
-#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=549></a>
+#### Chapitre II : Droit à pension des travailleurs indochinois.<a id=538></a>
 
 ###### Article D243
 
@@ -68337,11 +67361,11 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=550></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=539></a>
 
-### Titre III : Droits et avantages accessoires.<a id=551></a>
+### Titre III : Droits et avantages accessoires.<a id=540></a>
 
-#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=552></a>
+#### Chapitre II : Prêts, secours et autres dispositions pécuniaires.<a id=541></a>
 
 ###### Article D271-5
 
@@ -68411,9 +67435,9 @@ _Codifié par_:
   - Décret n°51-471 1951-04-24 JORF 28 avril 1951
 
 
-#### Chapitre III : Décorations et insignes.<a id=553></a>
+#### Chapitre III : Décorations et insignes.<a id=542></a>
 
-##### Section 5 : Médaille commémorative française de la guerre 1939-1945.<a id=554></a>
+##### Section 5 : Médaille commémorative française de la guerre 1939-1945.<a id=543></a>
 
 ###### Article D285
 
@@ -68634,9 +67658,9 @@ _Cité par_:
   - Décret n°2016-1903 du 28 décembre 2016 - art. 5 (V)
 
 
-## Livre IV : Etat civil et sépultures.<a id=555></a>
+## Livre IV : Etat civil et sépultures.<a id=544></a>
 
-### Chapitre II : Transferts et restitutions de corps.<a id=556></a>
+### Chapitre II : Transferts et restitutions de corps.<a id=545></a>
 
 ###### Article D404
 
@@ -68673,13 +67697,13 @@ _Cite_:
   - Ordonnance 1944-11-28
 
 
-## Livre V : Institutions.<a id=557></a>
+## Livre V : Institutions.<a id=546></a>
 
-### Titre Ier : Offices des anciens combattants et victimes de guerre.<a id=558></a>
+### Titre Ier : Offices des anciens combattants et victimes de guerre.<a id=547></a>
 
-#### Chapitre Ier : Office national.<a id=559></a>
+#### Chapitre Ier : Office national.<a id=548></a>
 
-##### Section 3 : Composition.<a id=560></a>
+##### Section 3 : Composition.<a id=549></a>
 
 ###### Article D437
 
@@ -68722,13 +67746,13 @@ _Cite_:
   - Ordonnance 1944-12-26
 
 
-# Partie réglementaire - Arrêtés<a id=561></a>
+# Partie réglementaire - Arrêtés<a id=550></a>
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=562></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=551></a>
 
-### Titre Ier : Carte et retraite du combattant.<a id=563></a>
+### Titre Ier : Carte et retraite du combattant.<a id=552></a>
 
-#### Chapitre Ier : Carte du combattant.<a id=564></a>
+#### Chapitre Ier : Carte du combattant.<a id=553></a>
 
 ###### Article A115
 
@@ -68750,9 +67774,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R226 (V)
 
 
-##### Section 1 : De la qualité de combattant<a id=565></a>
+##### Section 1 : De la qualité de combattant<a id=554></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=566></a>
+##### Paragraphe 1 : Dispositions générales.<a id=555></a>
 
 ###### Article A116
 
@@ -68906,7 +67930,7 @@ _Codifié par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-##### Paragraphe 2 : Dispositions propres à certaines catégories de combattants.<a id=567></a>
+##### Paragraphe 2 : Dispositions propres à certaines catégories de combattants.<a id=556></a>
 
 ###### Article A119
 
@@ -69113,7 +68137,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. R224 (M)
 
 
-##### Paragraphe 3 : Alsaciens et Mosellans.<a id=568></a>
+##### Paragraphe 3 : Alsaciens et Mosellans.<a id=557></a>
 
 ###### Article A123-2 et A123-3
 
@@ -69207,7 +68231,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R224 (M)
 
 
-##### Paragraphe 3 bis : Marins du commerce.<a id=569></a>
+##### Paragraphe 3 bis : Marins du commerce.<a id=558></a>
 
 ###### Article A123-6
 
@@ -69314,7 +68338,7 @@ _Modifié par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-##### Paragraphe 4 : Cas d'exclusion ou d'opposition.<a id=570></a>
+##### Paragraphe 4 : Cas d'exclusion ou d'opposition.<a id=559></a>
 
 ###### Article A124
 
@@ -69399,9 +68423,9 @@ _Codifié par_:
   - SPEC_APPLI: Code des pensions militaires d'invalidité et des v - art. A128 (V)
 
 
-##### Section 2 : Procédure d'attribution de la carte.<a id=571></a>
+##### Section 2 : Procédure d'attribution de la carte.<a id=560></a>
 
-##### Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance.<a id=572></a>
+##### Paragraphe 1 : Calcul du temps de présence ou de la durée d'appartenance.<a id=561></a>
 
 ###### Article A129
 
@@ -69695,7 +68719,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A123-1 (V)
 
 
-##### Paragraphe 2 : Demande et délivrance de la carte.<a id=573></a>
+##### Paragraphe 2 : Demande et délivrance de la carte.<a id=562></a>
 
 ###### Article A137
 
@@ -69777,9 +68801,9 @@ _Modifié par_:
   - Arrêté du 29 avril 2010 - art.
 
 
-### Titre II : Statut des résistants, déportés, internés et réfractaires.<a id=574></a>
+### Titre II : Statut des résistants, déportés, internés et réfractaires.<a id=563></a>
 
-#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=575></a>
+#### Chapitre Ier : Statut des combattants volontaires de la Résistance.<a id=564></a>
 
 ###### Article A158
 
@@ -69830,7 +68854,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R280 (Ab)
 
 
-#### Chapitre II : Statut des déportés et internés de la Résistance.<a id=576></a>
+#### Chapitre II : Statut des déportés et internés de la Résistance.<a id=565></a>
 
 ###### Article A160
 
@@ -69899,7 +68923,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et des v - art. R305 (M)
 
 
-#### Chapitre III : Statut des déportés et internés politiques.<a id=577></a>
+#### Chapitre III : Statut des déportés et internés politiques.<a id=566></a>
 
 ###### Article A165-1
 
@@ -69925,7 +68949,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. A163 (V)
 
 
-#### Chapitre IV : Statut des réfractaires.<a id=578></a>
+#### Chapitre IV : Statut des réfractaires.<a id=567></a>
 
 ###### Article A166
 
@@ -70016,11 +69040,11 @@ _Cité par_:
   - Arrêté du 5 janvier 1993 - art. 2 (V)
 
 
-### Titre III : Droits et avantages accessoires.<a id=579></a>
+### Titre III : Droits et avantages accessoires.<a id=568></a>
 
-#### Chapitre Ier : Droits attachés à la qualité de pensionné.<a id=580></a>
+#### Chapitre Ier : Droits attachés à la qualité de pensionné.<a id=569></a>
 
-##### Section 1 : Réduction sur les chemins de fer.<a id=581></a>
+##### Section 1 : Réduction sur les chemins de fer.<a id=570></a>
 
 ###### Article A169
 
@@ -70035,9 +69059,9 @@ _Modifié par_:
   - Décret n°2009-1755 du 30 décembre 2009 - art. 17
 
 
-##### Section 2 : Cartes de priorité.<a id=582></a>
+##### Section 2 : Cartes de priorité.<a id=571></a>
 
-##### Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens).<a id=583></a>
+##### Paragraphe 2 : Carte de priorité (régie autonome des transports parisiens).<a id=572></a>
 
 ###### Article A172-1
 
@@ -70059,9 +69083,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. L18 (M)
 
 
-#### Chapitre III : Décorations et insignes.<a id=584></a>
+#### Chapitre III : Décorations et insignes.<a id=573></a>
 
-##### Section 1 : Légion d'honneur et médaille militaire.<a id=585></a>
+##### Section 1 : Légion d'honneur et médaille militaire.<a id=574></a>
 
 ###### Article A177
 
@@ -70120,7 +69144,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des v - art. D273 (V)
 
 
-##### Section 3 : Médaille de la déportation et de l'internement pour faits de résistance.<a id=586></a>
+##### Section 3 : Médaille de la déportation et de l'internement pour faits de résistance.<a id=575></a>
 
 ###### Article A186-2
 
@@ -70153,13 +69177,13 @@ _Modifié par_:
   - Arrêté du 3 décembre 2018 - art. 42
 
 
-# Annexes<a id=587></a>
+# Annexes<a id=576></a>
 
-## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=588></a>
+## Livre II : Régimes rattachés au régime général et régimes spéciaux.<a id=577></a>
 
-### Titre VI : Etrangers.<a id=589></a>
+### Titre VI : Etrangers.<a id=578></a>
 
-#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=590></a>
+#### Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).<a id=579></a>
 
 ###### Article Annexe 1, art. 1
 
@@ -70223,7 +69247,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=591></a>
+#### Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).<a id=580></a>
 
 ###### Article Annexe 2, art. 1
 
@@ -70392,7 +69416,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=592></a>
+#### Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).<a id=581></a>
 
 ###### Article Annexe 3, art. 1
 
@@ -70549,7 +69573,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=593></a>
+#### Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).<a id=582></a>
 
 ###### Article Annexe 4
 
@@ -70563,7 +69587,7 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-#### Convention franco-britannique du 23 janvier 1950<a id=594></a>
+#### Convention franco-britannique du 23 janvier 1950<a id=583></a>
 
 ###### Article Annexe 5, art. 1
 
@@ -70635,11 +69659,11 @@ _Codifié par_:
   - Décret n°51-469 1951-04-24 JORF 26 avril 1951
 
 
-## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=595></a>
+## Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.<a id=584></a>
 
-### Titre III : Droits et avantages accessoires.<a id=596></a>
+### Titre III : Droits et avantages accessoires.<a id=585></a>
 
-#### Chapitre IV : Emplois réservés.<a id=597></a>
+#### Chapitre IV : Emplois réservés.<a id=586></a>
 
 ###### Article Annexe
 
