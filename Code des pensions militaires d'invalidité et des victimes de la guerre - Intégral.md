@@ -1,7 +1,7 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2019-12-03
+Version Consolidée au 2020-01-01
 ## Contenu: 
-  - [Partie législative (nouvelle) (art. L1 à L711-7)](#1)
+  - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
       - [Titre Ier : LES BÉNÉFICIAIRES (art. L111-1 à L115-1)](#3)
         - [Chapitre Ier : Les militaires et les personnes assimilées (art. L111-1 à L111-3)](#4)
@@ -104,7 +104,7 @@ Version Consolidée au 2019-12-03
         - [Chapitre II : Affiliation à la sécurité sociale (art. L232-1)](#101)
       - [Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE (art. L241-1 à L244-1)](#102)
         - [Chapitre Ier : Bénéficiaires des emplois réservés (art. L241-1 à L241-7)](#103)
-        - [Chapitre II : Procédure d'accès aux emplois réservés (art. L242-1 à L242-8)](#104)
+        - [Chapitre II : Procédure d'accès aux emplois réservés (art. L242-1 à L242-7)](#104)
         - [Chapitre III : Recrutement direct (art. L243-1)](#105)
         - [Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie (art. L244-1)](#106)
       - [Titre V : CARTE D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS (art. L251-1 à L251-4)](#107)
@@ -172,9 +172,9 @@ Version Consolidée au 2019-12-03
       - [Titre II : INSTITUTION NATIONALE DES INVALIDES (art. L621-1 à L622-8)](#169)
         - [Chapitre Ier : Dispositions générales (art. L621-1 à L621-2)](#170)
         - [Chapitre II : Organisation administrative et financière (art. L622-1 à L622-8)](#171)
-    - [Livre VII : CONTENTIEUX DES PENSIONS (art. L711-1 à L711-7)](#172)
-      - [Titre Ier : DISPOSITIONS COMMUNES (art. L711-1 à L711-7)](#173)
-        - [Chapitre unique. (art. L711-1 à L711-7)](#174)
+    - [Livre VII : CONTENTIEUX DES PENSIONS (art. L711-1 à L711-5)](#172)
+      - [Titre Ier : DISPOSITIONS COMMUNES (art. L711-1 à L711-5)](#173)
+        - [Chapitre unique. (art. L711-1 à L711-5)](#174)
   - [Partie réglementaire (nouvelle) (art. D111-1 à Annexe 2 (suite))](#175)
     - [Livre Ier : LE DROIT À PENSION (art. D111-1 à R162-1)](#176)
       - [Titre Ier : LES BÉNÉFICIAIRES (art. D111-1 à R112-6)](#177)
@@ -257,9 +257,9 @@ Version Consolidée au 2019-12-03
         - [Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie (art. R215-1)](#254)
       - [Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE (art. D221-1 à D221-2)](#255)
         - [Chapitre unique. (art. D221-1 à D221-2)](#256)
-      - [Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE (art. R242-1 à R244-1)](#257)
-        - [Chapitre II : Procédure d'accès aux emplois réservés (art. R242-1 à R242-22)](#258)
-          - [Section 1 : Dispositions générales (art. R242-1 à R242-16)](#259)
+      - [Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE (art. R242-2 à R244-1)](#257)
+        - [Chapitre II : Procédure d'accès aux emplois réservés (art. R242-2 à R242-22)](#258)
+          - [Section 1 : Dispositions générales (art. R242-2 à R242-16)](#259)
           - [Section 2 : Dispositions relatives aux bénéficiaires des dispositions de l'article L. 242-7 (art. R242-17 à R242-22)](#260)
         - [Annexe au chapitre II (art.  )](#261)
         - [Chapitre III : Recrutement direct (art. R243-1)](#262)
@@ -8486,35 +8486,29 @@ nationale à laquelle concourent l'Etat, les collectivités territoriales, les �
 et les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires
 relatives à la fonction publique hospitalière.
 
-Priorité est donnée au recrutement des personnes mentionnées aux articles L. 241-2 à L. 241-4 sur les emplois réservés
-offerts au titre d'une année. Les emplois non pourvus à ce titre sont offerts aux personnes mentionnées à l'article L. 241-5.
-
-Les emplois non pourvus au titre du deuxième alinéa sont remis à la disposition des administrations et des collectivités
-publiques dans les conditions fixées à l'article L. 242-7.
+Les emplois non pourvus sont remis à la disposition des administrations et des collectivités publiques dans les conditions
+fixées à l'article L. 242-7.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L241-2 (VD)
-  - Code des pensions militaires d'invalidité et de... - art. L241-5 (VD)
-  - Code des pensions militaires d'invalidité et de... - art. L242-7 (VD)
+  - Loi n°86-33 du 9 janvier 1986 - art. 2
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-2
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-5
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L242-7
 
 _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
 
 _Cité par_:
 
@@ -8693,99 +8687,6 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. L396 (VT)
 
 
-###### Article L241-5
-
-Les emplois réservés sont également accessibles, dans les conditions d'âge et de délai fixées par décret en Conseil d'Etat :
-
-1° Aux militaires, autres que ceux mentionnés à l'article L. 241-2 ;
-
-2° Aux anciens militaires, autres que ceux mentionnés à l'article L. 241-2, à l'exclusion, d'une part, de ceux qui ont fait
-l'objet d'une radiation des cadres ou d'une résiliation de contrat pour motif disciplinaire et, d'autre part, de ceux qui
-sont devenus fonctionnaires civils.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Cité par_:
-
-  - Arrêté du 3 décembre 2018 - art. 31 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L241-1 (VD)
-  - Code des pensions militaires d'invalidité et de... - art. L242-8 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. R242-1 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. R242-12 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R242-5 (VT)
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L397 (VT)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-2
-
-
-###### Article L241-6
-
-Les emplois réservés sont également accessibles, dans les conditions d'âge et de délai fixées par décret en Conseil d'Etat,
-aux militaires et anciens militaires, servant ou ayant servi dans l'armée française à titre étranger.
-
-La condition de nationalité fixée aux articles 5 et 5 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et
-obligations des fonctionnaires ne leur est pas opposable.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°83-634 du 13 juillet 1983 - art. 5
-  - Loi n°83-634 du 13 juillet 1983 - art. 5 bis
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Cité par_:
-
-  - Arrêté du 3 décembre 2018 - art. 31 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R242-5 (VT)
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L398 (VT)
-
-
 ###### Article L241-7
 
 Les catégories de personnes mentionnées au présent chapitre peuvent être recrutées de manière dérogatoire, sans concours, sur
@@ -8829,36 +8730,19 @@ _Anciens textes_:
 ###### Article L242-1
 
 I.-Sauf exceptions tirées de la nature des emplois auxquels le corps donne accès ou du faible nombre des postes mis au
-recrutement, dont la liste est fixée par décret en Conseil d'Etat, sont accessibles par la voie des emplois réservés : 
+recrutement, dont la liste est fixée par décret en Conseil d'Etat, les bénéficiaires mentionnés au chapitre Ier peuvent
+accéder aux corps de la fonction publique de l'Etat et de la fonction publique hospitalière par la voie des emplois
+réservés. 
 
-1° Les corps de la fonction publique de l'Etat et de la fonction publique hospitalière classés en catégorie A, ou de niveau
-équivalent, pour les bénéficiaires mentionnés aux articles L. 241-2, L. 241-3 et L. 241-4 ; 
-
-2° Les corps de la fonction publique de l'Etat et de la fonction publique hospitalière classés en catégories B et C, ou de
-niveau équivalent, pour les bénéficiaires mentionnés au chapitre Ier du présent titre. 
-
-II.-Peuvent être recrutés par l'autorité territoriale conformément au a de l'article 38 de la loi n° 84-53 du 26 janvier 1984
-portant dispositions statutaires relatives à la fonction publique territoriale : 
-
-1° Dans les cadres d'emplois de la fonction publique territoriale de catégorie A, ou de niveau équivalent, les bénéficiaires
-mentionnés aux articles L. 241-2, L. 241-3 et L. 241-4 du présent code ; 
-
-2° Dans les cadres d'emplois de la fonction publique territoriale de catégories B et C, ou de niveau équivalent, les
-bénéficiaires mentionnés au chapitre Ier du présent titre.
-
-**Nota:**
-
-Conformément au III de l'article 26 de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions ne sont pas
-applicables aux militaires et aux anciens militaires inscrits avant l'entrée en vigueur de la présente loi sur les listes
-d'aptitude aux emplois réservés mentionnées à l'article L. 242-3 du code des pensions militaires d'invalidité et des victimes
-de guerre..
+II.-L'autorité territoriale peut recruter les mêmes bénéficiaires dans les cadres d'emplois de la fonction publique
+territoriale, conformément au a de l'article 38 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires
+relatives à la fonction publique territoriale.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-53 du 26 janvier 1984 - art. 38
-  - Code des pensions militaires d'invalidité et de... - art. L241-2 (V)
+  - Loi n°84-53 du 26 janvier 1984
 
 _Codifié par_:
 
@@ -8866,11 +8750,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-607 du 13 juillet 2018 - art. 26 (V)
+  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
 
 _Cité par_:
 
-  - Code des pensions militaires d'invalidité et de... - art. L242-2 (V)
+  - Code des pensions militaires d'invalidité et de... - art. L242-2 (VD)
   - Code des pensions militaires d'invalidité et de... - art. R242-2 (V)
 
 _Anciens textes_:
@@ -8932,15 +8816,9 @@ bénéficient d'une durée d'inscription spécifique sur ces listes.
 L'inscription du candidat sur la ou les listes d'aptitude est subordonnée à la reconnaissance de ses qualifications et acquis
 de l'expérience professionnelle.
 
-L'inscription sur une liste régionale ou nationale s'effectue à la demande du candidat, sous réserve des contraintes
-statutaires.
-
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+
 
 **Liens relatifs à cet article**
 
@@ -8948,13 +8826,9 @@ _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L241-2 (VD)
+  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
 
 _Cité par_:
 
@@ -8968,40 +8842,34 @@ _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. L401, alinéas 1, 2, 5 et 6  (VT)
 
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-2
+
 
 ###### Article L242-4
 
 Lors des recrutements dans la fonction publique territoriale, l'autorité territoriale compétente examine les listes établies
-au titre de l'article L. 242-3 dans l'ordre de priorité défini à l'article L. 241-1, préalablement à la nomination d'un
-candidat inscrit sur une liste d'aptitude établie à l'issue des concours, conformément à l'article 41 de la loi n° 84-53 du
-26 janvier 1984. L'inscription des candidats sur les listes établies au titre de l'article L. 242-3 a, pour l'autorité
-territoriale et les candidats, les mêmes effets que l'inscription sur une liste d'aptitude à un cadre d'emplois établie par
-la fonction publique territoriale, sauf pour les personnes mentionnées aux articles L. 241-2 à L. 241-4 qui bénéficient d'une
-durée d'inscription spécifique.
+au titre de l'article L. 242-3, préalablement à la nomination d'un candidat inscrit sur une liste d'aptitude établie à
+l'issue des concours, conformément à l'article 41 de la loi du 26 janvier 1984 précitée.
 
 **Nota:**
 
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
+
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°84-53 du 26 janvier 1984 - art. 41 (M)
-  - Code des pensions militaires d'invalidité et de... - art. L241-1 (VD)
-  - Code des pensions militaires d'invalidité et de... - art. L241-2 (VD)
-  - Code des pensions militaires d'invalidité et de... - art. L242-3 (VD)
 
 _Codifié par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
+  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. L242-3 (VD)
 
 _Anciens textes_:
 
@@ -9133,42 +9001,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. L406 (M)
-
-
-###### Article L242-8
-
-Les bénéficiaires des articles L. 241-5 et L. 241-6 peuvent, après un an de service effectif dans le corps ou cadre d'emplois
-dans lequel ils sont titularisés, être autorisés à se présenter aux concours internes prévus par les statuts des trois
-fonctions publiques, sans que les conditions statutaires d'ancienneté de service et d'âge leur soient opposables.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Ordonnance n°2019-2 du 4 janvier 2019 - art. 4 (V)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L241-5 (VT)
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L407 (VT)
 
 
 #### Chapitre III : Recrutement direct<a id=105></a>
@@ -14867,85 +14699,6 @@ _Modifié par_:
   - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
 
 
-###### Article L711-6
-
-Les décisions sont motivées.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 10, alinéa 1  (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
-###### Article L711-7
-
-Les dispositions de la première partie de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique sont applicables de
-plein droit, sans condition de ressources, de nationalité et de résidence, aux personnes qui formulent une demande en
-application du présent code devant le tribunal des pensions, la cour régionale des pensions et le Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 51 V de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à une
-date fixée par décret, et au plus tard le 1er janvier 2020. A cette date, les procédures en cours devant les tribunaux des
-pensions et celles en cours devant les cours régionales des pensions et les cours des pensions sont transférées en l'état,
-respectivement, aux tribunaux administratifs et aux cours administratives d'appel territorialement compétents, sans qu'il y
-ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-327 du 20 février 1959 - art. 8, extrait alinéa 2 (VT)
-  - Code des pensions militaires d'invalidité et de... - art. L104, alinéa 1 (VT)
-
-_Cite_:
-
-  - Loi n°91-647 du 10 juillet 1991
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Loi n°2018-607 du 13 juillet 2018 - art. 51 (V)
-
-
 # Partie réglementaire (nouvelle)<a id=175></a>
 
 ## Livre Ier : LE DROIT À PENSION<a id=176></a>
@@ -20420,44 +20173,6 @@ _Cite_:
 
 ##### Section 1 : Dispositions générales<a id=259></a>
 
-###### Article R242-1
-
-La candidature aux emplois réservés mentionnés à l'article L. 241-1 des militaires ou anciens militaires bénéficiaires des
-dispositions des articles L. 241-5 et L. 241-6 est subordonnée aux conditions suivantes :
-
-1° Remplir les conditions d'âge fixées par le statut particulier des corps et cadres d'emplois d'accueil, à la date fixée, le
-cas échéant, par le statut d'accueil ou, à défaut, au 1er janvier de l'année au titre de laquelle il postule ;
-
-2° Avoir accompli au moins quatre années de services militaires effectifs à la date d'inscription sur la liste d'aptitude
-prévue à l'article L. 242-3.
-
-L'ancien militaire doit, en outre, avoir quitté les armées depuis moins de trois ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2019-5 du 4 janvier 2019 - art. 24
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R396 (Ab)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-1
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-5
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L242-3
-
-
 ###### Article R242-2
 
 La liste des corps exclus du dispositif des emplois réservés, prévue à l'article L. 242-1, est annexée au présent chapitre.
@@ -20518,9 +20233,8 @@ _Anciens textes_:
 
 ###### Article R242-4
 
-Pour les bénéficiaires du 1° de l'article L. 241-2 qui ne sont plus en activité et ceux relevant des 2° à 6° de l'article L.
-241-2 et des articles L. 241-3 et L. 241-4, la reconnaissance des qualifications et acquis de l'expérience professionnelle
-s'effectue à partir d'un dossier, retraçant leurs qualifications et expériences professionnelles, examiné par l'Office
+La reconnaissance des qualifications et acquis de l'expérience professionnelle des bénéficiaires des articles L. 241-2 à L.
+241-4 s'effectue à partir d'un dossier, retraçant leurs qualifications et expériences professionnelles, examiné par l'Office
 national des anciens combattants et des victimes de guerre.
 
 **Liens relatifs à cet article**
@@ -20529,14 +20243,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L241-2 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L241-3 (V)
+  - Décret n°2019-5 du 4 janvier 2019 - art. 25
 
 _Anciens textes_:
 
@@ -20547,51 +20256,16 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R242-7 (VD)
   - Code des pensions militaires d'invalidité et de... - art. R242-9 (VD)
 
-
-###### Article R242-5
-
-Pour les militaires en position d'activité et ceux qui relèvent des dispositions du 2° de l'article L. 241-5 et de l'article
-L. 241-6, la reconnaissance des qualifications et acquis de l'expérience professionnelle s'effectue à partir du projet
-professionnel élaboré par le candidat dans le cadre du parcours de reconversion en application du troisième alinéa de
-l'article L. 4111-1 et de l'article L. 4139-5 du code de la défense.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2019-5 du 4 janvier 2019 - art. 24
-
 _Cite_:
 
-  - Code de la défense. - art. L4111-1
-  - Code de la défense. - art. L4139-5
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-5
-  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-6
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L401, alinéa 4 (Ab)
-
-_Cité par_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R242-7 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R242-8 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R242-9 (V)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-2
 
 
 ###### Article R242-6
 
 Pour la fonction publique de l'Etat et la fonction publique hospitalière, l'autorité administrative compétente recrute les
-candidats parmi ceux figurant sur la liste d'aptitude correspondant au corps concerné, dans le respect de l'ordre de priorité
-défini à l'article L. 241-1 et du pourcentage fixé à l'article L. 242-2, préalablement à tout autre recrutement.
+candidats parmi ceux figurant sur la liste d'aptitude correspondant au corps concerné, dans le respect            du
+pourcentage fixé à l'article L. 242-2, préalablement à tout autre recrutement. 
 
 En cas d'insuffisance de candidats inscrits sur les listes d'aptitude régionales, elle recrute les candidats inscrits sur la
 liste d'aptitude nationale.
@@ -20602,30 +20276,24 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L241-1 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L242-2 (V)
+  - Décret n°2019-5 du 4 janvier 2019 - art. 26
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. L402 (Ab)
 
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-1
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L242-2
+
 
 ###### Article R242-7
 
-Le candidat dépose sa demande de recrutement au titre des emplois réservés auprès :3
-
-1° Du service territorialement compétent de l'Office national des anciens combattants et victimes de guerre s'il s'agit d'un
-bénéficiaire mentionné à l'article R. 242-4 ;
-
-2° Du service chargé de la reconversion du personnel militaire désigné par le ministre de la défense ou par le ministre de
-l'intérieur pour les militaires de la gendarmerie nationale, s'il s'agit d'un militaire en position d'activité ou d'un ancien
-militaire relevant de l'article R. 242-5.
+Les bénéficiaires mentionnés à l'article R. 242-4 déposent leur demande de recrutement au titre des emplois réservés auprès
+du service territorialement compétent de l'Office national des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
 
@@ -20633,18 +20301,17 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R242-4 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
+  - Décret n°2019-5 du 4 janvier 2019 - art. 27
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R399 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R242-4
 
 
 ###### Article R242-8
@@ -20653,11 +20320,7 @@ Le candidat doit :
 
 1° Fournir les pièces exigées et notamment celles attestant de sa qualité d'ayant droit ou d'ayant cause ;
 
-2° Obtenir un document intitulé passeport professionnel attestant de ses titres, diplômes et qualifications
-professionnelles ;
-
-3° Pour les candidats mentionnés à l'article R. 242-5, avoir au préalable élaboré un projet professionnel dans le cadre du
-parcours de reconversion mentionné au troisième alinéa de l'article L. 4111-1 et à l'article L. 4139-5 du code de la défense.
+2° Obtenir un document intitulé passeport professionnel attestant de ses titres, diplômes et qualifications professionnelles.
 
 La liste des pièces exigées ainsi que le modèle de passeport professionnel sont fixés par arrêté conjoint du ministre de la
 défense et du ministre de l'intérieur.
@@ -20668,19 +20331,13 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
 _Cité par_:
 
   - Arrêté du 3 décembre 2018 - art. 27 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la défense. - art. L4111-1 (V)
-  - Code de la défense. - art. L4139-5 (M)
-  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
+  - Décret n°2019-5 du 4 janvier 2019 - art. 28
 
 _Anciens textes_:
 
@@ -20692,37 +20349,34 @@ _Anciens textes_:
 Le service territorialement compétent de l'Office national des anciens combattants et victimes de guerre assiste le candidat
 mentionné à l'article R. 242-4 du présent code dans la constitution de son dossier et établit son passeport professionnel.
 
-Le service compétent chargé de la reconversion des militaires établit le passeport professionnel du candidat mentionné à
-l'article R. 242-5 au regard du projet professionnel.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2019-5 du 4 janvier 2019 - art. 29
 
 _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R242-19 (V)
 
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R242-4 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
-
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R401 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R242-4
 
 
 ###### Article R242-10
 
 Les passeports professionnels mentionnent les domaines de compétences du candidat, ses qualifications professionnelles, le
-niveau détenu, les fonctions auxquelles il peut prétendre et tout autre renseignement utile pour le futur employeur.
+niveau détenu, les fonctions auxquelles il peut prétendre et toute autre information d'ordre professionnel utile pour le
+futur employeur.
 
 Les modalités de qualification des candidats pour l'accès à chaque corps et cadre d'emploi sont définies après concertation
 avec les autorités administratives chargées du recrutement, dans le respect des dispositions statutaires. Ces modalités sont
@@ -20734,9 +20388,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2019-5 du 4 janvier 2019 - art. 30
 
 _Anciens textes_:
 
@@ -20783,18 +20437,11 @@ _Anciens textes_:
 
 ###### Article R242-12
 
-Le candidat est inscrit sur la liste d'aptitude durant trois ans continus au maximum à compter de la date de sa première
-inscription sur une liste.
-
-Cette durée est portée à cinq ans pour les personnes mentionnées aux articles L. 241-2 à L. 241-4. 
-
-Pour les bénéficiaires des articles L. 241-5 et L. 241-6, la durée d'inscription sur les listes régionales est d'un an
-renouvelable une fois. Les candidats qui ne sont pas recrutés pendant cette période sont inscrits sur la liste nationale pour
-une année supplémentaire.
+Le candidat est inscrit sur l'une des listes d'aptitude mentionnées à l'article R. 242-11 pour une durée de cinq ans. 
 
 Le renouvellement d'inscription sur les listes régionales et l'inscription sur la liste nationale sont effectués après accord
 du candidat à la proposition que l'autorité administrative lui fait trente jours au moins avant la date d'échéance. L'absence
-de réponse à la date d'échéance vaut refus et le candidat est alors radié de toutes les listes où il figurait.
+de réponse à la date d'échéance vaut refus et le candidat est alors radié de toutes les listes où il figurait. 
 
 Tout candidat peut, à tout moment, demander son inscription sur la liste nationale.
 
@@ -20804,18 +20451,17 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L241-2 (V)
-  - Code des pensions militaires d'invalidité et de... - art. L241-5 (V)
+  - Décret n°2019-5 du 4 janvier 2019 - art. 31
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R403 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R242-11
 
 
 ###### Article R242-13
@@ -20864,6 +20510,25 @@ _Créé par_:
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R405 (Ab)
+
+
+###### Article R242-14-1
+
+En cas d'intégration ou de titularisation, la durée des services effectifs du militaire ou de l'ancien militaire mentionnés à
+l'article L. 241-2 est reprise en totalité dans la limite de dix ans pour l'ancienneté dans le corps ou le cadre d'emplois
+d'accueil de catégorie C. Elle est reprise pour la moitié de la durée des services effectifs dans la limite de sept ans pour
+l'ancienneté dans le corps ou cadre d'emplois de catégorie A et huit ans pour l'ancienneté dans le corps ou cadre d'emplois
+de catégorie B.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-5 du 4 janvier 2019 - art. 32
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L241-2
 
 
 ###### Article R242-15
