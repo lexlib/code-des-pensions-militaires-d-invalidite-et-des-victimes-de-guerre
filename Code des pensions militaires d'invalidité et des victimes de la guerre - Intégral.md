@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-30
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -31340,40 +31340,6 @@ _Anciens textes_:
   - Code des pensions militaires d'invalidité et de... - art. D447 (Ab)
 
 
-###### Article R612-16
-
-Le budget général de l'Office national comprend un budget principal et, en application des articles L. 312-1, R. 314-3 à R.
-314-63, R. 314-78 et R. 314-79 du code de l'action sociale et des familles, des budgets annexes.
-
-Les délibérations et les décisions du conseil d'administration en ce qui concerne les budgets annexes sont exécutoires dans
-les délais mentionnés à ces articles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-52 du 28 janvier 2020 - art. 7
-
-_Anciens textes_:
-
-  - Code des pensions militaires d'invalidité et de... - art. D440, extrait alinéa 6 et extrait alinéa 15 (Ab)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L312-1
-  - Code de l'action sociale et des familles - art. R314-3
-  - Code de l'action sociale et des familles - art. R314-78
-  - Code de l'action sociale et des familles - art. R314-79
-
-
 ###### Article R612-17
 
 Les dépenses de l'Office national comprennent des dépenses de personnel, de fonctionnement, d'intervention et
@@ -31881,8 +31847,8 @@ e) Le directeur académique des services de l'éducation nationale agissant sur 
 f) Le directeur des archives départementales.
 
 2° Un deuxième collège de seize à vingt-quatre membres appartenant aux catégories de ressortissants énumérées par l'annexe
-législative mentionnée à l'article L. 611-2, répartis dans les conditions fixées par un arrêté du ministre chargé des anciens
-combattants ;
+législative mentionnée à l'article L. 611-2, dont la moitié au moins sont titulaires de la carte du combattant ou du titre de
+reconnaissance de la Nation ;
 
 3° Un troisième collège de neuf membres représentant les associations départementales les plus représentatives qui œuvrent
 pour les missions mémorielles et la citoyenneté.
@@ -31890,12 +31856,17 @@ pour les missions mémorielles et la citoyenneté.
 Les membres du premier collège sont nommés sur proposition des administrations ou organismes compétents.
 
 Les membres du deuxième collège sont nommés sur proposition des associations départementales qui regroupent les catégories de
-ressortissants qu'elles représentent. A cet effet, elles proposent au représentant de l'Etat dans le département deux
-candidatures pour chacune des catégories des ressortissants de l'Office national énumérées par l'annexe législative
-mentionnée à l'article L. 611-2.
+ressortissants qu'elles représentent.
 
 Les membres du troisième collège sont nommés sur proposition des organismes ou associations compétentes après avis du
 directeur du service départemental de l'Office national des anciens combattants et victimes de guerre.
+
+**Nota:**
+
+Conformément à l'article 12 décret n° 2020-52 du 28 janvier 2020 modifiant l'organisation administrative et financière et les
+structures territoriales de l'Office national des anciens combattants et victimes de guerre, les dispositions de l'article 9
+s'appliquent au prochain renouvellement des conseils départementaux pour les anciens combattants et victimes de guerre et la
+mémoire de la Nation et au plus tard le 31 décembre 2023.
 
 **Liens relatifs à cet article**
 
@@ -31903,14 +31874,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L611-2 (V)
-  - Code des pensions militaires d'invalidité et de... - art. R613-10 (V)
+  - Décret n°2020-52 du 28 janvier 2020 - art. 9
 
 _Anciens textes_:
 
@@ -31920,14 +31886,19 @@ _Cité par_:
 
   - Code des pensions militaires d'invalidité et de... - art. R613-13 (V)
 
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L611-2
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R613-10
+
 
 ###### Article R613-8
 
 Le conseil désigne pour la durée de son mandat deux vice-présidents choisis parmi les représentants des anciens combattants
 et victimes de guerre.
 
-Le directeur du service départemental de l'Office national des anciens combattants et victimes de guerre et les directeurs
-des établissements de l'Office implantés dans le département assistent aux réunions du conseil.
+Le directeur du service départemental de l'Office national des anciens combattants et victimes de guerre assiste aux réunions
+du conseil.
 
 Le directeur du service départemental de l'Office national des anciens combattants et victimes de guerre soumet au préfet les
 rapports présentés au conseil et exécute les délibérations de cette assemblée. Il assure le secrétariat des séances.
@@ -31938,9 +31909,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2020-52 du 28 janvier 2020 - art. 10
 
 _Anciens textes_:
 
@@ -32288,7 +32259,7 @@ e) Le maire ou un autre élu d'une autre commune de Nouvelle-Calédonie choisie 
 proposition de son conseil municipal ;
 
 f) Entre cinq et dix membres appartenant aux catégories énumérées par l'annexe législative mentionnée à l'article L. 611-2,
-répartis dans les conditions fixées par un arrêté du ministre chargé des anciens combattants ;
+dont la moitié au moins sont titulaires de la carte du combattant ou du titre de reconnaissance de la Nation ;
 
 2° En Polynésie française :
 
@@ -32304,7 +32275,7 @@ e) Le maire ou un autre élu d'une autre commune de Polynésie française choisi
 proposition de son conseil municipal ;
 
 f) Entre cinq et dix membres appartenant aux catégories énumérées par l'annexe législative mentionnée à l'article L. 611-2,
-répartis dans les conditions fixées par un arrêté du ministre chargé des anciens combattants.
+dont la moitié au moins sont titulaires de la carte du combattant ou du titre de reconnaissance de la Nation .
 
 II. – Les conseils territoriaux pour les anciens combattants et victimes de guerre et la mémoire de la Nation en Nouvelle-
 Calédonie et en Polynésie française désignent en leur sein un vice-président pour la durée du mandat.
@@ -32315,23 +32286,30 @@ représentant assiste aux réunions de ces conseils et en assure le secrétariat
 Il soumet au haut-commissaire de la République de la collectivité concernée les rapports présentés aux conseils et exécute
 les délibérations de ces conseils.
 
+**Nota:**
+
+Conformément à l'article 12 décret n° 2020-52 du 28 janvier 2020 modifiant l'organisation administrative et financière et les
+structures territoriales de l'Office national des anciens combattants et victimes de guerre, les dispositions de l'article 11
+s'appliquent au prochain renouvellement des conseils territoriaux pour les anciens combattants et victimes de guerre et la
+mémoire de la Nation en Nouvelle-Calédonie et en Polynésie française.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. L611-2 (V)
+  - Décret n°2020-52 du 28 janvier 2020 - art. 11
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R579 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L611-2
 
 
 ###### Article R613-18
