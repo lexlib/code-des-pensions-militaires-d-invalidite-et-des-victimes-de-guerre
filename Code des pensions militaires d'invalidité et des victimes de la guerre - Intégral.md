@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2020-01-30
+Version Consolidée au 2020-02-04
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -165,7 +165,7 @@ Version Consolidée au 2020-01-30
       - [Titre Ier : OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE (art. L611-1 à  )](#162)
         - [Chapitre Ier : Dispositions générales (art. L611-1 à L611-6)](#163)
         - [Chapitre II : Organisation administrative et financière (art. L612-1 à L612-17)](#164)
-          - [Section 1 : Le conseil d'administration (art. L612-1 à L612-5)](#165)
+          - [Section 1 : Le conseil d'administration (art. L612-1 à L612-4)](#165)
           - [Section 2 : Le directeur général (art. L612-6 à L612-11)](#166)
           - [Section 3 : Le régime financier (art. L612-12 à L612-17)](#167)
         - [Chapitre III : Structures territoriales (art. L613-1 à L613-2)](#168)
@@ -13681,39 +13681,6 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L611-2
 
 
-###### Article L612-2
-
-Le conseil d'administration désigne en son sein une commission permanente.
-
-Il désigne aussi deux commissions spécialisées dont les compétences sont définies par décret.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 modifiant l'organisation administrative et financière et
-les structures territoriales de l'Office national des anciens combattants et victimes de guerre, ces dispositions sont
-abrogées à compter du prochain renouvellement du conseil d'administration de l'Office national des anciens combattants et
-victimes de guerre. Cette élection a eu lieu le 4 février 2020.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-52 du 28 janvier 2020 - art. 2
-
-
 ###### Article L612-3
 
 Le conseil d'administration délibère sur :
@@ -13781,65 +13748,6 @@ _Codifié par_:
 _Créé par_:
 
   - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-
-###### Article L612-5
-
-La commission permanente délibère sur :
-
-1° Les questions pour lesquelles délégation lui est donnée par le conseil d'administration, à l'exception du vote du budget
-et de l'approbation du compte financier ;
-
-2° L'acceptation des dons et legs, à l'exception :
-
-a) Des dons et legs grevés de charges, conditions ou affectations immobilières ;
-
-b) Des dons et legs donnant lieu à réclamation des familles ;
-
-c) Des dons et legs d'un montant inférieur à un plafond déterminé par le conseil d'administration, qui relèvent de
-l'acceptation du directeur général ;
-
-3° L'aliénation des biens et valeurs dans la limite des recettes prévues à cette fin au budget.
-
-Elle donne son avis sur les projets de textes réglementaires modifiant l'organisation et le fonctionnement de l'Office. Elle
-prépare un projet de règlement qui est arrêté par le conseil d'administration.
-
-La commission permanente examine, en outre, toute question qui lui est soumise par le ministre chargé des anciens combattants
-et victimes de guerre ou le directeur général de l'Office. Elle examine également toute question dont la moitié des membres
-du conseil d'administration demande l'examen, formule ses avis au ministre chargé des anciens combattants et victimes de
-guerre et peut le saisir de ses propositions.
-
-Le président de la commission permanente rend compte au conseil d'administration lors de sa plus proche séance de toutes les
-questions examinées par la commission.
-
-La commission permanente donne son avis sur le projet de budget général et le compte financier de l'Office et des
-établissements qui lui sont rattachés.
-
-**Nota:**
-
-Conformément à l'article 8 de l'ordonnance n° 2015-1781 du 28 décembre 2015, les dispositions de la partie législative du
-code des pensions militaires d'invalidité et des victimes de guerre entrent en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat relatif à la partie réglementaire dudit code, et au
-plus tard le 1er janvier 2017.
-
-Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 modifiant l'organisation administrative et financière et
-les structures territoriales de l'Office national des anciens combattants et victimes de guerre, ces dispositions sont
-abrogées à compter du prochain renouvellement du conseil d'administration de l'Office national des anciens combattants et
-victimes de guerre. Cette élection a eu lieu le 4 février 2020.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2015-1781 du 28 décembre 2015 - art.
-
-_Abrogé par_:
-
-  - Décret n°2020-52 du 28 janvier 2020 - art. 2
 
 
 ##### Section 2 : Le directeur général<a id=166></a>
@@ -30795,63 +30703,60 @@ _Cite_:
 
 ###### Article R612-1
 
-I. – Le conseil d'administration de l'Office national des anciens combattants comprend quarante membres ainsi répartis :
+I.- Le conseil d'administration de l'Office national des anciens combattants et victimes de guerre comprend trente-et-un
+membres, dont vingt-neuf répartis entre les trois collèges mentionnés à l'article L. 612-1.
 
-1° Un premier collège comprenant huit membres représentant les assemblées et l'administration, désignés pour une durée de
-quatre ans :
+Le premier collège comprend huit membres représentant les assemblées parlementaires et l'administration :
 
-a) Deux membres du Parlement, désignés par le président de leur assemblée respective :
+1° Les deux parlementaires mentionnés à l'article L. 612-1 ;
 
-– un membre de l'Assemblée nationale ;
+2° Six membres représentant l'Etat :
 
-– un membre du Sénat ;
+a) Le chef d'état-major des armées ou son représentant ;
 
-b) Six membres représentant l'Etat :
+b) Le secrétaire général pour l'administration ou son représentant ;
 
-– le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
+c) Le directeur des patrimoines, de la mémoire et des archives ou son représentant ;
 
-– le directeur des patrimoines, de la mémoire et des archives du ministère de la défense ou son représentant ;
+d) Le directeur du budget ou son représentant ;
 
-– le directeur du budget ou son représentant ;
+e) Le secrétaire général du ministère de l'intérieur ou son représentant ;
 
-– le secrétaire général du ministère chargé de l'intérieur ou son représentant ;
+f) Le directeur général de l'enseignement scolaire ou son représentant.
 
-– le directeur général de l'enseignement scolaire ou son représentant ;
+Le deuxième collège est constitué de quinze membres représentant les anciens combattants et victimes de guerre choisis parmi
+les catégories de ressortissants énumérées par l'annexe mentionnée à l'article L. 611-2 et comprend au moins huit titulaires
+de la carte du combattant ou du titre de reconnaissance de la Nation.
 
-– le directeur des Français à l'étranger et de l'administration consulaire ou son représentant ;
+Le troisième collège comprend six membres représentant les fondations et les associations nationales qui œuvrent pour les
+missions mémorielles et la citoyenneté.
 
-2° Un deuxième collège comprenant vingt-quatre membres représentant les anciens combattants et victimes de guerre, choisis
-parmi les catégories de ressortissants énumérées par l'annexe législative mentionnée à l'article L. 611-2 et réparties dans
-les conditions fixées par un arrêté du ministre chargé des anciens combattants et victimes de guerre ;
+Siègent en outre deux représentants du personnel de l'office.
 
-3° Un troisième collège comprenant six membres représentant les fondations et les associations nationales qui œuvrent pour
-les missions mémorielles et la citoyenneté, dont la liste est fixée par arrêté du ministre chargé des anciens combattants et
-victimes de guerre ;
-
-4° Deux représentants du personnel de l'Office.
-
-II. – Les membres du conseil d'administration appartenant au deuxième collège sont nommés pour quatre ans, par le ministre
+II.- Les membres du conseil d'administration appartenant au deuxième collège sont nommés pour quatre ans, par le ministre
 chargé des anciens combattants et victimes de guerre, sur proposition des associations nationales qui regroupent les
-catégories statutaires des ressortissants qu'elles représentent, après avis du directeur général de l'Office. A cet effet,
-ces associations proposent au ministre chargé des anciens combattants et victimes de guerre une candidature pour chacune des
-catégories de ressortissants, énumérées par l'annexe législative mentionnée à l'article L. 611-2, qu'elles regroupent.
+catégories statutaires des ressortissants qu'elles représentent, après avis du directeur général de l'office.
 
 Les membres du conseil d'administration faisant partie du troisième collège sont nommés pour quatre ans, par le ministre
 chargé des anciens combattants et victimes de guerre, sur proposition des fondations ou associations nationales qui œuvrent
-pour les missions mémorielles et la citoyenneté, après avis du directeur général de l'Office. A cet effet, chacune propose
-une candidature au ministre chargé des anciens combattants et victimes de guerre.
+pour les missions mémorielles et la citoyenneté, après avis du directeur général de l'office.
 
 Pour la représentation du personnel, il est attribué un siège à chacune des deux organisations syndicales arrivées en tête
 aux élections professionnelles.
 
-En cas de décès ou de démission de membres du conseil appartenant aux deuxième et troisième collèges, le ministre chargé des
+En cas de décès ou de démission des membres du conseil appartenant aux deuxième et troisième collèges, le ministre chargé des
 anciens combattants et victimes de guerre pourvoit à leur remplacement selon la procédure de nomination définie au présent
-article. Les membres ainsi désignés siègent pour la durée du mandat restant à courir ;
+article. Les membres ainsi désignés siègent pour la durée du mandat restant à courir.
 
-III. – Des experts, nommés par le ministre chargé des anciens combattants et victimes de guerre, sur proposition du directeur
-général de l'Office, au nombre de cinq maximum, dont le représentant de l'Association des professeurs d'histoire et de
-géographie, siègent, avec voix consultative et de façon permanente, au sein de la commission mémoire et solidarité et en
-séance plénière du conseil d'administration.
+III.- Des experts nommés par le ministre chargé des anciens combattants et victimes de guerre sur proposition du directeur
+général de l'office, au nombre de cinq maximum, siègent, avec voix consultative, en séance plénière du conseil
+d'administration.
+
+**Nota:**
+
+Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 ces dispositions s'appliquent au prochain renouvellement
+du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Cette élection a eu lieu le 4
+février 2020.
 
 **Liens relatifs à cet article**
 
@@ -30861,7 +30766,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
+  - Décret n°2020-52 du 28 janvier 2020 - art. 3
 
 _Anciens textes_:
 
@@ -30901,28 +30806,34 @@ _Anciens textes_:
 
 ###### Article R612-3
 
-Présidée par l'un des deux vice-présidents du conseil d'administration, la commission permanente de ce conseil est composée
-comme suit :
+Le conseil d'administration désigne en son sein une commission permanente, présidée par l'un des deux vice-présidents du
+conseil d'administration et composée comme suit :
 
 1° L'autre vice-président du conseil d'administration ;
 
-2° Les présidents et rapporteurs des deux commissions mentionnées à l'article R. 612-4 ;
+2° Quatre administrateurs élus par le conseil d'administration au sein des deuxième et troisième collèges ;
 
-3° Les vice-présidents du collège de l'œuvre nationale du Bleuet de France ;
+3° (Abrogé) ;
 
 4° Deux représentants du ministre de la défense ;
 
 5° Un représentant du ministre chargé du budget.
 
+**Nota:**
+
+Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 ces dispositions s'appliquent au prochain renouvellement
+du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Cette élection a eu lieu le 4
+février 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2020-52 du 28 janvier 2020 - art. 4
 
 _Anciens textes_:
 
@@ -30933,36 +30844,69 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. R612-4 (V)
 
 
-###### Article R612-4
+###### Article R612-3-1
 
-I. - Le conseil d'administration élit en son sein deux commissions de dix membres parmi les membres des deuxième et troisième
-collèges :
+La commission permanente délibère sur :
 
-1° La commission des affaires générales et financières, appelée à étudier les questions concernant le fonctionnement, le
-budget et les comptes de l'Office ;
+1° Les questions pour lesquelles délégation lui est donnée par le conseil d'administration ;
 
-2° La commission de la mémoire et de la solidarité, appelée à étudier les questions intéressant la solidarité, la
-reconversion professionnelle, l'hébergement des ressortissants âgés, la participation au droit à réparation et aux actions de
-mémoire.
+2° L'acceptation des dons et legs, à l'exception :
 
-Ces commissions peuvent entendre des personnes qualifiées en raison de leurs fonctions ou de leurs compétences particulières.
+a) Des dons et legs grevés de charges, conditions ou affectations immobilières ;
 
-Elles se réunissent préalablement aux réunions du conseil d'administration. Elles se réunissent également sur convocation du
-directeur général de l'Office.
+b) Des dons et legs donnant lieu à réclamation des familles ;
 
-II. - Outre la commission des affaires générales et financières et la commission de la mémoire et de la solidarité, le
-conseil d'administration peut constituer en son sein des commissions spécialisées chargées d'assurer la conduite de certains
-secteurs d'activités de l'Office.
+c) Des dons et legs d'un montant inférieur à un plafond déterminé par le conseil d'administration, qui relèvent de
+l'acceptation du directeur général ;
+
+3° L'aliénation des biens et valeurs dans la limite des seuils fixés par le conseil d'administration.
+
+Elle donne son avis sur les projets de textes réglementaires modifiant l'organisation et le fonctionnement de l'office. Elle
+prépare un projet de règlement intérieur qui est arrêté par le conseil d'administration.
+
+La commission permanente examine toute question qui lui est soumise par le ministre chargé des anciens combattants et
+victimes de guerre ou le directeur général de l'office. Elle examine également toute question dont la moitié des membres du
+conseil d'administration demande l'examen. Elle formule ses avis au ministre chargé des anciens combattants et victimes de
+guerre et peut le saisir de ses propositions.
+
+Le président de la commission permanente rend compte au conseil d'administration lors de sa plus proche séance de toutes les
+questions examinées par la commission.
+
+La commission permanente donne son avis sur le projet de budget général et le compte financier de l'office.
+
+**Nota:**
+
+Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 ces dispositions s'appliquent au prochain renouvellement
+du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Cette élection a eu lieu le 4
+février 2020.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2020-52 du 28 janvier 2020 - art. 5
+
+
+###### Article R612-4
+
+Le conseil d'administration peut constituer en son sein des commissions spécialisées chargées de mettre en œuvre les
+orientations de l'office dans certains secteurs d'activité.
+
+**Nota:**
+
+Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 ces dispositions s'appliquent au prochain renouvellement
+du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Cette élection a eu lieu le 4
+février 2020.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2020-52 du 28 janvier 2020 - art. 6
 
 _Anciens textes_:
 
@@ -31488,7 +31432,7 @@ _Codifié par_:
 
 Le collège est présidé par le directeur général de l'Office national des anciens combattants et victimes de guerre.
 
-Il comprend seize membres répartis comme suit :
+Il comprend quatorze membres répartis comme suit :
 
 1° Quatre membres représentant l'Etat, issus du premier collège du conseil d'administration de l'Office national :
 
@@ -31500,19 +31444,20 @@ c) Le secrétaire général du ministère de l'intérieur ou son représentant ;
 
 d) Le directeur général de l'enseignement scolaire ou son représentant ;
 
-2° Dix membres représentant les deux commissions élues au sein du conseil d'administration de l'Office national :
-
-a) Outre son président et son rapporteur, trois membres désignés par la commission de la mémoire et de la solidarité dont ils
-sont issus ;
-
-b) Outre son président et son rapporteur, trois membres désignés par la commission des affaires générales et financières dont
-ils sont issus ;
+2° Huit administrateurs élus par le conseil d'administration de l'Office national au sein des deuxième et troisième
+collèges ;
 
 3° Deux experts désignés par le ministre chargé des anciens combattants en raison de leurs compétences particulières.
 
 Ce collège est renouvelable tous les quatre ans. Son mandat prend fin en même temps que celui du conseil d'administration de
 l'Office national. Il désigne en son sein deux vice-présidents et peut faire appel à toute personne qualifiée pour l'aider
 dans sa mission.
+
+**Nota:**
+
+Conformément à l'article 12 du décret n° 2020-52 du 28 janvier 2020 ces dispositions s'appliquent au prochain renouvellement
+du conseil d'administration de l'Office national des anciens combattants et victimes de guerre. Cette élection a eu lieu le 4
+février 2020.
 
 **Liens relatifs à cet article**
 
@@ -31524,9 +31469,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2020-52 du 28 janvier 2020 - art. 8
 
 
 ###### Article R612-24
