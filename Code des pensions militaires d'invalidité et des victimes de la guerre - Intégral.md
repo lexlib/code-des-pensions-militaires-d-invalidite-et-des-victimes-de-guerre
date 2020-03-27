@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2020-02-04
+Version Consolidée au 2020-03-28
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -27440,8 +27440,12 @@ _Anciens textes_:
 
 ###### Article R412-6
 
-Les frais de l'expertise médicale mentionnée à l'article R. 412-5 sont réglés conformément aux dispositions en matière de
-frais devant les juridictions des pensions.
+Les frais de l'expertise médicale mentionnée à l'article R. 412-5 sont fixés à une somme égale, pour l'ensemble des actes,
+convocations, examens, rapports et dépôts de rapport, à l'honoraire prévu pour visite judiciaire et dépôt d'un rapport, au
+tarif des frais de justice en matière pénale. Si l'expertise a présenté des difficultés particulières qui ont nécessité le
+dépôt d'un rapport détaillé, cet honoraire peut être augmenté, dans la limite du double. Les frais d'expertise sont liquidés
+et payés au titre des frais de justice, selon les règles définies au chapitre IV du titre X du livre V du code de procédure
+pénale.
 
 **Liens relatifs à cet article**
 
@@ -27449,17 +27453,21 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
 
-_Cite_:
+_Cité par_:
 
-  - Code des pensions militaires d'invalidité et de... - art. R412-5 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R431-5 (V)
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R504 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R412-5
 
 
 ###### Article R412-7
@@ -29147,7 +29155,7 @@ _Cite_:
 
 ###### Article R431-5
 
-Les frais d'expertise sont réglés conformément aux dispositions en matière de frais devant les juridictions des pensions.
+Les frais d'expertise sont fixés et réglés conformément aux dispositions de l'article R. 412-6.
 
 **Liens relatifs à cet article**
 
@@ -29155,13 +29163,17 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. D394 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R412-6 (V)
 
 
 ###### Article R431-6
@@ -33470,13 +33482,13 @@ Les membres de la commission et les suppléants sont nommés par arrêté du min
 
 - du représentant du directeur du service des retraites de l'Etat, qui est nommé par arrêté du ministre du budget.
 
-En cas d'empêchement du président, le médecin chef des services assure sa suppléance.
+En cas d'empêchement du président, le médecin chef des services, ou le suppléant de ce dernier, assure sa suppléance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
 
 
 ###### Article R711-5
@@ -33560,11 +33572,14 @@ _Créé par_:
 ###### Article R711-10
 
 Dès réception du recours, le président de la commission en informe l'autorité dont émane la décision contestée. Le président
-informe également le demandeur, par tout moyen conférant date certaine de réception, qu'il peut être auditionné par la
-commission s'il en formule la demande dans un délai d'un mois à compter de la date à laquelle il a reçu cette information.
-S'il ne manifeste pas son souhait d'être auditionné dans ce délai, la commission rend sa décision sur le fondement des
-éléments du dossier. Si le demandeur souhaite être auditionné, une convocation lui est adressée au moins un mois avant la
-séance, par tout moyen conférant date certaine de réception.
+de la commission transmet à l'autorité compétente les recours ne relevant pas de la compétence de la commission et en informe
+l'intéressé. Le président informe également le demandeur, par tout moyen conférant date certaine de réception, qu'il peut
+être auditionné par la commission s'il en formule la demande dans un délai d'un mois à compter de la date à laquelle il a
+reçu cette information. S'il ne manifeste pas son souhait d'être auditionné dans ce délai, la commission rend sa décision sur
+le fondement des éléments du dossier. Si le demandeur souhaite être auditionné, une convocation lui est adressée au moins un
+mois avant la séance, par tout moyen conférant date certaine de réception. Lorsque le demandeur, qui a fait part de son
+souhait d'être auditionné par la commission, justifie d'un motif légitime l'empêchant d'être présent lors de l'audition, le
+président ajourne l'examen du recours et reporte l'audition à une date ultérieure.
 
 Toute autorité recevant un recours dont l'examen relève de la compétence de la commission le transmet sans délai à cette
 commission et en avise l'auteur du recours.
@@ -33577,11 +33592,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. D77 (Ab)
+
+_Cité par_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R711-12 (V)
 
 
 ###### Article R711-11
@@ -33599,17 +33618,22 @@ _Créé par_:
 
 ###### Article R711-12
 
-La commission ne peut statuer qu'après que le demandeur a été mis à même de présenter des observations écrites. S'il demande
-à être auditionné, il peut se faire assister de la personne de son choix.
+La commission ne peut statuer qu'après que le demandeur a été mis à même de présenter des observations écrites sur les
+éléments recueillis auprès de l'autorité mentionnée à l'article R. 711-10, dans un délai de quinze jours à compter de leur
+réception par lui. Si l'intéressé demande à être auditionné, il peut se faire assister de la personne de son choix. 
 
 Le président de la commission peut décider de recourir à une audition par visio-conférence, notamment si le demandeur en a
 formulé le souhait ou s'il est domicilié en dehors du territoire métropolitain.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et de... - art. R711-10 (V)
 
 
 ###### Article R711-13
@@ -33641,30 +33665,38 @@ _Créé par_:
 ###### Article R711-15
 
 Dans un délai de quatre mois à compter de sa saisine, la commission notifie à l'intéressé sa décision prise sur le recours,
-qui se substitue à la décision contestée. L'absence de décision notifiée à l'expiration du délai de quatre mois vaut décision
-de rejet du recours formé devant la commission. Le délai de quatre mois est suspendu à compter du jour où le président a
-informé le demandeur, par tout moyen conférant date certaine de réception, qu'une expertise médicale est diligentée. Le délai
-recommence à courir à compter de la transmission au demandeur des conclusions de l'expertise médicale, par tout moyen
-conférant date certaine de réception ou, au plus tard, quatre mois à compter de la date à laquelle le demandeur a été informé
-de la réalisation de l'expertise médicale.
+qui se substitue à la décision contestée. Cette notification est effectuée par tout moyen lui conférant date certaine de
+réception. L'absence de décision notifiée à l'expiration du délai de quatre mois vaut décision de rejet du recours formé
+devant la commission. Le délai de quatre mois est suspendu à compter du jour où le président a informé le demandeur, par tout
+moyen conférant date certaine de réception, qu'une expertise médicale est diligentée. Le délai recommence à courir à compter
+de la transmission au demandeur des conclusions de l'expertise médicale, par tout moyen conférant date certaine de réception
+ou, au plus tard, quatre mois à compter de la date à laquelle le demandeur a été informé de la réalisation de l'expertise
+médicale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
 
 
 ###### Article R711-16
 
 Les règles de fonctionnement de la commission et les modalités d'examen des recours sont précisées par arrêté conjoint du
-ministre de la défense et du ministre chargé du budget.
+ministre de la défense et du ministre chargé du budget. 
+
+Pour l'exercice des attributions prévues par les articles R. 711-1 et R. 711-2, le président de la commission peut déléguer
+sa signature au rapporteur général ou au rapporteur général adjoint.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+  - Décret n°2020-335 du 25 mars 2020 - art. 2
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R711-1
 
 
 ### ANNEXES AU LIVRE VII<a id=405></a>
