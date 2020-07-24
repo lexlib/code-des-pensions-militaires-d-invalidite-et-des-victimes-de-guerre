@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2020-03-28
+Version Consolidée au 2020-07-25
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -18309,15 +18309,15 @@ _Cite_:
 ###### Article R151-7
 
 Sont en outre destinataires des renseignements médicaux mentionnés à l'article R. 151-6, à raison de leurs attributions
-respectives, pour les besoins du traitement du précontentieux et du contentieux :
+respectives, pour les besoins du traitement du précontentieux et du contentieux : 
 
 1° Les agents et les membres de la commission de recours de l'invalidité dans le cadre de l'instruction des recours
-administratifs préalables obligatoires ;
+administratifs préalables obligatoires ; 
 
 2° Les agents de la sous-direction des pensions de la direction des ressources humaines et de la direction des affaires
-juridiques du ministère de la défense ;
+juridiques du ministère de la défense ; 
 
-3° Les agents du service du commissariat aux armées dans les services locaux du contentieux.
+3° Les agents du service du commissariat des armées dans les services locaux du contentieux.
 
 **Liens relatifs à cet article**
 
@@ -18327,11 +18327,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
+  - Décret n°2020-899 du 22 juillet 2020 - art. 2
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. R151-6 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. R151-6 (VT)
 
 
 ###### Article R151-8
