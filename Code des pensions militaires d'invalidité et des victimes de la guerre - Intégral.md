@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2020-07-25
+Version Consolidée au 2020-09-28
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -18549,7 +18549,7 @@ _Anciens textes_:
 Lorsque l'ancien militaire réside à l'étranger, il adresse sa demande de pension au service désigné par le ministre chargé
 des anciens combattants et victimes de guerre, qui fait procéder aux expertises médicales par l'intermédiaire du consulat de
 France compétent pour le domicile de l'intéressé ou des services de l'Office national des anciens combattants et victimes de
-guerre pour les demandeurs domiciliés en Algérie, au Maroc et en Tunisie.
+guerre pour les demandeurs domiciliés en Algérie et au Maroc.
 
 L'intéressé peut se faire assister par un médecin, conformément aux dispositions de l'article R. 151-10.
 
@@ -18559,17 +18559,17 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et de... - art. R151-10 (V)
+  - Décret n°2020-1172 du 25 septembre 2020 - art. 1
 
 _Anciens textes_:
 
   - Code des pensions militaires d'invalidité et de... - art. R20 (Ab)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. R151-10
 
 
 ###### Article R151-21
@@ -30251,7 +30251,7 @@ _Anciens textes_:
 ###### Article R522-7
 
 L'entretien des sépultures perpétuelles est assuré au nom de l'Etat par l'Office national des anciens combattants et victimes
-de guerre, en France, en Algérie, au Maroc et en Tunisie.
+de guerre, en France, en Algérie et au Maroc.
 
 **Liens relatifs à cet article**
 
@@ -30259,9 +30259,9 @@ _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
+  - Décret n°2020-1172 du 25 septembre 2020 - art. 1
 
 _Anciens textes_:
 
@@ -31579,7 +31579,7 @@ _Cité par_:
 
 Les services départementaux et territoriaux de l'Office national des anciens combattants et victimes de guerre sont placés
 sous la double autorité du directeur général de l'Office et du représentant de l'Etat. L'Office dispose en outre d'un service
-en Algérie, au Maroc et en Tunisie.
+en Algérie et au Maroc.
 
 L'action des services dont l'Office dispose à l'étranger relève de la mission de coordination et d'animation assurée par
 l'ambassadeur, prévue à l'article 3 du décret n° 79-433 du 1er juin 1979 relatif aux ambassadeurs et à l'organisation des
@@ -31589,19 +31589,19 @@ services de l'Etat à l'étranger, dans les pays où ces services sont implanté
 
 _Cite_:
 
-  - Décret n°79-433 du 1 juin 1979 - art. 3 (V)
+  - Décret n°79-433 du 1 juin 1979 - art. 3
 
 _Codifié par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
-
-_Créé par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 _Cité par_:
 
   - Décret n°2020-1172 du 25 septembre 2020 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1172 du 25 septembre 2020 - art. 1
 
 _Anciens textes_:
 
