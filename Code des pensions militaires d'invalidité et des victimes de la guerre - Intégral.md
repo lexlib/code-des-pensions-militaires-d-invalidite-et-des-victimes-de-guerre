@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre  
-Version Consolidée au 2020-09-28
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (nouvelle) (art. L1 à L711-5)](#1)
     - [Livre Ier : LE DROIT À PENSION (art. L111-1 à L165-2)](#2)
@@ -18268,9 +18268,9 @@ Sont destinataires des renseignements médicaux mentionnés aux articles L. 151-
 attributions respectives et du besoin d'en connaître, les agents habilités par l'autorité administrative responsable du
 traitement des demandes de pension :
 
-1° De la sous-direction des pensions de la direction des ressources humaines du ministère de la défense, dans le cadre de la
-gestion administrative, de l'instruction des dossiers de pension, de la préparation et du suivi de la liquidation des
-pensions, de l'expertise médicale et de l'organisation des commissions de réforme ;
+1° Du service des pensions et des risques professionnels du ministère de la défense, dans le cadre de la gestion
+administrative, de l'instruction des dossiers de pension, de la préparation et du suivi de la liquidation des pensions, de
+l'expertise médicale et de l'organisation des commissions de réforme ;
 
 2° De la commission consultative médicale dans le cadre des avis qu'elle doit rendre sur les dossiers de pension ;
 
@@ -18284,21 +18284,27 @@ Sont également destinataires des renseignements mentionnés au premier alinéa 
 mission d'expertise médicale des dossiers de pension, ainsi que les médecins de la Caisse nationale militaire de sécurité
 sociale, dans le cadre du contrôle des soins médicaux.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 8 du décret n° 2020-899 du 22 juillet 2020, les présentes dispositions entrent
+en vigueur le 1
+    <sup>er</sup> janvier 2021.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-1903 du 28 décembre 2016 - art.
 
-_Modifié par_:
-
-  - Décret n°2018-1292 du 28 décembre 2018 - art. 1
-
 _Cité par_:
 
   - Arrêté du 29 juin 2020 - art. 14 (V)
   - Arrêté du 29 juin 2020 - art. 6 (VD)
   - Code des pensions militaires d'invalidité et de... - art. R151-7 (VD)
+
+_Modifié par_:
+
+  - Décret n°2020-899 du 22 juillet 2020 - art. 2
 
 _Cite_:
 
@@ -18314,16 +18320,18 @@ respectives, pour les besoins du traitement du précontentieux et du contentieux
 1° Les agents et les membres de la commission de recours de l'invalidité dans le cadre de l'instruction des recours
 administratifs préalables obligatoires ; 
 
-2° Les agents de la sous-direction des pensions de la direction des ressources humaines et de la direction des affaires
-juridiques du ministère de la défense ; 
+2° Les agents du service des pensions et des risques professionnels et de la direction des affaires juridiques du ministère
+de la défense ; 
 
 3° Les agents du service du commissariat des armées dans les services locaux du contentieux.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 8 du décret n° 2020-899 du 22 juillet 2020, ces dispositions entrent en vigueur
+le 1
+    <sup>er</sup> janvier 2021.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-1903 du 28 décembre 2016 - art.
 
 _Modifié par_:
 
@@ -18331,7 +18339,7 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et de... - art. R151-6 (VT)
+  - Code des pensions militaires d'invalidité et de... - art. R151-6 (VD)
 
 
 ###### Article R151-8
